@@ -24,6 +24,8 @@ Why not maintain `.md` *and* `.json` for every post?
 ## Layout
 
 ```text
+scripts/
+  archive_beer_hall_changelog.py   # writer (run from repo root)
 beer_hall/
   README.md           # schema notes
   entries/
@@ -34,11 +36,11 @@ Filenames are sortable by time prefix. `slug` is a short operator-provided hint 
 
 ## How entries are created
 
-From `market_research/`, after a real Beer Hall send + sheet row (see `agentic_ai_context/OPENCLAW_WHATSAPP.md` § Closed loop):
+After a real Beer Hall send + **`market_research`** sheet row (see `agentic_ai_context/OPENCLAW_WHATSAPP.md` § Closed loop), **`cd`** to this repo’s root and run:
 
 ```bash
+cd /path/to/ecosystem_change_logs
 python3 scripts/archive_beer_hall_changelog.py \
-  --repo ../ecosystem_change_logs \
   --slug inventory-publish \
   --tldr-file /path/to/msg1.txt \
   --message2-file /path/to/msg2.txt \
@@ -47,5 +49,7 @@ python3 scripts/archive_beer_hall_changelog.py \
   --openclaw-message-id 'msg1=...; msg2=...' \
   --notes 'CLI timeout msg1; gateway log confirms send.'
 ```
+
+Use **`--repo /other/checkout`** only if you intentionally want to write entries somewhere other than the current clone.
 
 Then open a PR in **TrueSightDAO/ecosystem_change_logs**, merge to `main`, and (when ready) point the truesight.me build at this repo or a synced artifact.
