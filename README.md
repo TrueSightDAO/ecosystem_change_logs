@@ -15,11 +15,11 @@ Why not JSON-only?
 - Harder for humans to read in GitHub and in code review.
 - Long free-text fields (WhatsApp copy) are awkward in JSON.
 
-Why not maintain `.md` *and* `.json` for every post?
+Per-entry JSON and paginated feed
 
-- Two sources drift unless you generate one from the other in CI.
+The archiver writes **both** Markdown and JSON for each post, then regenerates a small **paginated feed** under `beer_hall/feed/` (newest first). The Markdown remains the human-friendly review surface; JSON is derived in the same run so they do not drift.
 
-**Optional later:** add a CI job that compiles all entries into a single `dist/beer_hall_feed.json` for the website—generated from frontmatter, not hand-edited.
+**Optional later:** add CI that copies `beer_hall/feed/*.json` into a static site build, or fetches raw GitHub URLs at runtime.
 
 ## Layout
 
@@ -30,13 +30,17 @@ beer_hall/
   README.md           # schema notes
   entries/
     beer-hall_<ISO-UTC>_<slug>.md
+    beer-hall_<ISO-UTC>_<slug>.json
+  feed/
+    manifest.json     # totals, page_size, list of page files
+    page-<n>.json     # window of entry summaries (newest first)
 ```
 
 Filenames are sortable by time prefix. `slug` is a short operator-provided hint (e.g. `inventory-publish`) or `update` if omitted.
 
 ## How entries are created
 
-After a real Beer Hall send + **`market_research`** sheet row (see `agentic_ai_context/OPENCLAW_WHATSAPP.md` § Closed loop), **`cd`** to this repo’s root and run:
+After a real Beer Hall send + **`market_research`** sheet row (see `agentic_ai_context/OPENCLAW_WHATSAPP.md`, closed loop), **`cd`** to this repo’s root and run:
 
 ```bash
 cd /path/to/ecosystem_change_logs
@@ -52,4 +56,12 @@ python3 scripts/archive_beer_hall_changelog.py \
 
 Use **`--repo /other/checkout`** only if you intentionally want to write entries somewhere other than the current clone.
 
-Then open a PR in **TrueSightDAO/ecosystem_change_logs**, merge to `main`, and (when ready) point the truesight.me build at this repo or a synced artifact.
+**Feed only:** after adding or editing entries by hand, rebuild `beer_hall/feed/` from existing `entries/*.json` (or parse sibling `.md` when `.json` is missing):
+
+```bash
+python3 scripts/archive_beer_hall_changelog.py --feed-only --page-size 10
+```
+
+**Dry run:** `python3 scripts/archive_beer_hall_changelog.py --dry-run ...` prints the record without writing files.
+
+Then open a PR in **TrueSightDAO/ecosystem_change_logs**, merge to `main`, and (when ready) point the truesight.me build at this repo or a synced artifact (for example `beer_hall/feed/manifest.json` then `page-1.json`, `page-2.json`, …).
