@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-04-16T224657Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-04-16T22:46:57Z",
+  "slug": "digest-2026-04-16",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "msg1=3EB00D5A20C00B029DB6D2; msg2=3EB0F6374349C63F899D2C",
+  "links": [
+    "https://docs.google.com/spreadsheets/d/1qbZZhf-_7xzmDTriaJVWj6OZshyQsFkdsAV8-pyzASQ/edit",
+    "https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=0",
+    "https://www.truesight.me/beerhall/updates.html"
+  ],
+  "pr_commit_links": [
+    "https://github.com/TrueSightDAO/truesight_me_beta/commit/8a6cca6",
+    "https://github.com/TrueSightDAO/truesight_me_beta/pull/25",
+    "https://github.com/TrueSightDAO/truesight_me_beta/pull/31",
+    "https://github.com/TrueSightDAO/truesight_me_beta/pull/33",
+    "https://github.com/TrueSightDAO/go_to_market/pull/48",
+    "https://github.com/TrueSightDAO/go_to_market/pull/49",
+    "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/69",
+    "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/68",
+    "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/72",
+    "https://github.com/TrueSightDAO/dapp/pull/154",
+    "https://github.com/TrueSightDAO/tokenomics/pull/222",
+    "https://github.com/TrueSightDAO/tokenomics/pull/219",
+    "https://github.com/TrueSightDAO/tokenomics/pull/221",
+    "https://github.com/TrueSightDAO/agentic_ai_context/pull/16"
+  ],
+  "notes": "CLI gateway timeout after 10s on each send; gateway.log shows Sent message for both at 2026-04-16T15:45:21 and 15:46:08 -07:00.",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-04-16T224657Z_digest-2026-04-16.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-04-16T224657Z_digest-2026-04-16.json",
+  "message1_tldr": "*OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)*\n\nWe made the public site easier to follow: truesight.me now surfaces a live, paginated list of published Beer Hall digests from git so anyone can skim what changed without hunting repos.\n\nWe deepened the DApp digital-signature onboarding story on the blog—clearer diagrams, concrete links into the Main Ledger workbook, and a small public Python demo so contributors see how verification lines up with the sheet.\n\nAgroverse retail and ops moved forward: partner pages can show venue inventory from published JSON, the shop shipped new 81% bar SKUs plus GTIN-style catalog metadata, and automation now publishes store and partner inventory snapshots daily for downstream tools.\n\nThe browser DApp is smoother for contributors verifying email from the ledger (auto-submit when the link already carries proof), and tokenomics / Apps Script work kept QR sales, Stripe shipping, and clasp deploy hygiene aligned with the sheets the field team relies on.\n\nDetails + links in next message.",
+  "message2_shipped": "*Shipped*\n\n- truesight.me: Beer Hall digest previews on the home page + paginated archive at beerhall/updates — https://github.com/TrueSightDAO/truesight_me_beta/commit/8a6cca6\n- Blog: DApp digital signature email onboarding protocol + follow-on posts (diagrams, ledger links, public demo anchor) — https://github.com/TrueSightDAO/truesight_me_beta/pull/25 https://github.com/TrueSightDAO/truesight_me_beta/pull/31 https://github.com/TrueSightDAO/truesight_me_beta/pull/33\n- go_to_market: daily Agroverse inventory JSON publish + partner venue inventory sync — https://github.com/TrueSightDAO/go_to_market/pull/48 https://github.com/TrueSightDAO/go_to_market/pull/49\n- agroverse_shop_beta: partner venue inventory snippets, GTIN/catalog feed work, AGL2 taste-profile chart — https://github.com/TrueSightDAO/agroverse_shop_beta/pull/69 https://github.com/TrueSightDAO/agroverse_shop_beta/pull/68 https://github.com/TrueSightDAO/agroverse_shop_beta/pull/72\n- dapp: auto-submit email verification when em+vk are present on create_signature — https://github.com/TrueSightDAO/dapp/pull/154\n- tokenomics: digital signature Python demo + Edgar verification email split to admin Apps Script + clasp/QR hygiene — https://github.com/TrueSightDAO/tokenomics/pull/222 https://github.com/TrueSightDAO/tokenomics/pull/219 https://github.com/TrueSightDAO/tokenomics/pull/221\n- agentic_ai_context: QR batch + shop SKU checklist docs — https://github.com/TrueSightDAO/agentic_ai_context/pull/16\n\n*Community (Telegram log):*\n\nEdgar pipeline shows ongoing email registration / verification activity and contributor time logs in the last 48h (including signature-onboarding testing). See rows on the compilation workbook below—please treat verification keys as sensitive.\n\nhttps://docs.google.com/spreadsheets/d/1qbZZhf-_7xzmDTriaJVWj6OZshyQsFkdsAV8-pyzASQ/edit\n\n*Community (field / DApp Remarks):*\n\nNo new human-submitted DApp Remarks rows in the default 48h window; widen the window or check the Hit List tab if you expect field notes.\n\nhttps://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=0"
+}
