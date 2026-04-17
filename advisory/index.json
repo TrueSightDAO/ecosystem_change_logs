@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-04-17T05:18:08Z",
+  "generated_at": "2026-04-17T05:25:20Z",
   "latest_date": "2026-04-17",
   "base_markdown": "advisory/BASE.md",
   "read_order": [
@@ -20,7 +20,7 @@
     {
       "date": "2026-04-17",
       "markdown": "advisory/snapshots/2026-04-17.md",
-      "summary": "# ADVISORY_SNAPSHOT Machine-oriented digest of **recent evidence** for LLM advisors. Git lines are **proxies** for shipped work, not verified outcomes. --- ## Meta - Generated (UTC): `2026-04-17T05:17…"
+      "summary": "# ADVISORY_SNAPSHOT Machine-oriented digest of **recent evidence** for LLM advisors. Git lines are **proxies** for shipped work, not verified outcomes. --- ## Meta - Generated (UTC): `2026-04-17T05:25…"
     }
   ]
 }
