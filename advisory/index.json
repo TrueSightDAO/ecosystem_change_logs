@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-04-17T05:12:35Z",
+  "latest_date": "2026-04-17",
+  "snapshots": [
+    {
+      "date": "2026-04-17",
+      "markdown": "advisory/snapshots/2026-04-17.md",
+      "summary": "# ADVISORY_SNAPSHOT Machine-oriented digest of **recent evidence** for LLM advisors. Git lines are **proxies** for shipped work, not verified outcomes. --- ## Meta - Generated (UTC): `2026-04-17T05:12…"
+    }
+  ]
+}
