@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-17T22:26:16Z",
+  "generated_at": "2026-04-17T23:29:09Z",
   "date": "2026-04-17",
   "source": "rem list --incomplete -o json (macOS Reminders via rem CLI)",
-  "count": 69,
+  "count": 68,
   "reminders": [
     {
       "id": "FC45EC60-E0A1-477F-8D80-75A11F10C6D6",
@@ -839,18 +839,6 @@
       "list_name": "Reminders",
       "creation_date": "2026-04-16T07:36:33",
       "modification_date": "2026-04-16T07:36:33",
-      "priority": 0,
-      "priority_label": "none",
-      "flagged": false,
-      "completed": false,
-      "alarms": []
-    },
-    {
-      "id": "D57B26B3-6E4E-4971-941D-ED749FFAA289",
-      "name": "Alternate the backup of the databases",
-      "list_name": "Reminders",
-      "creation_date": "2026-04-16T17:45:51",
-      "modification_date": "2026-04-16T17:45:51",
       "priority": 0,
       "priority_label": "none",
       "flagged": false,

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-04-17T232946Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-04-17T23:29:46Z",
+  "slug": "partner-inventory-81pct-skus-kirsten-sales",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "3EB067C015A210EA2C1B5C",
+  "links": [],
+  "pr_commit_links": [
+    "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/69",
+    "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/65",
+    "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/68",
+    "https://github.com/TrueSightDAO/truesight_me_beta/pull/25",
+    "https://github.com/TrueSightDAO/dapp/pull/154",
+    "https://github.com/TrueSightDAO/go_to_market/pull/48"
+  ],
+  "notes": "msg2=3EB01B03721C5499C6810B; msg1 CLI timeout confirmed delivered via gateway log",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-04-17T232946Z_partner-inventory-81pct-skus-kirsten-sales.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-04-17T232946Z_partner-inventory-81pct-skus-kirsten-sales.json",
+  "message1_tldr": "*OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)*\n\n- Partners selling our cacao in LA can now see their live stock levels directly on their agroverse.shop page — less back-and-forth on how much inventory they have left\n- Two new 81% dark chocolate bar SKUs are live: Oscar Farm and Santa Ana, each with their own product pages and farm story\n- Kirsten sold four bars at a field event and assembled our first-ever box of single estate chocolate — a milestone for fulfilment\n- The truesight.me homepage now shows the Beer Hall digest feed so the DAOs progress is visible to anyone who visits\n- A new pipeline routes incoming freight quotes from SeaCoast directly from Gmail through Grok and opens a GitHub PR automatically — less manual data entry for Brazil shipments\n- Active talks to distribute single estate chocolate into private schools and the Salvation Army",
+  "message2_shipped": "*Shipped*\n\n_Shop & partners (agroverse.shop)_\n- Partner venue pages show live ledger inventory + optional cart https://github.com/TrueSightDAO/agroverse_shop_beta/pull/69\n- 81% bar SKUs live: Oscar Farm + Santa Ana 50g https://github.com/TrueSightDAO/agroverse_shop_beta/pull/65\n- New partner page: Raven Things Collected, Echo Park https://github.com/TrueSightDAO/agroverse_shop_beta/pull/68\n- AGL2 taste profile chart framework https://github.com/TrueSightDAO/agroverse_shop_beta/pull/72\n\n_truesight.me_\n- Beer Hall digest feed live on homepage\n- Blog: DApp digital signature email onboarding https://github.com/TrueSightDAO/truesight_me_beta/pull/25\n- Blog: DAO vs cooperatives framing https://github.com/TrueSightDAO/truesight_me_beta/pull/21\n- SunMint whitepaper now static HTML https://github.com/TrueSightDAO/truesight_me_beta/pull/15\n\n_DApp_\n- Email verification auto-submits on link click https://github.com/TrueSightDAO/dapp/pull/154\n- Batch QR manager with shareable URL state https://github.com/TrueSightDAO/dapp/pull/151\n- EasyPost USPS shipping on sales reporter https://github.com/TrueSightDAO/dapp/pull/149\n\n_Tokenomics / GAS_\n- SeaCoast freight quotes: Gmail → Grok → GitHub PR (automated)\n- Edgar email verification split to dedicated admin GAS https://github.com/TrueSightDAO/tokenomics/pull/219\n\n_Ops_\n- Agroverse inventory JSON published daily via CI https://github.com/TrueSightDAO/go_to_market/pull/48\n\n*Community (Telegram log):* https://docs.google.com/spreadsheets/d/1qbZZhf-_7xzmDTriaJVWj6OZshyQsFkdsAV8-pyzASQ/edit\n- Kirsten sold 4 bars ($50) at a field event — Oscar Farm + Santa Ana, cash collected by Gary\n- Kirsten assembled our first box of single estate chocolate (1h 45m)\n- 3h strategy session with Elizabeth Wong on distributing into private schools + Salvation Army\n- Shipment coordination: Ilheus Brazil → SF underway; 100kg Coopercabruca purchase in progress\n- Outreach to Edge & Node and Block 71 (Web3 partners)"
+}
