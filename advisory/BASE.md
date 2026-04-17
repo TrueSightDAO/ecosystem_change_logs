@@ -24,6 +24,8 @@ TrueSight DAO is a **community of builders** around **transparent impact**: gove
 3. **Latest** `advisory/snapshots/YYYY-MM-DD.md` — recent commits + `CONTEXT_UPDATES` lines + Beer Hall excerpts.  
 4. **Deep dives** — pull only the canonical Markdown you need from **`agentic_ai_context`** (URLs in §4).
 
+**Phone bookmark:** three raw links in one place — [`ADVISORY_MOBILE_START.md` in `agentic_ai_context`](https://raw.githubusercontent.com/TrueSightDAO/agentic_ai_context/main/ADVISORY_MOBILE_START.md).
+
 ---
 
 ## 3. Ledgers & “where is the truth?” (records map)
