@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-18T21:14:37Z",
+  "generated_at": "2026-04-18T21:20:09Z",
   "date": "2026-04-18",
   "source": "ios_shortcut",
   "count": 1,
   "reminders": [
     {
-      "title": "proper json test",
-      "notes": "should serialize as object",
+      "title": "production smoke test",
+      "notes": "post-deploy verify",
       "due_date": "2026-04-20"
     }
   ]
