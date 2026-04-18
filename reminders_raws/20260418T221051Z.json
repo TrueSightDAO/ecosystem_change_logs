@@ -1,0 +1,7 @@
+{
+  "received_at": "2026-04-18T22:10:51Z",
+  "content_type": "application/json",
+  "remote_ip": "::1",
+  "user_agent": "curl/8.6.0",
+  "raw_body": "[\"one\",\"two\",\"three\"]"
+}
