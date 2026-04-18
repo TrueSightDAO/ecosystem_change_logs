@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-04-18T21:56:48Z",
+  "generated_at": "2026-04-18T21:59:20Z",
   "date": "2026-04-18",
   "source": "ios_shortcut",
-  "content_type": "application/json",
-  "parse_error": "784: unexpected token at 'BEGIN:VCALENDAR\nVERSION:2.0\nBEGIN:VTODO\nSUMMARY:test 3\nEND:VTODO\nEND:VCALENDAR'",
-  "raw_body": "BEGIN:VCALENDAR\nVERSION:2.0\nBEGIN:VTODO\nSUMMARY:test 3\nEND:VTODO\nEND:VCALENDAR",
-  "count": 0,
+  "count": 1,
   "reminders": [
-
+    {
+      "title": "valid json test"
+    }
   ]
 }
