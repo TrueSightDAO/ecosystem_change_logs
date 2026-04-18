@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-04-18T223617Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-04-18T22:36:17Z",
+  "slug": "qr-email-migration-admin-truesight-advisory-goals",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "3EB040806CFC8CAFBC303E",
+  "links": [
+    "https://docs.google.com/spreadsheets/d/1qbZZhf-_7xzmDTriaJVWj6OZshyQsFkdsAV8-pyzASQ/edit"
+  ],
+  "pr_commit_links": [
+    "https://github.com/TrueSightDAO/tokenomics/pull/225",
+    "https://github.com/TrueSightDAO/tokenomics/pull/226",
+    "https://github.com/TrueSightDAO/tokenomics/pull/227",
+    "https://github.com/TrueSightDAO/dapp/pull/156",
+    "https://github.com/TrueSightDAO/go_to_market/pull/53",
+    "https://github.com/TrueSightDAO/go_to_market/pull/54",
+    "https://github.com/TrueSightDAO/agentic_ai_context/pull/18",
+    "https://github.com/TrueSightDAO/agentic_ai_context/pull/19",
+    "https://github.com/TrueSightDAO/go_to_market/pull/51"
+  ],
+  "notes": "msg1=3EB040806CFC8CAFBC303E (CLI timed out, gateway.log Sent); msg2=3EB06C4406F242E5A43A64",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-04-18T223617Z_qr-email-migration-admin-truesight-advisory-goals.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-04-18T223617Z_qr-email-migration-admin-truesight-advisory-goals.json",
+  "message1_tldr": "*OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)*\n\n- Owners buying multiple QR-coded items in a single Stripe checkout now get ONE onboarding email listing all their tracking links, instead of one email per item\n- The Agroverse QR email service was migrated from Gary's personal Google account (garyjob@agroverse.shop) to admin@truesight.me so the DAO owns the cron trigger directly\n- Multi-item Stripe orders now correctly link every Agroverse QR purchased in the same checkout session (previously only the first one was tracked)\n- The daily AI advisory snapshot now auto-pulls live progress against our stated growth goals: $40K of 2026 QR Code Sales ($1,646 so far — 4%, behind pace with 257 days left) and 100 USA partners by year-end (26 so far — on track). Advisors reading this can now reason about gap vs timeline instead of raw activity\n- GAS cron jobs that were timing out at 30 minutes on large telegram log runs now complete\n- Kirsten sold 4 more 81% bars at a Bay Area field event ($50 cash to Gary)",
+  "message2_shipped": "*Shipped*\n\n_Tokenomics / GAS_\n- Migrated qr_code_web_service to admin@truesight.me; consolidated onboarding emails so multi-item buyers get one email https://github.com/TrueSightDAO/tokenomics/pull/225\n- Multi-item Stripe session linkage via column Z on Agroverse QR codes https://github.com/TrueSightDAO/tokenomics/pull/226\n- 30-min trigger timeout fix on telegram log processors https://github.com/TrueSightDAO/tokenomics/pull/227\n\n_DApp_\n- batch_qr_generator.html points to new admin@truesight.me exec URL https://github.com/TrueSightDAO/dapp/pull/156\n\n_Advisory / AI context_\n- ADVISORY_SNAPSHOT auto-pulls live growth goal progress ($40K 2026 sales, 100 USA partners) https://github.com/TrueSightDAO/go_to_market/pull/53\n- Fix filter-lookup bug; 2026 YTD sales aggregation via starts_with predicate https://github.com/TrueSightDAO/go_to_market/pull/54\n- GROWTH_GOALS.json + constraints/weekly-metrics stubs https://github.com/TrueSightDAO/agentic_ai_context/pull/18\n- Edgar event field parser fix in telegram digest helper https://github.com/TrueSightDAO/go_to_market/pull/51\n\n*Community (Telegram log):* https://docs.google.com/spreadsheets/d/1qbZZhf-_7xzmDTriaJVWj6OZshyQsFkdsAV8-pyzASQ/edit\n- Kirsten sold 4x 81% bars ($50) at field event — Santa Ana + Oscar Farm, cash collected by Gary\n- Moved off Cursor to Claude (tooling reliability)\n- AWS account 767697632458 — monthly DB backup automation + security group remediation\n- Coordinating Brazil → SF shipping with Matheus"
+}
