@@ -1,9 +1,13 @@
 {
-  "generated_at": "2026-04-18T21:14:10Z",
+  "generated_at": "2026-04-18T21:14:37Z",
   "date": "2026-04-18",
   "source": "ios_shortcut",
   "count": 1,
   "reminders": [
-    "{\"title\"=>\"smoke test 2 - clean\"}"
+    {
+      "title": "proper json test",
+      "notes": "should serialize as object",
+      "due_date": "2026-04-20"
+    }
   ]
 }
