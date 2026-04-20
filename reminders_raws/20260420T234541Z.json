@@ -1,0 +1,7 @@
+{
+  "received_at": "2026-04-20T23:45:41Z",
+  "content_type": "application/json",
+  "remote_ip": "172.56.235.63",
+  "user_agent": "BackgroundShortcutRunner/3612.0.2.1 CFNetwork/3826.600.41 Darwin/24.6.0",
+  "raw_body": "{\"update\":\"Andrew is pretty impressed by the fact that it is a community project\"}"
+}
