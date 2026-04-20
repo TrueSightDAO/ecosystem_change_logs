@@ -1,0 +1,7 @@
+{
+  "received_at": "2026-04-20T19:23:04Z",
+  "content_type": "application/json",
+  "remote_ip": "172.56.234.71",
+  "user_agent": "BackgroundShortcutRunner/3612.0.2.1 CFNetwork/3826.600.41 Darwin/24.6.0",
+  "raw_body": "{\"update\":\"We should expose inventory level in the white paper so that the Asians can figure out where to sign if they want\"}"
+}
