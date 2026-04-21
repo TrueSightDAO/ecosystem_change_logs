@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T20:55:24.989Z",
+  "generated_at": "2026-04-21T21:15:55.298Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -8,7 +8,24 @@
   },
   "totals": {
     "all_stores": 516,
-    "partnered": 13
+    "partnered": 13,
+    "highlights": [
+      {
+        "status": "Partnered",
+        "stores": 13,
+        "north_star": true
+      },
+      {
+        "status": "Meeting Scheduled",
+        "stores": 1,
+        "north_star": false
+      },
+      {
+        "status": "Shortlisted",
+        "stores": 3,
+        "north_star": false
+      }
+    ]
   },
   "funnel": [
     {
