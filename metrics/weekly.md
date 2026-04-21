@@ -3,10 +3,12 @@
 _Auto-synced from the Pipeline Dashboard tab of the Holistic Hit List workbook._
 _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in tokenomics._
 
-- Generated (UTC): `2026-04-21T20:55:24.989Z`
+- Generated (UTC): `2026-04-21T21:15:55.298Z`
 - Source: [Pipeline Dashboard](https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029)
 - Total stores tracked: **516**
 - Partnered (north-star): **13**
+- Meeting Scheduled: **1**
+- Shortlisted: **3**
 
 ## Funnel by status (curated order)
 
