@@ -1,0 +1,7 @@
+{
+  "received_at": "2026-04-22T03:37:33Z",
+  "content_type": "application/json",
+  "remote_ip": "172.56.122.206",
+  "user_agent": "BackgroundShortcutRunner/3612.0.2.1 CFNetwork/3826.600.41 Darwin/24.6.0",
+  "raw_body": "{\"update\":\"[priority] Look through AI generated emails, edit and send them out\"}"
+}
