@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T21:15:55.298Z",
+  "generated_at": "2026-04-22T10:59:14.546Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -7,7 +7,7 @@
     "url": "https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029"
   },
   "totals": {
-    "all_stores": 516,
+    "all_stores": 518,
     "partnered": 13,
     "highlights": [
       {
@@ -22,7 +22,7 @@
       },
       {
         "status": "Shortlisted",
-        "stores": 3,
+        "stores": 4,
         "north_star": false
       }
     ]
@@ -46,7 +46,7 @@
     {
       "order": 8,
       "status": "AI: Photo needs review",
-      "stores": 39
+      "stores": 40
     },
     {
       "order": 9,
@@ -66,7 +66,7 @@
     {
       "order": 13,
       "status": "Shortlisted",
-      "stores": 3
+      "stores": 4
     },
     {
       "order": 14,
