@@ -3,7 +3,7 @@
 _Auto-synced from the Pipeline Dashboard tab of the Holistic Hit List workbook._
 _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in tokenomics._
 
-- Generated (UTC): `2026-04-23T10:59:15.591Z`
+- Generated (UTC): `2026-04-23T23:36:04.696Z`
 - Source: [Pipeline Dashboard](https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029)
 - Total stores tracked: **521**
 - Partnered (north-star): **13**
@@ -27,3 +27,16 @@ _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in 
 - **Partnered: 13**  (#19)
 - Rejected: 14  (#20)
 - Followed Up: 1  (#21)
+
+## Email outreach visibility (logged sends + Hit List AU/AV)
+
+- **Email Agent Follow Up** — logged sends: warmup **3**, follow_up **29**, bulk **0**, unknown **0** (data rows: **32**)
+- Distinct recipient addresses (`to_email`, by log `status`): warmup **3**, follow_up **16**, bulk **0**, unknown **0**
+
+### Hit List cohorts (stores in stage × AU/AV send counts)
+
+- **AI: Warm up prospect**: **66** stores — sum logged **warmup** sends (AU): **2**, sum logged **follow-up** sends (AV): **0**; warmup depth (none / once / ≥2): **64** / **2** / **0**; follow-up depth (none / once / ≥2): **66** / **0** / **0**
+- **Manager Follow-up**: **26** stores — sum logged **warmup** sends (AU): **0**, sum logged **follow-up** sends (AV): **12**; warmup depth (none / once / ≥2): **26** / **0** / **0**; follow-up depth (none / once / ≥2): **20** / **1** / **5**
+- **Bulk Info Requested**: _(no rows in this status)_
+- **AI: Prospect replied**: _(no rows in this status)_
+- **Follow-up pipeline (combined)**: **26** stores — sum logged **warmup** sends (AU): **0**, sum logged **follow-up** sends (AV): **12**; warmup depth (none / once / ≥2): **26** / **0** / **0**; follow-up depth (none / once / ≥2): **20** / **1** / **5**
