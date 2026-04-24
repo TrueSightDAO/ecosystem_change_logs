@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-04-24T16:51:29Z",
+  "generated_at": "2026-04-24T23:01:40Z",
   "date": "2026-04-24",
   "source": "rem list --incomplete -o json (macOS Reminders via rem CLI)",
-  "count": 120,
-  "reminders": [
+  "count": 119,
+  "items": [
     {
       "id": "FC45EC60-E0A1-477F-8D80-75A11F10C6D6",
       "name": "Follow up with USPS claims",
@@ -1335,18 +1335,6 @@
       "list_name": "Reminders",
       "creation_date": "2026-04-22T14:41:36",
       "modification_date": "2026-04-22T14:41:36",
-      "priority": 0,
-      "priority_label": "none",
-      "flagged": false,
-      "completed": false,
-      "alarms": []
-    },
-    {
-      "id": "DA91F359-6A24-4F46-9DB8-D582FA636082",
-      "name": "I collect $100 for the two bath soap",
-      "list_name": "Reminders",
-      "creation_date": "2026-04-22T15:13:49",
-      "modification_date": "2026-04-22T15:13:49",
       "priority": 0,
       "priority_label": "none",
       "flagged": false,
