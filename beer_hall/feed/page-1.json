@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-04-23T02:24:49Z",
+  "generated_at": "2026-04-24T02:25:34Z",
   "page": 1,
   "page_size": 10,
-  "total": 7,
+  "total": 8,
   "page_count": 1,
   "entries": [
+    {
+      "id": "beer-hall-2026-04-24T022534Z",
+      "posted_at_utc": "2026-04-24T02:25:34Z",
+      "slug": "retail-sales-surge-email-pipeline-oracle-claude",
+      "preview": "Strong sales week at the Santa Cruz retail partners, the oracle advisor switched to Claude with prompt caching, a full email-tracking pipeline landed for the Hit List, and the DApp's store pipeline view got a significan…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-04-24T022534Z_retail-sales-surge-email-pipeline-oracle-claude.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-04-24T022534Z_retail-sales-surge-email-pipeline-oracle-claude.json"
+    },
     {
       "id": "beer-hall-2026-04-23T022449Z",
       "posted_at_utc": "2026-04-23T02:24:49Z",
