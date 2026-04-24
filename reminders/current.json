@@ -3,7 +3,7 @@
   "date": "2026-04-24",
   "source": "rem list --incomplete -o json (macOS Reminders via rem CLI)",
   "count": 119,
-  "items": [
+  "reminders": [
     {
       "id": "FC45EC60-E0A1-477F-8D80-75A11F10C6D6",
       "name": "Follow up with USPS claims",
