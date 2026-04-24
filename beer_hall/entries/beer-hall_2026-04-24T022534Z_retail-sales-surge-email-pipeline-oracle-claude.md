@@ -1,0 +1,53 @@
+---
+id: 'beer-hall-2026-04-24T022534Z'
+channel: beer_hall
+posted_at_utc: '2026-04-24T02:25:34Z'
+slug: 'retail-sales-surge-email-pipeline-oracle-claude'
+sheet_log: 'OpenClaw Beer Hall updates'
+links: []
+pr_commit_links: []
+notes: 'Drafted automatically by .github/workflows/beer-hall-digest-daily.yml'
+---
+
+## Message 1 (TLDR)
+
+Strong sales week at the Santa Cruz retail partners, the oracle advisor switched to Claude with prompt caching, a full email-tracking pipeline landed for the Hit List, and the DApp's store pipeline view got a significant UX overhaul.
+
+- 13 Oscar 2024 bars sold at Secrets of the Garden at $17 each (cash to Gary); 2 Oscar bars sold at Lumin Earth Apothecary at $17 each — 15 bars total across both Santa Cruz partners this week.
+- Gary drove to both Santa Cruz retailers to collect sell-through data and retailer feedback — 8 hours field work logged.
+- Oracle advisor (oracle.truesight.me) switched to Claude with prompt caching; iPhone reminder intents now surface in the advisory panel; long tokens no longer overflow on mobile.
+- Hit List email tracking pipeline live end-to-end: open and click columns tracked in the Hit List workbook, with Email 360 context and IMPORTRANGE mirrors linking email → QR → SKU.
+- Stores by Status page rebuilt with eight warmup/follow-up depth buckets and segment drill-down — operators can now see pipeline depth at a glance.
+- Store Interaction History navigation polished: opens in same tab from dropdown (preserving map/filter state on mobile); quick links surfaced above results.
+- dao_client packaged for PyPI as `truesight-dao-client` with console scripts — contributors can now install and run the CLI via pip.
+- Agroverse whitepaper updated: TrueTech Inc (US importer) distinguished from Brazilian suppliers; Vault and Standard Rate terminology dropped; partnership economics section added with unit economics.
+- 31 broken partnership-agreement links fixed on truesight.me; (md) mirror alt-links added for LLM readers.
+- AWS security follow-up complete: Apr 18 sweep + security group remediation filed under case 177613748700177; monthly EBS snapshot workflow added.
+- AGL15 expenses: $1 parking (Santa Cruz), $8.77 multimeter for car solar battery debugging.
+
+## Message 2 (Shipped + community)
+
+Shipped
+
+- Oracle advisor switched to Claude with prompt caching; iPhone reminder intents surface in advisory panel; overflow fix for long tokens — https://github.com/TrueSightDAO/oracle/pull/6 · https://github.com/TrueSightDAO/oracle/pull/5
+- Oracle GAS advisory bridge source now version-controlled — https://github.com/TrueSightDAO/oracle/pull/4
+- Hit List email tracking: open + click columns in Apps Script; Email 360 workbook with IMPORTRANGE mirrors (email → QR → SKU) — https://github.com/TrueSightDAO/tokenomics/pull/244 · https://github.com/TrueSightDAO/go_to_market/pull/70
+- Email 360 purpose, limits, and operator contract documented in agentic_ai_context — https://github.com/TrueSightDAO/agentic_ai_context/pull/46 · https://github.com/TrueSightDAO/agentic_ai_context/pull/45
+- Hit List email-agent Edgar tracking and reconcile scripts documented — https://github.com/TrueSightDAO/agentic_ai_context/pull/44
+- Store History API: eight AU/AV warmup/follow-up depth buckets + list filters — https://github.com/TrueSightDAO/tokenomics/pull/241 · https://github.com/TrueSightDAO/tokenomics/pull/242
+- Stores by Status DApp page: eight-bucket WU/FU bar chart and segment drill-down; outreach_visibility metric added to weekly JSON — https://github.com/TrueSightDAO/dapp/pull/177 · https://github.com/TrueSightDAO/dapp/pull/175
+- Store Interaction History UX: quick links above results; same-tab nav from dropdown; pop-out link fixes — https://github.com/TrueSightDAO/dapp/pull/174 · https://github.com/TrueSightDAO/dapp/pull/176 · https://github.com/TrueSightDAO/dapp/pull/173
+- QR Code Sales webhooks serialised with LockService script lock (follows inventory webhook lock from prior week) — https://github.com/TrueSightDAO/tokenomics/pull/239
+- dao_client packaged for PyPI: pyproject.toml, console scripts, package layout — https://github.com/TrueSightDAO/dao_client/pull/8
+- Agroverse whitepaper: TrueTech Inc ≠ Brazilian suppliers; Vault + Standard Rate dropped; unit economics + partnership shapes added; 31 broken partnership-agreement links fixed — https://github.com/TrueSightDAO/truesight_me_beta/pull/35 · https://github.com/TrueSightDAO/truesight_me_beta/pull/40 · https://github.com/TrueSightDAO/truesight_me_beta/pull/42 · https://github.com/TrueSightDAO/truesight_me_beta/pull/43
+- (md) mirror alt-links added next to each agreement on truesight.me for LLM readers — https://github.com/TrueSightDAO/truesight_me_beta/pull/43
+- São Jorge hot chocolate page: live YouTube embed added on agroverse_shop — https://github.com/TrueSightDAO/agroverse_shop_beta/pull/73
+- AWS Cypher-Defense: Apr 18 security sweep + SG remediation complete, case 177613748700177; monthly EBS snapshot workflow added — https://github.com/TrueSightDAO/Cypher-Defense/pull/12 · https://github.com/TrueSightDAO/Cypher-Defense/pull/14
+
+Community (Telegram log):
+
+- Gary — drove to Lumin Earth Apothecary and Secrets of the Garden (Santa Cruz) to collect sell-through data and retailer feedback; 8h field visit logged under AGL15. 2 Oscar bars sold at Lumin Earth ($17 each); 13 Oscar bars sold at Secrets of the Garden ($17 each) — all cash to Gary.
+- Gary — $1 parking (downtown Santa Cruz) and $8.77 multimeter for car solar battery system debugging logged under AGL15.
+- Gary — dao_client PyPI packaging (truesight-dao-client) logged as 15-min contribution; TDG scoring corrected to 25 TDG per DAO rubric (100 TDG/hr).
+- Edgar — clasp deploy workflow documented for AI assistants: run `clasp push` from correct clasp_mirrors folder, then `clasp deploy`; prefer `--deploymentId` for stable Web App URLs. Logged as 10-min contribution.
+- Gary — two outdated GAS triggers disabled (contribution submission form); logged as separate 5-min contribution events.
