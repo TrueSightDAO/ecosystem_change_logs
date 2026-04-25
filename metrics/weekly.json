@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T10:59:14.427Z",
+  "generated_at": "2026-04-25T10:59:14.365Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -7,7 +7,7 @@
     "url": "https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029"
   },
   "totals": {
-    "all_stores": 521,
+    "all_stores": 522,
     "partnered": 13,
     "highlights": [
       {
@@ -31,7 +31,7 @@
     {
       "order": 3,
       "status": "AI: Enrich — manual",
-      "stores": 68
+      "stores": 69
     },
     {
       "order": 4,
@@ -109,15 +109,15 @@
       "ok": true,
       "tab": "Email Agent Follow Up",
       "sends_logged": {
-        "warmup": 3,
-        "follow_up": 29,
+        "warmup": 64,
+        "follow_up": 42,
         "bulk": 0,
         "unknown": 0,
-        "total_rows": 32
+        "total_rows": 106
       },
       "distinct_recipients": {
-        "warmup": 3,
-        "follow_up": 16,
+        "warmup": 61,
+        "follow_up": 18,
         "bulk": 0,
         "unknown": 0
       }
@@ -127,12 +127,12 @@
       "cohorts": {
         "AI: Warm up prospect": {
           "stores": 66,
-          "sum_warmup_sends_au": 2,
+          "sum_warmup_sends_au": 28,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
-            "none": 64,
-            "once": 2,
-            "repeat": 0
+            "none": 40,
+            "once": 24,
+            "repeat": 2
           },
           "follow_up_send_depth": {
             "none": 66,
@@ -143,7 +143,7 @@
         "Manager Follow-up": {
           "stores": 26,
           "sum_warmup_sends_au": 0,
-          "sum_follow_up_sends_av": 12,
+          "sum_follow_up_sends_av": 16,
           "warmup_send_depth": {
             "none": 26,
             "once": 0,
@@ -189,7 +189,7 @@
       "follow_up_pipeline_combined": {
         "stores": 26,
         "sum_warmup_sends_au": 0,
-        "sum_follow_up_sends_av": 12,
+        "sum_follow_up_sends_av": 16,
         "warmup_send_depth": {
           "none": 26,
           "once": 0,
