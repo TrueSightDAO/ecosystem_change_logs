@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED: do not edit in place. Source of truth: https://docs.google.com/document/d/1n3wKmVa-kOjmbVJlfVvskep6rNbOfGGPF1QUTNrUi08/edit
-     Exported by market_research/scripts/export_google_docs.py on 2026-04-24 05:42 UTC.
+     Exported by market_research/scripts/export_google_docs.py on 2026-04-25 05:21 UTC.
      Google Doc last modified: 2026-04-20T19:04:00.904Z -->
 
 # **Agroverse Community Distributors Agreement**
