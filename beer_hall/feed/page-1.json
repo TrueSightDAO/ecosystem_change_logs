@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-04-25T02:07:06Z",
+  "generated_at": "2026-04-26T02:30:06Z",
   "page": 1,
   "page_size": 10,
-  "total": 9,
+  "total": 10,
   "page_count": 1,
   "entries": [
+    {
+      "id": "beer-hall-2026-04-26T023006Z",
+      "posted_at_utc": "2026-04-26T02:30:06Z",
+      "slug": "governor-chat-live-retail-field-reports-member-cache",
+      "preview": "A busy week across the DApp, sales tooling, and contributor infrastructure: Governor Chat shipped to production, retail field reporting landed, and member identity caching cut load on the signature flow. - Governor Chat…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-04-26T023006Z_governor-chat-live-retail-field-reports-member-cache.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-04-26T023006Z_governor-chat-live-retail-field-reports-member-cache.json"
+    },
     {
       "id": "beer-hall-2026-04-25T020706Z",
       "posted_at_utc": "2026-04-25T02:07:06Z",
