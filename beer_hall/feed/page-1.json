@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-04-26T02:30:06Z",
+  "generated_at": "2026-04-27T02:32:04Z",
   "page": 1,
   "page_size": 10,
-  "total": 10,
-  "page_count": 1,
+  "total": 11,
+  "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-04-27T023204Z",
+      "posted_at_utc": "2026-04-27T02:32:04Z",
+      "slug": "store-history-timelines-way-home-shop-onboarded",
+      "preview": "A productive week on the DApp and outreach front: store interaction history gained field report timelines, a new partner (The Way Home Shop) was onboarded for ceremonial cacao, and several quality-of-life fixes landed a…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-04-27T023204Z_store-history-timelines-way-home-shop-onboarded.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-04-27T023204Z_store-history-timelines-way-home-shop-onboarded.json"
+    },
     {
       "id": "beer-hall-2026-04-26T023006Z",
       "posted_at_utc": "2026-04-26T02:30:06Z",
@@ -78,14 +86,6 @@
       "preview": "*OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)* - Partners selling our cacao in LA can now see their live stock levels directly on their agroverse.shop page — less back-and-forth on how much i…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-04-17T232946Z_partner-inventory-81pct-skus-kirsten-sales.md",
       "json_path": "beer_hall/entries/beer-hall_2026-04-17T232946Z_partner-inventory-81pct-skus-kirsten-sales.json"
-    },
-    {
-      "id": "beer-hall-2026-04-16T224657Z",
-      "posted_at_utc": "2026-04-16T22:46:57Z",
-      "slug": "digest-2026-04-16",
-      "preview": "*OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)* We made the public site easier to follow: truesight.me now surfaces a live, paginated list of published Beer Hall digests from git so anyone can…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-16T224657Z_digest-2026-04-16.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-16T224657Z_digest-2026-04-16.json"
     }
   ]
 }

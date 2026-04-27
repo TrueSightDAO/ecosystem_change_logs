@@ -1,12 +1,12 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-04-26T19:28:34Z",
-  "latest_date": "2026-04-26",
+  "generated_at": "2026-04-27T02:32:13Z",
+  "latest_date": "2026-04-27",
   "base_markdown": "advisory/BASE.md",
   "read_order": [
     "advisory/BASE.md",
     "advisory/index.json",
-    "advisory/snapshots/2026-04-26.md"
+    "advisory/snapshots/2026-04-27.md"
   ],
   "canonical_context_urls": [
     "https://raw.githubusercontent.com/TrueSightDAO/agentic_ai_context/main/WORKSPACE_CONTEXT.md",
@@ -22,10 +22,15 @@
     "ecosystem_change_logs_tree": "https://github.com/TrueSightDAO/ecosystem_change_logs/tree/main/advisory",
     "ecosystem_change_logs_raw_base": "https://raw.githubusercontent.com/TrueSightDAO/ecosystem_change_logs/main",
     "agentic_ai_context_raw_base": "https://raw.githubusercontent.com/TrueSightDAO/agentic_ai_context/main",
-    "latest_advisory_snapshot_raw_url": "https://raw.githubusercontent.com/TrueSightDAO/ecosystem_change_logs/main/advisory/snapshots/2026-04-26.md",
+    "latest_advisory_snapshot_raw_url": "https://raw.githubusercontent.com/TrueSightDAO/ecosystem_change_logs/main/advisory/snapshots/2026-04-27.md",
     "advisory_snapshot_cursor_mirror_raw_url": "https://raw.githubusercontent.com/TrueSightDAO/agentic_ai_context/main/ADVISORY_SNAPSHOT.md"
   },
   "snapshots": [
+    {
+      "date": "2026-04-27",
+      "markdown": "advisory/snapshots/2026-04-27.md",
+      "summary": "# ADVISORY_SNAPSHOT Machine-oriented digest of **recent evidence** for LLM advisors. Git lines are **proxies** for shipped work, not verified outcomes. --- ## Purpose & Mission (north star) **Purpose:…"
+    },
     {
       "date": "2026-04-26",
       "markdown": "advisory/snapshots/2026-04-26.md",
