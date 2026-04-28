@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED: do not edit in place. Source of truth: https://docs.google.com/document/d/1FA_NpmwbnnCuV0m46UlfjbVdQvdF92594xcwUDu3JvI/edit
-     Exported by market_research/scripts/export_google_docs.py on 2026-04-27 06:08 UTC.
+     Exported by market_research/scripts/export_google_docs.py on 2026-04-28 06:12 UTC.
      Google Doc last modified: 2026-04-20T19:04:16.150Z -->
 
 # COMMUNITY WAREHOUSE MANAGER SERVICE LEVEL  AGREEMENT
