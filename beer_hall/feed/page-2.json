@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-04-27T02:32:04Z",
+  "generated_at": "2026-04-28T02:39:34Z",
   "page": 2,
   "page_size": 10,
-  "total": 11,
+  "total": 12,
   "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-04-17T232946Z",
+      "posted_at_utc": "2026-04-17T23:29:46Z",
+      "slug": "partner-inventory-81pct-skus-kirsten-sales",
+      "preview": "*OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)* - Partners selling our cacao in LA can now see their live stock levels directly on their agroverse.shop page — less back-and-forth on how much i…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-04-17T232946Z_partner-inventory-81pct-skus-kirsten-sales.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-04-17T232946Z_partner-inventory-81pct-skus-kirsten-sales.json"
+    },
     {
       "id": "beer-hall-2026-04-16T224657Z",
       "posted_at_utc": "2026-04-16T22:46:57Z",
