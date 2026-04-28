@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T10:59:14.203Z",
+  "generated_at": "2026-04-28T10:59:13.950Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -56,17 +56,17 @@
     {
       "order": 10,
       "status": "AI: Warm up prospect",
-      "stores": 63
+      "stores": 62
     },
     {
       "order": 11,
-      "status": "Not Appropriate",
-      "stores": 71
+      "status": "Deferred / Revisit later",
+      "stores": 1
     },
     {
       "order": 12,
-      "status": "Contacted",
-      "stores": 4
+      "status": "Manager Follow-up",
+      "stores": 26
     },
     {
       "order": 13,
@@ -75,38 +75,43 @@
     },
     {
       "order": 14,
-      "status": "Manager Follow-up",
-      "stores": 26
-    },
-    {
-      "order": 16,
       "status": "Meeting Scheduled",
       "stores": 1
     },
     {
+      "order": 16,
+      "status": "Followed Up",
+      "stores": 1
+    },
+    {
       "order": 17,
-      "status": "Instagram Followed",
-      "stores": 11
+      "status": "Contacted",
+      "stores": 4
     },
     {
       "order": 18,
-      "status": "On Hold",
-      "stores": 17
-    },
-    {
-      "order": 19,
-      "status": "Partnered",
-      "stores": 13
-    },
-    {
-      "order": 20,
       "status": "Rejected",
       "stores": 14
     },
     {
+      "order": 19,
+      "status": "On Hold",
+      "stores": 17
+    },
+    {
+      "order": 20,
+      "status": "Not Appropriate",
+      "stores": 71
+    },
+    {
       "order": 21,
-      "status": "Followed Up",
-      "stores": 1
+      "status": "Partnered",
+      "stores": 13
+    },
+    {
+      "order": 9999,
+      "status": "Instagram Followed",
+      "stores": 11
     }
   ],
   "outreach_visibility": {
@@ -114,14 +119,14 @@
       "ok": true,
       "tab": "Email Agent Follow Up",
       "sends_logged": {
-        "warmup": 66,
-        "follow_up": 42,
+        "warmup": 67,
+        "follow_up": 47,
         "bulk": 0,
         "unknown": 0,
-        "total_rows": 108
+        "total_rows": 114
       },
       "distinct_recipients": {
-        "warmup": 61,
+        "warmup": 62,
         "follow_up": 18,
         "bulk": 0,
         "unknown": 0
@@ -131,16 +136,16 @@
       "touch_columns_resolved": true,
       "cohorts": {
         "AI: Warm up prospect": {
-          "stores": 63,
+          "stores": 62,
           "sum_warmup_sends_au": 27,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
-            "none": 38,
+            "none": 37,
             "once": 23,
             "repeat": 2
           },
           "follow_up_send_depth": {
-            "none": 63,
+            "none": 62,
             "once": 0,
             "repeat": 0
           }
@@ -148,7 +153,7 @@
         "Manager Follow-up": {
           "stores": 26,
           "sum_warmup_sends_au": 0,
-          "sum_follow_up_sends_av": 16,
+          "sum_follow_up_sends_av": 18,
           "warmup_send_depth": {
             "none": 26,
             "once": 0,
@@ -156,8 +161,8 @@
           },
           "follow_up_send_depth": {
             "none": 20,
-            "once": 1,
-            "repeat": 5
+            "once": 0,
+            "repeat": 6
           }
         },
         "Bulk Info Requested": {
@@ -194,7 +199,7 @@
       "follow_up_pipeline_combined": {
         "stores": 30,
         "sum_warmup_sends_au": 1,
-        "sum_follow_up_sends_av": 16,
+        "sum_follow_up_sends_av": 18,
         "warmup_send_depth": {
           "none": 29,
           "once": 1,
@@ -202,8 +207,8 @@
         },
         "follow_up_send_depth": {
           "none": 24,
-          "once": 1,
-          "repeat": 5
+          "once": 0,
+          "repeat": 6
         },
         "note": "Union of Hit List rows in statuses: Manager Follow-up, Bulk Info Requested, AI: Prospect replied"
       }
