@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-04-28T02:39:34Z",
+  "generated_at": "2026-04-29T02:39:18Z",
   "page": 1,
   "page_size": 10,
-  "total": 12,
+  "total": 13,
   "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-04-29T023918Z",
+      "posted_at_utc": "2026-04-29T02:39:18Z",
+      "slug": "way-home-shop-live-circle-detector-permissions-phase-two",
+      "preview": "The Way Home Shop (Portland, OR) is fully onboarded and live on the partner hub, a circle-hosting detector shipped to find wellness venues that run sound baths and breathwork, and the DApp's contributor permissions syst…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-04-29T023918Z_way-home-shop-live-circle-detector-permissions-phase-two.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-04-29T023918Z_way-home-shop-live-circle-detector-permissions-phase-two.json"
+    },
     {
       "id": "beer-hall-2026-04-28T023934Z",
       "posted_at_utc": "2026-04-28T02:39:34Z",
@@ -78,14 +86,6 @@
       "preview": "OpenClaw × Cursor digest — retired from WhatsApp posting; archive-only for oracle / feed context (not a manual post from Gary) - Cybernetic Oracle is live. oracle.truesight.me now draws a hexagram and passes DAO state (…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-04-19T213956Z_retire-whatsapp-oracle-and-reminders-live.md",
       "json_path": "beer_hall/entries/beer-hall_2026-04-19T213956Z_retire-whatsapp-oracle-and-reminders-live.json"
-    },
-    {
-      "id": "beer-hall-2026-04-18T223617Z",
-      "posted_at_utc": "2026-04-18T22:36:17Z",
-      "slug": "qr-email-migration-admin-truesight-advisory-goals",
-      "preview": "*OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)* - Owners buying multiple QR-coded items in a single Stripe checkout now get ONE onboarding email listing all their tracking links, instead of on…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-18T223617Z_qr-email-migration-admin-truesight-advisory-goals.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-18T223617Z_qr-email-migration-admin-truesight-advisory-goals.json"
     }
   ]
 }
