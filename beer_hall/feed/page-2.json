@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-04-29T02:39:18Z",
+  "generated_at": "2026-04-30T02:40:23Z",
   "page": 2,
   "page_size": 10,
-  "total": 13,
+  "total": 14,
   "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-04-19T213956Z",
+      "posted_at_utc": "2026-04-19T21:39:56Z",
+      "slug": "retire-whatsapp-oracle-and-reminders-live",
+      "preview": "OpenClaw × Cursor digest — retired from WhatsApp posting; archive-only for oracle / feed context (not a manual post from Gary) - Cybernetic Oracle is live. oracle.truesight.me now draws a hexagram and passes DAO state (…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-04-19T213956Z_retire-whatsapp-oracle-and-reminders-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-04-19T213956Z_retire-whatsapp-oracle-and-reminders-live.json"
+    },
     {
       "id": "beer-hall-2026-04-18T223617Z",
       "posted_at_utc": "2026-04-18T22:36:17Z",

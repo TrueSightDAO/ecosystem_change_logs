@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-04-29T02:39:18Z",
+  "generated_at": "2026-04-30T02:40:23Z",
   "page": 1,
   "page_size": 10,
-  "total": 13,
+  "total": 14,
   "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-04-30T024023Z",
+      "posted_at_utc": "2026-04-30T02:40:23Z",
+      "slug": "kirsten-37-bars-sold-store-add-scanner",
+      "preview": "Kirsten sold 37 bars at $10 each — 20 Oscar 2024 and 17 Santa Ana 2023 — processed via a batch Stripe script Gary wrote and submitted to Edgar. That's $370 in confirmed cash sales recorded on-chain. - **37 bars sold, fu…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-04-30T024023Z_kirsten-37-bars-sold-store-add-scanner.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-04-30T024023Z_kirsten-37-bars-sold-store-add-scanner.json"
+    },
     {
       "id": "beer-hall-2026-04-29T023918Z",
       "posted_at_utc": "2026-04-29T02:39:18Z",
@@ -78,14 +86,6 @@
       "preview": "Busy week across the stack — whitepaper accuracy, Oracle upgrades, email marketing scaffolding, São Jorge farm page, and ongoing AWS security follow-through. - Whitepapers updated to be agentic-AI-friendly: Gas Fee sect…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-04-21T061005Z_whitepaper-oracle-claude-email-marketing-live.md",
       "json_path": "beer_hall/entries/beer-hall_2026-04-21T061005Z_whitepaper-oracle-claude-email-marketing-live.json"
-    },
-    {
-      "id": "beer-hall-2026-04-19T213956Z",
-      "posted_at_utc": "2026-04-19T21:39:56Z",
-      "slug": "retire-whatsapp-oracle-and-reminders-live",
-      "preview": "OpenClaw × Cursor digest — retired from WhatsApp posting; archive-only for oracle / feed context (not a manual post from Gary) - Cybernetic Oracle is live. oracle.truesight.me now draws a hexagram and passes DAO state (…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-19T213956Z_retire-whatsapp-oracle-and-reminders-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-19T213956Z_retire-whatsapp-oracle-and-reminders-live.json"
     }
   ]
 }
