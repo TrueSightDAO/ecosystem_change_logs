@@ -1,0 +1,20 @@
+{
+  "received_at": "2026-04-30T20:38:00Z",
+  "signature_verification": "success",
+  "parsed": {
+    "shop_name": "Miss Anne's Maypop Herb Shop",
+    "store_key": "miss-annes-maypop-herb-shop__2701-saint-claude-avenue__new-orleans__la",
+    "update_id": "SFR_20260430203758",
+    "new_status": "Deferred / Revisit later",
+    "previous_status": "Manager Follow-up",
+    "shop_type": "Apothecary",
+    "owner_name": "Anne",
+    "contact_person": "Justine",
+    "email": "maypopherbshop@gmail.com",
+    "phone": "(504) 304-5067",
+    "website": "https://missannesmaypopherbshop.com/",
+    "deferred_until": "2026-09-01",
+    "contact_method": "Email"
+  },
+  "raw_text": "[RETAIL FIELD REPORT EVENT]\r\nShop Name: Miss Anne's Maypop Herb Shop\r\nStore Key: miss-annes-maypop-herb-shop__2701-saint-claude-avenue__new-orleans__la\r\nUpdate ID: SFR_20260430203758\r\nNew Status: Deferred / Revisit later\r\nPrevious Status: Manager Follow-up\r\nShop Type: Apothecary\r\nOwner Name: Anne\r\nContact Person: Justine\r\nEmail: maypopherbshop@gmail.com\r\nPhone: (504) 304-5067\r\nWebsite: https://missannesmaypopherbshop.com/\r\nDeferred Until: 2026-09-01\r\nContact Method: Email\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: kgWtSpyPFvJVwOAvY85oVnH3aoNtFdrGMtKQe4zlaYPxKW+7xSl1MNOwx4xqRsQe8nuKyNCkB9jek2EFkv7zKmMU4kk/TxrTaKTi+hRk7U3xvmPSUjlVQ/reQlTCa/ugNZmzGPP628aN8rqaqGuAsKDFYA/DmibBS6MfRRFHqUeyR9E3ZsGDt+Di8snOg93J+CnDiy4jILpFklkhXi1bcmj33Ki79ydqvqL28rYnksiPhjuyfaCkBUhInTX01Q2Dc2kKFm1kzATgEIzVgsi7zVgA0GLP/Nt1Hm/MJQvIlAH2iyRoFRbLYTPhBJDl90cl97sQJTrYZ7wAeH8fCugEYw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/store_interaction_history.html?store=miss-annes-maypop-herb-shop__2701-saint-claude-avenue__new-orleans__la&shop=Miss+Anne%27s+Maypop+Herb+Shop\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html"
+}
