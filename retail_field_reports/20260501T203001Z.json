@@ -1,0 +1,16 @@
+{
+  "received_at": "2026-05-01T20:30:02Z",
+  "signature_verification": "success",
+  "parsed": {
+    "shop_name": "Bucks Spices and Teas",
+    "store_key": "bucks-spices-and-teas__209-5th-avenue-southeast__olympia__wa",
+    "update_id": "SFR_20260501202959",
+    "new_status": "Manager Follow-up",
+    "previous_status": "AI: Prospect replied",
+    "shop_type": "Metaphysical/Spiritual",
+    "email": "bucksspices@gmail.com",
+    "phone": "(360) 634-2135",
+    "website": "http://bucksspices.com/"
+  },
+  "raw_text": "[RETAIL FIELD REPORT EVENT]\r\nShop Name: Bucks Spices and Teas\r\nStore Key: bucks-spices-and-teas__209-5th-avenue-southeast__olympia__wa\r\nUpdate ID: SFR_20260501202959\r\nNew Status: Manager Follow-up\r\nPrevious Status: AI: Prospect replied\r\nShop Type: Metaphysical/Spiritual\r\nEmail: bucksspices@gmail.com\r\nPhone: (360) 634-2135\r\nWebsite: http://bucksspices.com/\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 26Cd+MvTLwkcZXWmmAQCFVfkwZThq/q1cIpN0LpbyWktQN4oqCQmFxb3ZvljRnYNzhejLc7/Wo+xEX+xA6tozfm/AzyGVJAajtDsqcdy92TLym9QiM2QaWplx5iVhY0t7mQyQMDJPNN/ZCVJ5e/xae+Vx5p1HEQYioMoiHJw0zEk9spoBO4kIiMPt2igXqtOwuXq+goKafvwmdRBw5+pjITgsoMofIdR2tYCGdhAEAr1hzWhc3UZg4Pg9MbJ0ErONMIC3lacUgXomlOt3Ez2nmS9+0jjaoqb+xYLpgJILCIqGUSJ2MacpG08gsecQG4Od+NLJVPpzHx4IvPXwYIWcw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/store_interaction_history.html?store=bucks-spices-and-teas__209-5th-avenue-southeast__olympia__wa&shop=Bucks+Spices+and+Teas\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html"
+}
