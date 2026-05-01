@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-04-30T02:40:23Z",
+  "generated_at": "2026-05-01T02:46:44Z",
   "page": 2,
   "page_size": 10,
-  "total": 14,
+  "total": 15,
   "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-04-21T061005Z",
+      "posted_at_utc": "2026-04-21T06:10:05Z",
+      "slug": "whitepaper-oracle-claude-email-marketing-live",
+      "preview": "Busy week across the stack — whitepaper accuracy, Oracle upgrades, email marketing scaffolding, São Jorge farm page, and ongoing AWS security follow-through. - Whitepapers updated to be agentic-AI-friendly: Gas Fee sect…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-04-21T061005Z_whitepaper-oracle-claude-email-marketing-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-04-21T061005Z_whitepaper-oracle-claude-email-marketing-live.json"
+    },
     {
       "id": "beer-hall-2026-04-19T213956Z",
       "posted_at_utc": "2026-04-19T21:39:56Z",
