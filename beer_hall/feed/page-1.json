@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-01T02:46:44Z",
+  "generated_at": "2026-05-02T02:28:54Z",
   "page": 1,
   "page_size": 10,
-  "total": 15,
+  "total": 16,
   "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-02T022854Z",
+      "posted_at_utc": "2026-05-02T02:28:54Z",
+      "slug": "bucks-spices-way-home-shop-reply-wholesale-live",
+      "preview": "Three inbound prospect replies landed, a new wholesale page shipped, and The Way Home Shop (Portland) is now live on the partner hub. - **The Way Home Shop replied** — owner wrote back to the warm-up sample: \"The packag…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-02T022854Z_bucks-spices-way-home-shop-reply-wholesale-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-02T022854Z_bucks-spices-way-home-shop-reply-wholesale-live.json"
+    },
     {
       "id": "beer-hall-2026-05-01T024644Z",
       "posted_at_utc": "2026-05-01T02:46:44Z",
@@ -78,14 +86,6 @@
       "preview": "Big week for the read side of the stack: the dao_client got a full cache layer so Python scripts and the browser DApp can pull DAO data from GitHub without hitting GAS every time; a DAO members cache went live so signat…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-04-23T022449Z_dao-client-read-layer-members-cache-store-restocks.md",
       "json_path": "beer_hall/entries/beer-hall_2026-04-23T022449Z_dao-client-read-layer-members-cache-store-restocks.json"
-    },
-    {
-      "id": "beer-hall-2026-04-22T021304Z",
-      "posted_at_utc": "2026-04-22T02:13:04Z",
-      "slug": "dao-client-treasury-cache-retailer-playbook-live",
-      "preview": "Heavy infrastructure week: the DApp got a treasury-cache speed layer, a China GFW workaround, and a full routes centralisation; the dao_client Python CLI shipped with 15 signed-event wrappers; and the Retailer Onboardin…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-22T021304Z_dao-client-treasury-cache-retailer-playbook-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-22T021304Z_dao-client-treasury-cache-retailer-playbook-live.json"
     }
   ]
 }
