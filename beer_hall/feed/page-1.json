@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-02T02:28:54Z",
+  "generated_at": "2026-05-03T02:38:06Z",
   "page": 1,
   "page_size": 10,
-  "total": 16,
+  "total": 17,
   "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-03T023806Z",
+      "posted_at_utc": "2026-05-03T02:38:06Z",
+      "slug": "places-cache-reply-drafts-cost-optimizations",
+      "preview": "Auto-generated warm-up reply drafts are now live, Google Places data is permanently cached to cut API spend, and three more prospects have replied to outreach. - **Auto-reply drafts wired up** — when a warm-up prospect …",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-03T023806Z_places-cache-reply-drafts-cost-optimizations.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-03T023806Z_places-cache-reply-drafts-cost-optimizations.json"
+    },
     {
       "id": "beer-hall-2026-05-02T022854Z",
       "posted_at_utc": "2026-05-02T02:28:54Z",
@@ -78,14 +86,6 @@
       "preview": "Strong sales week at the Santa Cruz retail partners, the oracle advisor switched to Claude with prompt caching, a full email-tracking pipeline landed for the Hit List, and the DApp's store pipeline view got a significan…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-04-24T022534Z_retail-sales-surge-email-pipeline-oracle-claude.md",
       "json_path": "beer_hall/entries/beer-hall_2026-04-24T022534Z_retail-sales-surge-email-pipeline-oracle-claude.json"
-    },
-    {
-      "id": "beer-hall-2026-04-23T022449Z",
-      "posted_at_utc": "2026-04-23T02:24:49Z",
-      "slug": "dao-client-read-layer-members-cache-store-restocks",
-      "preview": "Big week for the read side of the stack: the dao_client got a full cache layer so Python scripts and the browser DApp can pull DAO data from GitHub without hitting GAS every time; a DAO members cache went live so signat…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-23T022449Z_dao-client-read-layer-members-cache-store-restocks.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-23T022449Z_dao-client-read-layer-members-cache-store-restocks.json"
     }
   ]
 }
