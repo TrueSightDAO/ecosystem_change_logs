@@ -1,0 +1,17 @@
+{
+  "received_at": "2026-05-03T17:40:09Z",
+  "signature_verification": "success",
+  "parsed": {
+    "shop_name": "The Sword and Rose",
+    "store_key": "the-sword-and-rose__85-carl-street__san-francisco__ca",
+    "update_id": "SFR_20260503174006",
+    "new_status": "Not Appropriate",
+    "previous_status": "AI: Warm up prospect",
+    "shop_type": "Metaphysical/Spiritual",
+    "email": "theswordandrosesf@gmail.com",
+    "phone": "(415) 681-5434",
+    "website": "http://www.theswordandrose.net/",
+    "instagram": "@theswordandrose"
+  },
+  "raw_text": "[RETAIL FIELD REPORT EVENT]\r\nShop Name: The Sword and Rose\r\nStore Key: the-sword-and-rose__85-carl-street__san-francisco__ca\r\nUpdate ID: SFR_20260503174006\r\nNew Status: Not Appropriate\r\nPrevious Status: AI: Warm up prospect\r\nShop Type: Metaphysical/Spiritual\r\nEmail: theswordandrosesf@gmail.com\r\nPhone: (415) 681-5434\r\nWebsite: http://www.theswordandrose.net/\r\nInstagram: @theswordandrose\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: 0u8PDyy8zVBDhzw4Rc76YYJtpIRyhtClIiAMJEXgv89jjbGdvNANq6/UcBJPASLQj3otDRQHx7rqRRDC2TEz7U5XjsXykY8SOsPcT0Rcsz2EDBfj3Xs8yD/s9TE2yizFsTychoWcGyHc8+HHQxMsy55TvK0SCnQi8yRbe/V4DATiS1EJpFKP1vvkGSaeOGu1kelhIxZ2PAQ5gBkrxnwxckysoedz9SohI+L1FN0GlJS7nqB/7IYa8Uy1gTz4x9glG/YgasB4WIOGxVOw+grE7v+JCCsWHRUCe0Emh6mGloWlcdmzfBkK78mWOdLUjLsh83er+tCzquRARcIbBUC2aQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/store_interaction_history.html?store=the-sword-and-rose__85-carl-street__san-francisco__ca&shop=The+Sword+and+Rose\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html"
+}
