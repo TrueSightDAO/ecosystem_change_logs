@@ -1,0 +1,16 @@
+{
+  "received_at": "2026-05-03T17:23:32Z",
+  "signature_verification": "success",
+  "parsed": {
+    "shop_name": "Devine Wellness and Relaxation",
+    "store_key": "devine-wellness-and-relaxation__200-east-4th-avenue__ellensburg__wa",
+    "update_id": "SFR_20260503172330",
+    "new_status": "Manager Follow-up",
+    "previous_status": "AI: Prospect replied",
+    "shop_type": "Metaphysical/Spiritual",
+    "email": "appointments@devinewellness.net",
+    "phone": "(509) 255-3150",
+    "website": "http://www.devinewellness.net/"
+  },
+  "raw_text": "[RETAIL FIELD REPORT EVENT]\r\nShop Name: Devine Wellness and Relaxation\r\nStore Key: devine-wellness-and-relaxation__200-east-4th-avenue__ellensburg__wa\r\nUpdate ID: SFR_20260503172330\r\nNew Status: Manager Follow-up\r\nPrevious Status: AI: Prospect replied\r\nShop Type: Metaphysical/Spiritual\r\nEmail: appointments@devinewellness.net\r\nPhone: (509) 255-3150\r\nWebsite: http://www.devinewellness.net/\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: iON1J3fTbQDnJrk4VLUASNWPTVMNUM77Pw+5mZvcD8BZVRM/C4cRJWLCMh2U/A6IwCbb824UXoWxtT3rfoqr5fSLnGQ6RHOFtT7WyZEC7JI7oHXlC4qp5TbDEUFAZqVbGFcFzXsi7DcQAyt1DnWe+jWPdDJuXNzr1p9K0QaSNoU6CvPa9MvJMIuWuARvjlwT/YCtNIJo2Ja1X47JLz16TiljsZTN/IqWh80VyBXl9wzKwgcL26rwGc1aJ0FF+blPSgF4RmM1Ih87xm9JB1tq4+pMa+txj/QeekG3+wyT6ozNKPDNracokchrRRwBxHyKOINrBNdeAev/aetHe4u4Tw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/store_interaction_history.html?store=devine-wellness-and-relaxation__200-east-4th-avenue__ellensburg__wa&shop=Devine+Wellness+and+Relaxation\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html"
+}
