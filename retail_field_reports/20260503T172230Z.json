@@ -1,0 +1,18 @@
+{
+  "received_at": "2026-05-03T17:22:30Z",
+  "signature_verification": "success",
+  "parsed": {
+    "shop_name": "Seagrape Apothecary",
+    "store_key": "seagrape-apothecary__2823-northeast-sandy-boulevard__portland__or",
+    "update_id": "SFR_20260503172228",
+    "new_status": "Deferred / Revisit later",
+    "previous_status": "AI: Prospect replied",
+    "shop_type": "Metaphysical/Spiritual",
+    "email": "info@seagrapeapothecary.com",
+    "phone": "(503) 374-6801",
+    "website": "https://www.seagrapeapothecary.com/",
+    "instagram": "@seagrapeapothecary",
+    "deferred_until": "2026-09-03"
+  },
+  "raw_text": "[RETAIL FIELD REPORT EVENT]\r\nShop Name: Seagrape Apothecary\r\nStore Key: seagrape-apothecary__2823-northeast-sandy-boulevard__portland__or\r\nUpdate ID: SFR_20260503172228\r\nNew Status: Deferred / Revisit later\r\nPrevious Status: AI: Prospect replied\r\nShop Type: Metaphysical/Spiritual\r\nEmail: info@seagrapeapothecary.com\r\nPhone: (503) 374-6801\r\nWebsite: https://www.seagrapeapothecary.com/\r\nInstagram: @seagrapeapothecary\r\nDeferred Until: 2026-09-03\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: CHJbhQo+PjpDnH44QIzbst08tkg5ICknGdMywLBQn4pSoybX3aM/8TI8SkGZmG09m8VbTubLH5AdQgq86luj7CFh6NDyUh0xe64SjIegPolqA1NMeA54nPobsVt9rt3QkwVfKCVxj1QcGs5zrxDDy+uQlzSX1inZItSjen8xeGgOY+Jd2HopYThmuTX/WNMPKyoZker3O81yILr2OaMSBZOkn3K/iFyQIQQXPGQxjcLST8/rxpDQb6U0+xYe00YRnYARRa3iLb8e7rz9ozX6XcsdEeZJmI4dE1QJ0jOeh/SFXnnOBRx00omTZ5kPUhEyqvJpk/hBicm4/1UcK/CoOw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/store_interaction_history.html?store=seagrape-apothecary__2823-northeast-sandy-boulevard__portland__or&shop=Seagrape+Apothecary\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html"
+}
