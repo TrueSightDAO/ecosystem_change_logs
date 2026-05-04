@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T10:59:13.907Z",
+  "generated_at": "2026-05-04T10:59:13.759Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -8,11 +8,11 @@
   },
   "totals": {
     "all_stores": 669,
-    "partnered": 14,
+    "partnered": 15,
     "highlights": [
       {
         "status": "Partnered",
-        "stores": 14,
+        "stores": 15,
         "north_star": true
       },
       {
@@ -26,7 +26,7 @@
     {
       "order": 1,
       "status": "Not Appropriate",
-      "stores": 73
+      "stores": 74
     },
     {
       "order": 3,
@@ -51,7 +51,7 @@
     {
       "order": 10,
       "status": "AI: Warm up prospect",
-      "stores": 84
+      "stores": 79
     },
     {
       "order": 11,
@@ -71,7 +71,7 @@
     {
       "order": 15,
       "status": "Manager Follow-up",
-      "stores": 30
+      "stores": 31
     },
     {
       "order": 18,
@@ -86,7 +86,7 @@
     {
       "order": 20,
       "status": "Partnered",
-      "stores": 14
+      "stores": 15
     },
     {
       "order": 21,
@@ -101,7 +101,7 @@
     {
       "order": 9999,
       "status": "AI: Prospect replied",
-      "stores": 3
+      "stores": 5
     }
   ],
   "outreach_visibility": {
@@ -109,15 +109,15 @@
       "ok": true,
       "tab": "Email Agent Follow Up",
       "sends_logged": {
-        "warmup": 91,
-        "follow_up": 49,
+        "warmup": 167,
+        "follow_up": 66,
         "bulk": 0,
         "unknown": 2,
-        "total_rows": 142
+        "total_rows": 235
       },
       "distinct_recipients": {
-        "warmup": 79,
-        "follow_up": 18,
+        "warmup": 85,
+        "follow_up": 20,
         "bulk": 0,
         "unknown": 2
       }
@@ -126,31 +126,31 @@
       "touch_columns_resolved": true,
       "cohorts": {
         "AI: Warm up prospect": {
-          "stores": 84,
-          "sum_warmup_sends_au": 28,
+          "stores": 79,
+          "sum_warmup_sends_au": 57,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
-            "none": 58,
-            "once": 24,
-            "repeat": 2
+            "none": 50,
+            "once": 3,
+            "repeat": 26
           },
           "follow_up_send_depth": {
-            "none": 84,
+            "none": 79,
             "once": 0,
             "repeat": 0
           }
         },
         "Manager Follow-up": {
-          "stores": 30,
+          "stores": 31,
           "sum_warmup_sends_au": 0,
-          "sum_follow_up_sends_av": 18,
+          "sum_follow_up_sends_av": 23,
           "warmup_send_depth": {
-            "none": 30,
+            "none": 31,
             "once": 0,
             "repeat": 0
           },
           "follow_up_send_depth": {
-            "none": 24,
+            "none": 25,
             "once": 0,
             "repeat": 6
           }
@@ -171,32 +171,32 @@
           }
         },
         "AI: Prospect replied": {
-          "stores": 3,
+          "stores": 5,
           "sum_warmup_sends_au": 0,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
-            "none": 3,
+            "none": 5,
             "once": 0,
             "repeat": 0
           },
           "follow_up_send_depth": {
-            "none": 3,
+            "none": 5,
             "once": 0,
             "repeat": 0
           }
         }
       },
       "follow_up_pipeline_combined": {
-        "stores": 33,
+        "stores": 36,
         "sum_warmup_sends_au": 0,
-        "sum_follow_up_sends_av": 18,
+        "sum_follow_up_sends_av": 23,
         "warmup_send_depth": {
-          "none": 33,
+          "none": 36,
           "once": 0,
           "repeat": 0
         },
         "follow_up_send_depth": {
-          "none": 27,
+          "none": 30,
           "once": 0,
           "repeat": 6
         },
