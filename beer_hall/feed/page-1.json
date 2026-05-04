@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-03T02:38:06Z",
+  "generated_at": "2026-05-04T02:36:29Z",
   "page": 1,
   "page_size": 10,
-  "total": 17,
+  "total": 18,
   "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-04T023629Z",
+      "posted_at_utc": "2026-05-04T02:36:29Z",
+      "slug": "autopilot-warmup-review-santos-onboarded",
+      "preview": "The TrueSight Autopilot is now deployed on EC2, a mobile warm-up review module lets contributors triage and send outreach drafts from their phones, and Santos Chocolate Factory joins the partner hub as TrueSight's first…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-04T023629Z_autopilot-warmup-review-santos-onboarded.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-04T023629Z_autopilot-warmup-review-santos-onboarded.json"
+    },
     {
       "id": "beer-hall-2026-05-03T023806Z",
       "posted_at_utc": "2026-05-03T02:38:06Z",
@@ -78,14 +86,6 @@
       "preview": "Big week for contributor-facing tools and narrative: Governor Chat launched on the DApp, two new blog posts shipped, and a Retail Field Report webhook now lets contributors log store visits directly from their phones. -…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-04-25T020706Z_governor-chat-blog-blitz-retail-field-reports.md",
       "json_path": "beer_hall/entries/beer-hall_2026-04-25T020706Z_governor-chat-blog-blitz-retail-field-reports.json"
-    },
-    {
-      "id": "beer-hall-2026-04-24T022534Z",
-      "posted_at_utc": "2026-04-24T02:25:34Z",
-      "slug": "retail-sales-surge-email-pipeline-oracle-claude",
-      "preview": "Strong sales week at the Santa Cruz retail partners, the oracle advisor switched to Claude with prompt caching, a full email-tracking pipeline landed for the Hit List, and the DApp's store pipeline view got a significan…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-24T022534Z_retail-sales-surge-email-pipeline-oracle-claude.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-24T022534Z_retail-sales-surge-email-pipeline-oracle-claude.json"
     }
   ]
 }
