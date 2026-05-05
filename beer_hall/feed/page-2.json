@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-04T02:36:29Z",
+  "generated_at": "2026-05-05T02:34:02Z",
   "page": 2,
   "page_size": 10,
-  "total": 18,
+  "total": 19,
   "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-04-25T020706Z",
+      "posted_at_utc": "2026-04-25T02:07:06Z",
+      "slug": "governor-chat-blog-blitz-retail-field-reports",
+      "preview": "Big week for contributor-facing tools and narrative: Governor Chat launched on the DApp, two new blog posts shipped, and a Retail Field Report webhook now lets contributors log store visits directly from their phones. -…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-04-25T020706Z_governor-chat-blog-blitz-retail-field-reports.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-04-25T020706Z_governor-chat-blog-blitz-retail-field-reports.json"
+    },
     {
       "id": "beer-hall-2026-04-24T022534Z",
       "posted_at_utc": "2026-04-24T02:25:34Z",
