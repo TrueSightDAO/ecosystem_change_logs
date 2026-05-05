@@ -1,0 +1,7 @@
+{
+  "received_at": "2026-05-05T07:21:40Z",
+  "content_type": "application/json",
+  "remote_ip": "172.56.43.154",
+  "user_agent": "BackgroundShortcutRunner/3612.0.2.1 CFNetwork/3826.600.41 Darwin/24.6.0",
+  "raw_body": "{\"update\":\"Must prompt seller periodically to ask if already sold out or need to restock\"}"
+}
