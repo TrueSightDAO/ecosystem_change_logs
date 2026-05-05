@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T10:59:13.759Z",
+  "generated_at": "2026-05-05T10:59:14.285Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -51,7 +51,7 @@
     {
       "order": 10,
       "status": "AI: Warm up prospect",
-      "stores": 79
+      "stores": 78
     },
     {
       "order": 11,
@@ -61,7 +61,7 @@
     {
       "order": 12,
       "status": "Deferred / Revisit later",
-      "stores": 3
+      "stores": 2
     },
     {
       "order": 13,
@@ -101,7 +101,7 @@
     {
       "order": 9999,
       "status": "AI: Prospect replied",
-      "stores": 5
+      "stores": 7
     }
   ],
   "outreach_visibility": {
@@ -126,16 +126,16 @@
       "touch_columns_resolved": true,
       "cohorts": {
         "AI: Warm up prospect": {
-          "stores": 79,
+          "stores": 78,
           "sum_warmup_sends_au": 57,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
-            "none": 50,
+            "none": 49,
             "once": 3,
             "repeat": 26
           },
           "follow_up_send_depth": {
-            "none": 79,
+            "none": 78,
             "once": 0,
             "repeat": 0
           }
@@ -171,32 +171,32 @@
           }
         },
         "AI: Prospect replied": {
-          "stores": 5,
-          "sum_warmup_sends_au": 0,
+          "stores": 7,
+          "sum_warmup_sends_au": 1,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
-            "none": 5,
-            "once": 0,
+            "none": 6,
+            "once": 1,
             "repeat": 0
           },
           "follow_up_send_depth": {
-            "none": 5,
+            "none": 7,
             "once": 0,
             "repeat": 0
           }
         }
       },
       "follow_up_pipeline_combined": {
-        "stores": 36,
-        "sum_warmup_sends_au": 0,
+        "stores": 38,
+        "sum_warmup_sends_au": 1,
         "sum_follow_up_sends_av": 23,
         "warmup_send_depth": {
-          "none": 36,
-          "once": 0,
+          "none": 37,
+          "once": 1,
           "repeat": 0
         },
         "follow_up_send_depth": {
-          "none": 30,
+          "none": 32,
           "once": 0,
           "repeat": 6
         },
