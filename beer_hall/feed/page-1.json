@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-05T02:34:02Z",
+  "generated_at": "2026-05-06T02:34:41Z",
   "page": 1,
   "page_size": 10,
-  "total": 19,
+  "total": 20,
   "page_count": 2,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-06T023441Z",
+      "posted_at_utc": "2026-05-06T02:34:41Z",
+      "slug": "autopilot-batch-approvals-warmup-body-expand",
+      "preview": "The Autopilot gains a vision pipeline and batch approval cards, the warm-up review module now shows full prospect reply bodies inline, and seven bags of ceremonial cacao moved from Kirsten to Gary via verified Edgar inv…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-06T023441Z_autopilot-batch-approvals-warmup-body-expand.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-06T023441Z_autopilot-batch-approvals-warmup-body-expand.json"
+    },
     {
       "id": "beer-hall-2026-05-05T023402Z",
       "posted_at_utc": "2026-05-05T02:34:02Z",
@@ -78,14 +86,6 @@
       "preview": "A productive week on the DApp and outreach front: store interaction history gained field report timelines, a new partner (The Way Home Shop) was onboarded for ceremonial cacao, and several quality-of-life fixes landed a…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-04-27T023204Z_store-history-timelines-way-home-shop-onboarded.md",
       "json_path": "beer_hall/entries/beer-hall_2026-04-27T023204Z_store-history-timelines-way-home-shop-onboarded.json"
-    },
-    {
-      "id": "beer-hall-2026-04-26T023006Z",
-      "posted_at_utc": "2026-04-26T02:30:06Z",
-      "slug": "governor-chat-live-retail-field-reports-member-cache",
-      "preview": "A busy week across the DApp, sales tooling, and contributor infrastructure: Governor Chat shipped to production, retail field reporting landed, and member identity caching cut load on the signature flow. - Governor Chat…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-26T023006Z_governor-chat-live-retail-field-reports-member-cache.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-26T023006Z_governor-chat-live-retail-field-reports-member-cache.json"
     }
   ]
 }
