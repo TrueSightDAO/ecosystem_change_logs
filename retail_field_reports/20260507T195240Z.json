@@ -1,0 +1,26 @@
+{
+  "received_at": "2026-05-07T19:52:41Z",
+  "signature_verification": "success",
+  "parsed": {
+    "shop_name": "Good Vibrations Apothecary",
+    "store_key": "good-vibrations-apothecary__17602-highway-99__lynnwood__wa",
+    "update_id": "SFR_20260507195236",
+    "new_status": "Manager Follow-up",
+    "previous_status": "AI: Prospect replied",
+    "shop_type": "Metaphysical/Spiritual",
+    "owner_name": "Athena",
+    "email": "support@gvapnw.com",
+    "phone": "(786) 618-8671",
+    "website": "https://gvapnw.com/",
+    "contact_date": "2026-05-07",
+    "contact_method": "Email",
+    "remarks": "I sent out two tasting samples via USPS",
+    "https": "//tools.usps.com/go/TrackConfirmAction!input.action?tLabels=4209803736749500113185846127615346",
+    "attachment_filename": "IMG_1126.jpeg",
+    "attachment_mime_type": "image/jpeg",
+    "attachment_size_bytes": "2832153",
+    "attachment_github_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/store_visits_field_reports/good-vibrations-apothecary__17602-highway-99__lynnwood__wa/SFR_20260507195236/01_IMG_1126.jpeg",
+    "attachment_raw_url": "https://raw.githubusercontent.com/TrueSightDAO/store_interaction_attachments/main/store_visits_field_reports/good-vibrations-apothecary__17602-highway-99__lynnwood__wa/SFR_20260507195236/01_IMG_1126.jpeg"
+  },
+  "raw_text": "[RETAIL FIELD REPORT EVENT]\r\nShop Name: Good Vibrations Apothecary\r\nStore Key: good-vibrations-apothecary__17602-highway-99__lynnwood__wa\r\nUpdate ID: SFR_20260507195236\r\nNew Status: Manager Follow-up\r\nPrevious Status: AI: Prospect replied\r\nShop Type: Metaphysical/Spiritual\r\nOwner Name: Athena\r\nEmail: support@gvapnw.com\r\nPhone: (786) 618-8671\r\nWebsite: https://gvapnw.com/\r\nContact Date: 2026-05-07\r\nContact Method: Email\r\nRemarks: I sent out two tasting samples via USPS \r\nhttps://tools.usps.com/go/TrackConfirmAction!input.action?tLabels=4209803736749500113185846127615346\r\nAttachment Filename: IMG_1126.jpeg\r\nAttachment MIME Type: image/jpeg\r\nAttachment Size Bytes: 2832153\r\nAttachment GitHub URL: https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/store_visits_field_reports/good-vibrations-apothecary__17602-highway-99__lynnwood__wa/SFR_20260507195236/01_IMG_1126.jpeg\r\nAttachment Raw URL: https://raw.githubusercontent.com/TrueSightDAO/store_interaction_attachments/main/store_visits_field_reports/good-vibrations-apothecary__17602-highway-99__lynnwood__wa/SFR_20260507195236/01_IMG_1126.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: 0EB1WY4KYHVRceJMS0dg+PrH7J0/4k4idVS5KjQI7oIY8IfkmnWiNdazE7oAlpKKI5TNWkFe+aX6d3X7t8SgIcRd7GeZAJJzePa2+SBfi6sDC92dc+x/CcmG5+awVtiSc0KPQMsuS+qyMWtiJljr9kkn8E7bHDWI76Tw2HSRq8nelMscEdDoUUJvxYyd8N/9ZDP9EkCdDSsK73jLX80cVGeFBgJe5gg77gDhBliV2GT0f7EGv657HpA3gDczvvZYlFjkqiWClhfcOgMh1y7yW+G31e2oe7oFaApwUTPFWqaWkYo12nuqn7/8xSB05XzMoHonsZdSSCgftWfMYbBnXA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/store_interaction_history.html?store=good-vibrations-apothecary__17602-highway-99__lynnwood__wa&shop=Good+Vibrations+Apothecary\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html"
+}
