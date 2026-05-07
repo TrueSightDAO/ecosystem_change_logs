@@ -1,0 +1,54 @@
+---
+id: 'beer-hall-2026-05-07T023654Z'
+channel: beer_hall
+posted_at_utc: '2026-05-07T02:36:54Z'
+slug: 'agentic-auth-asset-receipt-cacao-transfer'
+sheet_log: 'OpenClaw Beer Hall updates'
+links: []
+pr_commit_links: []
+notes: 'Drafted automatically by .github/workflows/beer-hall-digest-daily.yml'
+---
+
+## Message 1 (TLDR)
+
+The Autopilot gains a trusted-agent authorization path and a new asset-receipt ingest pipeline, 15 more ceremonial cacao bags moved from Kirsten to Gary via Edgar-verified QR transfers, and a Bialetti Moka Express arrived for DAO operations.
+
+- **Agentic authorization path live** — the tokenomics layer now has a dedicated route for trusted-agent (Autopilot) submissions approved by governors, enabling the Autopilot to execute on-chain actions without manual relay.
+- **Asset-receipt ingest GAS deployed** — a new Google Apps Script scans for `[ASSET RECEIPT EVENT]` messages and writes them into the ledger; the double-entry workflow and deployment guide are documented for future contributors.
+- **15 ceremonial cacao bags transferred, Edgar-verified** — Kirsten → Gary inventory movements across two batch sessions (`autopilot-batch-15bags` and `final-9-bags`), each QR code individually confirmed and signed by Edgar on-chain.
+- **Autopilot proposal cards stabilised** — pending approval badges now survive session reloads, non-QR proposals resolve correctly, and the "Loading your TDG holdings…" stuck state on the chat screen is fixed.
+- **routes.js probe skipped on localhost** — prevents the GAS availability check from triggering a reload loop during local development; no more false re-auths in dev mode.
+- **Autopilot debugging and QA playbooks added** — contributors now have a documented local debugging workflow (auth, DRY_RUN, golden rule) and a Playwright QA template for testing Autopilot code changes before deploying.
+- **`upload_file_to_github` tool added to Autopilot** — the agent can now upload base64-encoded files to any TrueSight repo directly from a chat session.
+- **Brazilian Reis logged** — 405 units transferred from Gary to Matheus Reis with GPS coordinates and photo attachment; inventory recorded on-chain by Edgar.
+- **Cacao Mass Bar (40g) from Paulo's farm logged** — batch assigned to AGL8; six bags of samples packed by Gary for outbound distribution to prospective partners.
+- **Bialetti Moka Express 18-cup purchased and received** — $116.91 USD, paired as an offchain USD row with invoice uploaded to GitHub; provisioned for DAO operations.
+- **DeepSeek API credits topped up** — $5.30 USD added by Gary to keep the AI toolchain running.
+
+## Message 2 (Shipped + community)
+
+Shipped
+
+- Agentic authorization path for trusted-agent (Autopilot) submissions approved by governors — https://github.com/TrueSightDAO/tokenomics/pull/271
+- Asset-receipt ingest GAS for `[ASSET RECEIPT EVENT]` processing; double-entry workflow + GAS deployment docs — https://github.com/TrueSightDAO/tokenomics/pull/272 · https://github.com/TrueSightDAO/agentic_ai_context/commit/17759ef
+- Autopilot QA testing workflow (Playwright template, common checks, example test) — https://github.com/TrueSightDAO/agentic_ai_context/commit/bf1fd5a
+- Autopilot local debugging workflow (auth, DRY_RUN, golden rule) — https://github.com/TrueSightDAO/agentic_ai_context/commit/d543e5a
+- Autopilot proposal cards: session-reload persistence, non-QR proposal resolution, visible pending badge — https://github.com/TrueSightDAO/dapp/commit/3e01202 · https://github.com/TrueSightDAO/dapp/commit/6ae7ea7
+- "Loading TDG holdings…" stuck state fixed on chat.html — https://github.com/TrueSightDAO/dapp/commit/ed5435d
+- routes.js GAS probe skipped on localhost to prevent reload loop — https://github.com/TrueSightDAO/dapp/commit/6ae7ea7
+- `upload_file_to_github` tool added to Autopilot (base64 file upload to any TrueSight repo) — (Telegram-logged Autopilot contribution; no standalone PR)
+- `agentic_ai_context` added to Autopilot's allowed_repos list — (Telegram-logged Autopilot contribution)
+
+Community (Telegram log):
+
+- Gary — 15 ceremonial cacao bags (QR codes: 2024OSCAR_20260330_19, _20, _21, _22, _30, _31, _32, _33, _34, _35, _36, _12, _14, _16, _18) transferred Kirsten → Gary across two batch sessions; all Edgar-verified and signed; Full Provision Awarded.
+- Gary — Brazilian Reis (405 units) transferred to Matheus Reis with GPS + photo; logged on-chain by Edgar; 10m; Full Provision Awarded.
+- Gary — Cacao Mass Bar (40g from Paulo's farm) logged under AGL8; six bags of samples packed for outbound distribution; 30m; Full Provision Awarded.
+- Gary — Purchased Bialetti Moka Express 18-cup ($116.91 USD) for DAO operations; invoice uploaded to GitHub; provisioned by Edgar; Full Provision Awarded.
+- Gary — DeepSeek API credits topped up ($5.30 USD); Full Provision Awarded.
+- truesight-autopilot — Fixed "Loading TDG holdings…" stuck state (dao_members fetch + chat.html body comment); 5m × 2; Successfully Completed.
+- truesight-autopilot — routes.js localhost probe fix to prevent reload loop; 5m; Successfully Completed.
+- truesight-autopilot — `upload_file_to_github` tool added to Autopilot; 5m; Successfully Completed.
+- truesight-autopilot — `list_matching_qr_codes(prefix)` tool added to Autopilot; Pending.
+- truesight-autopilot — `agentic_ai_context` added to allowed_repos in config.py; 5m; Successfully Completed.
+- truesight-autopilot — Git worktree isolation section added to `AUTOPILOT_CODE_MODIFICATIONS.md`; 5m; Successfully Completed.
