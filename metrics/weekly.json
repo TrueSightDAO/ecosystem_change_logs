@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T10:59:13.351Z",
+  "generated_at": "2026-05-08T10:59:13.540Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -34,19 +34,14 @@
       "stores": 109
     },
     {
-      "order": 6,
-      "status": "AI: No fit signal",
-      "stores": 155
-    },
-    {
       "order": 8,
       "status": "Research",
       "stores": 62
     },
     {
       "order": 9,
-      "status": "AI: Enrich with contact",
-      "stores": 3
+      "status": "AI: No fit signal",
+      "stores": 155
     },
     {
       "order": 10,
@@ -56,7 +51,7 @@
     {
       "order": 11,
       "status": "AI: Enrich — manual",
-      "stores": 87
+      "stores": 90
     },
     {
       "order": 12,
@@ -71,7 +66,7 @@
     {
       "order": 15,
       "status": "Manager Follow-up",
-      "stores": 31
+      "stores": 32
     },
     {
       "order": 18,
@@ -101,7 +96,7 @@
     {
       "order": 9999,
       "status": "AI: Prospect replied",
-      "stores": 7
+      "stores": 6
     }
   ],
   "outreach_visibility": {
@@ -109,15 +104,15 @@
       "ok": true,
       "tab": "Email Agent Follow Up",
       "sends_logged": {
-        "warmup": 172,
-        "follow_up": 66,
+        "warmup": 173,
+        "follow_up": 67,
         "bulk": 0,
         "unknown": 2,
-        "total_rows": 240
+        "total_rows": 242
       },
       "distinct_recipients": {
         "warmup": 85,
-        "follow_up": 20,
+        "follow_up": 21,
         "bulk": 0,
         "unknown": 2
       }
@@ -141,16 +136,16 @@
           }
         },
         "Manager Follow-up": {
-          "stores": 31,
+          "stores": 32,
           "sum_warmup_sends_au": 0,
           "sum_follow_up_sends_av": 23,
           "warmup_send_depth": {
-            "none": 31,
+            "none": 32,
             "once": 0,
             "repeat": 0
           },
           "follow_up_send_depth": {
-            "none": 25,
+            "none": 26,
             "once": 0,
             "repeat": 6
           }
@@ -171,16 +166,16 @@
           }
         },
         "AI: Prospect replied": {
-          "stores": 7,
+          "stores": 6,
           "sum_warmup_sends_au": 2,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
-            "none": 6,
+            "none": 5,
             "once": 0,
             "repeat": 1
           },
           "follow_up_send_depth": {
-            "none": 7,
+            "none": 6,
             "once": 0,
             "repeat": 0
           }
