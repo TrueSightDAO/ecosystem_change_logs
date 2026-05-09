@@ -1,0 +1,17 @@
+{
+  "received_at": "2026-05-09T00:08:00Z",
+  "signature_verification": "success",
+  "parsed": {
+    "shop_name": "Elliott's Natural Foods",
+    "store_key": "elliott-s-natural-foods__3347-el-camino-avenue__sacramento__ca",
+    "update_id": "SFR_20260509000759",
+    "new_status": "Manager Follow-up",
+    "previous_status": "AI: Prospect replied",
+    "shop_type": "Metaphysical/Spiritual",
+    "email": "OneElliott@gmail.com",
+    "phone": "(916) 481-3173",
+    "website": "https://elliottsvitamins.com/",
+    "instagram": "@elliottsnaturalfoods"
+  },
+  "raw_text": "[RETAIL FIELD REPORT EVENT]\r\nShop Name: Elliott's Natural Foods\r\nStore Key: elliott-s-natural-foods__3347-el-camino-avenue__sacramento__ca\r\nUpdate ID: SFR_20260509000759\r\nNew Status: Manager Follow-up\r\nPrevious Status: AI: Prospect replied\r\nShop Type: Metaphysical/Spiritual\r\nEmail: OneElliott@gmail.com\r\nPhone: (916) 481-3173\r\nWebsite: https://elliottsvitamins.com/\r\nInstagram: @elliottsnaturalfoods\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: j4JxICt9gNF3YrT8wxCJKL9ER2nw4HmK/nRHFJGwzOKldamo5LK0Gaql05qP54uWqUT5Yj2m8Ttdkj72Zbstq6G6J9Ta6vYPn2EHEkNB1vKeSKvd7qZtBoICdwsFR9RaDOjwjQqIbRJPjLLZ3AbairN+GljQka5t6sNyKsiME7bLpUUAeDH4KK98CnsROH6SOqrleYz0+Hmz5vXiKZ9L1I7E79tUeZTo3EobCW/i4ToGsovwRxsk8qJpbRKJ9ptNo/Y04COT32BTlSxWysbj2C6c5wHF0+ALxIun7Vt8n5wSXRdDFV5f9SiFsRMr9FTANsCGVVl49JYCrds15Enutg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/store_interaction_history.html?store=elliott-s-natural-foods__3347-el-camino-avenue__sacramento__ca&shop=Elliott%27s+Natural+Foods\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html"
+}
