@@ -1,0 +1,16 @@
+{
+  "received_at": "2026-05-09T00:07:35Z",
+  "signature_verification": "success",
+  "parsed": {
+    "shop_name": "Esalen Institute Gift Shop",
+    "store_key": "esalen-institute-gift-shop__55000-ca-1__big-sur__ca",
+    "update_id": "SFR_20260509000734",
+    "new_status": "AI: Warm up prospect",
+    "previous_status": "AI: Prospect replied",
+    "shop_type": "Wellness Center",
+    "email": "info@esalen.org",
+    "phone": "(831) 667-3000",
+    "website": "https://www.esalen.org/"
+  },
+  "raw_text": "[RETAIL FIELD REPORT EVENT]\r\nShop Name: Esalen Institute Gift Shop\r\nStore Key: esalen-institute-gift-shop__55000-ca-1__big-sur__ca\r\nUpdate ID: SFR_20260509000734\r\nNew Status: AI: Warm up prospect\r\nPrevious Status: AI: Prospect replied\r\nShop Type: Wellness Center\r\nEmail: info@esalen.org\r\nPhone: (831) 667-3000\r\nWebsite: https://www.esalen.org/\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: kQGGmLMVDExdHMGyfR0fgaEsogedbCpwpQsDPrSpHhJi48vodlheqioO3C6FKmImvPEzifVy5NSMzfuHBhimMemoiyWYC90q/NXRqZoyu3uraVCwvD/xMX1rwaeo91j5cNLdIOLLJ9ncmXF8NQVvZzgMfbwU3MjFpor/mYoZVdva4clcyNsxUBUzz9nkM7Fj2KzqP52v9OOxdB4X8V/HHnGsn8j+ndCjIX2mTI15jG+KFA2av9UexrEuVYkegFwYZFvsV9wq7LlNHuLpp73irHqf7vqCDD9WAE4uoVgyI3wMaDcJwwMY/6f3WKyAmbpD6xZ+p7k6mmSKUAWACZcB7A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/store_interaction_history.html?store=esalen-institute-gift-shop__55000-ca-1__big-sur__ca&shop=Esalen+Institute+Gift+Shop\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html"
+}
