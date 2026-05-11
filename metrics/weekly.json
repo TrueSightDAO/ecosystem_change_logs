@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T10:59:13.332Z",
+  "generated_at": "2026-05-11T10:59:13.897Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -34,24 +34,19 @@
       "stores": 109
     },
     {
-      "order": 6,
-      "status": "AI: No fit signal",
-      "stores": 155
-    },
-    {
       "order": 8,
       "status": "Research",
       "stores": 62
     },
     {
       "order": 9,
-      "status": "AI: Enrich with contact",
-      "stores": 3
+      "status": "AI: No fit signal",
+      "stores": 155
     },
     {
       "order": 10,
       "status": "AI: Enrich — manual",
-      "stores": 87
+      "stores": 90
     },
     {
       "order": 12,
