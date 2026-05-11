@@ -1,15 +1,25 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-11T17:07:50Z",
+  "generated_at": "2026-05-11T17:11:53Z",
   "page_size": 10,
-  "total": 9,
-  "page_count": 1,
+  "total": 25,
+  "page_count": 3,
   "pages": [
     {
       "page": 1,
       "file": "beer_hall/feed/page-1.json",
-      "count": 9
+      "count": 10
+    },
+    {
+      "page": 2,
+      "file": "beer_hall/feed/page-2.json",
+      "count": 10
+    },
+    {
+      "page": 3,
+      "file": "beer_hall/feed/page-3.json",
+      "count": 5
     }
   ]
 }

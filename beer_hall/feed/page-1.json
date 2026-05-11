@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-11T17:07:50Z",
+  "generated_at": "2026-05-11T17:11:53Z",
   "page": 1,
   "page_size": 10,
-  "total": 9,
-  "page_count": 1,
+  "total": 25,
+  "page_count": 3,
   "entries": [
     {
       "id": "beer-hall-2026-05-11T170750Z",
@@ -16,68 +16,76 @@
       "json_path": "beer_hall/entries/beer-hall_2026-05-11T170750Z_fundraisers-page-live-qmdj-advisor-currency-tools.json"
     },
     {
-      "id": "beer-hall-2026-04-24T022534Z",
-      "posted_at_utc": "2026-04-24T02:25:34Z",
-      "slug": "retail-sales-surge-email-pipeline-oracle-claude",
-      "preview": "Strong sales week at the Santa Cruz retail partners, the oracle advisor switched to Claude with prompt caching, a full email-tracking pipeline landed for the Hit List, and the DApp's store pipeline view got a significan…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-24T022534Z_retail-sales-surge-email-pipeline-oracle-claude.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-24T022534Z_retail-sales-surge-email-pipeline-oracle-claude.json"
+      "id": "beer-hall-2026-05-10T024057Z",
+      "posted_at_utc": "2026-05-10T02:40:57Z",
+      "slug": "batch-qr-oracle-persist-autopilot-auth",
+      "preview": "Batch inventory movement, oracle persistence, and agentic authorization all landed since yesterday's digest — the biggest cluster of contributor-facing wiring in this cycle. - **Batch QR inventory movement live** — cont…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-10T024057Z_batch-qr-oracle-persist-autopilot-auth.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-10T024057Z_batch-qr-oracle-persist-autopilot-auth.json"
     },
     {
-      "id": "beer-hall-2026-04-23T022449Z",
-      "posted_at_utc": "2026-04-23T02:24:49Z",
-      "slug": "dao-client-read-layer-members-cache-store-restocks",
-      "preview": "Big week for the read side of the stack: the dao_client got a full cache layer so Python scripts and the browser DApp can pull DAO data from GitHub without hitting GAS every time; a DAO members cache went live so signat…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-23T022449Z_dao-client-read-layer-members-cache-store-restocks.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-23T022449Z_dao-client-read-layer-members-cache-store-restocks.json"
+      "id": "beer-hall-2026-05-09T023633Z",
+      "posted_at_utc": "2026-05-09T02:36:33Z",
+      "slug": "batch-qr-inventory-oracle-persistence-prospect-auto-promote",
+      "preview": "Batch inventory movements land in the DApp, the I Ching oracle starts persisting draws to a permanent log, and the outbound sales pipeline gains an auto-promotion rule for replied prospects. - **Batch QR inventory movem…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-09T023633Z_batch-qr-inventory-oracle-persistence-prospect-auto-promote.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-09T023633Z_batch-qr-inventory-oracle-persistence-prospect-auto-promote.json"
     },
     {
-      "id": "beer-hall-2026-04-22T021304Z",
-      "posted_at_utc": "2026-04-22T02:13:04Z",
-      "slug": "dao-client-treasury-cache-retailer-playbook-live",
-      "preview": "Heavy infrastructure week: the DApp got a treasury-cache speed layer, a China GFW workaround, and a full routes centralisation; the dao_client Python CLI shipped with 15 signed-event wrappers; and the Retailer Onboardin…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-22T021304Z_dao-client-treasury-cache-retailer-playbook-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-22T021304Z_dao-client-treasury-cache-retailer-playbook-live.json"
+      "id": "beer-hall-2026-05-08T024249Z",
+      "posted_at_utc": "2026-05-08T02:42:49Z",
+      "slug": "asset-receipt-page-autopilot-self-deploy-cacao-samples",
+      "preview": "The Autopilot gains a self-deploy capability and a new Asset Receipt Reporter page, tasting samples shipped to Good Vibrations Apothecary, and the Autopilot's chat UI gets async message queuing so governors can keep typ…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-08T024249Z_asset-receipt-page-autopilot-self-deploy-cacao-samples.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-08T024249Z_asset-receipt-page-autopilot-self-deploy-cacao-samples.json"
     },
     {
-      "id": "beer-hall-2026-04-21T061005Z",
-      "posted_at_utc": "2026-04-21T06:10:05Z",
-      "slug": "whitepaper-oracle-claude-email-marketing-live",
-      "preview": "Busy week across the stack — whitepaper accuracy, Oracle upgrades, email marketing scaffolding, São Jorge farm page, and ongoing AWS security follow-through. - Whitepapers updated to be agentic-AI-friendly: Gas Fee sect…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-21T061005Z_whitepaper-oracle-claude-email-marketing-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-21T061005Z_whitepaper-oracle-claude-email-marketing-live.json"
+      "id": "beer-hall-2026-05-07T023654Z",
+      "posted_at_utc": "2026-05-07T02:36:54Z",
+      "slug": "agentic-auth-asset-receipt-cacao-transfer",
+      "preview": "The Autopilot gains a trusted-agent authorization path and a new asset-receipt ingest pipeline, 15 more ceremonial cacao bags moved from Kirsten to Gary via Edgar-verified QR transfers, and a Bialetti Moka Express arriv…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-07T023654Z_agentic-auth-asset-receipt-cacao-transfer.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-07T023654Z_agentic-auth-asset-receipt-cacao-transfer.json"
     },
     {
-      "id": "beer-hall-2026-04-19T213956Z",
-      "posted_at_utc": "2026-04-19T21:39:56Z",
-      "slug": "retire-whatsapp-oracle-and-reminders-live",
-      "preview": "OpenClaw × Cursor digest — retired from WhatsApp posting; archive-only for oracle / feed context (not a manual post from Gary) - Cybernetic Oracle is live. oracle.truesight.me now draws a hexagram and passes DAO state (…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-19T213956Z_retire-whatsapp-oracle-and-reminders-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-19T213956Z_retire-whatsapp-oracle-and-reminders-live.json"
+      "id": "beer-hall-2026-05-06T023441Z",
+      "posted_at_utc": "2026-05-06T02:34:41Z",
+      "slug": "autopilot-batch-approvals-warmup-body-expand",
+      "preview": "The Autopilot gains a vision pipeline and batch approval cards, the warm-up review module now shows full prospect reply bodies inline, and seven bags of ceremonial cacao moved from Kirsten to Gary via verified Edgar inv…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-06T023441Z_autopilot-batch-approvals-warmup-body-expand.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-06T023441Z_autopilot-batch-approvals-warmup-body-expand.json"
     },
     {
-      "id": "beer-hall-2026-04-18T223617Z",
-      "posted_at_utc": "2026-04-18T22:36:17Z",
-      "slug": "qr-email-migration-admin-truesight-advisory-goals",
-      "preview": "*OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)* - Owners buying multiple QR-coded items in a single Stripe checkout now get ONE onboarding email listing all their tracking links, instead of on…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-18T223617Z_qr-email-migration-admin-truesight-advisory-goals.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-18T223617Z_qr-email-migration-admin-truesight-advisory-goals.json"
+      "id": "beer-hall-2026-05-05T023402Z",
+      "posted_at_utc": "2026-05-05T02:34:02Z",
+      "slug": "mycelial-economy-objection-handling-prospects-tab",
+      "preview": "The Mycelial Economy is live as Field Signals #1 on the blog, objection-handling for \"we already have a supplier\" is wired into the outreach pipeline, and the warm-up review DApp gained a dedicated Prospects tab so repl…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-05T023402Z_mycelial-economy-objection-handling-prospects-tab.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-05T023402Z_mycelial-economy-objection-handling-prospects-tab.json"
     },
     {
-      "id": "beer-hall-2026-04-17T232946Z",
-      "posted_at_utc": "2026-04-17T23:29:46Z",
-      "slug": "partner-inventory-81pct-skus-kirsten-sales",
-      "preview": "*OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)* - Partners selling our cacao in LA can now see their live stock levels directly on their agroverse.shop page — less back-and-forth on how much i…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-17T232946Z_partner-inventory-81pct-skus-kirsten-sales.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-17T232946Z_partner-inventory-81pct-skus-kirsten-sales.json"
+      "id": "beer-hall-2026-05-04T023629Z",
+      "posted_at_utc": "2026-05-04T02:36:29Z",
+      "slug": "autopilot-warmup-review-santos-onboarded",
+      "preview": "The TrueSight Autopilot is now deployed on EC2, a mobile warm-up review module lets contributors triage and send outreach drafts from their phones, and Santos Chocolate Factory joins the partner hub as TrueSight's first…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-04T023629Z_autopilot-warmup-review-santos-onboarded.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-04T023629Z_autopilot-warmup-review-santos-onboarded.json"
     },
     {
-      "id": "beer-hall-2026-04-16T224657Z",
-      "posted_at_utc": "2026-04-16T22:46:57Z",
-      "slug": "digest-2026-04-16",
-      "preview": "*OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)* We made the public site easier to follow: truesight.me now surfaces a live, paginated list of published Beer Hall digests from git so anyone can…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-16T224657Z_digest-2026-04-16.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-16T224657Z_digest-2026-04-16.json"
+      "id": "beer-hall-2026-05-03T023806Z",
+      "posted_at_utc": "2026-05-03T02:38:06Z",
+      "slug": "places-cache-reply-drafts-cost-optimizations",
+      "preview": "Auto-generated warm-up reply drafts are now live, Google Places data is permanently cached to cut API spend, and three more prospects have replied to outreach. - **Auto-reply drafts wired up** — when a warm-up prospect …",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-03T023806Z_places-cache-reply-drafts-cost-optimizations.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-03T023806Z_places-cache-reply-drafts-cost-optimizations.json"
+    },
+    {
+      "id": "beer-hall-2026-05-02T022854Z",
+      "posted_at_utc": "2026-05-02T02:28:54Z",
+      "slug": "bucks-spices-way-home-shop-reply-wholesale-live",
+      "preview": "Three inbound prospect replies landed, a new wholesale page shipped, and The Way Home Shop (Portland) is now live on the partner hub. - **The Way Home Shop replied** — owner wrote back to the warm-up sample: \"The packag…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-02T022854Z_bucks-spices-way-home-shop-reply-wholesale-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-02T022854Z_bucks-spices-way-home-shop-reply-wholesale-live.json"
     }
   ]
 }
