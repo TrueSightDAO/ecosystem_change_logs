@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T10:59:13.897Z",
+  "generated_at": "2026-05-12T10:59:14.453Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -14,24 +14,24 @@
         "status": "Partnered",
         "stores": 15,
         "north_star": true
-      },
-      {
-        "status": "Shortlisted",
-        "stores": 3,
-        "north_star": false
       }
     ]
   },
   "funnel": [
     {
       "order": 1,
-      "status": "Not Appropriate",
-      "stores": 74
+      "status": "Deferred / Revisit later",
+      "stores": 5
     },
     {
       "order": 3,
       "status": "AI: Contact Form found",
       "stores": 109
+    },
+    {
+      "order": 6,
+      "status": "AI: No fit signal",
+      "stores": 155
     },
     {
       "order": 8,
@@ -40,8 +40,8 @@
     },
     {
       "order": 9,
-      "status": "AI: No fit signal",
-      "stores": 155
+      "status": "AI: Enrich with contact",
+      "stores": 3
     },
     {
       "order": 10,
@@ -49,44 +49,39 @@
       "stores": 90
     },
     {
-      "order": 12,
-      "status": "Deferred / Revisit later",
-      "stores": 5
-    },
-    {
       "order": 13,
-      "status": "Instagram Followed",
-      "stores": 11
-    },
-    {
-      "order": 15,
       "status": "Manager Follow-up",
       "stores": 33
     },
     {
+      "order": 15,
+      "status": "Followed Up",
+      "stores": 1
+    },
+    {
       "order": 18,
-      "status": "Shortlisted",
-      "stores": 3
+      "status": "Instagram Followed",
+      "stores": 11
     },
     {
       "order": 19,
-      "status": "On Hold",
-      "stores": 18
-    },
-    {
-      "order": 20,
-      "status": "Partnered",
-      "stores": 15
-    },
-    {
-      "order": 21,
       "status": "Rejected",
       "stores": 14
     },
     {
+      "order": 20,
+      "status": "On Hold",
+      "stores": 18
+    },
+    {
+      "order": 21,
+      "status": "Not Appropriate",
+      "stores": 74
+    },
+    {
       "order": 22,
-      "status": "Followed Up",
-      "stores": 1
+      "status": "Partnered",
+      "stores": 15
     },
     {
       "order": 9999,
