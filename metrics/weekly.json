@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T10:59:14.453Z",
+  "generated_at": "2026-05-13T10:59:15.272Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -95,14 +95,14 @@
       "tab": "Email Agent Follow Up",
       "sends_logged": {
         "warmup": 174,
-        "follow_up": 67,
+        "follow_up": 69,
         "bulk": 0,
         "unknown": 2,
-        "total_rows": 243
+        "total_rows": 245
       },
       "distinct_recipients": {
         "warmup": 85,
-        "follow_up": 21,
+        "follow_up": 22,
         "bulk": 0,
         "unknown": 2
       }
@@ -128,15 +128,15 @@
         "Manager Follow-up": {
           "stores": 33,
           "sum_warmup_sends_au": 10,
-          "sum_follow_up_sends_av": 63,
+          "sum_follow_up_sends_av": 65,
           "warmup_send_depth": {
             "none": 29,
             "once": 1,
             "repeat": 3
           },
           "follow_up_send_depth": {
-            "none": 13,
-            "once": 3,
+            "none": 12,
+            "once": 4,
             "repeat": 17
           }
         },
@@ -174,15 +174,15 @@
       "follow_up_pipeline_combined": {
         "stores": 33,
         "sum_warmup_sends_au": 10,
-        "sum_follow_up_sends_av": 63,
+        "sum_follow_up_sends_av": 65,
         "warmup_send_depth": {
           "none": 29,
           "once": 1,
           "repeat": 3
         },
         "follow_up_send_depth": {
-          "none": 13,
-          "once": 3,
+          "none": 12,
+          "once": 4,
           "repeat": 17
         },
         "note": "Union of Hit List rows in statuses: Manager Follow-up, Bulk Info Requested, AI: Prospect replied"
