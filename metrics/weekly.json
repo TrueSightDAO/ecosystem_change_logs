@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T10:59:15.272Z",
+  "generated_at": "2026-05-14T10:59:15.058Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -31,7 +31,7 @@
     {
       "order": 6,
       "status": "AI: No fit signal",
-      "stores": 155
+      "stores": 154
     },
     {
       "order": 8,
@@ -86,7 +86,7 @@
     {
       "order": 9999,
       "status": "AI: Warm up prospect",
-      "stores": 78
+      "stores": 79
     }
   ],
   "outreach_visibility": {
@@ -111,16 +111,16 @@
       "touch_columns_resolved": true,
       "cohorts": {
         "AI: Warm up prospect": {
-          "stores": 78,
+          "stores": 79,
           "sum_warmup_sends_au": 147,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
-            "none": 4,
+            "none": 5,
             "once": 5,
             "repeat": 69
           },
           "follow_up_send_depth": {
-            "none": 78,
+            "none": 79,
             "once": 0,
             "repeat": 0
           }
