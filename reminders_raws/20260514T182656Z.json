@@ -1,0 +1,7 @@
+{
+  "received_at": "2026-05-14T18:26:56Z",
+  "content_type": "application/json",
+  "remote_ip": "172.56.46.61",
+  "user_agent": "BackgroundShortcutRunner/3612.0.2.1 CFNetwork/3826.600.41 Darwin/24.6.0",
+  "raw_body": "{\"update\":\"Frank Sinatra as a standalone service which accepts restful API calls that the LLMs can interact with\"}"
+}
