@@ -3,7 +3,7 @@
 _Auto-synced from the Pipeline Dashboard tab of the Holistic Hit List workbook._
 _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in tokenomics._
 
-- Generated (UTC): `2026-05-14T10:59:15.058Z`
+- Generated (UTC): `2026-05-15T10:59:17.439Z`
 - Source: [Pipeline Dashboard](https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029)
 - Total stores tracked: **668**
 - Partnered (north-star): **15**
@@ -12,8 +12,8 @@ _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in 
 
 - Deferred / Revisit later: 5  (#1)
 - AI: Contact Form found: 109  (#3)
-- AI: No fit signal: 154  (#6)
-- Research: 62  (#8)
+- AI: No fit signal: 155  (#6)
+- Research: 61  (#8)
 - AI: Enrich with contact: 3  (#9)
 - AI: Enrich — manual: 90  (#10)
 - Manager Follow-up: 33  (#13)
