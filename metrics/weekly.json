@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T10:59:17.439Z",
+  "generated_at": "2026-05-16T10:59:13.516Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -7,86 +7,15 @@
     "url": "https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029"
   },
   "totals": {
-    "all_stores": 668,
-    "partnered": 15,
-    "highlights": [
-      {
-        "status": "Partnered",
-        "stores": 15,
-        "north_star": true
-      }
-    ]
+    "all_stores": 0,
+    "partnered": 0,
+    "highlights": []
   },
   "funnel": [
     {
-      "order": 1,
-      "status": "Deferred / Revisit later",
-      "stores": 5
-    },
-    {
-      "order": 3,
-      "status": "AI: Contact Form found",
-      "stores": 109
-    },
-    {
-      "order": 6,
-      "status": "AI: No fit signal",
-      "stores": 155
-    },
-    {
-      "order": 8,
-      "status": "Research",
-      "stores": 61
-    },
-    {
-      "order": 9,
-      "status": "AI: Enrich with contact",
-      "stores": 3
-    },
-    {
-      "order": 10,
-      "status": "AI: Enrich — manual",
-      "stores": 90
-    },
-    {
-      "order": 13,
-      "status": "Manager Follow-up",
-      "stores": 33
-    },
-    {
-      "order": 15,
-      "status": "Followed Up",
-      "stores": 1
-    },
-    {
-      "order": 18,
-      "status": "Instagram Followed",
-      "stores": 11
-    },
-    {
-      "order": 19,
-      "status": "Rejected",
-      "stores": 14
-    },
-    {
-      "order": 20,
-      "status": "On Hold",
-      "stores": 18
-    },
-    {
-      "order": 21,
-      "status": "Not Appropriate",
-      "stores": 74
-    },
-    {
-      "order": 22,
-      "status": "Partnered",
-      "stores": 15
-    },
-    {
-      "order": 9999,
-      "status": "AI: Warm up prospect",
-      "stores": 79
+      "order": null,
+      "status": "Reclassified — D2C only",
+      "stores": 0
     }
   ],
   "outreach_visibility": {
