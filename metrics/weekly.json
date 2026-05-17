@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T10:59:13.516Z",
+  "generated_at": "2026-05-17T10:59:14.660Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -7,13 +7,89 @@
     "url": "https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029"
   },
   "totals": {
-    "all_stores": 0,
-    "partnered": 0,
-    "highlights": []
+    "all_stores": 668,
+    "partnered": 14,
+    "highlights": [
+      {
+        "status": "Partnered",
+        "stores": 14,
+        "north_star": true
+      }
+    ]
   },
   "funnel": [
     {
-      "order": null,
+      "order": 1,
+      "status": "Reclassified — D2C only",
+      "stores": 1
+    },
+    {
+      "order": 3,
+      "status": "AI: Contact Form found",
+      "stores": 109
+    },
+    {
+      "order": 8,
+      "status": "Research",
+      "stores": 60
+    },
+    {
+      "order": 9,
+      "status": "AI: No fit signal",
+      "stores": 156
+    },
+    {
+      "order": 10,
+      "status": "AI: Enrich — manual",
+      "stores": 93
+    },
+    {
+      "order": 13,
+      "status": "Manager Follow-up",
+      "stores": 33
+    },
+    {
+      "order": 15,
+      "status": "Followed Up",
+      "stores": 1
+    },
+    {
+      "order": 18,
+      "status": "Instagram Followed",
+      "stores": 11
+    },
+    {
+      "order": 19,
+      "status": "Rejected",
+      "stores": 14
+    },
+    {
+      "order": 20,
+      "status": "On Hold",
+      "stores": 18
+    },
+    {
+      "order": 21,
+      "status": "Deferred / Revisit later",
+      "stores": 5
+    },
+    {
+      "order": 22,
+      "status": "Partnered",
+      "stores": 14
+    },
+    {
+      "order": 9999,
+      "status": "AI: Warm up prospect",
+      "stores": 79
+    },
+    {
+      "order": 9999,
+      "status": "Not Appropriate",
+      "stores": 74
+    },
+    {
+      "order": 9999,
       "status": "Reclassified — D2C only",
       "stores": 0
     }
