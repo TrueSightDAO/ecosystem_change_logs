@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-17T03:40:43Z",
+  "generated_at": "2026-05-18T03:56:53Z",
   "page": 1,
   "page_size": 10,
-  "total": 29,
+  "total": 30,
   "page_count": 3,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-18T035653Z",
+      "posted_at_utc": "2026-05-18T03:56:53Z",
+      "slug": "programs-markdown-inventory-sellthrough",
+      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Programs descriptions enriched** — markdown rendering enabled for links and code blocks on program landing pages. - **Check-in fields expanded…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-18T035653Z_programs-markdown-inventory-sellthrough.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-18T035653Z_programs-markdown-inventory-sellthrough.json"
+    },
     {
       "id": "beer-hall-2026-05-17T034043Z",
       "posted_at_utc": "2026-05-17T03:40:43Z",
@@ -78,14 +86,6 @@
       "preview": "The Autopilot gains a trusted-agent authorization path and a new asset-receipt ingest pipeline, 15 more ceremonial cacao bags moved from Kirsten to Gary via Edgar-verified QR transfers, and a Bialetti Moka Express arriv…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-07T023654Z_agentic-auth-asset-receipt-cacao-transfer.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-07T023654Z_agentic-auth-asset-receipt-cacao-transfer.json"
-    },
-    {
-      "id": "beer-hall-2026-05-06T023441Z",
-      "posted_at_utc": "2026-05-06T02:34:41Z",
-      "slug": "autopilot-batch-approvals-warmup-body-expand",
-      "preview": "The Autopilot gains a vision pipeline and batch approval cards, the warm-up review module now shows full prospect reply bodies inline, and seven bags of ceremonial cacao moved from Kirsten to Gary via verified Edgar inv…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-06T023441Z_autopilot-batch-approvals-warmup-body-expand.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-06T023441Z_autopilot-batch-approvals-warmup-body-expand.json"
     }
   ]
 }
