@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-18T03:56:53Z",
+  "generated_at": "2026-05-19T03:47:16Z",
   "page": 2,
   "page_size": 10,
-  "total": 30,
-  "page_count": 3,
+  "total": 31,
+  "page_count": 4,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-07T023654Z",
+      "posted_at_utc": "2026-05-07T02:36:54Z",
+      "slug": "agentic-auth-asset-receipt-cacao-transfer",
+      "preview": "The Autopilot gains a trusted-agent authorization path and a new asset-receipt ingest pipeline, 15 more ceremonial cacao bags moved from Kirsten to Gary via Edgar-verified QR transfers, and a Bialetti Moka Express arriv…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-07T023654Z_agentic-auth-asset-receipt-cacao-transfer.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-07T023654Z_agentic-auth-asset-receipt-cacao-transfer.json"
+    },
     {
       "id": "beer-hall-2026-05-06T023441Z",
       "posted_at_utc": "2026-05-06T02:34:41Z",
@@ -78,14 +86,6 @@
       "preview": "The /wholesale/ page is live on the shop, partner velocity tracking shipped its first snapshot, and the Two Bahia bars newsletter went out to 38 subscribers. A busy day of pipeline wiring and sales tooling. - **/wholesa…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-04-28T023934Z_wholesale-page-velocity-snapshot-two-bahia-newsletter.md",
       "json_path": "beer_hall/entries/beer-hall_2026-04-28T023934Z_wholesale-page-velocity-snapshot-two-bahia-newsletter.json"
-    },
-    {
-      "id": "beer-hall-2026-04-27T023204Z",
-      "posted_at_utc": "2026-04-27T02:32:04Z",
-      "slug": "store-history-timelines-way-home-shop-onboarded",
-      "preview": "A productive week on the DApp and outreach front: store interaction history gained field report timelines, a new partner (The Way Home Shop) was onboarded for ceremonial cacao, and several quality-of-life fixes landed a…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-27T023204Z_store-history-timelines-way-home-shop-onboarded.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-27T023204Z_store-history-timelines-way-home-shop-onboarded.json"
     }
   ]
 }
