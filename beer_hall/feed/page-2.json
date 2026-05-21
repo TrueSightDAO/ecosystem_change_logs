@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-20T03:47:23Z",
+  "generated_at": "2026-05-21T03:58:40Z",
   "page": 2,
   "page_size": 10,
-  "total": 32,
+  "total": 33,
   "page_count": 4,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-09T023633Z",
+      "posted_at_utc": "2026-05-09T02:36:33Z",
+      "slug": "batch-qr-inventory-oracle-persistence-prospect-auto-promote",
+      "preview": "Batch inventory movements land in the DApp, the I Ching oracle starts persisting draws to a permanent log, and the outbound sales pipeline gains an auto-promotion rule for replied prospects. - **Batch QR inventory movem…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-09T023633Z_batch-qr-inventory-oracle-persistence-prospect-auto-promote.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-09T023633Z_batch-qr-inventory-oracle-persistence-prospect-auto-promote.json"
+    },
     {
       "id": "beer-hall-2026-05-08T024249Z",
       "posted_at_utc": "2026-05-08T02:42:49Z",
@@ -78,14 +86,6 @@
       "preview": "Kirsten sold 37 bars at $10 each — 20 Oscar 2024 and 17 Santa Ana 2023 — processed via a batch Stripe script Gary wrote and submitted to Edgar. That's $370 in confirmed cash sales recorded on-chain. - **37 bars sold, fu…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-04-30T024023Z_kirsten-37-bars-sold-store-add-scanner.md",
       "json_path": "beer_hall/entries/beer-hall_2026-04-30T024023Z_kirsten-37-bars-sold-store-add-scanner.json"
-    },
-    {
-      "id": "beer-hall-2026-04-29T023918Z",
-      "posted_at_utc": "2026-04-29T02:39:18Z",
-      "slug": "way-home-shop-live-circle-detector-permissions-phase-two",
-      "preview": "The Way Home Shop (Portland, OR) is fully onboarded and live on the partner hub, a circle-hosting detector shipped to find wellness venues that run sound baths and breathwork, and the DApp's contributor permissions syst…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-29T023918Z_way-home-shop-live-circle-detector-permissions-phase-two.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-29T023918Z_way-home-shop-live-circle-detector-permissions-phase-two.json"
     }
   ]
 }
