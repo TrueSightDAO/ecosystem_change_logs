@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T10:59:14.202Z",
+  "generated_at": "2026-05-22T10:59:14.417Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -31,12 +31,12 @@
     {
       "order": 8,
       "status": "Research",
-      "stores": 60
+      "stores": 59
     },
     {
       "order": 9,
       "status": "AI: No fit signal",
-      "stores": 156
+      "stores": 157
     },
     {
       "order": 10,
