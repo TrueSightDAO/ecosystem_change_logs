@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-05-26T034726Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-05-26T03:47:26Z",
+  "slug": "dao-protocol-live-and-backtester-launch",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-05-26T034726Z_dao-protocol-live-and-backtester-launch.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-05-26T034726Z_dao-protocol-live-and-backtester-launch.json",
+  "message1_tldr": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)\n\n- **Protocol live** — `dao_protocol` FastAPI service deployed; shipping rates, GAS proxy, and contribution intake migrated from legacy Rails.\n- **Backtester launch** — Strategy comparison tool live with reactive UI, indicator panels (RSI/MACD), and sell-off overlays.\n- **Shop UX** — QR newsletter opt-in now defaults to unchecked (genuine consent) with centered UI.\n- **Narrative published** — \"The checklist that lets you do nothing\" (Do Nothing Society) + updated \"The chain holds\" (Field Signals #7).\n- **Event prep** — Dual Tech Summit QR tooling finalized; sample bags prepped for Onsen gathering.\n- **Routing fix** — GAS proxy cutover resolves latent 401 errors and improves cross-border reliability.\n- **Roadmap** — Edgar extraction plan and execution roadmap conventions locked in.",
+  "message2_shipped": "Shipped\n\n- agentic_ai_context: dao_protocol scaffold + FastAPI production deployment — https://github.com/TrueSightDAO/agentic_ai_context/pull/189 · https://github.com/TrueSightDAO/agentic_ai_context/pull/190\n- agentic_ai_context: GAS proxy ramp + Shipping/Tracking parity vs Rails — https://github.com/TrueSightDAO/agentic_ai_context/pull/193 · https://github.com/TrueSightDAO/agentic_ai_context/pull/195\n- agentic_ai_context: DAO contribution intake/dispatch engine + QR-check flow — https://github.com/TrueSightDAO/agentic_ai_context/pull/198 · https://github.com/TrueSightDAO/agentic_ai_context/pull/200\n- agroverse_shop_beta: Newsletter opt-in checkbox + UI centering/consent logic — https://github.com/TrueSightDAO/agroverse_shop_beta/pull/113 · https://github.com/TrueSightDAO/agroverse_shop_beta/pull/116\n- tokenomics: QR generator path fix + newsletter subscribe parameter — https://github.com/TrueSightDAO/tokenomics/pull/311 · https://github.com/TrueSightDAO/tokenomics/pull/309\n- truesight.me: publish \"The checklist that lets you do nothing\" + \"The chain holds\" — https://github.com/TrueSightDAO/truesight_me_beta/pull/145 · https://github.com/TrueSightDAO/truesight_me_beta/pull/144\n- go_to_market: Dual Tech Summit essay v0.3 (reframing) — https://github.com/TrueSightDAO/go_to_market/pull/138\n- agentic_ai_context: Edgar extraction plan + execution-roadmap convention — https://github.com/TrueSightDAO/agentic_ai_context/pull/187 · https://github.com/TrueSightDAO/agentic_ai_context/pull/185\n\nCommunity (Telegram log):\n\n- **BizDev (Gary):** Coordinated printer use for sample bags for the Onsen global gathering [Full Provision Awarded]."
+}
