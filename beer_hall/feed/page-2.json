@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-05-28T03:52:27Z",
+  "generated_at": "2026-05-29T03:52:49Z",
   "page": 2,
   "page_size": 10,
-  "total": 40,
-  "page_count": 4,
+  "total": 41,
+  "page_count": 5,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-19T034716Z",
+      "posted_at_utc": "2026-05-19T03:47:16Z",
+      "slug": "phase-4-1-live-llm-discovery-surface",
+      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Phase 4.1 credentialing** — added a \"Pending review\" section to the credentials dashboard to track submissions awaiting approval. - **Treasury…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-19T034716Z_phase-4-1-live-llm-discovery-surface.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-19T034716Z_phase-4-1-live-llm-discovery-surface.json"
+    },
     {
       "id": "beer-hall-2026-05-18T035653Z",
       "posted_at_utc": "2026-05-18T03:56:53Z",
@@ -78,14 +86,6 @@
       "preview": "The Autopilot gains a self-deploy capability and a new Asset Receipt Reporter page, tasting samples shipped to Good Vibrations Apothecary, and the Autopilot's chat UI gets async message queuing so governors can keep typ…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-08T024249Z_asset-receipt-page-autopilot-self-deploy-cacao-samples.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-08T024249Z_asset-receipt-page-autopilot-self-deploy-cacao-samples.json"
-    },
-    {
-      "id": "beer-hall-2026-05-07T023654Z",
-      "posted_at_utc": "2026-05-07T02:36:54Z",
-      "slug": "agentic-auth-asset-receipt-cacao-transfer",
-      "preview": "The Autopilot gains a trusted-agent authorization path and a new asset-receipt ingest pipeline, 15 more ceremonial cacao bags moved from Kirsten to Gary via Edgar-verified QR transfers, and a Bialetti Moka Express arriv…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-07T023654Z_agentic-auth-asset-receipt-cacao-transfer.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-07T023654Z_agentic-auth-asset-receipt-cacao-transfer.json"
     }
   ]
 }
