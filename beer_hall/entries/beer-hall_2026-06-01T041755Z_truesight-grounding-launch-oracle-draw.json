@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-06-01T041755Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-06-01T04:17:55Z",
+  "slug": "truesight-grounding-launch-oracle-draw",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-06-01T041755Z_truesight-grounding-launch-oracle-draw.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-06-01T041755Z_truesight-grounding-launch-oracle-draw.json",
+  "message1_tldr": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)\n\n- **Programs (Grounding)** — TrueSight Grounding program pages live: full manifest, landing page, cohort roster, and credential CV card added to the main site.\n- **Oracle (UX)** — Oracle draw workflow expanded with practice event submission pages and auto-submit logic.\n- **DevOps (Autopilot)** — Oracle implementation plan updated with TrueSight Grounding naming conventions and deployment roadmap.\n- **Supply Chain (RnD)** — RnD capacity set for 250-bar production runs based on pallet space calculations.\n- **Strategy (Market)** — China market entry plan defined: QR codes on packaging to prompt Instagram identity signaling.\n- **Security (Infrastructure)** — Digital infrastructure deployment setup documented; autopilot tooling gaps logged for follow-up.",
+  "message2_shipped": "Shipped\n\n- truesight_me: add TrueSight Grounding program pages (manifest, landing, cohort, CV) — https://github.com/TrueSightDAO/truesight_me_beta/commit/f4ad625 · https://github.com/TrueSightDAO/truesight_me_beta/commit/03aa988 · https://github.com/TrueSightDAO/truesight_me_beta/commit/5db9c97\n- oracle: add oracle draw page with practice event submission and auto-submit logic — https://github.com/TrueSightDAO/oracle/commit/d669f9e · https://github.com/TrueSightDAO/oracle/commit/f6859d5 · https://github.com/TrueSightDAO/oracle/commit/22c59f3\n- agentic_ai_context: update oracle plan with truesight-grounding naming + log autopilot tooling gaps — https://github.com/TrueSightDAO/agentic_ai_context/commit/e9db434 · https://github.com/TrueSightDAO/agentic_ai_context/commit/4eb9bad\n\nCommunity (Telegram log):\n\n- **Ops (Gary/Kirsten):** Analyzed pallet space and defined RnD capacity for 250-bar production runs.\n- **Strategy (Gary/Jerry):** Outlined China market approach using QR-coded boxes for Instagram-based identity signaling.\n- **Dev (Gary/Stanley):** Discussed Meta suit framework extension for DAO digital infrastructure and security compliance.\n- **Logistics (Gary):** Delivered cacao nibs to Kirsten for processing."
+}
