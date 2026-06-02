@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-06-02T041231Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-06-02T04:12:31Z",
+  "slug": "grounding-renderer-and-onboarding-tools",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-06-02T041231Z_grounding-renderer-and-onboarding-tools.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-06-02T041231Z_grounding-renderer-and-onboarding-tools.json",
+  "message1_tldr": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)\n\n- **Programs (Grounding)** — Oracle payload renderer now loads on TrueSight Grounding credential pages for live data visualization.\n- **Onboarding (Tooling)** — New GAS handlers wired for sending onboarding invitations and email verification.\n- **Governance (Docs)** — Whitepaper updated to drop OpenClaw references, refine early-exit clauses, and expand governor privileges.\n- **Narrative (Blog)** — Editorial hero image added; Autopilot claims revised to prevent dating.\n- **DevOps (Shop)** — Visual-consistency checks enabled in CI to catch post-deploy site drift.\n- **Community (Events)** — Cacao tea bags designed and printed for the Onsen Global Tech summit.\n- **Operations (Fulfillment)** — Susie Fritsch order fulfilled with drop-off and handwritten note.\n- **Logistics (Field)** — AGL15 provisioned for gasoline expenses related to transport.",
+  "message2_shipped": "Shipped\n\n- truesight_me: load oracle payload renderer on grounding page + whitepaper update (drop OpenClaw, governor privileges) — https://github.com/TrueSightDAO/truesight_me_beta/commit/f89cf94 · https://github.com/TrueSightDAO/truesight_me_beta/commit/35d2fa4\n- tokenomics: add sendOnboardingInvitation handler + bind edgar_send_email_verification — https://github.com/TrueSightDAO/tokenomics/commit/b0fc0f7 · https://github.com/TrueSightDAO/tokenomics/commit/a13e9a0\n- truesight_me: editorial SVG hero + Autopilot 36-tools claim update — https://github.com/TrueSightDAO/truesight_me_beta/commit/b0f2307\n- agroverse_shop: visual-consistency CI runs post-deploy against live beta — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/e95a339\n\nCommunity (Telegram log):\n\n- **Contribution (Kirsten):** Design, print label for Cacao tea bags to give away at Onsen Global Tech summit. Package Cacao tea (3h 0m).\n- **Contribution (Kirsten):** Fulfillment for Susie Fritsch, including note and drop off (1h 0m).\n- **Ops (AGL15):** Gasoline for driving around ($14.24 USD)."
+}
