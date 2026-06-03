@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-06-03T042129Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-06-03T04:21:29Z",
+  "slug": "bec-launch-and-ledger-fixes",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-06-03T042129Z_bec-launch-and-ledger-fixes.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-06-03T042129Z_bec-launch-and-ledger-fixes.json",
+  "message1_tldr": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary)\n\n- **Programs (BEC)** — Butterfly Effect Club credential badges now link to tree-planting records and display the correct logo on pages.\n- **Web (Sunmint)** — Sunmint page updated with BEC cards and a dedicated ledger redirect for members.\n- **Tokenomics (Ledger)** — Donation-mint logic fixed to write pledge assets to program-managed ledgers, isolating data from the main offchain ledger.\n- **Tokenomics (Currency)** — GAS handlers updated to support BEC cohort-tree currency and dynamic validation against the Currencies tab.\n- **Narrative (Docs)** — BEC onboarding runbook and roadmap finalized; effort marked complete in advisory snapshot.\n- **Operations (Sales)** — Oscar and Santa Ana cacao bars sold and transferred to fulfillment inventory.\n- **Logistics (Inventory)** — Bulk inventory movement logged from AGL2 to Kirsten for order preparation.\n- **Community (Growth)** — 95 BEC trees minted and sold; student payments processed successfully.\n- **Dev (DApp)** — Fixed syntax error on the report inventory movement page.",
+  "message2_shipped": "Shipped\n\n- truesight_me: BEC credential badges, Sunmint integration, and ledger redirects — https://github.com/TrueSightDAO/truesight_me_beta/commit/15a0f38 · https://github.com/TrueSightDAO/truesight_me_beta/commit/65b9abe\n- tokenomics: route pledge assets to program managed ledgers + BEC currency support — https://github.com/TrueSightDAO/tokenomics/commit/e2a5730 · https://github.com/TrueSightDAO/tokenomics/commit/24dbd34\n- agentic_ai_context: BEC onboarding runbook + roadmap completion — https://github.com/TrueSightDAO/agentic_ai_context/commit/81ccff9 · https://github.com/TrueSightDAO/agentic_ai_context/commit/c257690\n\nCommunity (Telegram log):\n\n- **Sales (Kirsten):** Sold 2024OSCAR_20260121_23 and 2024SA_20251227_21.\n- **Ops (Gary):** Processed bulk inventory movement of Oscar and Santa Ana units to Kirsten for fulfillment.\n- **Contribution (Gary):** Finalized BEC credential page badges, surfacing, and documentation (4h).\n- **Strategy (Gary):** Communicated with FounderHaus regarding financing for the Florianopolis tour leg.\n- **Growth (Gary):** Minted and sold 95 BEC trees; processed payments for student records."
+}
