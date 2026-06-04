@@ -3,9 +3,9 @@
 _Auto-synced from the Pipeline Dashboard tab of the Holistic Hit List workbook._
 _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in tokenomics._
 
-- Generated (UTC): `2026-06-03T10:59:14.944Z`
+- Generated (UTC): `2026-06-04T10:59:14.317Z`
 - Source: [Pipeline Dashboard](https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029)
-- Total stores tracked: **668**
+- Total stores tracked: **669**
 - Partnered (north-star): **14**
 
 ## Funnel by status (curated order)
@@ -15,7 +15,7 @@ _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in 
 - Research: 59  (#8)
 - AI: No fit signal: 157  (#9)
 - AI: Enrich — manual: 93  (#10)
-- Manager Follow-up: 33  (#13)
+- Manager Follow-up: 34  (#13)
 - Followed Up: 1  (#15)
 - Instagram Followed: 11  (#18)
 - Rejected: 14  (#19)
@@ -34,7 +34,7 @@ _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in 
 ### Hit List cohorts (stores in stage × AU/AV send counts)
 
 - **AI: Warm up prospect**: **79** stores — sum logged **warmup** sends (AU): **150**, sum logged **follow-up** sends (AV): **0**; warmup depth (none / once / ≥2): **5** / **4** / **70**; follow-up depth (none / once / ≥2): **79** / **0** / **0**
-- **Manager Follow-up**: **33** stores — sum logged **warmup** sends (AU): **10**, sum logged **follow-up** sends (AV): **65**; warmup depth (none / once / ≥2): **29** / **1** / **3**; follow-up depth (none / once / ≥2): **12** / **4** / **17**
+- **Manager Follow-up**: **34** stores — sum logged **warmup** sends (AU): **10**, sum logged **follow-up** sends (AV): **65**; warmup depth (none / once / ≥2): **30** / **1** / **3**; follow-up depth (none / once / ≥2): **13** / **4** / **17**
 - **Bulk Info Requested**: _(no rows in this status)_
 - **AI: Prospect replied**: _(no rows in this status)_
-- **Follow-up pipeline (combined)**: **33** stores — sum logged **warmup** sends (AU): **10**, sum logged **follow-up** sends (AV): **65**; warmup depth (none / once / ≥2): **29** / **1** / **3**; follow-up depth (none / once / ≥2): **12** / **4** / **17**
+- **Follow-up pipeline (combined)**: **34** stores — sum logged **warmup** sends (AU): **10**, sum logged **follow-up** sends (AV): **65**; warmup depth (none / once / ≥2): **30** / **1** / **3**; follow-up depth (none / once / ≥2): **13** / **4** / **17**
