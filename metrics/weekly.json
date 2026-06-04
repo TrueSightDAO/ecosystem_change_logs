@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T10:59:14.944Z",
+  "generated_at": "2026-06-04T10:59:14.317Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -7,7 +7,7 @@
     "url": "https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029"
   },
   "totals": {
-    "all_stores": 668,
+    "all_stores": 669,
     "partnered": 14,
     "highlights": [
       {
@@ -46,7 +46,7 @@
     {
       "order": 13,
       "status": "Manager Follow-up",
-      "stores": 33
+      "stores": 34
     },
     {
       "order": 15,
@@ -131,16 +131,16 @@
           }
         },
         "Manager Follow-up": {
-          "stores": 33,
+          "stores": 34,
           "sum_warmup_sends_au": 10,
           "sum_follow_up_sends_av": 65,
           "warmup_send_depth": {
-            "none": 29,
+            "none": 30,
             "once": 1,
             "repeat": 3
           },
           "follow_up_send_depth": {
-            "none": 12,
+            "none": 13,
             "once": 4,
             "repeat": 17
           }
@@ -177,16 +177,16 @@
         }
       },
       "follow_up_pipeline_combined": {
-        "stores": 33,
+        "stores": 34,
         "sum_warmup_sends_au": 10,
         "sum_follow_up_sends_av": 65,
         "warmup_send_depth": {
-          "none": 29,
+          "none": 30,
           "once": 1,
           "repeat": 3
         },
         "follow_up_send_depth": {
-          "none": 12,
+          "none": 13,
           "once": 4,
           "repeat": 17
         },
