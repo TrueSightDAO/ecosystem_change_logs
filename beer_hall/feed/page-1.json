@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-06-03T04:21:29Z",
+  "generated_at": "2026-06-04T04:15:56Z",
   "page": 1,
   "page_size": 10,
-  "total": 46,
+  "total": 47,
   "page_count": 5,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-04T041556Z",
+      "posted_at_utc": "2026-06-04T04:15:56Z",
+      "slug": "lineage-self-serve-live",
+      "preview": "- **Programs (Lineage)** — Self-serve program registration form now live with auto-identity generation and two signed-event verification. - **Web (Landing)** — Initiatives landing page updated with a 2x2 grid, the 4th i…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-04T041556Z_lineage-self-serve-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-04T041556Z_lineage-self-serve-live.json"
+    },
     {
       "id": "beer-hall-2026-06-03T042129Z",
       "posted_at_utc": "2026-06-03T04:21:29Z",
@@ -78,14 +86,6 @@
       "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Protocol live** — `dao_protocol` FastAPI service deployed; shipping rates, GAS proxy, and contribution intake migrated from legacy Rails. - **…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-26T034726Z_dao-protocol-live-and-backtester-launch.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-26T034726Z_dao-protocol-live-and-backtester-launch.json"
-    },
-    {
-      "id": "beer-hall-2026-05-25T040227Z",
-      "posted_at_utc": "2026-05-25T04:02:27Z",
-      "slug": "newsletter-opt-in-and-dual-tech",
-      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Narrative live** — \"The checklist that lets you do nothing\" (Do Nothing Society) published. - **Newsletter capture** — QR scan flow now includ…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-25T040227Z_newsletter-opt-in-and-dual-tech.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-25T040227Z_newsletter-opt-in-and-dual-tech.json"
     }
   ]
 }
