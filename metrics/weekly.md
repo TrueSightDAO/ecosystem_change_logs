@@ -3,16 +3,16 @@
 _Auto-synced from the Pipeline Dashboard tab of the Holistic Hit List workbook._
 _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in tokenomics._
 
-- Generated (UTC): `2026-06-04T10:59:14.317Z`
+- Generated (UTC): `2026-06-05T10:59:14.078Z`
 - Source: [Pipeline Dashboard](https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029)
-- Total stores tracked: **669**
+- Total stores tracked: **670**
 - Partnered (north-star): **14**
 
 ## Funnel by status (curated order)
 
 - Reclassified — D2C only: 1  (#1)
 - AI: Contact Form found: 109  (#3)
-- Research: 59  (#8)
+- Research: 60  (#8)
 - AI: No fit signal: 157  (#9)
 - AI: Enrich — manual: 93  (#10)
 - Manager Follow-up: 34  (#13)
