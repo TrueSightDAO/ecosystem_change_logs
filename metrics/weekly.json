@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T10:59:14.317Z",
+  "generated_at": "2026-06-05T10:59:14.078Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -7,7 +7,7 @@
     "url": "https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029"
   },
   "totals": {
-    "all_stores": 669,
+    "all_stores": 670,
     "partnered": 14,
     "highlights": [
       {
@@ -31,7 +31,7 @@
     {
       "order": 8,
       "status": "Research",
-      "stores": 59
+      "stores": 60
     },
     {
       "order": 9,
