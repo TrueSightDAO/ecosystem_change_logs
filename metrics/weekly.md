@@ -3,7 +3,7 @@
 _Auto-synced from the Pipeline Dashboard tab of the Holistic Hit List workbook._
 _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in tokenomics._
 
-- Generated (UTC): `2026-06-10T10:59:14.328Z`
+- Generated (UTC): `2026-06-11T10:59:15.036Z`
 - Source: [Pipeline Dashboard](https://docs.google.com/spreadsheets/d/1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc/edit#gid=1606881029)
 - Total stores tracked: **670**
 - Partnered (north-star): **14**
@@ -12,8 +12,8 @@ _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in 
 
 - Reclassified — D2C only: 1  (#1)
 - AI: Contact Form found: 118  (#3)
-- Research: 60  (#8)
-- AI: No fit signal: 157  (#9)
+- Research: 59  (#8)
+- AI: No fit signal: 158  (#9)
 - AI: Enrich — manual: 94  (#10)
 - Manager Follow-up: 32  (#13)
 - Followed Up: 1  (#15)
@@ -28,12 +28,12 @@ _Do not edit by hand — see `google_app_scripts/pipeline_metrics_snapshot/` in 
 
 ## Email outreach visibility (logged sends + Hit List AU/AV)
 
-- **Email Agent Follow Up** — logged sends: warmup **221**, follow_up **70**, bulk **0**, unknown **2** (data rows: **293**)
+- **Email Agent Follow Up** — logged sends: warmup **233**, follow_up **70**, bulk **0**, unknown **2** (data rows: **305**)
 - Distinct recipient addresses (`to_email`, by log `status`): warmup **86**, follow_up **23**, bulk **0**, unknown **2**
 
 ### Hit List cohorts (stores in stage × AU/AV send counts)
 
-- **AI: Warm up prospect**: **69** stores — sum logged **warmup** sends (AU): **173**, sum logged **follow-up** sends (AV): **0**; warmup depth (none / once / ≥2): **3** / **4** / **62**; follow-up depth (none / once / ≥2): **69** / **0** / **0**
+- **AI: Warm up prospect**: **69** stores — sum logged **warmup** sends (AU): **186**, sum logged **follow-up** sends (AV): **0**; warmup depth (none / once / ≥2): **3** / **2** / **64**; follow-up depth (none / once / ≥2): **69** / **0** / **0**
 - **Manager Follow-up**: **32** stores — sum logged **warmup** sends (AU): **7**, sum logged **follow-up** sends (AV): **66**; warmup depth (none / once / ≥2): **29** / **1** / **2**; follow-up depth (none / once / ≥2): **10** / **5** / **17**
 - **Bulk Info Requested**: _(no rows in this status)_
 - **AI: Prospect replied**: _(no rows in this status)_
