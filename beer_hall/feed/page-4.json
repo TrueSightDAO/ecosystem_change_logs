@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-06-12T04:12:28Z",
+  "generated_at": "2026-06-13T03:59:24Z",
   "page": 4,
   "page_size": 10,
-  "total": 55,
+  "total": 56,
   "page_count": 6,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-13T033754Z",
+      "posted_at_utc": "2026-05-13T03:37:54Z",
+      "slug": "partner-check-in-v03-field-signals-3-live",
+      "preview": "Partner Check-in v0.3, the AI-first Partner Poke Scheduler, and Field Signals #3 shipped today — turning partner workflow into an automated, bell-driven loop. - **Partner Check-in v0.3 live** — new contributor-leading U…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-13T033754Z_partner-check-in-v03-field-signals-3-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-13T033754Z_partner-check-in-v03-field-signals-3-live.json"
+    },
     {
       "id": "beer-hall-2026-05-11T170750Z",
       "posted_at_utc": "2026-05-11T17:07:50Z",
@@ -78,14 +86,6 @@
       "preview": "Auto-generated warm-up reply drafts are now live, Google Places data is permanently cached to cut API spend, and three more prospects have replied to outreach. - **Auto-reply drafts wired up** — when a warm-up prospect …",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-03T023806Z_places-cache-reply-drafts-cost-optimizations.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-03T023806Z_places-cache-reply-drafts-cost-optimizations.json"
-    },
-    {
-      "id": "beer-hall-2026-05-02T022854Z",
-      "posted_at_utc": "2026-05-02T02:28:54Z",
-      "slug": "bucks-spices-way-home-shop-reply-wholesale-live",
-      "preview": "Three inbound prospect replies landed, a new wholesale page shipped, and The Way Home Shop (Portland) is now live on the partner hub. - **The Way Home Shop replied** — owner wrote back to the warm-up sample: \"The packag…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-02T022854Z_bucks-spices-way-home-shop-reply-wholesale-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-02T022854Z_bucks-spices-way-home-shop-reply-wholesale-live.json"
     }
   ]
 }
