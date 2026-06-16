@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T10:59:14.270Z",
+  "generated_at": "2026-06-16T10:59:13.907Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -26,7 +26,7 @@
     {
       "order": 3,
       "status": "AI: Contact Form found",
-      "stores": 118
+      "stores": 119
     },
     {
       "order": 8,
@@ -81,7 +81,7 @@
     {
       "order": 9999,
       "status": "AI: Warm up prospect",
-      "stores": 69
+      "stores": 68
     },
     {
       "order": 9999,
@@ -99,11 +99,11 @@
       "ok": true,
       "tab": "Email Agent Follow Up",
       "sends_logged": {
-        "warmup": 251,
+        "warmup": 262,
         "follow_up": 70,
         "bulk": 0,
         "unknown": 2,
-        "total_rows": 323
+        "total_rows": 334
       },
       "distinct_recipients": {
         "warmup": 88,
@@ -116,16 +116,16 @@
       "touch_columns_resolved": true,
       "cohorts": {
         "AI: Warm up prospect": {
-          "stores": 69,
-          "sum_warmup_sends_au": 204,
+          "stores": 68,
+          "sum_warmup_sends_au": 215,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
-            "none": 3,
+            "none": 2,
             "once": 0,
             "repeat": 66
           },
           "follow_up_send_depth": {
-            "none": 69,
+            "none": 68,
             "once": 0,
             "repeat": 0
           }
