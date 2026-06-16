@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-06-16T042618Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-06-16T04:26:18Z",
+  "slug": "self-replication-sop-and-v2",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-06-16T042618Z_self-replication-sop-and-v2.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-06-16T042618Z_self-replication-sop-and-v2.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Governance (Process)** — Self-Replication SOP published: guides for spawning new autopilot instances and forking into new ecosystems.\n- **Governance (Capital)** — Capital Model V2 refined: added ecosystem diagram, revenue distribution map, and removed unnecessary lockup guardrails.\n- **Governance (Legal)** — Legal Entity Structuring split into lean SVH investor doc and internal strategy memo.\n- **Web (Platform)** — Blog index restored: 46 missing older entries re-linked to the archive.\n- **Ops (Infrastructure)** — DAO Protocol expense submission fixed: `/ping` endpoint updated to handle HEAD requests.\n- **Ops (Tooling)** — Butterfly Effect pipeline sync restored (ERA_SHEET_ID fix) and governance direction clarified.\n- **Ops (Sophia)** — Credential-vault durability patched: fixed cross-process cache coherence issues.\n- **Ops (Web)** — EDGAR DAO Protocol page updated to display live Git commit hash.\n- **Ops (Sales)** — Cascadia Crystals contact re-queued for enrichment after automated detection of invalid email domain.",
+  "message2_shipped": "Shipped\n\n- truesight_me_beta: Center Sophia avatar, add link to Self-Replication SOP, restore 46 missing blog posts — https://github.com/TrueSightDAO/truesight_me_beta/commit/2bf3d30 · https://github.com/TrueSightDAO/truesight_me_beta/commit/da253ef · https://github.com/TrueSightDAO/truesight_me_beta/commit/f28f13d\n- agentic_ai_context: Self-Replication SOP (PDF), Clone/Fork SOP for new ecosystems, and V2 Capital Model (ecosystem diagram, revenue model, lockup removal) — https://github.com/TrueSightDAO/agentic_ai_context/commit/e48dabe · https://github.com/TrueSightDAO/agentic_ai_context/commit/602e508 · https://github.com/TrueSightDAO/agentic_ai_context/commit/c2857b1\n- agentic_ai_context: Split Legal Entity Structuring into lean SVH doc + internal strategy memo — https://github.com/TrueSightDAO/agentic_ai_context/commit/43d0bfd\n\nCommunity (Telegram log):\n\n- **Ops (Gary/Sophia):** Troubleshot and fixed Butterfly Effect pipeline sync; clarified governance direction.\n- **Ops (Gary):** Fixed Sophia credential-vault durability and cross-process cache coherence.\n- **Ops (Gary):** Fixed DAO Protocol expense submission (HEAD `/ping` 405 error) and updated EDGAR versioning to live Git hash.\n- **Ops (Gary):** Prepared Legal Entity Structuring (Governance & SVH Prep).\n- **Field (AI):** Cascadia Crystals contact re-queued after email domain mismatch lint (filler@godaddy.com)."
+}
