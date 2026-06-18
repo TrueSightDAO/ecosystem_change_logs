@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-06-17T04:19:59Z",
+  "generated_at": "2026-06-18T04:12:29Z",
   "page": 2,
   "page_size": 10,
-  "total": 60,
-  "page_count": 6,
+  "total": 61,
+  "page_count": 7,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-08T041325Z",
+      "posted_at_utc": "2026-06-08T04:13:25Z",
+      "slug": "oracle-dao-linking-live-sentinel-roster",
+      "preview": "Automated daily digest of the DAO - **Oracle (Identity)** — DAO identity linking is now live on the practice page; verification emails return users to the oracle page and signature verification is hardened. - **Web (Dir…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-08T041325Z_oracle-dao-linking-live-sentinel-roster.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-08T041325Z_oracle-dao-linking-live-sentinel-roster.json"
+    },
     {
       "id": "beer-hall-2026-06-07T040932Z",
       "posted_at_utc": "2026-06-07T04:09:32Z",
@@ -78,14 +86,6 @@
       "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Governance** — Whitepaper amended to drop OpenClaw, expand governor privileges, and correct early-exit clauses; source of truth migrated to st…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-30T033805Z_gas-restructure-vault-and-whitepaper.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-30T033805Z_gas-restructure-vault-and-whitepaper.json"
-    },
-    {
-      "id": "beer-hall-2026-05-29T035249Z",
-      "posted_at_utc": "2026-05-29T03:52:49Z",
-      "slug": "ai-dao-narrative-and-autopilot-roadmaps",
-      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Blog** — \"We let an AI run our DAO. Here's why we open-sourced it\" published. - **Edgar** — Solution page rewritten as three open layers (cont…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-29T035249Z_ai-dao-narrative-and-autopilot-roadmaps.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-29T035249Z_ai-dao-narrative-and-autopilot-roadmaps.json"
     }
   ]
 }
