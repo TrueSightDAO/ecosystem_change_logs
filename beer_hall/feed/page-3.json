@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-06-19T04:30:14Z",
+  "generated_at": "2026-06-20T03:54:37Z",
   "page": 3,
   "page_size": 10,
-  "total": 62,
+  "total": 63,
   "page_count": 7,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-31T040458Z",
+      "posted_at_utc": "2026-05-31T04:04:58Z",
+      "slug": "sophia-self-deploy-and-advisory-cutover",
+      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Oracle (AI)** — DAO Advisory panel switched from GAS/Grok to the Autopilot agent (Sophia) for live responses. - **Infrastructure (Autopilot)**…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-31T040458Z_sophia-self-deploy-and-advisory-cutover.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-31T040458Z_sophia-self-deploy-and-advisory-cutover.json"
+    },
     {
       "id": "beer-hall-2026-05-30T033805Z",
       "posted_at_utc": "2026-05-30T03:38:05Z",
@@ -78,14 +86,6 @@
       "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Oracle patched** — fixed chart-cast failure by adding missing Chinese solar terms (Xiaoman/Mangzhong) to the qimen-dunjia library. - **Partner…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-22T035436Z_oracle-fix-partner-ops-tooling.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-22T035436Z_oracle-fix-partner-ops-tooling.json"
-    },
-    {
-      "id": "beer-hall-2026-05-21T035840Z",
-      "posted_at_utc": "2026-05-21T03:58:40Z",
-      "slug": "treasury-aum-pages-qr-lineage-live",
-      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Treasury & AUM dashboards** — dedicated `/treasury` and `/aum` pages now live with formula-matched data and source ledger links. - **Asset lin…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-21T035840Z_treasury-aum-pages-qr-lineage-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-21T035840Z_treasury-aum-pages-qr-lineage-live.json"
     }
   ]
 }
