@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-06-20T035437Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-06-20T03:54:37Z",
+  "slug": "smart-contracts-catalog-and-fda-blog",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-06-20T035437Z_smart-contracts-catalog-and-fda-blog.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-06-20T035437Z_smart-contracts-catalog-and-fda-blog.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Web (Transparency)** — Smart Contracts catalog page live: architecture diagram and clickable source code links added for all deployed contracts.\n- **Blog (Narrative)** — \"The FDA Agent Went Out of Business\" post published: updates framing on unbundling services and the institutional shift.\n- **Ops (Governance)** — Scoring Review Queue implementation plan registered in manifest; UAT environment details added for beta endpoints.\n- **Ops (Infrastructure)** — Grok scoring approval rejection handler added to GAS project to support new workflow logic.\n- **Ops (Roadmap)** — Updated roadmap dependencies and fixed Mermaid diagrams for Black King CNAE, New Export Entity, and GACC ownership flows.\n- **Sales (Planning)** — Cacao volume audit completed: verified fulfillment capabilities against existing obligations.\n- **Ops (Compliance)** — FSVP compliance roadmap and unit economics template drafted for Indonesia partner onboarding.",
+  "message2_shipped": "Shipped\n\n- truesight_me_beta: Add Smart Contracts catalog page with architecture diagram — https://github.com/TrueSightDAO/truesight_me_beta/commit/1e9d51f · https://github.com/TrueSightDAO/truesight_me_beta/commit/8fbb2a1\n- truesight_me_beta: Publish \"The FDA Agent Went Out of Business\" blog post with narrative updates — https://github.com/TrueSightDAO/truesight_me_beta/commit/b763cfb · https://github.com/TrueSightDAO/truesight_me_beta/commit/195bc2e\n- truesight_me_beta: Fix Mermaid diagrams and update roadmap (Black King, GACC) — https://github.com/TrueSightDAO/truesight_me_beta/commit/9fec88e · https://github.com/TrueSightDAO/truesight_me_beta/commit/5fa4680\n- agentic_ai_context: Register Scoring Review Queue handoff and add UAT environment details — https://github.com/TrueSightDAO/agentic_ai_context/commit/0506103 · https://github.com/TrueSightDAO/agentic_ai_context/commit/948a8df\n- tokenomics: Add doGet for processApprovalRejections to Grok scoring GAS project — https://github.com/TrueSightDAO/tokenomics/commit/f306a19\n\nCommunity (Telegram log):\n\n- **Ops (Gary):** Audited Cacao volume to validate fulfillment capability for agreed obligations.\n- **Ops (Gary/Sophia):** Created FSVP compliance roadmap and unit economics template for Indonesia partner onboarding."
+}
