@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-06-22T042740Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-06-22T04:27:40Z",
+  "slug": "smart-contracts-rsa-verification",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-06-22T042740Z_smart-contracts-rsa-verification.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-06-22T042740Z_smart-contracts-rsa-verification.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Web (Transparency)** — Smart Contracts catalog upgraded: inline RSA signature verification added for signed payloads.\n- **Intel (Strategy)** — Added TDG vs ITKN comparative analysis PDF to DAO strategic context.\n- **Ops (Governance)** — Corrected Scoring Review Queue handoff status; updated notes to reflect PR4 undeploy state.",
+  "message2_shipped": "Shipped\n\n- truesight_me_beta: Add Smart Contracts catalog with inline RSA signature verification — https://github.com/TrueSightDAO/truesight_me_beta/commit/207637f · https://github.com/TrueSightDAO/truesight_me_beta/commit/71d88e0\n- agentic_ai_context: Add TDG vs ITKN comparative analysis PDF — https://github.com/TrueSightDAO/agentic_ai_context/commit/cb5bc7a\n- agentic_ai_context: Update Scoring Review Queue handoff status (PR4 undeployed) — https://github.com/TrueSightDAO/agentic_ai_context/commit/1e1275b\n\nCommunity (Telegram log):\n\n- **Dev (Deep Seek/Gary Teh):** Reviewed and shipped Smart Contracts catalog inline RSA verification and signed payloads."
+}
