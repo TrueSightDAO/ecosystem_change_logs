@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-06-21T04:25:34Z",
+  "generated_at": "2026-06-22T04:27:40Z",
   "page": 1,
   "page_size": 10,
-  "total": 64,
+  "total": 65,
   "page_count": 7,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-22T042740Z",
+      "posted_at_utc": "2026-06-22T04:27:40Z",
+      "slug": "smart-contracts-rsa-verification",
+      "preview": "Automated daily digest of the DAO - **Web (Transparency)** — Smart Contracts catalog upgraded: inline RSA signature verification added for signed payloads. - **Intel (Strategy)** — Added TDG vs ITKN comparative analysis…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-22T042740Z_smart-contracts-rsa-verification.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-22T042740Z_smart-contracts-rsa-verification.json"
+    },
     {
       "id": "beer-hall-2026-06-21T042534Z",
       "posted_at_utc": "2026-06-21T04:25:34Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Web (Blog)** — \"The Joy Was the Point\" TECH FEST 2026 reflection published with full event gallery and contributor credits. - **Ops (Autopilot)** — Sophia vault hotfix and ops-safet…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-13T035924Z_tech-fest-recap-sophia-hotfix.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-13T035924Z_tech-fest-recap-sophia-hotfix.json"
-    },
-    {
-      "id": "beer-hall-2026-06-12T041228Z",
-      "posted_at_utc": "2026-06-12T04:12:28Z",
-      "slug": "friends-rainforest-live-sophia-phase-0",
-      "preview": "Automated daily digest of the DAO - **Web (Shop)** — \"Friends of the Rainforest\" landing page live with rich media, QR-linked event signup, and subscription CTAs. - **Ops (Autopilot)** — Phase 0 governance plan and Soph…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-12T041228Z_friends-rainforest-live-sophia-phase-0.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-12T041228Z_friends-rainforest-live-sophia-phase-0.json"
     }
   ]
 }

@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-06-21T04:25:34Z",
+  "generated_at": "2026-06-22T04:27:40Z",
   "page": 2,
   "page_size": 10,
-  "total": 64,
+  "total": 65,
   "page_count": 7,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-12T041228Z",
+      "posted_at_utc": "2026-06-12T04:12:28Z",
+      "slug": "friends-rainforest-live-sophia-phase-0",
+      "preview": "Automated daily digest of the DAO - **Web (Shop)** — \"Friends of the Rainforest\" landing page live with rich media, QR-linked event signup, and subscription CTAs. - **Ops (Autopilot)** — Phase 0 governance plan and Soph…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-12T041228Z_friends-rainforest-live-sophia-phase-0.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-12T041228Z_friends-rainforest-live-sophia-phase-0.json"
+    },
     {
       "id": "beer-hall-2026-06-11T041108Z",
       "posted_at_utc": "2026-06-11T04:11:08Z",
@@ -78,14 +86,6 @@
       "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Programs (BEC)** — Butterfly Effect Club credential badges now link to tree-planting records and display the correct logo on pages. - **Web (S…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-03T042129Z_bec-launch-and-ledger-fixes.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-03T042129Z_bec-launch-and-ledger-fixes.json"
-    },
-    {
-      "id": "beer-hall-2026-06-02T041231Z",
-      "posted_at_utc": "2026-06-02T04:12:31Z",
-      "slug": "grounding-renderer-and-onboarding-tools",
-      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Programs (Grounding)** — Oracle payload renderer now loads on TrueSight Grounding credential pages for live data visualization. - **Onboarding…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-02T041231Z_grounding-renderer-and-onboarding-tools.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-02T041231Z_grounding-renderer-and-onboarding-tools.json"
     }
   ]
 }
