@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-06-23T034600Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-06-23T03:46:00Z",
+  "slug": "qr-pipeline-green-pr4-deployed",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-06-23T034600Z_qr-pipeline-green-pr4-deployed.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-06-23T034600Z_qr-pipeline-green-pr4-deployed.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Ops (Infrastructure)** — QR code generation pipeline fully green: CI token wired and storage repointed to `lineage-assets`.\n- **Ops (Governance)** — Scoring Review Queue (PR4) deployed: Edgar webhook integrated and GAS write-back live.\n- **Ops (Security)** — Secret gitignore hardened and credential templates added to prevent token leakage.\n- **Intel (Strategy)** — Infrastructure implementation plan added to DAO strategic context.\n- **Ops (Inventory)** — USD inventory logged under AGL15.\n- **Sales (Compliance)** — Export documentation for Coopercabruca and CEPOTX submitted for China GACC approval.",
+  "message2_shipped": "Shipped\n\n- tokenomics: Restore QR pipeline (CI token wired + batch-zip/PNG storage repointed to lineage-assets) — https://github.com/TrueSightDAO/tokenomics/commit/ce68b47 · https://github.com/TrueSightDAO/tokenomics/commit/4ffe230\n- tokenomics: Deploy Scoring Review Queue PR4 (Edgar webhook + review write-back integration) — https://github.com/TrueSightDAO/tokenomics/commit/1168c56 · https://github.com/TrueSightDAO/tokenomics/commit/029dc6c\n- tokenomics: Fix QR-gen GAS deployment (webapp manifest block) and harden secrets — https://github.com/TrueSightDAO/tokenomics/commit/02bb429 · https://github.com/TrueSightDAO/tokenomics/commit/f8b38a8\n- agentic_ai_context: Add infrastructure implementation plan PDF — https://github.com/TrueSightDAO/agentic_ai_context/commit/38dccd2\n\nCommunity (Telegram log):\n\n- **Ops (Claude/Gary):** Took QR generation pipeline fully green; wired Edgar to review write-back.\n- **Sales (Gary):** Logged USD inventory under AGL15; submitted Coopercabruca/CEPOTX docs for China GACC.\n- **Ops (Gary):** Provisioned gas for supply chain logistics."
+}
