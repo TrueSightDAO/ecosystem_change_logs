@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-06-25T03:46:54Z",
+  "generated_at": "2026-06-26T03:57:41Z",
   "page": 5,
   "page_size": 10,
-  "total": 68,
+  "total": 69,
   "page_count": 7,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-17T034043Z",
+      "posted_at_utc": "2026-05-17T03:40:43Z",
+      "slug": "programs-pages-live-partner-check-in-ux",
+      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Programs pages live** — Phase 1 credentialing surfaces for Tribo Bahia Mirim and Butterfly Effect are now live, featuring per-program logos, h…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-17T034043Z_programs-pages-live-partner-check-in-ux.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-17T034043Z_programs-pages-live-partner-check-in-ux.json"
+    },
     {
       "id": "beer-hall-2026-05-16T032711Z",
       "posted_at_utc": "2026-05-16T03:27:11Z",
@@ -78,14 +86,6 @@
       "preview": "The Autopilot gains a vision pipeline and batch approval cards, the warm-up review module now shows full prospect reply bodies inline, and seven bags of ceremonial cacao moved from Kirsten to Gary via verified Edgar inv…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-06T023441Z_autopilot-batch-approvals-warmup-body-expand.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-06T023441Z_autopilot-batch-approvals-warmup-body-expand.json"
-    },
-    {
-      "id": "beer-hall-2026-05-05T023402Z",
-      "posted_at_utc": "2026-05-05T02:34:02Z",
-      "slug": "mycelial-economy-objection-handling-prospects-tab",
-      "preview": "The Mycelial Economy is live as Field Signals #1 on the blog, objection-handling for \"we already have a supplier\" is wired into the outreach pipeline, and the warm-up review DApp gained a dedicated Prospects tab so repl…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-05T023402Z_mycelial-economy-objection-handling-prospects-tab.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-05T023402Z_mycelial-economy-objection-handling-prospects-tab.json"
     }
   ]
 }
