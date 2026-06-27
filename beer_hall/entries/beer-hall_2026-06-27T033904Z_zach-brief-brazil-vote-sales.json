@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-06-27T033904Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-06-27T03:39:04Z",
+  "slug": "zach-brief-brazil-vote-sales",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-06-27T033904Z_zach-brief-brazil-vote-sales.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-06-27T033904Z_zach-brief-brazil-vote-sales.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Ops (Governance)** — Proposal vote logged: Edgar approved the initiative to establish a legal holding entity for Brazil export operations.\n- **Ops (Narrative)** — Contributor onboarding materials shipped: Zach Roth program runner brief and Aora × Agroverse event brief added (defining 100 TDG/hr compensation).\n- **Ops (Expansion)** — China market strategy work logged: team scoped extension of chocolate experience protocols to support international growth.\n- **Sales (Direct)** — Two units of Oscar inventory (bar & nibs) sold and recorded.\n- **Sales (Automation)** — Lead filter triggered: Esalen Institute auto-reply correctly identified as non-prospect warm-up.\n- **Product (Backend)** — New GAS handler deployed to extract currency definitions directly from Telegram logs.",
+  "message2_shipped": "Shipped\n\n- tokenomics: Add processCurrencyDefinitionsFromTelegramChatLogs GAS handler (PR #376) — https://github.com/TrueSightDAO/tokenomics/commit/f3fdfa4\n- agentic_ai_context: Add Zach Roth program runner brief and Aora × Agroverse event materials (markdown + PDF) — https://github.com/TrueSightDAO/agentic_ai_context/commit/7f85796\n\nCommunity (Telegram log):\n\n- **Governance (Edgar):** Voted YES on establish-legal-holding-entity-for-brazil-export-operations.\n- **Ops (Gary Teh, Sophia Truesight):** Logged 1h for Zach Roth brief compilation and Aora × Agroverse event materials.\n- **Ops (Gary Teh, Kirsten Ritschel, Ken Nim, Elizabeth Wong):** Logged 3h for China market extension work.\n- **Sales (Kirsten Ritschel):** Logged 2 sales: 2024OSCAR_CC_20260620_1 and 2024OSCAR_20250711_NIBS_8.\n- **Ops (truesight-autopilot):** Logged 5m fix for autopilot transcript AttributeError.\n\nCommunity (DApp Remarks / field):\n\n- **Sales (Auto-filter):** Esalen Institute flagged as auto-reply (warm-up); not promoted."
+}
