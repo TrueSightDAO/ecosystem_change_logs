@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-06-28T04:03:10Z",
+  "generated_at": "2026-06-29T04:08:07Z",
   "page": 2,
   "page_size": 10,
-  "total": 71,
+  "total": 72,
   "page_count": 8,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-19T043014Z",
+      "posted_at_utc": "2026-06-19T04:30:14Z",
+      "slug": "sentinel-role-live-and-roadmap-track-map",
+      "preview": "Automated daily digest of the DAO - **Ops (Sentinel)** — Sentinel role implementation live: authorization added to inventory movements (Column T) and stale record bugs fixed. - **Ops (Governance)** — Live Track Map and …",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-19T043014Z_sentinel-role-live-and-roadmap-track-map.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-19T043014Z_sentinel-role-live-and-roadmap-track-map.json"
+    },
     {
       "id": "beer-hall-2026-06-18T041229Z",
       "posted_at_utc": "2026-06-18T04:12:29Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Web (Shop)** — Facebook Pixel hostname guard added to prevent beta analytics leakage; GTIN added to products.js as single source of truth. - **Web (Shop)** — Generic-bar PDP, shared…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-10T035900Z_subscription-roadmap-oracle-identity-updates.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-10T035900Z_subscription-roadmap-oracle-identity-updates.json"
-    },
-    {
-      "id": "beer-hall-2026-06-09T034402Z",
-      "posted_at_utc": "2026-06-09T03:44:02Z",
-      "slug": "dao-client-migration-sentinel-roster",
-      "preview": "Automated daily digest of the DAO - **Oracle (Identity)** — DAO identity linking is now live on the practice page; verification emails return users to the oracle page and signature verification is hardened. - **Web (Dir…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-09T034402Z_dao-client-migration-sentinel-roster.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-09T034402Z_dao-client-migration-sentinel-roster.json"
     }
   ]
 }

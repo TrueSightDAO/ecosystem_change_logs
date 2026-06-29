@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-06-29T040807Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-06-29T04:08:07Z",
+  "slug": "repackaging-settlement-governor-sync",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-06-29T040807Z_repackaging-settlement-governor-sync.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-06-29T040807Z_repackaging-settlement-governor-sync.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Ops (Inventory)** — Repackaging settlement executed: 14 Oscar 81% bars and 2 ceremonial cacao units settled; inventory updated.\n- **Product (Governance)** — Governor Sheet Permission Sync deployed: Main Ledger editing rights now auto-update based on roster status (Governors and Sentinels).\n- **Ops (Settlement)** — Repackaging Settlement workflow live: new contract card added to the public contracts page.\n- **Governance (Voting)** — Vote integrity improved: retroactive deduplication logic fixed to track by contributor identity.\n- **Product (Roadmap)** — Round-cap resilience completed: mechanisms to prevent per-turn supply blowouts are now active.\n- **Ops (Docs)** — Repackaging Settlement SOP published: full reference guide released for AI agents and ops leads.",
+  "message2_shipped": "Shipped\n\n- truesight_me: Rename \"Post-Repackaging Cleanup\" → \"Repackaging Settlement\" on contracts page (PR #262) — https://github.com/TrueSightDAO/truesight_me/commit/86857c7\n- tokenomics: GovernorSheetPermissionSync v5 (auto-sync Main Ledger editors from governor roster) — https://github.com/TrueSightDAO/tokenomics/commit/154fa0f\n- tokenomics: Fix retroactive vote deduplication (track by contributor identity, not key) — https://github.com/TrueSightDAO/tokenomics/commit/2350874\n- agentic_ai_context: Repackaging Settlement SOP + v3 plan — https://github.com/TrueSightDAO/agentic_ai_context/commit/fea6d9d\n- agentic_ai_context: Round-cap resilience (roadmap + §5d Pre-flight Completeness gate) — https://github.com/TrueSightDAO/agentic_ai_context/commit/0ece68c\n- agroverse-inventory: Add processPostRepackagingCleanup GAS handler — https://github.com/TrueSightDAO/agroverse-inventory/commit/e2a4ece\n\nCommunity (Telegram log):\n\n- **Inventory (Kirsten Ritschel):** Logged Oscar 81% bars and 8 Ounce Nibs offchain.\n- **Ops (Gary Teh):** Logged Post-repackaging cleanup gap analysis, implementation plan, and Sophia handoff (1h 30m).\n- **Ops (Claude Anthropic):** Logged Round-cap resilience work and doc cleanup (2h).\n- **Ops (Gary Teh):** Logged Repackaging settlement pipeline execution, SOP, and plan v3 (2h 30m)."
+}
