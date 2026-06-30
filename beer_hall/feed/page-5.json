@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-06-29T04:08:07Z",
+  "generated_at": "2026-06-30T03:53:58Z",
   "page": 5,
   "page_size": 10,
-  "total": 72,
+  "total": 73,
   "page_count": 8,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-21T035840Z",
+      "posted_at_utc": "2026-05-21T03:58:40Z",
+      "slug": "treasury-aum-pages-qr-lineage-live",
+      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Treasury & AUM dashboards** — dedicated `/treasury` and `/aum` pages now live with formula-matched data and source ledger links. - **Asset lin…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-21T035840Z_treasury-aum-pages-qr-lineage-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-21T035840Z_treasury-aum-pages-qr-lineage-live.json"
+    },
     {
       "id": "beer-hall-2026-05-20T034723Z",
       "posted_at_utc": "2026-05-20T03:47:23Z",
@@ -78,14 +86,6 @@
       "preview": "Batch inventory movement, oracle persistence, and agentic authorization all landed since yesterday's digest — the biggest cluster of contributor-facing wiring in this cycle. - **Batch QR inventory movement live** — cont…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-10T024057Z_batch-qr-oracle-persist-autopilot-auth.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-10T024057Z_batch-qr-oracle-persist-autopilot-auth.json"
-    },
-    {
-      "id": "beer-hall-2026-05-09T023633Z",
-      "posted_at_utc": "2026-05-09T02:36:33Z",
-      "slug": "batch-qr-inventory-oracle-persistence-prospect-auto-promote",
-      "preview": "Batch inventory movements land in the DApp, the I Ching oracle starts persisting draws to a permanent log, and the outbound sales pipeline gains an auto-promotion rule for replied prospects. - **Batch QR inventory movem…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-09T023633Z_batch-qr-inventory-oracle-persistence-prospect-auto-promote.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-09T023633Z_batch-qr-inventory-oracle-persistence-prospect-auto-promote.json"
     }
   ]
 }
