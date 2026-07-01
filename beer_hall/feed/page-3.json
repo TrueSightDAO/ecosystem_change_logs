@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-06-30T03:53:58Z",
+  "generated_at": "2026-07-01T04:07:09Z",
   "page": 3,
   "page_size": 10,
-  "total": 73,
+  "total": 74,
   "page_count": 8,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-11T041108Z",
+      "posted_at_utc": "2026-06-11T04:11:08Z",
+      "slug": "subscription-verification-aora-plan",
+      "preview": "Automated daily digest of the DAO - **Web (Blog)** — \"Sovereignty in the Age of Replaceable AI\" post published with revised sovereignty section and updated narration. - **Web (Shop)** — Subscription flow upgraded with a…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-11T041108Z_subscription-verification-aora-plan.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-11T041108Z_subscription-verification-aora-plan.json"
+    },
     {
       "id": "beer-hall-2026-06-10T035900Z",
       "posted_at_utc": "2026-06-10T03:59:00Z",
@@ -78,14 +86,6 @@
       "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Programs (Grounding)** — Oracle payload renderer now loads on TrueSight Grounding credential pages for live data visualization. - **Onboarding…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-02T041231Z_grounding-renderer-and-onboarding-tools.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-02T041231Z_grounding-renderer-and-onboarding-tools.json"
-    },
-    {
-      "id": "beer-hall-2026-06-01T041755Z",
-      "posted_at_utc": "2026-06-01T04:17:55Z",
-      "slug": "truesight-grounding-launch-oracle-draw",
-      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Programs (Grounding)** — TrueSight Grounding program pages live: full manifest, landing page, cohort roster, and credential CV card added to t…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-01T041755Z_truesight-grounding-launch-oracle-draw.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-01T041755Z_truesight-grounding-launch-oracle-draw.json"
     }
   ]
 }
