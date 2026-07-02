@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T10:59:13.315Z",
+  "generated_at": "2026-07-02T10:59:14.049Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -99,11 +99,11 @@
       "ok": true,
       "tab": "Email Agent Follow Up",
       "sends_logged": {
-        "warmup": 382,
+        "warmup": 394,
         "follow_up": 70,
         "bulk": 0,
         "unknown": 2,
-        "total_rows": 454
+        "total_rows": 466
       },
       "distinct_recipients": {
         "warmup": 88,
@@ -117,7 +117,7 @@
       "cohorts": {
         "AI: Warm up prospect": {
           "stores": 66,
-          "sum_warmup_sends_au": 332,
+          "sum_warmup_sends_au": 344,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
             "none": 1,
