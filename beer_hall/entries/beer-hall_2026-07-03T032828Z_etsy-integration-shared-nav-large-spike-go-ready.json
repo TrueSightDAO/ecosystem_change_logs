@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-03T032828Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-03T03:28:28Z",
+  "slug": "etsy-integration-shared-nav-large-spike-go-ready",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-03T032828Z_etsy-integration-shared-nav-large-spike-go-ready.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-03T032828Z_etsy-integration-shared-nav-large-spike-go-ready.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Engineering (Web/Shop)** — Consolidated navigation and footer across the main site and Agroverse Shop using shared JS injection.\n- **Sales (E-commerce)** — Integrated Etsy order monitoring into the shop checkout and fixed OAuth URL configuration.\n- **Governance (Docs)** — Updated voting rights contracts documentation to reflect corrected event names and the settlement flow.\n- **Intelligence (Handoff)** — Large Spike Index (/large_spikes) code review and regime gauge redesign parked GO-ready for deployment.\n- **Ops (Finance)** — Provisioned DeepSeek credits ($10.60) for DAO LLM tooling.\n- **Governance (Mechanics)** — Hardened TDG rubric; client now computes TDG from Type+Amount to ensure LLM-proof submissions.\n- **Ops (Inventory)** — Logged field inventory movements: 1 Kraft Pouch (Kirsten → Micaelly), 7 bars (Kirsten → Linda).",
+  "message2_shipped": "Shipped\n\n- truesight_me: Shared nav + footer via JS injection — https://github.com/TrueSightDAO/truesight_me_beta/commit/66d3e47\n- truesight_me: Update voting rights contracts docs — https://github.com/TrueSightDAO/truesight_me_beta/commit/d5a19ca\n- agroverse_shop: Shared nav + footer + Etsy order monitoring — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/40d70fe\n- agentic_ai_context: Park Large Spike Index GO-ready — https://github.com/TrueSightDAO/agentic_ai_context/commit/2f1f2fe\n\nCommunity (Telegram log):\n\n- **Contribution (Gary Teh):** Built Etsy order monitoring integration; consolidated shared nav/footer; fixed CI nav check; provisioned DeepSeek credits; hardened TDG rubric.\n- **Contribution (Claude Anthropic):** Code review + rectification roadmap for Large Spike Index; designed breakout chart regime gauge; implemented LLM-proof TDG calculation plan.\n- **Inventory (Kirsten Ritschel):** Transferred Ceremonial Cacao Kraft Pouch (1) to Micaelly Pinheiro; 81% bars (7) to Linda Gorski."
+}
