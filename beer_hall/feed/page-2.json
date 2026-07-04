@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-03T03:28:28Z",
+  "generated_at": "2026-07-04T03:22:11Z",
   "page": 2,
   "page_size": 10,
-  "total": 76,
+  "total": 77,
   "page_count": 8,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-24T034837Z",
+      "posted_at_utc": "2026-06-24T03:48:37Z",
+      "slug": "proposal-cli-live-qr-self-serve-prospera-plan",
+      "preview": "Automated daily digest of the DAO - **Ops (Governance)** — Proposal CLI fully deployed: create_proposal.py and review_proposal.py now live for DAO operations. - **Ops (Supply Chain)** — QR Self-Serve Currency pipeline e…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-24T034837Z_proposal-cli-live-qr-self-serve-prospera-plan.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-24T034837Z_proposal-cli-live-qr-self-serve-prospera-plan.json"
+    },
     {
       "id": "beer-hall-2026-06-23T034600Z",
       "posted_at_utc": "2026-06-23T03:46:00Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Partners (Agroverse)** — Kopi Bar & Bakery (Berkeley) onboarded: partner page live with interior/hero photos and listed as wholesale stockist. - **Ops (Sales)** — Green Gulch Zen Mo…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-15T042930Z_kopi-bar-onboarding-legal-v7.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-15T042930Z_kopi-bar-onboarding-legal-v7.json"
-    },
-    {
-      "id": "beer-hall-2026-06-14T041819Z",
-      "posted_at_utc": "2026-06-14T04:18:19Z",
-      "slug": "narrative-update-sophia-context-plan",
-      "preview": "Automated daily digest of the DAO - **Web (Narrative)** — \"Agentic AI and the Common Law Tradition\" essay published with Lee Kuan Yew reflection and data sovereignty arguments. - **Web (Platform)** — Platform Services d…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-14T041819Z_narrative-update-sophia-context-plan.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-14T041819Z_narrative-update-sophia-context-plan.json"
     }
   ]
 }
