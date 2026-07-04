@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-04T032211Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-04T03:22:11Z",
+  "slug": "settlement-pipeline-tdg-hardening-members-fix",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-04T032211Z_settlement-pipeline-tdg-hardening-members-fix.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-04T032211Z_settlement-pipeline-tdg-hardening-members-fix.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Governance (Settlement)** — Implemented full voting rights cash-out settlement pipeline across tokenomics and inventory scripts.\n- **Ops (Governance)** — Root-caused and resolved `dao_members.json` regression; full 409-contributor list restored.\n- **Governance (Mechanics)** — Hardened TDG rubric; client now computes TDG from Type+Amount to ensure LLM-proof submissions.\n- **Ops (Finance)** — Provisioned DeepSeek credits ($10.60) for DAO LLM tooling.\n- **Ops (Inventory)** — Logged field inventory movements: 1 Kraft Pouch (Kirsten → Micaelly).",
+  "message2_shipped": "Shipped\n\n- tokenomics: Implement voting rights settlement pipeline (GAS order independence, transfer script refactoring) — https://github.com/TrueSightDAO/tokenomics/commit/761dc08\n- tokenomics: GovernorSheetPermissionSync v5 (auto-sync Main Ledger editors) — https://github.com/TrueSightDAO/tokenomics/commit/154fa0f\n- agroverse-inventory: Add processPostRepackagingCleanup GAS handler — https://github.com/TrueSightDAO/agroverse-inventory/commit/e2a4ece\n\nCommunity (Telegram log):\n\n- **Contribution (Gary Teh):** DeepSeek credits provisioning; TDG Rubric Hardening; root-caused dao_members regression; designed/implemented voting rights settlement pipeline.\n- **Contribution (Claude Anthropic / Deep Seek):** Root-caused dao_members regression (stale GAS deployments); TDG implementation plan.\n- **Inventory (Kirsten Ritschel):** Transferred Ceremonial Cacao Kraft Pouch (1) to Micaelly Pinheiro."
+}
