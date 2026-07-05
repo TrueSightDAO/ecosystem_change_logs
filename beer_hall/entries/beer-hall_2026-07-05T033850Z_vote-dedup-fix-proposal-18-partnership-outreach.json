@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-05T033850Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-05T03:38:50Z",
+  "slug": "vote-dedup-fix-proposal-18-partnership-outreach",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-05T033850Z_vote-dedup-fix-proposal-18-partnership-outreach.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-05T033850Z_vote-dedup-fix-proposal-18-partnership-outreach.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Governance (Mechanics)** — Fixed retroactive vote deduplication logic to rely on contributor identity rather than cryptographic key.\n- **Governance (Process)** — Merged Proposal 18.\n- **Ops (Inventory)** — Logged settlement batch b08d324b: 14 Oscar 81% bars and 2 ceremonial cacao units moved.\n- **Partnerships (Sales)** — Engaged lead Michael Johnson with provisional DAO information.\n- **Partnerships (Sales)** — Responded to inquiry from Joseph Yeh (Dim Sum Club).\n- **Ops (Logistics)** — Coordinated warehouse data handoff with field team.",
+  "message2_shipped": "Shipped\n\n- tokenomics: Fix vote deduplication by contributor identity and add retroactive tabulation endpoint — https://github.com/TrueSightDAO/tokenomics/commit/2350874\n- proposals: Merge proposal 18 — https://github.com/TrueSightDAO/proposals/commit/b1b1eaa\n- agroverse-inventory: Log settlement batch b08d324b (Oscar 81% + ceremonial cacao) — https://github.com/TrueSightDAO/agroverse-inventory/commit/8ac3abc\n\nCommunity (Telegram log):\n\n- **Contribution (Gary Teh):** Responded to Michael Johnson; responded to Joseph Yeh (Dim Sum Club); coordinated warehouse information with Matheus Reis."
+}
