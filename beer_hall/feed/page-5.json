@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-05T03:38:50Z",
+  "generated_at": "2026-07-06T03:44:32Z",
   "page": 5,
   "page_size": 10,
-  "total": 78,
+  "total": 79,
   "page_count": 8,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-27T040316Z",
+      "posted_at_utc": "2026-05-27T04:03:16Z",
+      "slug": "edgar-core-ramp-and-autopilot",
+      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Blog live** — \"The most tracked thing in the room is a cup of cacao\" published. - **Edgar ramp — shipping** — Global shipping rates endpoint c…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-27T040316Z_edgar-core-ramp-and-autopilot.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-27T040316Z_edgar-core-ramp-and-autopilot.json"
+    },
     {
       "id": "beer-hall-2026-05-26T034726Z",
       "posted_at_utc": "2026-05-26T03:47:26Z",
@@ -78,14 +86,6 @@
       "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Programs descriptions enriched** — markdown rendering enabled for links and code blocks on program landing pages. - **Check-in fields expanded…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-18T035653Z_programs-markdown-inventory-sellthrough.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-18T035653Z_programs-markdown-inventory-sellthrough.json"
-    },
-    {
-      "id": "beer-hall-2026-05-17T034043Z",
-      "posted_at_utc": "2026-05-17T03:40:43Z",
-      "slug": "programs-pages-live-partner-check-in-ux",
-      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Programs pages live** — Phase 1 credentialing surfaces for Tribo Bahia Mirim and Butterfly Effect are now live, featuring per-program logos, h…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-17T034043Z_programs-pages-live-partner-check-in-ux.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-17T034043Z_programs-pages-live-partner-check-in-ux.json"
     }
   ]
 }

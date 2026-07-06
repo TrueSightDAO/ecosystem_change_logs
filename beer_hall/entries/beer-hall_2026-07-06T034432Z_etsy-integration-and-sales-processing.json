@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-06T034432Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-06T03:44:32Z",
+  "slug": "etsy-integration-and-sales-processing",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-06T034432Z_etsy-integration-and-sales-processing.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-06T034432Z_etsy-integration-and-sales-processing.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Ops (Sales)** — Processed 4 cacao bar sales totaling $68 via Michael Johnson.\n- **Ops (Logistics)** — Resolved customs bonds, plastic pallets, and fumigation details with Graziela; cleared status on Linda's chocolate bars.\n- **Engineering (Advisor UI)** — Fixed \"disappearing cards\" bug and improved breakout-gauge legibility in the oracle interface.\n- **Engineering (Shop)** — Wired Etsy order monitoring and corrected OAuth URL configurations for the Agroverse shop.\n- **Governance (Education)** — Counseled contributor Liz on voting rights filing autonomy.\n- **Engineering (Web)** — Unified navigation and footer across the beta site and shop via shared JS injection.",
+  "message2_shipped": "Shipped\n\n- agroverse_shop_beta: Add Etsy order monitoring and fix OAuth URLs — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/624ea22\n- agroverse_shop_beta: Shared nav + footer via JS injection — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/40d70fe\n- agentic_ai_context: Handoff plan for /large_spikes disappearing-cards fix — https://github.com/TrueSightDAO/agentic_ai_context/commit/3983009\n- truesight_me_beta: Update voting rights contracts documentation — https://github.com/TrueSightDAO/truesight_me_beta/commit/d5a19ca\n- agroverse-inventory: Sync inventory snapshots via automation script — https://github.com/TrueSightDAO/agroverse-inventory/commit/8c46e5f\n\nCommunity (Telegram log):\n\n- **Contribution (Gary Teh):** Sales processing (Michael Johnson); Logistics (customs/pallets/fumigation with Graziela, Linda's bars); Governance coaching (Liz); Deploy operations (Sophia/Perch).\n- **Contribution (Claude Anthropic / Deep Seek):** Analysis and implementation of /large_spikes UI fixes."
+}
