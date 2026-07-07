@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-07T033627Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-07T03:36:27Z",
+  "slug": "oracle-canonical-fixes-and-sales",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-07T033627Z_oracle-canonical-fixes-and-sales.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-07T033627Z_oracle-canonical-fixes-and-sales.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Engineering (Oracle)** — Standardized \"PRACTICE EVENT\" labels in the I Ching Oracle to ensure canonical payload handling for Capoeira and other programs.\n- **Ops (Sales)** — Processed sale of Santa Ana cacao bar (2024SA) to Micaelly Pinheiro ($32.38) with Stripe integration and UPS tracking.\n- **Ops (Logistics)** — Secured flight logistics for Gary Teh to travel to Shanghai for distribution strategy discussions with Dr. Ye.\n- **Ops (Inventory)** — Logged Brazilian Reis cacao batch and offchain USD deposits to the ledger.\n- **Governance (Legal)** — Established DAO legal wrapper framework in Prospera.\n- **Engineering (Tools)** — Hardened `update_qr_code` CLI to enforce canonical labeling for code references.",
+  "message2_shipped": "Shipped\n\n- iching_oracle: Send canonical PRACTICE EVENT labels (Program, Practitioner Public Key, Payload JSON) — https://github.com/TrueSightDAO/oracle/commit/031779b\n\nCommunity (Telegram log):\n\n- **Contribution (Gary Teh):** Sales (Micaelly Pinheiro); Inventory (Brazilian Reis, USD); Governance (Prospera legal wrapper); Engineering (QR code CLI hardening, Oracle payload alignment).\n- **Contribution (Elizabeth Wong):** Logistics (Flight ticket provision for Shanghai trip)."
+}
