@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-08T025225Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-08T02:52:25Z",
+  "slug": "web-timeline-fixes-and-china-guild-alignment",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-08T025225Z_web-timeline-fixes-and-china-guild-alignment.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-08T025225Z_web-timeline-fixes-and-china-guild-alignment.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Engineering (Web)** — Fixed timeline sorting bugs (zero-index handling) and corrected date parsing to display local time instead of UTC on the beta site.\n- **Governance (Legal)** — Added Prospera legal entity approval status to the public roadmap timeline milestones.\n- **Ops (Strategy)** — Aligned Guild size reconfiguration in China and confirmed FounderHaus participation for the August critical path.\n- **Ops (Logistics)** — Secured timing and accommodation details for Gary Teh’s travel to Florianopolis.\n- **Ops (Partnerships)** — Surged SOSMA as a potential partner for regenerative tree-planting initiatives.\n- **Ops (Inventory)** — Synced fresh store and partner inventory snapshots.",
+  "message2_shipped": "Shipped\n\n- truesight_me_beta: Fix timeline sorting and date parsing (local time) — https://github.com/TrueSightDAO/truesight_me_beta/commit/1e7eedb, https://github.com/TrueSightDAO/truesight_me_beta/commit/93028cd\n- truesight_me_beta: Add Prospera legal entity approval to timeline — https://github.com/TrueSightDAO/truesight_me_beta/commit/0ab454e\n- agroverse-inventory: Refresh store and partner inventory snapshots — https://github.com/TrueSightDAO/agroverse-inventory/commit/566618c\n\nCommunity (Telegram log):\n\n- **Contribution (Gary Teh):** Strategy (China Guild size, FounderHaus alignment); Logistics (Florianopolis trip timing/accommodation).\n- **Contribution (Gary Teh, Nima Kaz):** Partnerships (SOSMA prospect for tree planting)."
+}
