@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-09T032922Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-09T03:29:22Z",
+  "slug": "prospera-legal-milestone-and-etsy-integration",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-09T032922Z_prospera-legal-milestone-and-etsy-integration.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-09T032922Z_prospera-legal-milestone-and-etsy-integration.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Governance (Legal)** — Added Prospera legal entity approval status to the public roadmap milestones on the beta site.\n- **Engineering (Web)** — Fixed timeline date display to show local time instead of UTC and corrected sorting logic for zero-indexed events.\n- **Engineering (Shop)** — Integrated Etsy order monitoring into the agroverse checkout flow and fixed OAuth URL encoding bugs.\n- **Ops (Inventory)** — Synced fresh store and partner inventory snapshots.",
+  "message2_shipped": "Shipped\n\n- truesight_me_beta: Add Prospera legal entity approval and fix timeline sorting/date parsing — https://github.com/TrueSightDAO/truesight_me_beta/commit/0ab454e, https://github.com/TrueSightDAO/truesight_me_beta/commit/1e7eedb\n- agroverse_shop_beta: Add Etsy order monitoring and fix OAuth URLs — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/624ea22, https://github.com/TrueSightDAO/agroverse_shop_beta/commit/e8eec32\n- agroverse-inventory: Refresh store and partner inventory snapshots — https://github.com/TrueSightDAO/agroverse-inventory/commit/2e39986\n\nCommunity (Telegram log):\n\n- **Contribution (Gary Teh):** Legal (Prospera entity approval on timeline); Engineering (Notarization commit message formatting).\n\nCommunity (DApp Remarks / field):\n\n- **Sales (Esalen Institute):** Detected automated warm-up response to cacao wholesale inquiry (status: AI: Warm up prospect)."
+}

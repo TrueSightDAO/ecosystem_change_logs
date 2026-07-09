@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-08T02:52:25Z",
+  "generated_at": "2026-07-09T03:29:22Z",
   "page": 2,
   "page_size": 10,
-  "total": 81,
+  "total": 82,
   "page_count": 9,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-29T040807Z",
+      "posted_at_utc": "2026-06-29T04:08:07Z",
+      "slug": "repackaging-settlement-governor-sync",
+      "preview": "Automated daily digest of the DAO - **Ops (Inventory)** — Repackaging settlement executed: 14 Oscar 81% bars and 2 ceremonial cacao units settled; inventory updated. - **Product (Governance)** — Governor Sheet Permissio…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-29T040807Z_repackaging-settlement-governor-sync.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-29T040807Z_repackaging-settlement-governor-sync.json"
+    },
     {
       "id": "beer-hall-2026-06-28T040310Z",
       "posted_at_utc": "2026-06-28T04:03:10Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Web (Transparency)** — Smart Contracts catalog page live: architecture diagram and clickable source code links added for all deployed contracts. - **Blog (Narrative)** — \"The FDA Ag…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-20T035437Z_smart-contracts-catalog-and-fda-blog.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-20T035437Z_smart-contracts-catalog-and-fda-blog.json"
-    },
-    {
-      "id": "beer-hall-2026-06-19T043014Z",
-      "posted_at_utc": "2026-06-19T04:30:14Z",
-      "slug": "sentinel-role-live-and-roadmap-track-map",
-      "preview": "Automated daily digest of the DAO - **Ops (Sentinel)** — Sentinel role implementation live: authorization added to inventory movements (Column T) and stale record bugs fixed. - **Ops (Governance)** — Live Track Map and …",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-19T043014Z_sentinel-role-live-and-roadmap-track-map.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-19T043014Z_sentinel-role-live-and-roadmap-track-map.json"
     }
   ]
 }
