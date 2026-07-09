@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-08T02:52:25Z",
+  "generated_at": "2026-07-09T03:29:22Z",
   "page": 1,
   "page_size": 10,
-  "total": 81,
+  "total": 82,
   "page_count": 9,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-09T032922Z",
+      "posted_at_utc": "2026-07-09T03:29:22Z",
+      "slug": "prospera-legal-milestone-and-etsy-integration",
+      "preview": "Automated daily digest of the DAO - **Governance (Legal)** — Added Prospera legal entity approval status to the public roadmap milestones on the beta site. - **Engineering (Web)** — Fixed timeline date display to show l…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-09T032922Z_prospera-legal-milestone-and-etsy-integration.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-09T032922Z_prospera-legal-milestone-and-etsy-integration.json"
+    },
     {
       "id": "beer-hall-2026-07-08T025225Z",
       "posted_at_utc": "2026-07-08T02:52:25Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ops (Tools)** — Sophia Expense Reporting Plan published; SOP updated for GAS-compatible field names. - **Ops (Inventory)** — 4 Oscar 81% tasting bars expensed. - **Ops (Logistics)**…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-30T035358Z_sophia-expense-reporting-plan-live.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-30T035358Z_sophia-expense-reporting-plan-live.json"
-    },
-    {
-      "id": "beer-hall-2026-06-29T040807Z",
-      "posted_at_utc": "2026-06-29T04:08:07Z",
-      "slug": "repackaging-settlement-governor-sync",
-      "preview": "Automated daily digest of the DAO - **Ops (Inventory)** — Repackaging settlement executed: 14 Oscar 81% bars and 2 ceremonial cacao units settled; inventory updated. - **Product (Governance)** — Governor Sheet Permissio…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-29T040807Z_repackaging-settlement-governor-sync.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-29T040807Z_repackaging-settlement-governor-sync.json"
     }
   ]
 }
