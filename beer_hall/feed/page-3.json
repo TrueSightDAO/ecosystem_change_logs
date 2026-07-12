@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-11T02:48:53Z",
+  "generated_at": "2026-07-12T02:56:39Z",
   "page": 3,
   "page_size": 10,
-  "total": 83,
+  "total": 84,
   "page_count": 9,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-21T042534Z",
+      "posted_at_utc": "2026-06-21T04:25:34Z",
+      "slug": "soha-postmortem-and-batch-execution",
+      "preview": "Automated daily digest of the DAO - **Ops (Governance)** — SOHA incident postmortem closed: added intent interpretation rules and a batch sales execution plan for the 40-bag cash pattern to SOPHIA. - **Ops (Inventory)**…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-21T042534Z_soha-postmortem-and-batch-execution.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-21T042534Z_soha-postmortem-and-batch-execution.json"
+    },
     {
       "id": "beer-hall-2026-06-20T035437Z",
       "posted_at_utc": "2026-06-20T03:54:37Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Web (Shop)** — \"Friends of the Rainforest\" landing page live with rich media, QR-linked event signup, and subscription CTAs. - **Ops (Autopilot)** — Phase 0 governance plan and Soph…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-12T041228Z_friends-rainforest-live-sophia-phase-0.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-12T041228Z_friends-rainforest-live-sophia-phase-0.json"
-    },
-    {
-      "id": "beer-hall-2026-06-11T041108Z",
-      "posted_at_utc": "2026-06-11T04:11:08Z",
-      "slug": "subscription-verification-aora-plan",
-      "preview": "Automated daily digest of the DAO - **Web (Blog)** — \"Sovereignty in the Age of Replaceable AI\" post published with revised sovereignty section and updated narration. - **Web (Shop)** — Subscription flow upgraded with a…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-11T041108Z_subscription-verification-aora-plan.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-11T041108Z_subscription-verification-aora-plan.json"
     }
   ]
 }
