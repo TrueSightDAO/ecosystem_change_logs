@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-13T025806Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-13T02:58:06Z",
+  "slug": "narrative-reality-check-docs-reorg",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-13T025806Z_narrative-reality-check-docs-reorg.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-13T025806Z_narrative-reality-check-docs-reorg.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Marketing (Content)** — Updated \"The Desert and the Diamond\" narrative with a postscript warning about Altamira/Ilhéus logistics and removed the \"People Behind the Story\" section.\n- **Engineering (Docs)** — Reorganized DAO documentation root, moving ~168 files into new folders for better navigation.\n- **Engineering (Docs)** — Recorded DeepSeek model usage and contributions to the knowledge base.\n- **Ops (Tokenomics)** — Fixed daily buy-back budget logic to decouple from retired Wix subscriptions.\n- **Ops (Inventory)** — Automated daily snapshot refreshes for store and partner stock levels.\n- **Research (Architecture)** — Validated that Claude/OpenAI agents can run on self-hosted EC2 instances with full codebase access.",
+  "message2_shipped": "Shipped\n\n- truesight_me_beta: Update \"Desert and the Diamond\": add Altamira/Ilhéus warnings, drop \"People Behind the Story\" — https://github.com/TrueSightDAO/truesight_me_beta/commit/8062c26\n- agentic_ai_context: Reorganize root: move ~168 files into 13 new + 6 existing folders — https://github.com/TrueSightDAO/agentic_ai_context/commit/7af7221\n- agentic_ai_context: Record DeepSeek contributions (Jul 10) — https://github.com/TrueSightDAO/agentic_ai_context/commit/87164cd\n- tokenomics: Fix(buyback): decouple daily buy-back budget from retired Wix — https://github.com/TrueSightDAO/tokenomics/commit/64ca7e1\n- agroverse-inventory: Refresh store and partner inventory snapshots — https://github.com/TrueSightDAO/agroverse-inventory/commit/12d2d2b\n\nCommunity (Telegram log):\n\n- **Contribution (Gary Teh, Jerry Luk, Tiffine Wang, Val Lapidus):** Surfacing the insight that it is possible now to run agents within Claude and OpenAI while hosting the code on your own EC2 instance to have access to your codebase and API keys [Full Provision Awarded]."
+}
