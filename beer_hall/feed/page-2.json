@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-13T02:58:06Z",
+  "generated_at": "2026-07-14T02:39:18Z",
   "page": 2,
   "page_size": 10,
-  "total": 85,
+  "total": 86,
   "page_count": 9,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-03T032828Z",
+      "posted_at_utc": "2026-07-03T03:28:28Z",
+      "slug": "etsy-integration-shared-nav-large-spike-go-ready",
+      "preview": "Automated daily digest of the DAO - **Engineering (Web/Shop)** — Consolidated navigation and footer across the main site and Agroverse Shop using shared JS injection. - **Sales (E-commerce)** — Integrated Etsy order mon…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-03T032828Z_etsy-integration-shared-nav-large-spike-go-ready.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-03T032828Z_etsy-integration-shared-nav-large-spike-go-ready.json"
+    },
     {
       "id": "beer-hall-2026-07-02T034708Z",
       "posted_at_utc": "2026-07-02T03:47:08Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ops (Governance)** — Proposal CLI fully deployed: create_proposal.py and review_proposal.py now live for DAO operations. - **Ops (Supply Chain)** — QR Self-Serve Currency pipeline e…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-24T034837Z_proposal-cli-live-qr-self-serve-prospera-plan.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-24T034837Z_proposal-cli-live-qr-self-serve-prospera-plan.json"
-    },
-    {
-      "id": "beer-hall-2026-06-23T034600Z",
-      "posted_at_utc": "2026-06-23T03:46:00Z",
-      "slug": "qr-pipeline-green-pr4-deployed",
-      "preview": "Automated daily digest of the DAO - **Ops (Infrastructure)** — QR code generation pipeline fully green: CI token wired and storage repointed to `lineage-assets`. - **Ops (Governance)** — Scoring Review Queue (PR4) deplo…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-23T034600Z_qr-pipeline-green-pr4-deployed.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-23T034600Z_qr-pipeline-green-pr4-deployed.json"
     }
   ]
 }
