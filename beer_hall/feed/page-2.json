@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-14T02:39:18Z",
+  "generated_at": "2026-07-15T02:36:56Z",
   "page": 2,
   "page_size": 10,
-  "total": 86,
+  "total": 87,
   "page_count": 9,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-04T032211Z",
+      "posted_at_utc": "2026-07-04T03:22:11Z",
+      "slug": "settlement-pipeline-tdg-hardening-members-fix",
+      "preview": "Automated daily digest of the DAO - **Governance (Settlement)** — Implemented full voting rights cash-out settlement pipeline across tokenomics and inventory scripts. - **Ops (Governance)** — Root-caused and resolved `d…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-04T032211Z_settlement-pipeline-tdg-hardening-members-fix.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-04T032211Z_settlement-pipeline-tdg-hardening-members-fix.json"
+    },
     {
       "id": "beer-hall-2026-07-03T032828Z",
       "posted_at_utc": "2026-07-03T03:28:28Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Product (Trust)** — Smart Contracts catalog deployed: inline RSA verification now live on truesight.me for on-chain contract transparency. - **Ops (Events)** — DAO represented at Du…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-25T034654Z_contracts-catalog-live-event-logistics.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-25T034654Z_contracts-catalog-live-event-logistics.json"
-    },
-    {
-      "id": "beer-hall-2026-06-24T034837Z",
-      "posted_at_utc": "2026-06-24T03:48:37Z",
-      "slug": "proposal-cli-live-qr-self-serve-prospera-plan",
-      "preview": "Automated daily digest of the DAO - **Ops (Governance)** — Proposal CLI fully deployed: create_proposal.py and review_proposal.py now live for DAO operations. - **Ops (Supply Chain)** — QR Self-Serve Currency pipeline e…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-24T034837Z_proposal-cli-live-qr-self-serve-prospera-plan.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-24T034837Z_proposal-cli-live-qr-self-serve-prospera-plan.json"
     }
   ]
 }
