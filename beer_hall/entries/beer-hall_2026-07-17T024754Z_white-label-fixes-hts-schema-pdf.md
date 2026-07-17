@@ -1,0 +1,39 @@
+---
+id: 'beer-hall-2026-07-17T024754Z'
+channel: beer_hall
+posted_at_utc: '2026-07-17T02:47:54Z'
+slug: 'white-label-fixes-hts-schema-pdf'
+sheet_log: 'OpenClaw Beer Hall updates'
+links: []
+pr_commit_links: []
+notes: 'Drafted automatically by .github/workflows/beer-hall-digest-daily.yml'
+---
+
+## Message 1 (TLDR)
+
+Automated daily digest of the DAO
+
+- **Engineering (Shop)** — Shipped white-label PR4 (gallery/upload) and PR5 (success receipt); fixed a critical dao-client field-name bug blocking registration/verification.
+- **Sales (Content)** — Added Coopercabruca membership credentials to Oscar’s farm page.
+- **Data (Compliance)** — Published the complete HS/HTS code schema PDF with live ledger links for partner export workflows.
+- **Ops (Infrastructure)** — Retargeted weekly AMI autopilot backups to the new Nelanco Claude Code box.
+- **Ops (Handoff)** — Completed Brazil ops instruction handoff to Fatima and provisioned Gmail OAuth on the admin Claude box.
+
+## Message 2 (Shipped + community)
+
+Shipped
+
+- agroverse_shop_beta: fix(white-label): PR5 — State E/F order emphasis + real success receipt — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/5798a7b
+- agroverse_shop_beta: fix(white-label): PR4 — State C/D gallery + upload — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/166cf42
+- agroverse_shop_beta: fix(white-label): registration/verification never worked -- dao-client field-name bug — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/ecb4e42
+- agroverse_shop_beta: Add Coopercabruca membership to Oscar's farm page — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/a2e9ca6
+- agentic_ai_context: Add live ledger URL to HTS schema PDF + update with complete product mapping — https://github.com/TrueSightDAO/agentic_ai_context/commit/3c7af1d
+- agentic_ai_context: docs: Sophia Nelanco migration, Claude Cloud box, white-label changelog — https://github.com/TrueSightDAO/agentic_ai_context/commit/5f183fa
+- Cypher-Defense: fix(backup): retarget weekly autopilot AMI backup to the Nelanco box — https://github.com/TrueSightDAO/Cypher-Defense/commit/47a3bb5
+
+Community (Telegram log):
+
+- **Contribution (Sophia Truesight):** HTS code infrastructure documentation: researched existing HS codes, created SCHEMA.md, generated PDF with product-to-HTS mapping for partner sharing — 40m [Full Provision Awarded].
+- **Contribution (Gary Teh):** Handoff of instructions to Fatima and orlantildes — 30m [Full Provision Awarded].
+- **Contribution (Sophia Truesight):** Set up Claude Code box (nelanco-claude) with Gmail OAuth tokens for admin@truesight.me and gary@agroverse.shop — 20m [Full Provision Awarded].
+- **Contribution (Gary Teh):** Directed and corrected Sophia on setting up Claude Code box with correct Gmail OAuth tokens — 5m [Full Provision Awarded].
