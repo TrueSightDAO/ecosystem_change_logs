@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-18T02:38:39Z",
+  "generated_at": "2026-07-20T03:21:56Z",
   "page": 1,
   "page_size": 10,
-  "total": 89,
+  "total": 90,
   "page_count": 9,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-20T032156Z",
+      "posted_at_utc": "2026-07-20T03:21:56Z",
+      "slug": "warmup-conversion-ssl-recovery-plan",
+      "preview": "Automated daily digest of the DAO - **Sales (Conversion)** — Launched \"WARMUP\" conversion improvement plan to eliminate waste in sales onboarding. - **Ops (Infrastructure)** — Executed Units 1 & 2 of getdata.io SSL reco…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-20T032156Z_warmup-conversion-ssl-recovery-plan.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-20T032156Z_warmup-conversion-ssl-recovery-plan.json"
+    },
     {
       "id": "beer-hall-2026-07-18T023839Z",
       "posted_at_utc": "2026-07-18T02:38:39Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Engineering (Web)** — Fixed timeline sorting bugs (zero-index handling) and corrected date parsing to display local time instead of UTC on the beta site. - **Governance (Legal)** — …",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-08T025225Z_web-timeline-fixes-and-china-guild-alignment.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-08T025225Z_web-timeline-fixes-and-china-guild-alignment.json"
-    },
-    {
-      "id": "beer-hall-2026-07-07T033627Z",
-      "posted_at_utc": "2026-07-07T03:36:27Z",
-      "slug": "oracle-canonical-fixes-and-sales",
-      "preview": "Automated daily digest of the DAO - **Engineering (Oracle)** — Standardized \"PRACTICE EVENT\" labels in the I Ching Oracle to ensure canonical payload handling for Capoeira and other programs. - **Ops (Sales)** — Process…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-07T033627Z_oracle-canonical-fixes-and-sales.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-07T033627Z_oracle-canonical-fixes-and-sales.json"
     }
   ]
 }
