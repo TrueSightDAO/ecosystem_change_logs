@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-20T03:21:56Z",
+  "generated_at": "2026-07-21T02:50:13Z",
   "page": 3,
   "page_size": 10,
-  "total": 90,
-  "page_count": 9,
+  "total": 91,
+  "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-28T040310Z",
+      "posted_at_utc": "2026-06-28T04:03:10Z",
+      "slug": "edgar-registration-oscar-sales-qr-flag",
+      "preview": "Automated daily digest of the DAO - **Ops (Governance)** — New program registration request submitted by Edgar (XysraBvHfNTSvAraec). - **Sales (Direct)** — Multiple units of Oscar and Santa Ana inventory sold via Stripe…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-28T040310Z_edgar-registration-oscar-sales-qr-flag.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-28T040310Z_edgar-registration-oscar-sales-qr-flag.json"
+    },
     {
       "id": "beer-hall-2026-06-27T033904Z",
       "posted_at_utc": "2026-06-27T03:39:04Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ops (Sentinel)** — Sentinel role implementation live: authorization added to inventory movements (Column T) and stale record bugs fixed. - **Ops (Governance)** — Live Track Map and …",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-19T043014Z_sentinel-role-live-and-roadmap-track-map.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-19T043014Z_sentinel-role-live-and-roadmap-track-map.json"
-    },
-    {
-      "id": "beer-hall-2026-06-18T041229Z",
-      "posted_at_utc": "2026-06-18T04:12:29Z",
-      "slug": "sophia-auto-advance-and-gacc-updates",
-      "preview": "Automated daily digest of the DAO - **Ops (Sophia)** — Auto-Advance feature roadmap published: execution plan and \"Advance column\" convention added to governance docs. - **Ops (Identity)** — Vault governor identity reso…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-18T041229Z_sophia-auto-advance-and-gacc-updates.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-18T041229Z_sophia-auto-advance-and-gacc-updates.json"
     }
   ]
 }

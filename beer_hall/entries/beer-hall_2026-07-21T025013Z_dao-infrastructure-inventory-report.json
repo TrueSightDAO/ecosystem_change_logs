@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-21T025013Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-21T02:50:13Z",
+  "slug": "dao-infrastructure-inventory-report",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-21T025013Z_dao-infrastructure-inventory-report.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-21T025013Z_dao-infrastructure-inventory-report.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Ops (Transparency)** — Published DAO asset, infrastructure, and agent inventory report to improve system visibility and tracking.",
+  "message2_shipped": "Shipped\n\n- agentic_ai_context: Add DAO asset/infrastructure/agent inventory report — https://github.com/TrueSightDAO/agentic_ai_context/commit/8ae6bf2"
+}
