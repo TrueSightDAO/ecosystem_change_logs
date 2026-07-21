@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-20T03:21:56Z",
+  "generated_at": "2026-07-21T02:50:13Z",
   "page": 1,
   "page_size": 10,
-  "total": 90,
-  "page_count": 9,
+  "total": 91,
+  "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-21T025013Z",
+      "posted_at_utc": "2026-07-21T02:50:13Z",
+      "slug": "dao-infrastructure-inventory-report",
+      "preview": "Automated daily digest of the DAO - **Ops (Transparency)** — Published DAO asset, infrastructure, and agent inventory report to improve system visibility and tracking.",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-21T025013Z_dao-infrastructure-inventory-report.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-21T025013Z_dao-infrastructure-inventory-report.json"
+    },
     {
       "id": "beer-hall-2026-07-20T032156Z",
       "posted_at_utc": "2026-07-20T03:21:56Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ops (Product)** — Added USA Santos chocolate production specification (MD + PDF) to the shared knowledge base. - **Engineering (Tokenomics)** — Decoupled daily buy-back budget logic…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-10T033216Z_usa-santos-spec-and-buyback-fix.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-10T033216Z_usa-santos-spec-and-buyback-fix.json"
-    },
-    {
-      "id": "beer-hall-2026-07-08T025225Z",
-      "posted_at_utc": "2026-07-08T02:52:25Z",
-      "slug": "web-timeline-fixes-and-china-guild-alignment",
-      "preview": "Automated daily digest of the DAO - **Engineering (Web)** — Fixed timeline sorting bugs (zero-index handling) and corrected date parsing to display local time instead of UTC on the beta site. - **Governance (Legal)** — …",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-08T025225Z_web-timeline-fixes-and-china-guild-alignment.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-08T025225Z_web-timeline-fixes-and-china-guild-alignment.json"
     }
   ]
 }
