@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T10:59:13.674Z",
+  "generated_at": "2026-07-23T10:59:14.536Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -31,12 +31,12 @@
     {
       "order": 8,
       "status": "Research",
-      "stores": 59
+      "stores": 58
     },
     {
       "order": 9,
       "status": "AI: No fit signal",
-      "stores": 158
+      "stores": 159
     },
     {
       "order": 10,
@@ -61,7 +61,7 @@
     {
       "order": 19,
       "status": "Rejected",
-      "stores": 15
+      "stores": 16
     },
     {
       "order": 20,
@@ -81,7 +81,7 @@
     {
       "order": 9999,
       "status": "AI: Warm up prospect",
-      "stores": 66
+      "stores": 65
     },
     {
       "order": 9999,
@@ -99,11 +99,11 @@
       "ok": true,
       "tab": "Email Agent Follow Up",
       "sends_logged": {
-        "warmup": 533,
+        "warmup": 544,
         "follow_up": 70,
         "bulk": 0,
         "unknown": 2,
-        "total_rows": 605
+        "total_rows": 616
       },
       "distinct_recipients": {
         "warmup": 88,
@@ -116,16 +116,16 @@
       "touch_columns_resolved": true,
       "cohorts": {
         "AI: Warm up prospect": {
-          "stores": 66,
-          "sum_warmup_sends_au": 485,
+          "stores": 65,
+          "sum_warmup_sends_au": 488,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
             "none": 1,
             "once": 0,
-            "repeat": 65
+            "repeat": 64
           },
           "follow_up_send_depth": {
-            "none": 66,
+            "none": 65,
             "once": 0,
             "repeat": 0
           }
