@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-21T02:50:13Z",
+  "generated_at": "2026-07-30T02:32:25Z",
   "page": 8,
   "page_size": 10,
-  "total": 91,
+  "total": 92,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-08T024249Z",
+      "posted_at_utc": "2026-05-08T02:42:49Z",
+      "slug": "asset-receipt-page-autopilot-self-deploy-cacao-samples",
+      "preview": "The Autopilot gains a self-deploy capability and a new Asset Receipt Reporter page, tasting samples shipped to Good Vibrations Apothecary, and the Autopilot's chat UI gets async message queuing so governors can keep typ…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-08T024249Z_asset-receipt-page-autopilot-self-deploy-cacao-samples.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-08T024249Z_asset-receipt-page-autopilot-self-deploy-cacao-samples.json"
+    },
     {
       "id": "beer-hall-2026-05-07T023654Z",
       "posted_at_utc": "2026-05-07T02:36:54Z",
@@ -78,14 +86,6 @@
       "preview": "The Way Home Shop (Portland, OR) is fully onboarded and live on the partner hub, a circle-hosting detector shipped to find wellness venues that run sound baths and breathwork, and the DApp's contributor permissions syst…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-04-29T023918Z_way-home-shop-live-circle-detector-permissions-phase-two.md",
       "json_path": "beer_hall/entries/beer-hall_2026-04-29T023918Z_way-home-shop-live-circle-detector-permissions-phase-two.json"
-    },
-    {
-      "id": "beer-hall-2026-04-28T023934Z",
-      "posted_at_utc": "2026-04-28T02:39:34Z",
-      "slug": "wholesale-page-velocity-snapshot-two-bahia-newsletter",
-      "preview": "The /wholesale/ page is live on the shop, partner velocity tracking shipped its first snapshot, and the Two Bahia bars newsletter went out to 38 subscribers. A busy day of pipeline wiring and sales tooling. - **/wholesa…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-28T023934Z_wholesale-page-velocity-snapshot-two-bahia-newsletter.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-28T023934Z_wholesale-page-velocity-snapshot-two-bahia-newsletter.json"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-30T023225Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-30T02:32:25Z",
+  "slug": "cacao-club-and-oracle-updates",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-30T023225Z_cacao-club-and-oracle-updates.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-30T023225Z_cacao-club-and-oracle-updates.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Product (Oracle)** — Fixed blank lines in exported PDFs and reframed readings as personal practice rather than DAO directives.\n- **Governance** — Proposed Cacao Club membership model to define community structure.\n- **Ops (Finance)** — Tracked Claude Pro subscription in recurring tokenomics transactions.\n- **Community** — Field contribution submitted for Chocolate museum analysis.",
+  "message2_shipped": "Shipped\n\n- iching_oracle: Fix hexagram lines rendering blank in printed/exported PDFs — https://github.com/TrueSightDAO/oracle/commit/0bd1a09\n- iching_oracle: Frame oracle readings as the operator's personal practice, not a DAO-wide directive — https://github.com/TrueSightDAO/oracle/commit/40c0070\n- agentic_ai_context: Add Cacao Club membership model proposal PDF — https://github.com/TrueSightDAO/agentic_ai_context/commit/b8d2ec0\n- tokenomics: Add Claude Pro subscription to Recurring Transactions sheet — https://github.com/TrueSightDAO/tokenomics/commit/1a7da01\n\nCommunity (Telegram log):\n\n- Contribution: \"Chocolate museum analysis\" (Ove roasted) submitted by Gary Teh and Elizabeth Wong [2h 0m, Full Provision Awarded]."
+}
