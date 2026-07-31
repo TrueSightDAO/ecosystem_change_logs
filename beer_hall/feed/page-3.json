@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-30T02:32:25Z",
+  "generated_at": "2026-07-31T02:57:39Z",
   "page": 3,
   "page_size": 10,
-  "total": 92,
+  "total": 93,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-30T035358Z",
+      "posted_at_utc": "2026-06-30T03:53:58Z",
+      "slug": "sophia-expense-reporting-plan-live",
+      "preview": "Automated daily digest of the DAO - **Ops (Tools)** — Sophia Expense Reporting Plan published; SOP updated for GAS-compatible field names. - **Ops (Inventory)** — 4 Oscar 81% tasting bars expensed. - **Ops (Logistics)**…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-30T035358Z_sophia-expense-reporting-plan-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-30T035358Z_sophia-expense-reporting-plan-live.json"
+    },
     {
       "id": "beer-hall-2026-06-29T040807Z",
       "posted_at_utc": "2026-06-29T04:08:07Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ops (Governance)** — SOHA incident postmortem closed: added intent interpretation rules and a batch sales execution plan for the 40-bag cash pattern to SOPHIA. - **Ops (Inventory)**…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-21T042534Z_soha-postmortem-and-batch-execution.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-21T042534Z_soha-postmortem-and-batch-execution.json"
-    },
-    {
-      "id": "beer-hall-2026-06-20T035437Z",
-      "posted_at_utc": "2026-06-20T03:54:37Z",
-      "slug": "smart-contracts-catalog-and-fda-blog",
-      "preview": "Automated daily digest of the DAO - **Web (Transparency)** — Smart Contracts catalog page live: architecture diagram and clickable source code links added for all deployed contracts. - **Blog (Narrative)** — \"The FDA Ag…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-20T035437Z_smart-contracts-catalog-and-fda-blog.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-20T035437Z_smart-contracts-catalog-and-fda-blog.json"
     }
   ]
 }

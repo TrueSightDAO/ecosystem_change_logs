@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-30T02:32:25Z",
+  "generated_at": "2026-07-31T02:57:39Z",
   "page": 1,
   "page_size": 10,
-  "total": 92,
+  "total": 93,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-31T025739Z",
+      "posted_at_utc": "2026-07-31T02:57:39Z",
+      "slug": "cacao-logistics-narrative-live",
+      "preview": "Automated daily digest of the DAO - **Narrative** — Published explainer on the cacao logistics route from Brazil to San Francisco.",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-31T025739Z_cacao-logistics-narrative-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-31T025739Z_cacao-logistics-narrative-live.json"
+    },
     {
       "id": "beer-hall-2026-07-30T023225Z",
       "posted_at_utc": "2026-07-30T02:32:25Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Marketing (Content)** — Published \"The Desert and the Diamond\" narrative blog post with updated editorial standards. - **Engineering (Web)** — Rolled out editorial v2 updates to the…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-12T025639Z_desert-diamond-narrative-published.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-12T025639Z_desert-diamond-narrative-published.json"
-    },
-    {
-      "id": "beer-hall-2026-07-11T024853Z",
-      "posted_at_utc": "2026-07-11T02:48:53Z",
-      "slug": "sao-jorge-launch-and-prospera-bylaws",
-      "preview": "Automated daily digest of the DAO - **Sales (Product)** — Launched São Jorge (Coopercabruca) 81% dark chocolate bar SKU with live inventory on the beta shop. - **Ops (Freight)** — Added triangular trade documentation (A…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-11T024853Z_sao-jorge-launch-and-prospera-bylaws.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-11T024853Z_sao-jorge-launch-and-prospera-bylaws.json"
     }
   ]
 }
