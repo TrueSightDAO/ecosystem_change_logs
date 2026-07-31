@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-07-31T025739Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-07-31T02:57:39Z",
+  "slug": "cacao-logistics-narrative-live",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-07-31T025739Z_cacao-logistics-narrative-live.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-07-31T025739Z_cacao-logistics-narrative-live.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Narrative** — Published explainer on the cacao logistics route from Brazil to San Francisco.",
+  "message2_shipped": "Shipped\n\n- truesight_me: Add blog post detailing the cacao journey from Brazil to San Francisco — https://github.com/TrueSightDAO/truesight_me_beta/commit/7831a95"
+}
