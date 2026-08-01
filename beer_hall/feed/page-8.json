@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-07-31T02:57:39Z",
+  "generated_at": "2026-08-01T02:56:16Z",
   "page": 8,
   "page_size": 10,
-  "total": 93,
+  "total": 94,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-10T024057Z",
+      "posted_at_utc": "2026-05-10T02:40:57Z",
+      "slug": "batch-qr-oracle-persist-autopilot-auth",
+      "preview": "Batch inventory movement, oracle persistence, and agentic authorization all landed since yesterday's digest — the biggest cluster of contributor-facing wiring in this cycle. - **Batch QR inventory movement live** — cont…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-10T024057Z_batch-qr-oracle-persist-autopilot-auth.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-10T024057Z_batch-qr-oracle-persist-autopilot-auth.json"
+    },
     {
       "id": "beer-hall-2026-05-09T023633Z",
       "posted_at_utc": "2026-05-09T02:36:33Z",
@@ -78,14 +86,6 @@
       "preview": "Two processing partners are live on the partner hub, a full SunMint Pledge donation pipeline shipped end-to-end, and the Hit List gained a dedicated Deferred Until column with an auto-flip cron. - **Santos Chocolate Fac…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-01T024644Z_santos-onboarded-sunmint-pledge-two-processing-partners.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-01T024644Z_santos-onboarded-sunmint-pledge-two-processing-partners.json"
-    },
-    {
-      "id": "beer-hall-2026-04-30T024023Z",
-      "posted_at_utc": "2026-04-30T02:40:23Z",
-      "slug": "kirsten-37-bars-sold-store-add-scanner",
-      "preview": "Kirsten sold 37 bars at $10 each — 20 Oscar 2024 and 17 Santa Ana 2023 — processed via a batch Stripe script Gary wrote and submitted to Edgar. That's $370 in confirmed cash sales recorded on-chain. - **37 bars sold, fu…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-04-30T024023Z_kirsten-37-bars-sold-store-add-scanner.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-04-30T024023Z_kirsten-37-bars-sold-store-add-scanner.json"
     }
   ]
 }
