@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-04T02:42:20Z",
+  "generated_at": "2026-08-07T02:44:48Z",
   "page": 1,
   "page_size": 10,
-  "total": 95,
+  "total": 96,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-08-07T024448Z",
+      "posted_at_utc": "2026-08-07T02:44:48Z",
+      "slug": "robotics-barter-strategy-maintenance-peg",
+      "preview": "Automated daily digest of the DAO - **Strategy** — Finalized the \"Robotics-for-Cacao Barter\" action plan, proposing a maintenance-cost peg to bypass commodity price volatility. - **Agronomy** — Structured the proposal a…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-08-07T024448Z_robotics-barter-strategy-maintenance-peg.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-08-07T024448Z_robotics-barter-strategy-maintenance-peg.json"
+    },
     {
       "id": "beer-hall-2026-08-04T024220Z",
       "posted_at_utc": "2026-08-04T02:42:20Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Engineering (Shop)** — Committed full implementation for white-label label orientation (corrected to portrait 2\"×4\"). - **Engineering (Shop)** — Synced subscription renewal payments…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-15T023656Z_white-label-fixes-subscription-sync.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-15T023656Z_white-label-fixes-subscription-sync.json"
-    },
-    {
-      "id": "beer-hall-2026-07-14T023918Z",
-      "posted_at_utc": "2026-07-14T02:39:18Z",
-      "slug": "operating-agreement-signed-shop-updates",
-      "preview": "Automated daily digest of the DAO - **Ops (Legal)** — Finalized and uploaded the clean v1.0 Operating Agreement PDF, ready for signature. - **Sales (Shop)** — Added São Jorge farm video embeds, published the Bean to Bli…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-14T023918Z_operating-agreement-signed-shop-updates.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-14T023918Z_operating-agreement-signed-shop-updates.json"
     }
   ]
 }
