@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-04T02:42:20Z",
+  "generated_at": "2026-08-07T02:44:48Z",
   "page": 4,
   "page_size": 10,
-  "total": 95,
+  "total": 96,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-23T034600Z",
+      "posted_at_utc": "2026-06-23T03:46:00Z",
+      "slug": "qr-pipeline-green-pr4-deployed",
+      "preview": "Automated daily digest of the DAO - **Ops (Infrastructure)** — QR code generation pipeline fully green: CI token wired and storage repointed to `lineage-assets`. - **Ops (Governance)** — Scoring Review Queue (PR4) deplo…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-23T034600Z_qr-pipeline-green-pr4-deployed.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-23T034600Z_qr-pipeline-green-pr4-deployed.json"
+    },
     {
       "id": "beer-hall-2026-06-22T042740Z",
       "posted_at_utc": "2026-06-22T04:27:40Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Web (Narrative)** — \"Agentic AI and the Common Law Tradition\" essay published with Lee Kuan Yew reflection and data sovereignty arguments. - **Web (Platform)** — Platform Services d…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-14T041819Z_narrative-update-sophia-context-plan.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-14T041819Z_narrative-update-sophia-context-plan.json"
-    },
-    {
-      "id": "beer-hall-2026-06-13T035924Z",
-      "posted_at_utc": "2026-06-13T03:59:24Z",
-      "slug": "tech-fest-recap-sophia-hotfix",
-      "preview": "Automated daily digest of the DAO - **Web (Blog)** — \"The Joy Was the Point\" TECH FEST 2026 reflection published with full event gallery and contributor credits. - **Ops (Autopilot)** — Sophia vault hotfix and ops-safet…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-13T035924Z_tech-fest-recap-sophia-hotfix.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-13T035924Z_tech-fest-recap-sophia-hotfix.json"
     }
   ]
 }
