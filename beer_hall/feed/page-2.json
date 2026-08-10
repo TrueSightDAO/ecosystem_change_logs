@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-07T02:44:48Z",
+  "generated_at": "2026-08-10T01:55:47Z",
   "page": 2,
   "page_size": 10,
-  "total": 96,
+  "total": 97,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-15T023656Z",
+      "posted_at_utc": "2026-07-15T02:36:56Z",
+      "slug": "white-label-fixes-subscription-sync",
+      "preview": "Automated daily digest of the DAO - **Engineering (Shop)** — Committed full implementation for white-label label orientation (corrected to portrait 2\"×4\"). - **Engineering (Shop)** — Synced subscription renewal payments…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-15T023656Z_white-label-fixes-subscription-sync.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-15T023656Z_white-label-fixes-subscription-sync.json"
+    },
     {
       "id": "beer-hall-2026-07-14T023918Z",
       "posted_at_utc": "2026-07-14T02:39:18Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Governance (Mechanics)** — Fixed retroactive vote deduplication logic to rely on contributor identity rather than cryptographic key. - **Governance (Process)** — Merged Proposal 18.…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-05T033850Z_vote-dedup-fix-proposal-18-partnership-outreach.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-05T033850Z_vote-dedup-fix-proposal-18-partnership-outreach.json"
-    },
-    {
-      "id": "beer-hall-2026-07-04T032211Z",
-      "posted_at_utc": "2026-07-04T03:22:11Z",
-      "slug": "settlement-pipeline-tdg-hardening-members-fix",
-      "preview": "Automated daily digest of the DAO - **Governance (Settlement)** — Implemented full voting rights cash-out settlement pipeline across tokenomics and inventory scripts. - **Ops (Governance)** — Root-caused and resolved `d…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-04T032211Z_settlement-pipeline-tdg-hardening-members-fix.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-04T032211Z_settlement-pipeline-tdg-hardening-members-fix.json"
     }
   ]
 }
