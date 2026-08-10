@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-07T02:44:48Z",
+  "generated_at": "2026-08-10T01:55:47Z",
   "page": 5,
   "page_size": 10,
-  "total": 96,
+  "total": 97,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-14T041819Z",
+      "posted_at_utc": "2026-06-14T04:18:19Z",
+      "slug": "narrative-update-sophia-context-plan",
+      "preview": "Automated daily digest of the DAO - **Web (Narrative)** — \"Agentic AI and the Common Law Tradition\" essay published with Lee Kuan Yew reflection and data sovereignty arguments. - **Web (Platform)** — Platform Services d…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-14T041819Z_narrative-update-sophia-context-plan.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-14T041819Z_narrative-update-sophia-context-plan.json"
+    },
     {
       "id": "beer-hall-2026-06-13T035924Z",
       "posted_at_utc": "2026-06-13T03:59:24Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Security (Cypher-Defense)** — Security dashboard now live with AWS inventory, phishing blacklist, and dynamic web/GitHub scanning. - **Security (Dashboard)** — Hosting classificatio…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-05T040057Z_security-dashboard-live-aora-modules.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-05T040057Z_security-dashboard-live-aora-modules.json"
-    },
-    {
-      "id": "beer-hall-2026-06-04T041556Z",
-      "posted_at_utc": "2026-06-04T04:15:56Z",
-      "slug": "lineage-self-serve-live",
-      "preview": "- **Programs (Lineage)** — Self-serve program registration form now live with auto-identity generation and two signed-event verification. - **Web (Landing)** — Initiatives landing page updated with a 2x2 grid, the 4th i…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-04T041556Z_lineage-self-serve-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-04T041556Z_lineage-self-serve-live.json"
     }
   ]
 }
