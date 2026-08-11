@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-10T01:55:47Z",
+  "generated_at": "2026-08-11T01:52:01Z",
   "page": 3,
   "page_size": 10,
-  "total": 97,
+  "total": 98,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-05T033850Z",
+      "posted_at_utc": "2026-07-05T03:38:50Z",
+      "slug": "vote-dedup-fix-proposal-18-partnership-outreach",
+      "preview": "Automated daily digest of the DAO - **Governance (Mechanics)** — Fixed retroactive vote deduplication logic to rely on contributor identity rather than cryptographic key. - **Governance (Process)** — Merged Proposal 18.…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-05T033850Z_vote-dedup-fix-proposal-18-partnership-outreach.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-05T033850Z_vote-dedup-fix-proposal-18-partnership-outreach.json"
+    },
     {
       "id": "beer-hall-2026-07-04T032211Z",
       "posted_at_utc": "2026-07-04T03:22:11Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ops (Legal)** — Status check with Matheus on CNPJ CNAE classification addition logged. - **Ops (Events)** — Dual Tech Summit execution: setup of serving station and cacao booth serv…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-26T035741Z_cnpj-status-summit-execution-qr-fixes.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-26T035741Z_cnpj-status-summit-execution-qr-fixes.json"
-    },
-    {
-      "id": "beer-hall-2026-06-25T034654Z",
-      "posted_at_utc": "2026-06-25T03:46:54Z",
-      "slug": "contracts-catalog-live-event-logistics",
-      "preview": "Automated daily digest of the DAO - **Product (Trust)** — Smart Contracts catalog deployed: inline RSA verification now live on truesight.me for on-chain contract transparency. - **Ops (Events)** — DAO represented at Du…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-25T034654Z_contracts-catalog-live-event-logistics.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-25T034654Z_contracts-catalog-live-event-logistics.json"
     }
   ]
 }

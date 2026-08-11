@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-08-11T015201Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-08-11T01:52:01Z",
+  "slug": "oracle-fix-startup-summit-coordination",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-08-11T015201Z_oracle-fix-startup-summit-coordination.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-08-11T015201Z_oracle-fix-startup-summit-coordination.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Oracle** — Fixed a visual rendering bug where broken hexagram lines appeared as solid black blocks instead of transparent gaps.\n- **Events** — Finalized assets and copy for the Startup Summit 2026 booth, including logo handoff and multilingual pitch drafts.\n- **Analysis** — Contributed volume analysis work to support current DAO market positioning.",
+  "message2_shipped": "Shipped\n\n- oracle: Fix broken-line gap printing solid black instead of transparent (#65) — https://github.com/TrueSightDAO/oracle/commit/2e2ea19\n\nCommunity (Telegram log):\n\n- Events: Startup Summit 2026 stand coordination with Paloma (logo handoff, EN/PT pitches, exhibitor blurb).\n- Analysis: Volume analysis work by Gary Teh."
+}
