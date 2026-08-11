@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-10T01:55:47Z",
+  "generated_at": "2026-08-11T01:52:01Z",
   "page": 5,
   "page_size": 10,
-  "total": 97,
+  "total": 98,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-15T042930Z",
+      "posted_at_utc": "2026-06-15T04:29:30Z",
+      "slug": "kopi-bar-onboarding-legal-v7",
+      "preview": "Automated daily digest of the DAO - **Partners (Agroverse)** — Kopi Bar & Bakery (Berkeley) onboarded: partner page live with interior/hero photos and listed as wholesale stockist. - **Ops (Sales)** — Green Gulch Zen Mo…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-15T042930Z_kopi-bar-onboarding-legal-v7.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-15T042930Z_kopi-bar-onboarding-legal-v7.json"
+    },
     {
       "id": "beer-hall-2026-06-14T041819Z",
       "posted_at_utc": "2026-06-14T04:18:19Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Oracle (Practice)** — Reading permalinks live: shareable URLs now capture the full cast state (hexagram + QMDJ) for practice tracking. - **Ops (Outreach)** — B2B bounce handling aut…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-06T034159Z_oracle-permalinks-outreach-automation.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-06T034159Z_oracle-permalinks-outreach-automation.json"
-    },
-    {
-      "id": "beer-hall-2026-06-05T040057Z",
-      "posted_at_utc": "2026-06-05T04:00:57Z",
-      "slug": "security-dashboard-live-aora-modules",
-      "preview": "Automated daily digest of the DAO - **Security (Cypher-Defense)** — Security dashboard now live with AWS inventory, phishing blacklist, and dynamic web/GitHub scanning. - **Security (Dashboard)** — Hosting classificatio…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-05T040057Z_security-dashboard-live-aora-modules.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-05T040057Z_security-dashboard-live-aora-modules.json"
     }
   ]
 }

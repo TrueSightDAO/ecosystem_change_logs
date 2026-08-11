@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-10T01:55:47Z",
+  "generated_at": "2026-08-11T01:52:01Z",
   "page": 2,
   "page_size": 10,
-  "total": 97,
+  "total": 98,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-17T024754Z",
+      "posted_at_utc": "2026-07-17T02:47:54Z",
+      "slug": "white-label-fixes-hts-schema-pdf",
+      "preview": "Automated daily digest of the DAO - **Engineering (Shop)** — Shipped white-label PR4 (gallery/upload) and PR5 (success receipt); fixed a critical dao-client field-name bug blocking registration/verification. - **Sales (…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-17T024754Z_white-label-fixes-hts-schema-pdf.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-17T024754Z_white-label-fixes-hts-schema-pdf.json"
+    },
     {
       "id": "beer-hall-2026-07-15T023656Z",
       "posted_at_utc": "2026-07-15T02:36:56Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ops (Sales)** — Processed 4 cacao bar sales totaling $68 via Michael Johnson. - **Ops (Logistics)** — Resolved customs bonds, plastic pallets, and fumigation details with Graziela; …",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-06T034432Z_etsy-integration-and-sales-processing.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-06T034432Z_etsy-integration-and-sales-processing.json"
-    },
-    {
-      "id": "beer-hall-2026-07-05T033850Z",
-      "posted_at_utc": "2026-07-05T03:38:50Z",
-      "slug": "vote-dedup-fix-proposal-18-partnership-outreach",
-      "preview": "Automated daily digest of the DAO - **Governance (Mechanics)** — Fixed retroactive vote deduplication logic to rely on contributor identity rather than cryptographic key. - **Governance (Process)** — Merged Proposal 18.…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-05T033850Z_vote-dedup-fix-proposal-18-partnership-outreach.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-05T033850Z_vote-dedup-fix-proposal-18-partnership-outreach.json"
     }
   ]
 }
