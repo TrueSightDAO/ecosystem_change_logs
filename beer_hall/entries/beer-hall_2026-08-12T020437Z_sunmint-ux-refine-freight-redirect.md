@@ -1,0 +1,33 @@
+---
+id: 'beer-hall-2026-08-12T020437Z'
+channel: beer_hall
+posted_at_utc: '2026-08-12T02:04:37Z'
+slug: 'sunmint-ux-refine-freight-redirect'
+sheet_log: 'OpenClaw Beer Hall updates'
+links: []
+pr_commit_links: []
+notes: 'Drafted automatically by .github/workflows/beer-hall-digest-daily.yml'
+---
+
+## Message 1 (TLDR)
+
+Automated daily digest of the DAO
+
+- **Product** — Refined Sunmint Farmer App UX following live beta testing, including a shift to tree-first reporting and live camera capture instead of file uploads.
+- **Web** — Added direct access to the Sunmint Farmer App from the Part 4 (Trees Registry) card on the main site.
+- **Logistics** — Redirected 20 bags of ceremonial cacao to FounderHaus Florianópolis by updating freight documentation and regenerating PDFs.
+- **Inventory** — Wrote off expired Cacao Molasses stock (2 bottles) at the San Francisco location.
+- **Sales** — Mossy Tonic prospect declined supply but proposed a paid advertising partnership via their Facebook group.
+
+## Message 2 (Shipped + community)
+
+Shipped
+
+- truesight_me: Add Farmer App link to the Part 4 (Trees Registry) card too (#291) — https://github.com/TrueSightDAO/truesight_me_beta/commit/99bc749
+
+Community (Telegram log):
+
+- Product: Sunmint Farmer App review and testing (UX feedback on tree reports, camera capture, species dropdown) by Gary Teh.
+- Operations: Freight docs revised (INV-2026-0611-001 Rev3) to redirect stock to FounderHaus Florianópolis by Gary Teh.
+- Inventory: Cacao Molasses write-off (AGL7) logged by Gary Teh.
+- Sales: Mossy Tonic prospect outcome (declined purchase, offered ads) logged via DApp.
