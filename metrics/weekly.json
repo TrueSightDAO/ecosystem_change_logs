@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T10:59:14.892Z",
+  "generated_at": "2026-08-12T10:59:15.037Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -23,11 +23,11 @@
       "ok": true,
       "tab": "Email Agent Follow Up",
       "sends_logged": {
-        "warmup": 671,
+        "warmup": 682,
         "follow_up": 71,
         "bulk": 0,
         "unknown": 2,
-        "total_rows": 744
+        "total_rows": 755
       },
       "distinct_recipients": {
         "warmup": 88,
@@ -40,16 +40,16 @@
       "touch_columns_resolved": true,
       "cohorts": {
         "AI: Warm up prospect": {
-          "stores": 63,
-          "sum_warmup_sends_au": 599,
+          "stores": 62,
+          "sum_warmup_sends_au": 603,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
             "none": 1,
             "once": 0,
-            "repeat": 62
+            "repeat": 61
           },
           "follow_up_send_depth": {
-            "none": 63,
+            "none": 62,
             "once": 0,
             "repeat": 0
           }
@@ -85,32 +85,32 @@
           }
         },
         "AI: Prospect replied": {
-          "stores": 1,
-          "sum_warmup_sends_au": 9,
+          "stores": 2,
+          "sum_warmup_sends_au": 17,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
             "none": 0,
             "once": 0,
-            "repeat": 1
+            "repeat": 2
           },
           "follow_up_send_depth": {
-            "none": 1,
+            "none": 2,
             "once": 0,
             "repeat": 0
           }
         }
       },
       "follow_up_pipeline_combined": {
-        "stores": 34,
-        "sum_warmup_sends_au": 16,
+        "stores": 35,
+        "sum_warmup_sends_au": 24,
         "sum_follow_up_sends_av": 67,
         "warmup_send_depth": {
           "none": 30,
           "once": 1,
-          "repeat": 3
+          "repeat": 4
         },
         "follow_up_send_depth": {
-          "none": 12,
+          "none": 13,
           "once": 5,
           "repeat": 17
         },
