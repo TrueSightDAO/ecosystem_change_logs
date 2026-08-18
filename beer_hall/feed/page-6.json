@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-12T02:04:37Z",
+  "generated_at": "2026-08-18T01:18:23Z",
   "page": 6,
   "page_size": 10,
-  "total": 99,
+  "total": 100,
   "page_count": 10,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-07T040932Z",
+      "posted_at_utc": "2026-06-07T04:09:32Z",
+      "slug": "blog-updates-sentinel-role-live",
+      "preview": "Automated daily digest of the DAO - **Narrative (Blog)** — \"Journey to the West\" (with audio) and \"AI Agent Voting Rights\" posts published; Sophia Truesight avatar added. - **Governance (Sentinels)** — Sentinel role now…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-07T040932Z_blog-updates-sentinel-role-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-07T040932Z_blog-updates-sentinel-role-live.json"
+    },
     {
       "id": "beer-hall-2026-06-06T034159Z",
       "posted_at_utc": "2026-06-06T03:41:59Z",
@@ -78,14 +86,6 @@
       "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Blog** — \"We let an AI run our DAO. Here's why we open-sourced it\" published. - **Edgar** — Solution page rewritten as three open layers (cont…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-29T035249Z_ai-dao-narrative-and-autopilot-roadmaps.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-29T035249Z_ai-dao-narrative-and-autopilot-roadmaps.json"
-    },
-    {
-      "id": "beer-hall-2026-05-28T035227Z",
-      "posted_at_utc": "2026-05-28T03:52:27Z",
-      "slug": "dapp-prod-split-and-autopilot-gates",
-      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **DApp split** — Track A complete: `beta.dapp.truesight.me` live; prod/beta fork convention (A3) established. - **Autopilot** — B4-B6 shipped (T…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-28T035227Z_dapp-prod-split-and-autopilot-gates.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-28T035227Z_dapp-prod-split-and-autopilot-gates.json"
     }
   ]
 }
