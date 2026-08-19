@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-18T01:18:23Z",
+  "generated_at": "2026-08-19T01:20:20Z",
   "page": 3,
   "page_size": 10,
-  "total": 100,
-  "page_count": 10,
+  "total": 101,
+  "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-08T025225Z",
+      "posted_at_utc": "2026-07-08T02:52:25Z",
+      "slug": "web-timeline-fixes-and-china-guild-alignment",
+      "preview": "Automated daily digest of the DAO - **Engineering (Web)** — Fixed timeline sorting bugs (zero-index handling) and corrected date parsing to display local time instead of UTC on the beta site. - **Governance (Legal)** — …",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-08T025225Z_web-timeline-fixes-and-china-guild-alignment.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-08T025225Z_web-timeline-fixes-and-china-guild-alignment.json"
+    },
     {
       "id": "beer-hall-2026-07-07T033627Z",
       "posted_at_utc": "2026-07-07T03:36:27Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ops (Inventory)** — Repackaging settlement executed: 14 Oscar 81% bars and 2 ceremonial cacao units settled; inventory updated. - **Product (Governance)** — Governor Sheet Permissio…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-29T040807Z_repackaging-settlement-governor-sync.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-29T040807Z_repackaging-settlement-governor-sync.json"
-    },
-    {
-      "id": "beer-hall-2026-06-28T040310Z",
-      "posted_at_utc": "2026-06-28T04:03:10Z",
-      "slug": "edgar-registration-oscar-sales-qr-flag",
-      "preview": "Automated daily digest of the DAO - **Ops (Governance)** — New program registration request submitted by Edgar (XysraBvHfNTSvAraec). - **Sales (Direct)** — Multiple units of Oscar and Santa Ana inventory sold via Stripe…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-28T040310Z_edgar-registration-oscar-sales-qr-flag.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-28T040310Z_edgar-registration-oscar-sales-qr-flag.json"
     }
   ]
 }
