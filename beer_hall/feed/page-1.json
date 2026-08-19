@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-18T01:18:23Z",
+  "generated_at": "2026-08-19T01:20:20Z",
   "page": 1,
   "page_size": 10,
-  "total": 100,
-  "page_count": 10,
+  "total": 101,
+  "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-08-19T012020Z",
+      "posted_at_utc": "2026-08-19T01:20:20Z",
+      "slug": "tree-planting-links-ivy-page",
+      "preview": "- **Sunmint** — Activated the link between sold QR codes and tree-planting submissions, enabling direct traceability from purchased bar to specific farm trees. - **Web** — Published the IVY (Liv for Yoga) program page t…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-08-19T012020Z_tree-planting-links-ivy-page.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-08-19T012020Z_tree-planting-links-ivy-page.json"
+    },
     {
       "id": "beer-hall-2026-08-18T011823Z",
       "posted_at_utc": "2026-08-18T01:18:23Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Product (Oracle)** — Fixed blank lines in exported PDFs and reframed readings as personal practice rather than DAO directives. - **Governance** — Proposed Cacao Club membership mode…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-30T023225Z_cacao-club-and-oracle-updates.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-30T023225Z_cacao-club-and-oracle-updates.json"
-    },
-    {
-      "id": "beer-hall-2026-07-21T025013Z",
-      "posted_at_utc": "2026-07-21T02:50:13Z",
-      "slug": "dao-infrastructure-inventory-report",
-      "preview": "Automated daily digest of the DAO - **Ops (Transparency)** — Published DAO asset, infrastructure, and agent inventory report to improve system visibility and tracking.",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-21T025013Z_dao-infrastructure-inventory-report.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-21T025013Z_dao-infrastructure-inventory-report.json"
     }
   ]
 }
