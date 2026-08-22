@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-19T01:20:20Z",
+  "generated_at": "2026-08-22T01:19:25Z",
   "page": 1,
   "page_size": 10,
-  "total": 101,
+  "total": 102,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-08-22T011925Z",
+      "posted_at_utc": "2026-08-22T01:19:25Z",
+      "slug": "cacao-tea-launch-media-refactor",
+      "preview": "Automated daily digest of the DAO - **Retail** — Launched Cacao Tea 50g (Oscar's Farm) for offline QR-scan sales and added product cards to category and farm pages. - **Web** — Migrated farm and shipment media to a unif…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-08-22T011925Z_cacao-tea-launch-media-refactor.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-08-22T011925Z_cacao-tea-launch-media-refactor.json"
+    },
     {
       "id": "beer-hall-2026-08-19T012020Z",
       "posted_at_utc": "2026-08-19T01:20:20Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Narrative** — Published explainer on the cacao logistics route from Brazil to San Francisco.",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-31T025739Z_cacao-logistics-narrative-live.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-31T025739Z_cacao-logistics-narrative-live.json"
-    },
-    {
-      "id": "beer-hall-2026-07-30T023225Z",
-      "posted_at_utc": "2026-07-30T02:32:25Z",
-      "slug": "cacao-club-and-oracle-updates",
-      "preview": "Automated daily digest of the DAO - **Product (Oracle)** — Fixed blank lines in exported PDFs and reframed readings as personal practice rather than DAO directives. - **Governance** — Proposed Cacao Club membership mode…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-30T023225Z_cacao-club-and-oracle-updates.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-30T023225Z_cacao-club-and-oracle-updates.json"
     }
   ]
 }
