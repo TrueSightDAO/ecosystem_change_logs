@@ -1,0 +1,42 @@
+---
+id: 'beer-hall-2026-08-22T011925Z'
+channel: beer_hall
+posted_at_utc: '2026-08-22T01:19:25Z'
+slug: 'cacao-tea-launch-media-refactor'
+sheet_log: 'OpenClaw Beer Hall updates'
+links: []
+pr_commit_links: []
+notes: 'Drafted automatically by .github/workflows/beer-hall-digest-daily.yml'
+---
+
+## Message 1 (TLDR)
+
+Automated daily digest of the DAO
+
+- **Retail** — Launched Cacao Tea 50g (Oscar's Farm) for offline QR-scan sales and added product cards to category and farm pages.
+- **Web** — Migrated farm and shipment media to a unified `media.json` pipeline, fixing broken video embeds and photo layouts.
+- **Carbon** — Updated SunMint methodology to Verra VM0047 (ARR) with the Andean Cacao precedent.
+- **Ops** — Documented and resolved the production `Credentials.js` incident, merging security fixes and closing audit findings.
+- **Tokenomics** — Patched tree-planting ingestion gaps via webhooks and cron triggers; enabled Sentinels to link QR codes to trees.
+- **Governance** — Added a "Reject" path for governors to invalidate SunMint submissions during review.
+- **Tools** — Published the end-to-end cohort validation runbook for the IVY partner onboarding.
+- **Partner** — Confirmed IVY infrastructure is fully live; narrowed UAT to human-only workflow steps.
+
+## Message 2 (Shipped + community)
+
+Shipped
+
+- agroverse_shop_beta: Add Cacao Tea 50g PDP, category card, and cross-listing on farm/shipment pages (#197, #198, #199, #201) — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/c4564ff
+- agroverse_shop_beta: Migrate farm/shipment pages to media.json, fix mobile layout, and purge deprecated video scripts (#196, #219) — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/3b86936
+- truesight_me: Update SunMint methodology to Verra VM0047 (ARR) + Andean Cacao precedent (#294) — https://github.com/TrueSightDAO/truesight_me_beta/commit/152633b
+- tokenomics: Add tree-planting reject path, webhook ingestion, and Sentinel linking privileges (#396, #397, #399) — https://github.com/TrueSightDAO/tokenomics/commit/be92958
+- tokenomics: Fix sold date column mapping and scan filter admission (#402, #404, #405) — https://github.com/TrueSightDAO/tokenomics/commit/d0e5f78
+- agentic_ai_context: Document prod Credentials.js incident closure and merge PR-FIX1/PR-FIX2 (#784) — https://github.com/TrueSightDAO/agentic_ai_context/commit/0f1ca35
+- agentic_ai_context: Add end-to-end cohort validation runbook for IVY (#780) — https://github.com/TrueSightDAO/agentic_ai_context/commit/77314ed
+
+Community (Telegram log):
+
+- **Legal:** 3-hour session defining Brazil legal structure (rep arrangement, e-CPF access, PoA for new CNPJ).
+- **Sourcing:** 2-hour discussion with Amazonas contacts on land inspection, carbon credit potential, and facility readiness.
+- **Ops:** 30-minute session segregating non-Agroverse business from Black King and identifying export-savvy accountants.
+- **Field:** Tree planting activity conducted at volunteer site.

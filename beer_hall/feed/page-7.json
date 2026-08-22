@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-19T01:20:20Z",
+  "generated_at": "2026-08-22T01:19:25Z",
   "page": 7,
   "page_size": 10,
-  "total": 101,
+  "total": 102,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-30T033805Z",
+      "posted_at_utc": "2026-05-30T03:38:05Z",
+      "slug": "gas-restructure-vault-and-whitepaper",
+      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Governance** — Whitepaper amended to drop OpenClaw, expand governor privileges, and correct early-exit clauses; source of truth migrated to st…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-30T033805Z_gas-restructure-vault-and-whitepaper.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-30T033805Z_gas-restructure-vault-and-whitepaper.json"
+    },
     {
       "id": "beer-hall-2026-05-29T035249Z",
       "posted_at_utc": "2026-05-29T03:52:49Z",
@@ -78,14 +86,6 @@
       "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Treasury & AUM dashboards** — dedicated `/treasury` and `/aum` pages now live with formula-matched data and source ledger links. - **Asset lin…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-21T035840Z_treasury-aum-pages-qr-lineage-live.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-21T035840Z_treasury-aum-pages-qr-lineage-live.json"
-    },
-    {
-      "id": "beer-hall-2026-05-20T034723Z",
-      "posted_at_utc": "2026-05-20T03:47:23Z",
-      "slug": "incident-recovery-partner-ops-qmdj-updates",
-      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Incident response** — recovered truesight.me prod, fixed sell-through CI, verified org domain, and documented git force-push risks. - **Creden…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-20T034723Z_incident-recovery-partner-ops-qmdj-updates.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-20T034723Z_incident-recovery-partner-ops-qmdj-updates.json"
     }
   ]
 }
