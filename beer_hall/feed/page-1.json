@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-22T01:19:25Z",
+  "generated_at": "2026-08-23T01:25:58Z",
   "page": 1,
   "page_size": 10,
-  "total": 102,
+  "total": 103,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-08-23T012558Z",
+      "posted_at_utc": "2026-08-23T01:25:58Z",
+      "slug": "qr-map-updates-email-oauth-fix",
+      "preview": "Automated daily digest of the DAO - **Web** — Updated tree QR pages to display live OpenStreetMap coordinates, inline seedling photos, and signer references in the event history. - **Ops** — Resolved the root cause of m…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-08-23T012558Z_qr-map-updates-email-oauth-fix.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-08-23T012558Z_qr-map-updates-email-oauth-fix.json"
+    },
     {
       "id": "beer-hall-2026-08-22T011925Z",
       "posted_at_utc": "2026-08-22T01:19:25Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Operations** — Updated Brazil-SF freight SOP to document three active NF-e blockers (CNAE, cert expiry, CNPJ Inapto) and added pre-flight checks. - **Narrative** — Published photos …",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-01T025616Z_cacao-pack-visuals-sop.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-01T025616Z_cacao-pack-visuals-sop.json"
-    },
-    {
-      "id": "beer-hall-2026-07-31T025739Z",
-      "posted_at_utc": "2026-07-31T02:57:39Z",
-      "slug": "cacao-logistics-narrative-live",
-      "preview": "Automated daily digest of the DAO - **Narrative** — Published explainer on the cacao logistics route from Brazil to San Francisco.",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-31T025739Z_cacao-logistics-narrative-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-31T025739Z_cacao-logistics-narrative-live.json"
     }
   ]
 }
