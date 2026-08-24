@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-23T01:25:58Z",
+  "generated_at": "2026-08-24T01:23:05Z",
   "page": 1,
   "page_size": 10,
-  "total": 103,
+  "total": 104,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-08-24T012305Z",
+      "posted_at_utc": "2026-08-24T01:23:05Z",
+      "slug": "founderhaus-launch-fund-transfer-state",
+      "preview": "Automated daily digest of the DAO - **Web** — Launched the FounderHaus Farm Edition as a SunMint initiative, adding a dedicated program page, brief details, and batch verification CTAs to the site. - **Tokenomics** — In…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-08-24T012305Z_founderhaus-launch-fund-transfer-state.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-08-24T012305Z_founderhaus-launch-fund-transfer-state.json"
+    },
     {
       "id": "beer-hall-2026-08-23T012558Z",
       "posted_at_utc": "2026-08-23T01:25:58Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Legal** — Filed the signed TrueSight DAO LLC Próspera Operating Agreement v1.0, formalizing the entity’s foundational framework. - **Market Strategy** — Completed China cacao tea ma…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-04T024220Z_prospera-operating-agreement-signed-china-market-strategy.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-04T024220Z_prospera-operating-agreement-signed-china-market-strategy.json"
-    },
-    {
-      "id": "beer-hall-2026-08-01T025616Z",
-      "posted_at_utc": "2026-08-01T02:56:16Z",
-      "slug": "cacao-pack-visuals-sop",
-      "preview": "Automated daily digest of the DAO - **Operations** — Updated Brazil-SF freight SOP to document three active NF-e blockers (CNAE, cert expiry, CNPJ Inapto) and added pre-flight checks. - **Narrative** — Published photos …",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-01T025616Z_cacao-pack-visuals-sop.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-01T025616Z_cacao-pack-visuals-sop.json"
     }
   ]
 }
