@@ -1,10 +1,10 @@
 {
   "id": "L-20260825-02",
   "agent": "sophia",
-  "target_type": "prod-sync",
-  "target_id": "truesight_me_prod",
-  "action": "sync_beta_to_prod truesight_me_prod",
-  "started_utc": "2026-08-25T16:13:31Z",
+  "target_type": "ec2",
+  "target_id": "autopilot",
+  "action": "redeploy to 887dc8d (#313) live",
+  "started_utc": "2026-08-25T16:36:11Z",
   "ttl_minutes": 30,
   "status": "open"
 }
