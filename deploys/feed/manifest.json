@@ -1,7 +1,20 @@
 {
-  "total": 2,
-  "updated_utc": "2026-08-25T15:57:57Z",
+  "total": 3,
+  "updated_utc": "2026-08-25T16:03:13Z",
   "entries": [
+    {
+      "id": "deploy_20260825T160310Z_truesight-autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20260825T160310Z",
+      "target_type": "repo",
+      "target_id": "truesight_autopilot",
+      "action": "git push feat/deploy-ledger-phase2 + PR #313 merge (DEPLOY_PUSH_SOP Phase 2 enforcement)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/313",
+      "notes": "Backfilled after merge (module shipped in the same commit). Gate: 763 passed / 1 skipped, ruff clean."
+    },
     {
       "id": "deploy_20260825T155754Z_autopilot",
       "agent": "sophia",
