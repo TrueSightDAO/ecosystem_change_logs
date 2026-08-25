@@ -1,7 +1,20 @@
 {
-  "total": 6,
-  "updated_utc": "2026-08-25T16:34:22Z",
+  "total": 7,
+  "updated_utc": "2026-08-25T16:37:55Z",
   "entries": [
+    {
+      "id": "deploy_20260825T163751Z_autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20260825T163751Z",
+      "target_type": "ec2",
+      "target_id": "autopilot",
+      "action": "redeploy to 887dc8d (#313) live \u2014 verified worker 150990 already on new code (started 16:34:17); no restart required",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260825-02",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/313",
+      "notes": "First live exercise of deploy-ledger on ec2 target. Lease acquired+closed; deploy_autopilot noop was correct (process-staleness check passed)."
+    },
     {
       "id": "deploy_20260825T163419Z_autopilot",
       "agent": "sophia",
