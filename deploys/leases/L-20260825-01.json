@@ -1,0 +1,10 @@
+{
+  "id": "L-20260825-01",
+  "agent": "sophia",
+  "target_type": "clasp",
+  "target_id": "1Dj3-fake",
+  "action": "python3 /tmp/pytest-of-ubuntu/pytest-5/test_push_without_hooks_passes0/scripts/deploy_gas_project.py 1Dj3-fake --push --no-hooks",
+  "started_utc": "2026-08-25T15:47:16Z",
+  "ttl_minutes": 30,
+  "status": "open"
+}
