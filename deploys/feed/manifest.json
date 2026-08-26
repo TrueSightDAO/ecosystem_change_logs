@@ -1,7 +1,20 @@
 {
-  "total": 7,
-  "updated_utc": "2026-08-25T16:37:55Z",
+  "total": 9,
+  "updated_utc": "2026-08-26T02:34:57Z",
   "entries": [
+    {
+      "id": "deploy_20260826T023454Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
+      "agent": "sophia",
+      "timestamp_utc": "20260826T023454Z",
+      "target_type": "clasp",
+      "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push --no-hooks",
+      "git_ref": "",
+      "result": "failure",
+      "lease_id": "L-20260826-01",
+      "evidence_url": "",
+      "notes": "exit=1 stderr="
+    },
     {
       "id": "deploy_20260825T163751Z_autopilot",
       "agent": "sophia",
@@ -92,6 +105,19 @@
       "lease_id": "L-20260825-01",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Dj3-fake",
       "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260826T023450Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
+      "agent": "sophia",
+      "timestamp_utc": "2026-08-26T02:34:50.489158+00:00",
+      "target_type": "clasp",
+      "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
+      "action": "deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push",
+      "git_ref": "",
+      "result": "failure",
+      "lease_id": "L-20260826-023447",
+      "evidence_url": "",
+      "notes": "clasp push failed (DEPLOY_PUSH_SOP Phase 2)"
     }
   ]
 }
