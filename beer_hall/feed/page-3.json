@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-24T01:23:05Z",
+  "generated_at": "2026-08-26T01:23:18Z",
   "page": 3,
   "page_size": 10,
-  "total": 104,
+  "total": 105,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-13T025806Z",
+      "posted_at_utc": "2026-07-13T02:58:06Z",
+      "slug": "narrative-reality-check-docs-reorg",
+      "preview": "Automated daily digest of the DAO - **Marketing (Content)** — Updated \"The Desert and the Diamond\" narrative with a postscript warning about Altamira/Ilhéus logistics and removed the \"People Behind the Story\" section. -…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-13T025806Z_narrative-reality-check-docs-reorg.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-13T025806Z_narrative-reality-check-docs-reorg.json"
+    },
     {
       "id": "beer-hall-2026-07-12T025639Z",
       "posted_at_utc": "2026-07-12T02:56:39Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Engineering (Web/Shop)** — Consolidated navigation and footer across the main site and Agroverse Shop using shared JS injection. - **Sales (E-commerce)** — Integrated Etsy order mon…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-03T032828Z_etsy-integration-shared-nav-large-spike-go-ready.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-03T032828Z_etsy-integration-shared-nav-large-spike-go-ready.json"
-    },
-    {
-      "id": "beer-hall-2026-07-02T034708Z",
-      "posted_at_utc": "2026-07-02T03:47:08Z",
-      "slug": "members-page-single-source-governor-permission-sync",
-      "preview": "Automated daily digest of the DAO - **Engineering (Web)** — Members page refactored to use a single data source (`index.json`), dropping the separate `dao_members` fetch for improved reliability. - **Ops (Governance)** …",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-02T034708Z_members-page-single-source-governor-permission-sync.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-02T034708Z_members-page-single-source-governor-permission-sync.json"
     }
   ]
 }

@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-24T01:23:05Z",
+  "generated_at": "2026-08-26T01:23:18Z",
   "page": 1,
   "page_size": 10,
-  "total": 104,
+  "total": 105,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-08-26T012318Z",
+      "posted_at_utc": "2026-08-26T01:23:18Z",
+      "slug": "sunmint-monitoring-page-deploy-sop",
+      "preview": "Automated daily digest of the DAO - **SunMint** — Shipped the tree-growth monitoring page featuring video capture, GPS-based tree selection, and signed PM002 measurement events. - **Ops** — Enforced the new `DEPLOY_PUSH…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-08-26T012318Z_sunmint-monitoring-page-deploy-sop.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-08-26T012318Z_sunmint-monitoring-page-deploy-sop.json"
+    },
     {
       "id": "beer-hall-2026-08-24T012305Z",
       "posted_at_utc": "2026-08-24T01:23:05Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Strategy** — Finalized the \"Robotics-for-Cacao Barter\" action plan, proposing a maintenance-cost peg to bypass commodity price volatility. - **Agronomy** — Structured the proposal a…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-07T024448Z_robotics-barter-strategy-maintenance-peg.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-07T024448Z_robotics-barter-strategy-maintenance-peg.json"
-    },
-    {
-      "id": "beer-hall-2026-08-04T024220Z",
-      "posted_at_utc": "2026-08-04T02:42:20Z",
-      "slug": "prospera-operating-agreement-signed-china-market-strategy",
-      "preview": "Automated daily digest of the DAO - **Legal** — Filed the signed TrueSight DAO LLC Próspera Operating Agreement v1.0, formalizing the entity’s foundational framework. - **Market Strategy** — Completed China cacao tea ma…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-04T024220Z_prospera-operating-agreement-signed-china-market-strategy.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-04T024220Z_prospera-operating-agreement-signed-china-market-strategy.json"
     }
   ]
 }
