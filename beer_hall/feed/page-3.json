@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-26T01:23:18Z",
+  "generated_at": "2026-08-27T08:04:54Z",
   "page": 3,
   "page_size": 10,
-  "total": 105,
+  "total": 106,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-14T023918Z",
+      "posted_at_utc": "2026-07-14T02:39:18Z",
+      "slug": "operating-agreement-signed-shop-updates",
+      "preview": "Automated daily digest of the DAO - **Ops (Legal)** — Finalized and uploaded the clean v1.0 Operating Agreement PDF, ready for signature. - **Sales (Shop)** — Added São Jorge farm video embeds, published the Bean to Bli…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-14T023918Z_operating-agreement-signed-shop-updates.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-14T023918Z_operating-agreement-signed-shop-updates.json"
+    },
     {
       "id": "beer-hall-2026-07-13T025806Z",
       "posted_at_utc": "2026-07-13T02:58:06Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Governance (Settlement)** — Implemented full voting rights cash-out settlement pipeline across tokenomics and inventory scripts. - **Ops (Governance)** — Root-caused and resolved `d…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-04T032211Z_settlement-pipeline-tdg-hardening-members-fix.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-04T032211Z_settlement-pipeline-tdg-hardening-members-fix.json"
-    },
-    {
-      "id": "beer-hall-2026-07-03T032828Z",
-      "posted_at_utc": "2026-07-03T03:28:28Z",
-      "slug": "etsy-integration-shared-nav-large-spike-go-ready",
-      "preview": "Automated daily digest of the DAO - **Engineering (Web/Shop)** — Consolidated navigation and footer across the main site and Agroverse Shop using shared JS injection. - **Sales (E-commerce)** — Integrated Etsy order mon…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-03T032828Z_etsy-integration-shared-nav-large-spike-go-ready.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-03T032828Z_etsy-integration-shared-nav-large-spike-go-ready.json"
     }
   ]
 }
