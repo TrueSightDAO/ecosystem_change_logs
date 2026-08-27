@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-26T01:23:18Z",
+  "generated_at": "2026-08-27T08:04:54Z",
   "page": 1,
   "page_size": 10,
-  "total": 105,
+  "total": 106,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-08-27T080454Z",
+      "posted_at_utc": "2026-08-27T08:04:54Z",
+      "slug": "sunmint-monitor-plan-backend-sync",
+      "preview": "Automated daily digest of the DAO - **SunMint** — Updated the Tree-Growth Monitoring Plan (v1.4) to reflect corrected hosting priorities and shipped the backend handler for signed PM002 measurement events. - **Ops** — E…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-08-27T080454Z_sunmint-monitor-plan-backend-sync.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-08-27T080454Z_sunmint-monitor-plan-backend-sync.json"
+    },
     {
       "id": "beer-hall-2026-08-26T012318Z",
       "posted_at_utc": "2026-08-26T01:23:18Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Product** — Validated 65% sugar as the preferred sweetness level for the Chinese kids segment during recent tasting trials. - **R&D** — Analyzed competitive products, noting our bar…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-10T015547Z_tls-fix-chocolate-tasting-sunmint-cta.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-10T015547Z_tls-fix-chocolate-tasting-sunmint-cta.json"
-    },
-    {
-      "id": "beer-hall-2026-08-07T024448Z",
-      "posted_at_utc": "2026-08-07T02:44:48Z",
-      "slug": "robotics-barter-strategy-maintenance-peg",
-      "preview": "Automated daily digest of the DAO - **Strategy** — Finalized the \"Robotics-for-Cacao Barter\" action plan, proposing a maintenance-cost peg to bypass commodity price volatility. - **Agronomy** — Structured the proposal a…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-07T024448Z_robotics-barter-strategy-maintenance-peg.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-07T024448Z_robotics-barter-strategy-maintenance-peg.json"
     }
   ]
 }

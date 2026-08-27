@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-26T01:23:18Z",
+  "generated_at": "2026-08-27T08:04:54Z",
   "page": 8,
   "page_size": 10,
-  "total": 105,
+  "total": 106,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-05-24T035235Z",
+      "posted_at_utc": "2026-05-24T03:52:35Z",
+      "slug": "treasury-aum-dashboard-live",
+      "preview": "OpenClaw × Cursor — daily state of the DAO (not a manual post from Gary) - **Treasury live** — Asset Under Management (AUM) dashboard now public at /aum with ledger drill-through and formula-matched asset values. - **Ve…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-05-24T035235Z_treasury-aum-dashboard-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-05-24T035235Z_treasury-aum-dashboard-live.json"
+    },
     {
       "id": "beer-hall-2026-05-23T033035Z",
       "posted_at_utc": "2026-05-23T03:30:35Z",
@@ -78,14 +86,6 @@
       "preview": "Field Signals #4 and #5 are live, the Autopilot infrastructure gained a self-healing loop, and the CREDENTIALING_PLATFORM design spec shipped today. - **Field Signals #4 & #5 published** — \"The system that broke is the …",
       "markdown_path": "beer_hall/entries/beer-hall_2026-05-15T034220Z_field-signals-4-5-autopilot-self-healing.md",
       "json_path": "beer_hall/entries/beer-hall_2026-05-15T034220Z_field-signals-4-5-autopilot-self-healing.json"
-    },
-    {
-      "id": "beer-hall-2026-05-13T033754Z",
-      "posted_at_utc": "2026-05-13T03:37:54Z",
-      "slug": "partner-check-in-v03-field-signals-3-live",
-      "preview": "Partner Check-in v0.3, the AI-first Partner Poke Scheduler, and Field Signals #3 shipped today — turning partner workflow into an automated, bell-driven loop. - **Partner Check-in v0.3 live** — new contributor-leading U…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-05-13T033754Z_partner-check-in-v03-field-signals-3-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-05-13T033754Z_partner-check-in-v03-field-signals-3-live.json"
     }
   ]
 }
