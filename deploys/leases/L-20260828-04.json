@@ -1,0 +1,10 @@
+{
+  "id": "L-20260828-04",
+  "agent": "sophia",
+  "target_type": "prod-sync",
+  "target_id": "truesight_me_prod",
+  "action": "sync_beta_to_prod truesight_me_prod",
+  "started_utc": "2026-08-28T12:59:03Z",
+  "ttl_minutes": 30,
+  "status": "open"
+}
