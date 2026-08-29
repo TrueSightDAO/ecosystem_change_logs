@@ -1,0 +1,24 @@
+---
+id: deploy_20260829T133232Z_1og2g8q0-sdm9a5mjno-tq-9r8xmq00ybbmss4l3
+agent: sophia
+timestamp_utc: 20260829T133232Z
+target_type: clasp
+target_id: 1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c
+action: python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c --push --no-hooks
+git_ref: 
+result: success
+lease_id: L-20260829-06
+evidence_url: https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c
+---
+
+## Record
+
+- **Agent:** sophia
+- **Time (UTC):** 20260829T133232Z
+- **Target:** clasp `1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c`
+- **Action:** python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c --push --no-hooks
+- **Result:** success
+- **Git ref:** n/a
+- **Evidence:** https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c
+
+gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)
