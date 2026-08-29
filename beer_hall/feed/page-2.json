@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-27T08:04:54Z",
+  "generated_at": "2026-08-29T06:06:14Z",
   "page": 2,
   "page_size": 10,
-  "total": 106,
+  "total": 107,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-08-10T015547Z",
+      "posted_at_utc": "2026-08-10T01:55:47Z",
+      "slug": "tls-fix-chocolate-tasting-sunmint-cta",
+      "preview": "Automated daily digest of the DAO - **Product** — Validated 65% sugar as the preferred sweetness level for the Chinese kids segment during recent tasting trials. - **R&D** — Analyzed competitive products, noting our bar…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-08-10T015547Z_tls-fix-chocolate-tasting-sunmint-cta.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-08-10T015547Z_tls-fix-chocolate-tasting-sunmint-cta.json"
+    },
     {
       "id": "beer-hall-2026-08-07T024448Z",
       "posted_at_utc": "2026-08-07T02:44:48Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Engineering (Shop)** — Shipped white-label PR4 (gallery/upload) and PR5 (success receipt); fixed a critical dao-client field-name bug blocking registration/verification. - **Sales (…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-07-17T024754Z_white-label-fixes-hts-schema-pdf.md",
       "json_path": "beer_hall/entries/beer-hall_2026-07-17T024754Z_white-label-fixes-hts-schema-pdf.json"
-    },
-    {
-      "id": "beer-hall-2026-07-15T023656Z",
-      "posted_at_utc": "2026-07-15T02:36:56Z",
-      "slug": "white-label-fixes-subscription-sync",
-      "preview": "Automated daily digest of the DAO - **Engineering (Shop)** — Committed full implementation for white-label label orientation (corrected to portrait 2\"×4\"). - **Engineering (Shop)** — Synced subscription renewal payments…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-07-15T023656Z_white-label-fixes-subscription-sync.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-07-15T023656Z_white-label-fixes-subscription-sync.json"
     }
   ]
 }
