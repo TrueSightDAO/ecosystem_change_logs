@@ -1,7 +1,20 @@
 {
-  "total": 46,
-  "updated_utc": "2026-08-29T13:32:41Z",
+  "total": 48,
+  "updated_utc": "2026-08-29T13:33:08Z",
   "entries": [
+    {
+      "id": "deploy_20260829T133258Z_1q5hfgr-acsymrkcy5bs-jo8pdtv-vzj6zhv2vcy",
+      "agent": "sophia",
+      "timestamp_utc": "20260829T133258Z",
+      "target_type": "clasp",
+      "target_id": "1Q5HfGR_AcSYmrKCy5bs-Jo8pdtV-vZJ6Zhv2VCY0HGo2haVoeWMjOCGC",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1Q5HfGR_AcSYmrKCy5bs-Jo8pdtV-vZJ6Zhv2VCY0HGo2haVoeWMjOCGC --push --no-hooks",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260829-06",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Q5HfGR_AcSYmrKCy5bs-Jo8pdtV-vZJ6Zhv2VCY0HGo2haVoeWMjOCGC",
+      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260829T133232Z_1og2g8q0-sdm9a5mjno-tq-9r8xmq00ybbmss4l3",
       "agent": "sophia",
@@ -404,6 +417,19 @@
       "lease_id": "L-20260825-01",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Dj3-fake",
       "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260829T133251Z_1q5hfgr-acsymrkcy5bs-jo8pdtv-vzj6zhv2vcy",
+      "agent": "sophia",
+      "timestamp_utc": "2026-08-29T13:32:51.154556+00:00",
+      "target_type": "clasp",
+      "target_id": "1Q5HfGR_AcSYmrKCy5bs-Jo8pdtV-vZJ6Zhv2VCY0HGo2haVoeWMjOCGC",
+      "action": "deploy_gas_project.py 1Q5HfGR_AcSYmrKCy5bs-Jo8pdtV-vZJ6Zhv2VCY0HGo2haVoeWMjOCGC --push",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260829-133246",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Q5HfGR_AcSYmrKCy5bs-Jo8pdtV-vZJ6Zhv2VCY0HGo2haVoeWMjOCGC",
+      "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
     },
     {
       "id": "deploy_20260829T133225Z_1og2g8q0-sdm9a5mjno-tq-9r8xmq00ybbmss4l3",
