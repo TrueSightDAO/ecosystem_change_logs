@@ -1,0 +1,23 @@
+---
+id: deploy_20260829T130423Z_1m2sqondmgw6hbxivp0h0jjj1ayrylsrrlhb2mip
+agent: sophia
+timestamp_utc: 2026-08-29T13:04:23.872336+00:00
+target_type: clasp
+target_id: 1m2sQONdMGw6HbxIVP0H0JJJ1aYrYLSRRlHb2MIplrDDsKhm8-IwKBntk
+action: deploy_gas_project.py 1m2sQONdMGw6HbxIVP0H0JJJ1aYrYLSRRlHb2MIplrDDsKhm8-IwKBntk --push
+git_ref: 
+result: success
+lease_id: L-20260829-130420
+evidence_url: https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1m2sQONdMGw6HbxIVP0H0JJJ1aYrYLSRRlHb2MIplrDDsKhm8-IwKBntk
+---
+
+## Record
+
+- **Agent:** sophia
+- **Time (UTC):** 2026-08-29T13:04:23.872336+00:00
+- **Target:** clasp `1m2sQONdMGw6HbxIVP0H0JJJ1aYrYLSRRlHb2MIplrDDsKhm8-IwKBntk`
+- **Action:** deploy_gas_project.py 1m2sQONdMGw6HbxIVP0H0JJJ1aYrYLSRRlHb2MIplrDDsKhm8-IwKBntk --push
+- **Result:** success
+- **Evidence:** https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1m2sQONdMGw6HbxIVP0H0JJJ1aYrYLSRRlHb2MIplrDDsKhm8-IwKBntk
+
+direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)
