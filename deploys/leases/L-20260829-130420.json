@@ -1,9 +1,0 @@
-{
-  "id": "L-20260829-130420",
-  "agent": "sophia",
-  "target_type": "clasp",
-  "target_id": "1m2sQONdMGw6HbxIVP0H0JJJ1aYrYLSRRlHb2MIplrDDsKhm8-IwKBntk",
-  "action": "deploy_gas_project.py 1m2sQONdMGw6HbxIVP0H0JJJ1aYrYLSRRlHb2MIplrDDsKhm8-IwKBntk --push",
-  "started_at_utc": "2026-08-29T13:04:20.445448+00:00",
-  "ttl_seconds": 1800
-}
