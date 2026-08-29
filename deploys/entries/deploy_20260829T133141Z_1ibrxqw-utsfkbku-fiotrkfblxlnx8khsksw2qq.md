@@ -1,0 +1,24 @@
+---
+id: deploy_20260829T133141Z_1ibrxqw-utsfkbku-fiotrkfblxlnx8khsksw2qq
+agent: sophia
+timestamp_utc: 20260829T133141Z
+target_type: clasp
+target_id: 1IBrXqW_uTsFkbKU-fiOTrkfBlxLnX8KHsKSw2qqF3NoOa36wU0OKEVGH
+action: python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1IBrXqW_uTsFkbKU-fiOTrkfBlxLnX8KHsKSw2qqF3NoOa36wU0OKEVGH --push --no-hooks
+git_ref: 
+result: failure
+lease_id: L-20260829-06
+evidence_url: 
+---
+
+## Record
+
+- **Agent:** sophia
+- **Time (UTC):** 20260829T133141Z
+- **Target:** clasp `1IBrXqW_uTsFkbKU-fiOTrkfBlxLnX8KHsKSw2qqF3NoOa36wU0OKEVGH`
+- **Action:** python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1IBrXqW_uTsFkbKU-fiOTrkfBlxLnX8KHsKSw2qqF3NoOa36wU0OKEVGH --push --no-hooks
+- **Result:** failure
+- **Git ref:** n/a
+- **Evidence:** n/a
+
+exit=1 stderr=
