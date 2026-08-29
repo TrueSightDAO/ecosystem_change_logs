@@ -1,0 +1,24 @@
+---
+id: deploy_20260829T133117Z_15qbfln3zck-ee6ynqnlj2orywn3bwgh4bkqbaad
+agent: sophia
+timestamp_utc: 20260829T133117Z
+target_type: clasp
+target_id: 15qbfLN3ZCk-Ee6YNQnLj2OryWN3bWGh4BkqBaADonGQSLGzRyIo5skDR
+action: python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 15qbfLN3ZCk-Ee6YNQnLj2OryWN3bWGh4BkqBaADonGQSLGzRyIo5skDR --push --no-hooks
+git_ref: 
+result: success
+lease_id: L-20260829-06
+evidence_url: https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/15qbfLN3ZCk-Ee6YNQnLj2OryWN3bWGh4BkqBaADonGQSLGzRyIo5skDR
+---
+
+## Record
+
+- **Agent:** sophia
+- **Time (UTC):** 20260829T133117Z
+- **Target:** clasp `15qbfLN3ZCk-Ee6YNQnLj2OryWN3bWGh4BkqBaADonGQSLGzRyIo5skDR`
+- **Action:** python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 15qbfLN3ZCk-Ee6YNQnLj2OryWN3bWGh4BkqBaADonGQSLGzRyIo5skDR --push --no-hooks
+- **Result:** success
+- **Git ref:** n/a
+- **Evidence:** https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/15qbfLN3ZCk-Ee6YNQnLj2OryWN3bWGh4BkqBaADonGQSLGzRyIo5skDR
+
+gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)
