@@ -1,7 +1,20 @@
 {
-  "total": 34,
-  "updated_utc": "2026-08-29T13:21:08Z",
+  "total": 36,
+  "updated_utc": "2026-08-29T13:21:31Z",
   "entries": [
+    {
+      "id": "deploy_20260829T132123Z_1rll94jq9tdydrvudnp0prpy5sejvm07r4gps6-v",
+      "agent": "sophia",
+      "timestamp_utc": "20260829T132123Z",
+      "target_type": "clasp",
+      "target_id": "1rLl94jQ9tDYdRvudnP0prPY5SEjvM07R4gPs6-vRyZEpSJhUqbiE3CZY",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1rLl94jQ9tDYdRvudnP0prPY5SEjvM07R4gPs6-vRyZEpSJhUqbiE3CZY --push --no-hooks",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260829-06",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1rLl94jQ9tDYdRvudnP0prPY5SEjvM07R4gPs6-vRyZEpSJhUqbiE3CZY",
+      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260829T132100Z_1duqffto0pj0lc4tpvnmmohnos1gvjgzqvxxbsed",
       "agent": "sophia",
@@ -326,6 +339,19 @@
       "lease_id": "L-20260825-01",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Dj3-fake",
       "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260829T132116Z_1rll94jq9tdydrvudnp0prpy5sejvm07r4gps6-v",
+      "agent": "sophia",
+      "timestamp_utc": "2026-08-29T13:21:16.683418+00:00",
+      "target_type": "clasp",
+      "target_id": "1rLl94jQ9tDYdRvudnP0prPY5SEjvM07R4gPs6-vRyZEpSJhUqbiE3CZY",
+      "action": "deploy_gas_project.py 1rLl94jQ9tDYdRvudnP0prPY5SEjvM07R4gPs6-vRyZEpSJhUqbiE3CZY --push",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260829-132112",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1rLl94jQ9tDYdRvudnP0prPY5SEjvM07R4gPs6-vRyZEpSJhUqbiE3CZY",
+      "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
     },
     {
       "id": "deploy_20260829T132053Z_1duqffto0pj0lc4tpvnmmohnos1gvjgzqvxxbsed",
