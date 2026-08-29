@@ -1,7 +1,20 @@
 {
-  "total": 19,
-  "updated_utc": "2026-08-29T12:47:08Z",
+  "total": 21,
+  "updated_utc": "2026-08-29T13:03:51Z",
   "entries": [
+    {
+      "id": "deploy_20260829T130346Z_1lxwu9hos56jz6mbxra3edv74xjpjgkjqw40xjpq",
+      "agent": "sophia",
+      "timestamp_utc": "20260829T130346Z",
+      "target_type": "clasp",
+      "target_id": "1LxWu9hOs56JZ6Mbxra3eDv74xjpjgkJQW40xjpQBIHObsqiv1D5jr5fK",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1LxWu9hOs56JZ6Mbxra3eDv74xjpjgkJQW40xjpQBIHObsqiv1D5jr5fK --push --no-hooks",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260829-06",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1LxWu9hOs56JZ6Mbxra3eDv74xjpjgkJQW40xjpQBIHObsqiv1D5jr5fK",
+      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260829T124703Z_1o2lzpdtzbyttfdxzwjoatxznbql959b-o7-no2g",
       "agent": "sophia",
@@ -222,6 +235,19 @@
       "lease_id": "L-20260825-01",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Dj3-fake",
       "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260829T130340Z_1lxwu9hos56jz6mbxra3edv74xjpjgkjqw40xjpq",
+      "agent": "sophia",
+      "timestamp_utc": "2026-08-29T13:03:40.617808+00:00",
+      "target_type": "clasp",
+      "target_id": "1LxWu9hOs56JZ6Mbxra3eDv74xjpjgkJQW40xjpQBIHObsqiv1D5jr5fK",
+      "action": "deploy_gas_project.py 1LxWu9hOs56JZ6Mbxra3eDv74xjpjgkJQW40xjpQBIHObsqiv1D5jr5fK --push",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260829-130336",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1LxWu9hOs56JZ6Mbxra3eDv74xjpjgkJQW40xjpQBIHObsqiv1D5jr5fK",
+      "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
     },
     {
       "id": "deploy_20260829T124658Z_1o2lzpdtzbyttfdxzwjoatxznbql959b-o7-no2g",
