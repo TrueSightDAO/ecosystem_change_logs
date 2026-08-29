@@ -1,0 +1,13 @@
+{
+  "id": "deploy_20260829T130409Z_1zkgmwd6kjfjowkrh6oobgfvtvzrxvuekfxvbgix",
+  "agent": "sophia",
+  "timestamp_utc": "20260829T130409Z",
+  "target_type": "clasp",
+  "target_id": "1zKgMwd6KJFjoWkRH6OobgFvtVzrXVuEKfxVbgixgnfcp4TZTjrsfNKq0",
+  "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1zKgMwd6KJFjoWkRH6OobgFvtVzrXVuEKfxVbgixgnfcp4TZTjrsfNKq0 --push --no-hooks",
+  "git_ref": "",
+  "result": "failure",
+  "lease_id": "L-20260829-06",
+  "evidence_url": "",
+  "notes": "exit=1 stderr="
+}
