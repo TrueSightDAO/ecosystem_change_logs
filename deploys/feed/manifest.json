@@ -1,7 +1,20 @@
 {
-  "total": 44,
-  "updated_utc": "2026-08-29T13:32:16Z",
+  "total": 46,
+  "updated_utc": "2026-08-29T13:32:41Z",
   "entries": [
+    {
+      "id": "deploy_20260829T133232Z_1og2g8q0-sdm9a5mjno-tq-9r8xmq00ybbmss4l3",
+      "agent": "sophia",
+      "timestamp_utc": "20260829T133232Z",
+      "target_type": "clasp",
+      "target_id": "1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c --push --no-hooks",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260829-06",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c",
+      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260829T133206Z_1jp8qnibczartlmombjojmynsfyxtqkuhp2qv5uq",
       "agent": "sophia",
@@ -391,6 +404,19 @@
       "lease_id": "L-20260825-01",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Dj3-fake",
       "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260829T133225Z_1og2g8q0-sdm9a5mjno-tq-9r8xmq00ybbmss4l3",
+      "agent": "sophia",
+      "timestamp_utc": "2026-08-29T13:32:25.031296+00:00",
+      "target_type": "clasp",
+      "target_id": "1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c",
+      "action": "deploy_gas_project.py 1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c --push",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260829-133221",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Og2g8Q0_SdM9A5mJNO-tq_9r8XMQ00ybBmss4L3tItBAJ01-KdM-w40c",
+      "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
     },
     {
       "id": "deploy_20260829T133159Z_1jp8qnibczartlmombjojmynsfyxtqkuhp2qv5uq",
