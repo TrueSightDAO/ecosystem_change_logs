@@ -1,0 +1,10 @@
+{
+  "id": "L-20260830-06",
+  "agent": "sophia",
+  "target_type": "ec2",
+  "target_id": "autopilot",
+  "action": "deploy_autopilot (local)",
+  "started_utc": "2026-08-30T23:15:27Z",
+  "ttl_minutes": 30,
+  "status": "open"
+}
