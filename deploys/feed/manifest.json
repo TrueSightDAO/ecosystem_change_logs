@@ -1,7 +1,20 @@
 {
-  "total": 80,
-  "updated_utc": "2026-08-30T02:32:15Z",
+  "total": 81,
+  "updated_utc": "2026-08-30T14:53:05Z",
   "entries": [
+    {
+      "id": "deploy_20260830T145249Z_sunmint-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260830T145249Z",
+      "target_type": "prod-sync",
+      "target_id": "sunmint_prod",
+      "action": "gh merge-upstream sunmint_beta -> sunmint_prod (network-first service worker)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint_prod/commits/main",
+      "notes": "Offline-capable Sunmint: SW live on prod (sunmint.truesight.me + monitor-tree-growth). PR sunmint_beta#47 merged; prod synced via merge-upstream with autopilot PAT (garyjob PAT lacks merge-upstream perms). SW verified 200 on prod + beta; CNAME intact."
+    },
     {
       "id": "deploy_20260830T023159Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
       "agent": "sophia",
