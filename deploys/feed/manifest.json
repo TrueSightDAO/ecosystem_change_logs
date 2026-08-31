@@ -1,7 +1,20 @@
 {
-  "total": 92,
-  "updated_utc": "2026-08-31T13:25:59Z",
+  "total": 93,
+  "updated_utc": "2026-08-31T14:41:47Z",
   "entries": [
+    {
+      "id": "deploy_20260831T144127Z_truesight-me-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260831T144127Z",
+      "target_type": "prod-sync",
+      "target_id": "truesight_me_prod",
+      "action": "sync_beta_to_prod truesight_me_prod",
+      "git_ref": "",
+      "result": "failure",
+      "lease_id": "L-20260831-06",
+      "evidence_url": "",
+      "notes": "409 merge conflict \u2014 histories diverged; DO NOT force. Human reconcile."
+    },
     {
       "id": "deploy_20260831T132539Z_agroverse-shop-prod",
       "agent": "sophia",
