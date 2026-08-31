@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-29T06:06:14Z",
+  "generated_at": "2026-08-31T04:18:57Z",
   "page": 1,
   "page_size": 10,
-  "total": 107,
+  "total": 108,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-08-31T041857Z",
+      "posted_at_utc": "2026-08-31T04:18:57Z",
+      "slug": "sunmint-impact-map-farm-pages-invalidation-fix",
+      "preview": "Automated daily digest of the DAO - **SunMint** — Launched Impact Map V1, enabling users to view tree plots, satellite history (Sentinel-2), and regional data via a new Leaflet-based interface. - **Shop** — Added Rancho…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-08-31T041857Z_sunmint-impact-map-farm-pages-invalidation-fix.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-08-31T041857Z_sunmint-impact-map-farm-pages-invalidation-fix.json"
+    },
     {
       "id": "beer-hall-2026-08-29T060614Z",
       "posted_at_utc": "2026-08-29T06:06:14Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Product** — Refined Sunmint Farmer App UX following live beta testing, including a shift to tree-first reporting and live camera capture instead of file uploads. - **Web** — Added d…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-12T020437Z_sunmint-ux-refine-freight-redirect.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-12T020437Z_sunmint-ux-refine-freight-redirect.json"
-    },
-    {
-      "id": "beer-hall-2026-08-11T015201Z",
-      "posted_at_utc": "2026-08-11T01:52:01Z",
-      "slug": "oracle-fix-startup-summit-coordination",
-      "preview": "Automated daily digest of the DAO - **Oracle** — Fixed a visual rendering bug where broken hexagram lines appeared as solid black blocks instead of transparent gaps. - **Events** — Finalized assets and copy for the Star…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-11T015201Z_oracle-fix-startup-summit-coordination.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-11T015201Z_oracle-fix-startup-summit-coordination.json"
     }
   ]
 }
