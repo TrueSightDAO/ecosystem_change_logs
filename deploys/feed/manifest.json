@@ -1,7 +1,20 @@
 {
-  "total": 88,
-  "updated_utc": "2026-08-31T02:30:18Z",
+  "total": 89,
+  "updated_utc": "2026-08-31T03:04:27Z",
   "entries": [
+    {
+      "id": "deploy_20260831T030410Z_truesight-me-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260831T030410Z",
+      "target_type": "prod-sync",
+      "target_id": "truesight_me_prod",
+      "action": "sync_beta_to_prod truesight_me_prod",
+      "git_ref": "",
+      "result": "failure",
+      "lease_id": "L-20260831-06",
+      "evidence_url": "",
+      "notes": "409 merge conflict \u2014 histories diverged; DO NOT force. Human reconcile."
+    },
     {
       "id": "deploy_20260831T023001Z_sunmint-prod",
       "agent": "sophia",
