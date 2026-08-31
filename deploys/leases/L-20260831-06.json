@@ -1,0 +1,10 @@
+{
+  "id": "L-20260831-06",
+  "agent": "sophia",
+  "target_type": "prod-sync",
+  "target_id": "sunmint_prod",
+  "action": "sync_beta_to_prod sunmint_prod",
+  "started_utc": "2026-08-31T03:13:45Z",
+  "ttl_minutes": 30,
+  "status": "open"
+}
