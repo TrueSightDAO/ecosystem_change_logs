@@ -1,7 +1,20 @@
 {
-  "total": 104,
-  "updated_utc": "2026-08-31T20:10:43Z",
+  "total": 105,
+  "updated_utc": "2026-08-31T20:14:14Z",
   "entries": [
+    {
+      "id": "deploy_20260831T201344Z_sunmint-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260831T201344Z",
+      "target_type": "prod-sync",
+      "target_id": "sunmint_prod",
+      "action": "sync_beta_to_prod sunmint_prod",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260831-06",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint_prod/commits/main",
+      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260831T201015Z_autopilot",
       "agent": "sophia",
