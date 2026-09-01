@@ -1,7 +1,20 @@
 {
-  "total": 141,
-  "updated_utc": "2026-09-01T17:49:31Z",
+  "total": 143,
+  "updated_utc": "2026-09-01T22:42:45Z",
   "entries": [
+    {
+      "id": "deploy_20260901T224218Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
+      "agent": "sophia",
+      "timestamp_utc": "20260901T224218Z",
+      "target_type": "clasp",
+      "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push --no-hooks",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260901-09",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
+      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260901T174903Z_autopilot",
       "agent": "sophia",
@@ -1418,6 +1431,19 @@
       "lease_id": "L-20260825-01",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Dj3-fake",
       "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260901T224157Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
+      "agent": "sophia",
+      "timestamp_utc": "2026-09-01T22:41:57.888377+00:00",
+      "target_type": "clasp",
+      "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
+      "action": "deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260901-224153",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
+      "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
     },
     {
       "id": "deploy_20260901T164106Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
