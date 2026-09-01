@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-31T04:18:57Z",
+  "generated_at": "2026-09-01T04:04:02Z",
   "page": 5,
   "page_size": 10,
-  "total": 108,
+  "total": 109,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-26T035741Z",
+      "posted_at_utc": "2026-06-26T03:57:41Z",
+      "slug": "cnpj-status-summit-execution-qr-fixes",
+      "preview": "Automated daily digest of the DAO - **Ops (Legal)** — Status check with Matheus on CNPJ CNAE classification addition logged. - **Ops (Events)** — Dual Tech Summit execution: setup of serving station and cacao booth serv…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-26T035741Z_cnpj-status-summit-execution-qr-fixes.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-26T035741Z_cnpj-status-summit-execution-qr-fixes.json"
+    },
     {
       "id": "beer-hall-2026-06-25T034654Z",
       "posted_at_utc": "2026-06-25T03:46:54Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Web (Transparency)** — Buy-Back Reserve tracker live: detailed view page, provisions history, and daily budget link added. - **Ops (Sophia)** — Root cause fixed for Sophia empty-res…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-17T041959Z_buy-back-reserve-live-and-sophia-stabilization.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-17T041959Z_buy-back-reserve-live-and-sophia-stabilization.json"
-    },
-    {
-      "id": "beer-hall-2026-06-16T042618Z",
-      "posted_at_utc": "2026-06-16T04:26:18Z",
-      "slug": "self-replication-sop-and-v2",
-      "preview": "Automated daily digest of the DAO - **Governance (Process)** — Self-Replication SOP published: guides for spawning new autopilot instances and forking into new ecosystems. - **Governance (Capital)** — Capital Model V2 r…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-16T042618Z_self-replication-sop-and-v2.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-16T042618Z_self-replication-sop-and-v2.json"
     }
   ]
 }
