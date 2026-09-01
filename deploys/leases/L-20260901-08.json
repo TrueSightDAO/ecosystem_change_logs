@@ -6,5 +6,7 @@
   "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push --no-hooks",
   "started_utc": "2026-09-01T09:55:31Z",
   "ttl_minutes": 30,
-  "status": "open"
+  "status": "closed",
+  "closed_utc": "2026-09-01T10:27:00Z",
+  "closed_by": "sophia (takeover: lease past 30-min TTL, abandoned)"
 }
