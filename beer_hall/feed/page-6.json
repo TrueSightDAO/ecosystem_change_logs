@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-31T04:18:57Z",
+  "generated_at": "2026-09-01T04:04:02Z",
   "page": 6,
   "page_size": 10,
-  "total": 108,
+  "total": 109,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-16T042618Z",
+      "posted_at_utc": "2026-06-16T04:26:18Z",
+      "slug": "self-replication-sop-and-v2",
+      "preview": "Automated daily digest of the DAO - **Governance (Process)** — Self-Replication SOP published: guides for spawning new autopilot instances and forking into new ecosystems. - **Governance (Capital)** — Capital Model V2 r…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-16T042618Z_self-replication-sop-and-v2.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-16T042618Z_self-replication-sop-and-v2.json"
+    },
     {
       "id": "beer-hall-2026-06-15T042930Z",
       "posted_at_utc": "2026-06-15T04:29:30Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Narrative (Blog)** — \"Journey to the West\" (with audio) and \"AI Agent Voting Rights\" posts published; Sophia Truesight avatar added. - **Governance (Sentinels)** — Sentinel role now…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-07T040932Z_blog-updates-sentinel-role-live.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-07T040932Z_blog-updates-sentinel-role-live.json"
-    },
-    {
-      "id": "beer-hall-2026-06-06T034159Z",
-      "posted_at_utc": "2026-06-06T03:41:59Z",
-      "slug": "oracle-permalinks-outreach-automation",
-      "preview": "Automated daily digest of the DAO - **Oracle (Practice)** — Reading permalinks live: shareable URLs now capture the full cast state (hexagram + QMDJ) for practice tracking. - **Ops (Outreach)** — B2B bounce handling aut…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-06T034159Z_oracle-permalinks-outreach-automation.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-06T034159Z_oracle-permalinks-outreach-automation.json"
     }
   ]
 }

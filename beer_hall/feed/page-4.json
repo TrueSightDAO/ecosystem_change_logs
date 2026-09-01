@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-31T04:18:57Z",
+  "generated_at": "2026-09-01T04:04:02Z",
   "page": 4,
   "page_size": 10,
-  "total": 108,
+  "total": 109,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-07-06T034432Z",
+      "posted_at_utc": "2026-07-06T03:44:32Z",
+      "slug": "etsy-integration-and-sales-processing",
+      "preview": "Automated daily digest of the DAO - **Ops (Sales)** — Processed 4 cacao bar sales totaling $68 via Michael Johnson. - **Ops (Logistics)** — Resolved customs bonds, plastic pallets, and fumigation details with Graziela; …",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-07-06T034432Z_etsy-integration-and-sales-processing.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-07-06T034432Z_etsy-integration-and-sales-processing.json"
+    },
     {
       "id": "beer-hall-2026-07-05T033850Z",
       "posted_at_utc": "2026-07-05T03:38:50Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ops (Governance)** — Proposal vote logged: Edgar approved the initiative to establish a legal holding entity for Brazil export operations. - **Ops (Narrative)** — Contributor onboar…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-27T033904Z_zach-brief-brazil-vote-sales.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-27T033904Z_zach-brief-brazil-vote-sales.json"
-    },
-    {
-      "id": "beer-hall-2026-06-26T035741Z",
-      "posted_at_utc": "2026-06-26T03:57:41Z",
-      "slug": "cnpj-status-summit-execution-qr-fixes",
-      "preview": "Automated daily digest of the DAO - **Ops (Legal)** — Status check with Matheus on CNPJ CNAE classification addition logged. - **Ops (Events)** — Dual Tech Summit execution: setup of serving station and cacao booth serv…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-26T035741Z_cnpj-status-summit-execution-qr-fixes.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-26T035741Z_cnpj-status-summit-execution-qr-fixes.json"
     }
   ]
 }

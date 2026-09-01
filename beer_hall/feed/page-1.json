@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-08-31T04:18:57Z",
+  "generated_at": "2026-09-01T04:04:02Z",
   "page": 1,
   "page_size": 10,
-  "total": 108,
+  "total": 109,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-09-01T040402Z",
+      "posted_at_utc": "2026-09-01T04:04:02Z",
+      "slug": "sunmint-map-filters-boundary-webhook-live",
+      "preview": "Automated daily digest of the DAO - **SunMint Map** — Added a farm selector dropdown and registry section to the impact map, complete with status legends and boundary-authority indicators. - **Navigation** — Wired SunMi…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-09-01T040402Z_sunmint-map-filters-boundary-webhook-live.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-09-01T040402Z_sunmint-map-filters-boundary-webhook-live.json"
+    },
     {
       "id": "beer-hall-2026-08-31T041857Z",
       "posted_at_utc": "2026-08-31T04:18:57Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Payments** — Enabled automated email notifications for subscription renewal payments directly on the ledger. - **Context** — Added 7 new follow-up blocks to the agentic context, spe…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-18T011823Z_ledger-notifications-advisor-update.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-18T011823Z_ledger-notifications-advisor-update.json"
-    },
-    {
-      "id": "beer-hall-2026-08-12T020437Z",
-      "posted_at_utc": "2026-08-12T02:04:37Z",
-      "slug": "sunmint-ux-refine-freight-redirect",
-      "preview": "Automated daily digest of the DAO - **Product** — Refined Sunmint Farmer App UX following live beta testing, including a shift to tree-first reporting and live camera capture instead of file uploads. - **Web** — Added d…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-12T020437Z_sunmint-ux-refine-freight-redirect.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-12T020437Z_sunmint-ux-refine-freight-redirect.json"
     }
   ]
 }
