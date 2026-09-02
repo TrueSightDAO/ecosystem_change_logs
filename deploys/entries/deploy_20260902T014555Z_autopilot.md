@@ -1,0 +1,24 @@
+---
+id: deploy_20260902T014555Z_autopilot
+agent: sophia
+timestamp_utc: 20260902T014555Z
+target_type: ec2
+target_id: autopilot
+action: deploy_autopilot (local)
+git_ref: 
+result: success
+lease_id: L-20260902-09
+evidence_url: https://github.com/TrueSightDAO/truesight_autopilot/commit/0dc1438fc4fbba36bff88549d4abb619cc015ae3
+---
+
+## Record
+
+- **Agent:** sophia
+- **Time (UTC):** 20260902T014555Z
+- **Target:** ec2 `autopilot`
+- **Action:** deploy_autopilot (local)
+- **Result:** success
+- **Git ref:** n/a
+- **Evidence:** https://github.com/TrueSightDAO/truesight_autopilot/commit/0dc1438fc4fbba36bff88549d4abb619cc015ae3
+
+autopilot restarted onto 0dc1438fc4fbba36bff88549d4abb619cc015ae3; marker processed on boot.
