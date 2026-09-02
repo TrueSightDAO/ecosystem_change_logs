@@ -1,7 +1,33 @@
 {
-  "total": 147,
-  "updated_utc": "2026-09-02T11:15:26Z",
+  "total": 149,
+  "updated_utc": "2026-09-02T13:16:20Z",
   "entries": [
+    {
+      "id": "deploy_20260902T131548Z_sunmint-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260902T131548Z",
+      "target_type": "prod-sync",
+      "target_id": "sunmint_prod",
+      "action": "sync_beta_to_prod sunmint_prod",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260902-10",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint_prod/commits/main",
+      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260902T115827Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
+      "agent": "sophia",
+      "timestamp_utc": "20260902T115827Z",
+      "target_type": "clasp",
+      "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push --no-hooks",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260902-01",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
+      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260902T111457Z_autopilot",
       "agent": "sophia",
