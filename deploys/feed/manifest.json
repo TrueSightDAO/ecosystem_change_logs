@@ -1,7 +1,20 @@
 {
-  "total": 152,
-  "updated_utc": "2026-09-03T08:26:19Z",
+  "total": 153,
+  "updated_utc": "2026-09-03T08:28:59Z",
   "entries": [
+    {
+      "id": "deploy_20260903T082830Z_autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20260903T082830Z",
+      "target_type": "ec2",
+      "target_id": "autopilot",
+      "action": "deploy_autopilot (local)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260903-10",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/cc821bd2009dd517b7bb85db35c05a20aadb3d46",
+      "notes": "autopilot restarted onto cc821bd2009dd517b7bb85db35c05a20aadb3d46; marker processed on boot."
+    },
     {
       "id": "deploy_20260903T082549Z_sunmint-prod",
       "agent": "sophia",
