@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-09-01T04:04:02Z",
+  "generated_at": "2026-09-05T03:27:47Z",
   "page": 5,
   "page_size": 10,
-  "total": 109,
+  "total": 110,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-06-27T033904Z",
+      "posted_at_utc": "2026-06-27T03:39:04Z",
+      "slug": "zach-brief-brazil-vote-sales",
+      "preview": "Automated daily digest of the DAO - **Ops (Governance)** — Proposal vote logged: Edgar approved the initiative to establish a legal holding entity for Brazil export operations. - **Ops (Narrative)** — Contributor onboar…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-06-27T033904Z_zach-brief-brazil-vote-sales.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-06-27T033904Z_zach-brief-brazil-vote-sales.json"
+    },
     {
       "id": "beer-hall-2026-06-26T035741Z",
       "posted_at_utc": "2026-06-26T03:57:41Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ops (Sophia)** — Auto-Advance feature roadmap published: execution plan and \"Advance column\" convention added to governance docs. - **Ops (Identity)** — Vault governor identity reso…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-06-18T041229Z_sophia-auto-advance-and-gacc-updates.md",
       "json_path": "beer_hall/entries/beer-hall_2026-06-18T041229Z_sophia-auto-advance-and-gacc-updates.json"
-    },
-    {
-      "id": "beer-hall-2026-06-17T041959Z",
-      "posted_at_utc": "2026-06-17T04:19:59Z",
-      "slug": "buy-back-reserve-live-and-sophia-stabilization",
-      "preview": "Automated daily digest of the DAO - **Web (Transparency)** — Buy-Back Reserve tracker live: detailed view page, provisions history, and daily budget link added. - **Ops (Sophia)** — Root cause fixed for Sophia empty-res…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-06-17T041959Z_buy-back-reserve-live-and-sophia-stabilization.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-06-17T041959Z_buy-back-reserve-live-and-sophia-stabilization.json"
     }
   ]
 }
