@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-09-01T04:04:02Z",
+  "generated_at": "2026-09-05T03:27:47Z",
   "page": 1,
   "page_size": 10,
-  "total": 109,
+  "total": 110,
   "page_count": 11,
   "entries": [
+    {
+      "id": "beer-hall-2026-09-05T032747Z",
+      "posted_at_utc": "2026-09-05T03:27:47Z",
+      "slug": "sunmint-deep-links-farms-cepotx-deal",
+      "preview": "Automated daily digest of the DAO - **New Farms** — Published profiles for Sítio Raimundo & Geniza and Fazenda Bom Sucesso (Pará), complete with planting-day galleries, YouTube embeds, and updated hero imagery. - **SunM…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-09-05T032747Z_sunmint-deep-links-farms-cepotx-deal.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-09-05T032747Z_sunmint-deep-links-farms-cepotx-deal.json"
+    },
     {
       "id": "beer-hall-2026-09-01T040402Z",
       "posted_at_utc": "2026-09-01T04:04:02Z",
@@ -78,14 +86,6 @@
       "preview": "- **Sunmint** — Activated the link between sold QR codes and tree-planting submissions, enabling direct traceability from purchased bar to specific farm trees. - **Web** — Published the IVY (Liv for Yoga) program page t…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-19T012020Z_tree-planting-links-ivy-page.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-19T012020Z_tree-planting-links-ivy-page.json"
-    },
-    {
-      "id": "beer-hall-2026-08-18T011823Z",
-      "posted_at_utc": "2026-08-18T01:18:23Z",
-      "slug": "ledger-notifications-advisor-update",
-      "preview": "Automated daily digest of the DAO - **Payments** — Enabled automated email notifications for subscription renewal payments directly on the ledger. - **Context** — Added 7 new follow-up blocks to the agentic context, spe…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-18T011823Z_ledger-notifications-advisor-update.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-18T011823Z_ledger-notifications-advisor-update.json"
     }
   ]
 }
