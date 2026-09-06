@@ -1,7 +1,20 @@
 {
-  "total": 174,
-  "updated_utc": "2026-09-06T01:53:18Z",
+  "total": 175,
+  "updated_utc": "2026-09-06T01:55:24Z",
   "entries": [
+    {
+      "id": "deploy_20260906T015522Z_autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20260906T015522Z",
+      "target_type": "ec2",
+      "target_id": "autopilot",
+      "action": "deploy_autopilot (local)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260906-12",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/af616bc5c0866849f554cdf88a5091b230c4efd4",
+      "notes": "autopilot restarted onto af616bc5c0866849f554cdf88a5091b230c4efd4; marker processed on boot."
+    },
     {
       "id": "deploy_20260906T015316Z_agroverse-shop-prod",
       "agent": "sophia",
