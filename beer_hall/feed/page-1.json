@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-09-05T03:27:47Z",
+  "generated_at": "2026-09-07T03:27:14Z",
   "page": 1,
   "page_size": 10,
-  "total": 110,
-  "page_count": 11,
+  "total": 111,
+  "page_count": 12,
   "entries": [
+    {
+      "id": "beer-hall-2026-09-07T032714Z",
+      "posted_at_utc": "2026-09-07T03:27:14Z",
+      "slug": "fsvp-blocks-fazenda-clara-ledger",
+      "preview": "Automated daily digest of the DAO - **Compliance** — Added \"Verified & Traceable\" FSVP compliance blocks to 12 farm profiles, including Santa Ana, Cleide, and Oscar. - **New Farm** — Published Fazenda Clara (Itacaré, Ba…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-09-07T032714Z_fsvp-blocks-fazenda-clara-ledger.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-09-07T032714Z_fsvp-blocks-fazenda-clara-ledger.json"
+    },
     {
       "id": "beer-hall-2026-09-05T032747Z",
       "posted_at_utc": "2026-09-05T03:27:47Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Retail** — Launched Cacao Tea 50g (Oscar's Farm) for offline QR-scan sales and added product cards to category and farm pages. - **Web** — Migrated farm and shipment media to a unif…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-22T011925Z_cacao-tea-launch-media-refactor.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-22T011925Z_cacao-tea-launch-media-refactor.json"
-    },
-    {
-      "id": "beer-hall-2026-08-19T012020Z",
-      "posted_at_utc": "2026-08-19T01:20:20Z",
-      "slug": "tree-planting-links-ivy-page",
-      "preview": "- **Sunmint** — Activated the link between sold QR codes and tree-planting submissions, enabling direct traceability from purchased bar to specific farm trees. - **Web** — Published the IVY (Liv for Yoga) program page t…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-19T012020Z_tree-planting-links-ivy-page.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-19T012020Z_tree-planting-links-ivy-page.json"
     }
   ]
 }
