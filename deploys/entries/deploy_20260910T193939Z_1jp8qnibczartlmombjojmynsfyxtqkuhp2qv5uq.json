@@ -1,0 +1,13 @@
+{
+  "id": "deploy_20260910T193939Z_1jp8qnibczartlmombjojmynsfyxtqkuhp2qv5uq",
+  "agent": "sophia",
+  "timestamp_utc": "2026-09-10T19:39:39.641737+00:00",
+  "target_type": "clasp",
+  "target_id": "1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF",
+  "action": "deploy_gas_project.py 1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF --push",
+  "git_ref": "",
+  "result": "success",
+  "lease_id": "L-20260910-193934",
+  "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF",
+  "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
+}
