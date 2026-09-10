@@ -1,0 +1,41 @@
+---
+id: 'beer-hall-2026-09-10T033637Z'
+channel: beer_hall
+posted_at_utc: '2026-09-10T03:36:37Z'
+slug: 'sunmint-map-upgrades-plot-validation'
+sheet_log: 'OpenClaw Beer Hall updates'
+links: []
+pr_commit_links: []
+notes: 'Drafted automatically by .github/workflows/beer-hall-digest-daily.yml'
+---
+
+## Message 1 (TLDR)
+
+Automated daily digest of the DAO
+
+- **SunMint Map** — Added plot type filters and clickable dropdowns for Trees and Plots to improve map navigation; popups now display Plot Type and tree photos.
+- **SunMint Map** — Fixed navigation bugs where view chips flew to the wrong location and plot boundaries failed to center correctly.
+- **Data Integrity** — Ingestion pipeline now enforces required Plot Types and flags rows missing GPS or photos as "Invalid" to prevent dirty data.
+- **Ops** — Hardened plot invalidation logic with LockService to stop duplicate tracking rows and fixed expense double-booking checks.
+- **Governance** — Updated expense authorization to use registry Sentinel roles instead of hardcoded names.
+- **Shop** — Added legacy redirects for AGL15/AGL16 and integrated Fazenda Bom Sucesso into the Brazilian Drift journey page.
+- **AI Context** — Exposed SunMint trees, plots, and media archives to LLM discovery surfaces.
+- **Legal** — Filed the updated v2 bilingual SunMint-CEPOTX agreement in the archive.
+- **Community** — Gary Teh completed RSA notarization for the FDA FSVP site inspection at the CEPOTX Cleide factory.
+
+## Message 2 (Shipped + community)
+
+Shipped
+
+- truesight_me_beta: Expose SunMint data to LLM discovery, show Plot Type in popups, and add plot/tree dropdown filters (#368, #369, #367) — https://github.com/TrueSightDAO/truesight_me_beta/commit/8e8054d
+- truesight_me_beta: Fix map navigation bounds, fly-to coordinates, and silent render regressions (#366, #362, #361, #360) — https://github.com/TrueSightDAO/truesight_me_beta/commit/e37b0bd
+- truesight_me_beta: Show tree photo in SunMint impact-map tree popup (#363) — https://github.com/TrueSightDAO/truesight_me_beta/commit/0a86c8a
+- tokenomics: Serialize plot-invalidation processor with LockService, enforce Plot Type validation, and fix expense double-booking (#469, #465, #462) — https://github.com/TrueSightDAO/tokenomics/commit/45b1acf
+- tokenomics: Authorize expenses by registry Sentinel role and harden .claspignore against credential deletion (#461, #468) — https://github.com/TrueSightDAO/tokenomics/commit/aaab424
+- go_to_market: Add bilingual EN-PT SunMint CEPOTX agreement (v2) — https://github.com/TrueSightDAO/go_to_market/commit/445a5d7
+- agroverse_shop_beta: Add AGL15/AGL16 legacy redirects and Fazenda Bom Sucesso to Brazilian Drift (#307, #305) — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/290b6e7
+
+Community (Telegram log):
+
+- Gary Teh: Notarized FDA FSVP site inspection record for CEPOTX Cleide factory.
+- Sales: 2024OSCAR_20250711_NIBS_21 sold to Kirsten Ritschel (29.73).
