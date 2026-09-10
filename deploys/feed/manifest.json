@@ -1,7 +1,20 @@
 {
-  "total": 190,
-  "updated_utc": "2026-09-10T02:41:32Z",
+  "total": 199,
+  "updated_utc": "20260910T030454Z",
   "entries": [
+    {
+      "id": "deploy_20260910T030454Z_dao-protocol-edgar-truesight-me",
+      "agent": "Sophia",
+      "timestamp_utc": "20260910T030454Z",
+      "target_type": "ec2",
+      "target_id": "dao_protocol@edgar.truesight.me",
+      "action": "git merge --ff-only origin/main (events_catalog.json v4->v5)",
+      "git_ref": "4c57e00",
+      "result": "success",
+      "lease_id": "",
+      "evidence_url": "https://edgar.truesight.me/events-catalog/healthz",
+      "notes": "SunMint Plot Type enforcement go-live. Prod Edgar was 2 commits behind (v4, FBE required_fields=None). FF 8265be2->4c57e00; only truesight_dao_client/server/data/events_catalog.json changed (9+/6-). Editable install + mtime-cache => live on next request, NO service restart. Verified public: version 5, FBE required_fields=[Farm Name, Media URLs, Plot Type]. Revert = git checkout 8265be2."
+    },
     {
       "id": "deploy_20260910T024130Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
       "agent": "sophia",
@@ -40,6 +53,19 @@
       "lease_id": "L-20260909-14",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/0818e5a3129063319c7d1b6bef33fea056994ff8",
       "notes": "autopilot restarted onto 0818e5a3129063319c7d1b6bef33fea056994ff8; marker processed on boot."
+    },
+    {
+      "id": "deploy_20260909T090238Z_truesight-me-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260909T090238Z",
+      "target_type": "prod-sync",
+      "target_id": "truesight_me_prod",
+      "action": "sync_beta_to_prod truesight_me_prod",
+      "git_ref": "",
+      "result": "failure",
+      "lease_id": "L-20260909-01",
+      "evidence_url": "",
+      "notes": "409 merge conflict \u2014 histories diverged; DO NOT force. Human reconcile."
     },
     {
       "id": "deploy_20260909T085656Z_truesight-me-prod",
@@ -131,6 +157,19 @@
       "lease_id": "L-20260907-13",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/8e44a769dfb1931a45a32a8fe154f81018af4a79",
       "notes": "autopilot restarted onto 8e44a769dfb1931a45a32a8fe154f81018af4a79; marker processed on boot."
+    },
+    {
+      "id": "deploy_20260907T034348Z_agroverse-shop-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260907T034348Z",
+      "target_type": "prod-sync",
+      "target_id": "agroverse_shop_prod",
+      "action": "sync_beta_to_prod agroverse_shop_prod",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260907-01",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_prod/commits/main",
+      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
     },
     {
       "id": "deploy_20260906T165218Z_agroverse-shop-prod",
@@ -237,6 +276,19 @@
       "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
     },
     {
+      "id": "deploy_20260906T005304Z_autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20260906T005304Z",
+      "target_type": "ec2",
+      "target_id": "autopilot",
+      "action": "deploy_autopilot (local)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260906-01",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/75f66eaf550cf04897261aafbaf12f4e0196ba29",
+      "notes": "autopilot restarted onto 75f66eaf550cf04897261aafbaf12f4e0196ba29; marker processed on boot."
+    },
+    {
       "id": "deploy_20260906T004408Z_agroverse-shop-prod",
       "agent": "sophia",
       "timestamp_utc": "20260906T004408Z",
@@ -274,6 +326,19 @@
       "lease_id": "L-20260906-11",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/8462d92afc05587985529b1507b436822be4d17a",
       "notes": "autopilot restarted onto 8462d92afc05587985529b1507b436822be4d17a; marker processed on boot."
+    },
+    {
+      "id": "deploy_20260905T233118Z_autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20260905T233118Z",
+      "target_type": "ec2",
+      "target_id": "autopilot",
+      "action": "deploy_autopilot (local)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260905-10",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/bc0531ab8938ee0f6d08f20cf59e78f9f00b3408",
+      "notes": "autopilot restarted onto bc0531ab8938ee0f6d08f20cf59e78f9f00b3408; marker processed on boot."
     },
     {
       "id": "deploy_20260905T205935Z_agroverse-shop-prod",
@@ -2042,6 +2107,58 @@
       "lease_id": "L-20260825-01",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Dj3-fake",
       "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260910T024101Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
+      "agent": "sophia",
+      "timestamp_utc": "2026-09-10T02:41:01.576984+00:00",
+      "target_type": "clasp",
+      "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
+      "action": "deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260910-024055",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
+      "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260909T085040Z_19wag9x-sjblvgisph2vj90zg7rgq2igavoomaea",
+      "agent": "sophia",
+      "timestamp_utc": "2026-09-09T08:50:40.084695+00:00",
+      "target_type": "clasp",
+      "target_id": "19Wag9x-sjbLVgIsPh2vj90ZG7Rgq2iGaVOomAeAvtg6CdZKJHLZ9AJrC",
+      "action": "deploy_gas_project.py 19Wag9x-sjbLVgIsPh2vj90ZG7Rgq2iGaVOomAeAvtg6CdZKJHLZ9AJrC --push",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260909-085035",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/19Wag9x-sjbLVgIsPh2vj90ZG7Rgq2iGaVOomAeAvtg6CdZKJHLZ9AJrC",
+      "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260906T151246Z_19wag9x-sjblvgisph2vj90zg7rgq2igavoomaea",
+      "agent": "sophia",
+      "timestamp_utc": "2026-09-06T15:12:46.608688+00:00",
+      "target_type": "clasp",
+      "target_id": "19Wag9x-sjbLVgIsPh2vj90ZG7Rgq2iGaVOomAeAvtg6CdZKJHLZ9AJrC",
+      "action": "deploy_gas_project.py 19Wag9x-sjbLVgIsPh2vj90ZG7Rgq2iGaVOomAeAvtg6CdZKJHLZ9AJrC --push",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260906-151242",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/19Wag9x-sjbLVgIsPh2vj90ZG7Rgq2iGaVOomAeAvtg6CdZKJHLZ9AJrC",
+      "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
+    },
+    {
+      "id": "deploy_20260906T040827Z_19wag9x-sjblvgisph2vj90zg7rgq2igavoomaea",
+      "agent": "sophia",
+      "timestamp_utc": "2026-09-06T04:08:27.303478+00:00",
+      "target_type": "clasp",
+      "target_id": "19Wag9x-sjbLVgIsPh2vj90ZG7Rgq2iGaVOomAeAvtg6CdZKJHLZ9AJrC",
+      "action": "deploy_gas_project.py 19Wag9x-sjbLVgIsPh2vj90ZG7Rgq2iGaVOomAeAvtg6CdZKJHLZ9AJrC --push",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260906-040823",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/19Wag9x-sjbLVgIsPh2vj90ZG7Rgq2iGaVOomAeAvtg6CdZKJHLZ9AJrC",
+      "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
     },
     {
       "id": "deploy_20260901T224157Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
