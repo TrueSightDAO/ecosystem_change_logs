@@ -1,9 +1,0 @@
-{
-  "id": "L-20260910-213155",
-  "agent": "sophia",
-  "target_type": "clasp",
-  "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
-  "action": "repoint pinned GAS deployment @46 (lock wrappers #469/#471/#472)",
-  "started_at_utc": "2026-09-10T21:31:55.321394+00:00",
-  "ttl_seconds": 1800
-}
