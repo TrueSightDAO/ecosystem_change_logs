@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-09-07T03:27:14Z",
+  "generated_at": "2026-09-10T03:36:37Z",
   "page": 1,
   "page_size": 10,
-  "total": 111,
+  "total": 112,
   "page_count": 12,
   "entries": [
+    {
+      "id": "beer-hall-2026-09-10T033637Z",
+      "posted_at_utc": "2026-09-10T03:36:37Z",
+      "slug": "sunmint-map-upgrades-plot-validation",
+      "preview": "Automated daily digest of the DAO - **SunMint Map** — Added plot type filters and clickable dropdowns for Trees and Plots to improve map navigation; popups now display Plot Type and tree photos. - **SunMint Map** — Fixe…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-09-10T033637Z_sunmint-map-upgrades-plot-validation.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-09-10T033637Z_sunmint-map-upgrades-plot-validation.json"
+    },
     {
       "id": "beer-hall-2026-09-07T032714Z",
       "posted_at_utc": "2026-09-07T03:27:14Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Web** — Updated tree QR pages to display live OpenStreetMap coordinates, inline seedling photos, and signer references in the event history. - **Ops** — Resolved the root cause of m…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-23T012558Z_qr-map-updates-email-oauth-fix.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-23T012558Z_qr-map-updates-email-oauth-fix.json"
-    },
-    {
-      "id": "beer-hall-2026-08-22T011925Z",
-      "posted_at_utc": "2026-08-22T01:19:25Z",
-      "slug": "cacao-tea-launch-media-refactor",
-      "preview": "Automated daily digest of the DAO - **Retail** — Launched Cacao Tea 50g (Oscar's Farm) for offline QR-scan sales and added product cards to category and farm pages. - **Web** — Migrated farm and shipment media to a unif…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-22T011925Z_cacao-tea-launch-media-refactor.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-22T011925Z_cacao-tea-launch-media-refactor.json"
     }
   ]
 }
