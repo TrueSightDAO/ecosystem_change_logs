@@ -1,0 +1,13 @@
+{
+  "id": "deploy_20260911T135752Z_truesight-me-prod",
+  "agent": "sophia",
+  "timestamp_utc": "20260911T135752Z",
+  "target_type": "prod-sync",
+  "target_id": "truesight_me_prod",
+  "action": "sync_beta_to_prod truesight_me_prod",
+  "git_ref": "",
+  "result": "failure",
+  "lease_id": "L-20260911-16",
+  "evidence_url": "",
+  "notes": "409 merge conflict \u2014 histories diverged; DO NOT force. Human reconcile."
+}
