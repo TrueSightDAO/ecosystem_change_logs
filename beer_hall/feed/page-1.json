@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-09-10T03:36:37Z",
+  "generated_at": "2026-09-11T03:35:23Z",
   "page": 1,
   "page_size": 10,
-  "total": 112,
+  "total": 113,
   "page_count": 12,
   "entries": [
+    {
+      "id": "beer-hall-2026-09-11T033523Z",
+      "posted_at_utc": "2026-09-11T03:35:23Z",
+      "slug": "sitio-cristo-rei-cacau-na-veia-launch-map-tree-listing",
+      "preview": "Automated daily digest of the DAO - **New Farms** — Published Sítio Cristo Rei and Sítio Cacau na Veia (Pacajá) profiles with SunMint plot linking and Brazilian journey integration. - **Sítio Torres** — Surfaces 35 site…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-09-11T033523Z_sitio-cristo-rei-cacau-na-veia-launch-map-tree-listing.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-09-11T033523Z_sitio-cristo-rei-cacau-na-veia-launch-map-tree-listing.json"
+    },
     {
       "id": "beer-hall-2026-09-10T033637Z",
       "posted_at_utc": "2026-09-10T03:36:37Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Web** — Launched the FounderHaus Farm Edition as a SunMint initiative, adding a dedicated program page, brief details, and batch verification CTAs to the site. - **Tokenomics** — In…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-24T012305Z_founderhaus-launch-fund-transfer-state.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-24T012305Z_founderhaus-launch-fund-transfer-state.json"
-    },
-    {
-      "id": "beer-hall-2026-08-23T012558Z",
-      "posted_at_utc": "2026-08-23T01:25:58Z",
-      "slug": "qr-map-updates-email-oauth-fix",
-      "preview": "Automated daily digest of the DAO - **Web** — Updated tree QR pages to display live OpenStreetMap coordinates, inline seedling photos, and signer references in the event history. - **Ops** — Resolved the root cause of m…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-23T012558Z_qr-map-updates-email-oauth-fix.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-23T012558Z_qr-map-updates-email-oauth-fix.json"
     }
   ]
 }
