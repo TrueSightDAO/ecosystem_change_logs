@@ -1,0 +1,43 @@
+---
+id: 'beer-hall-2026-09-11T033523Z'
+channel: beer_hall
+posted_at_utc: '2026-09-11T03:35:23Z'
+slug: 'sitio-cristo-rei-cacau-na-veia-launch-map-tree-listing'
+sheet_log: 'OpenClaw Beer Hall updates'
+links: []
+pr_commit_links: []
+notes: 'Drafted automatically by .github/workflows/beer-hall-digest-daily.yml'
+---
+
+## Message 1 (TLDR)
+
+Automated daily digest of the DAO
+
+- **New Farms** — Published Sítio Cristo Rei and Sítio Cacau na Veia (Pacajá) profiles with SunMint plot linking and Brazilian journey integration.
+- **Sítio Torres** — Surfaces 35 site-visit videos, adds CEPOTX highlight card, and renames from "Sitio Dois" to official branding.
+- **SunMint Map** — Plot popups now list the specific trees contained within that plot for easier verification.
+- **SunMint Ops** — Added CRF Anapu program credentialing surface and fixed Tree/QR dropdown to show newest entries first.
+- **Ledger Integrity** — Serialized farm-boundary, media-retraction, and Telegram-log processors with LockService to prevent race conditions.
+- **Data Ingestion** — Added optional Plot ID column to the SunMint Tree Planting intake workflow.
+- **Ops** — Filed Sítio Torres FDA FSVP site-visit record using the new EXIF-safe PDF pipeline.
+- **Finance** — Hardened Agroverse invoice conventions to require TrueTech Inc issuer stamps and EIN validation.
+- **SunMint Integration** — Sítio Cristo Rei page now deep-links to its specific SunMint highlight plot for reciprocal sourcing data.
+
+## Message 2 (Shipped + community)
+
+Shipped
+
+- truesight_me_beta: Add CRF Anapu credentialing, sort Tree dropdown by newest, and list trees in plot popups (#373, #372, #371) — https://github.com/TrueSightDAO/truesight_me_beta/commit/cd13355
+- agroverse_shop_beta: Launch Sítio Cristo Rei and Sítio Cacau na Veia pages + add Sítio Torres gallery and CEPOTX card (#319, #313, #310) — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/604c4e5
+- agroverse_shop_beta: Fix Sítio Cristo Rei hero image, deep-link to SunMint plot, and fix Brazilian journey order (#318, #317, #316) — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/7c0b0cd
+- tokenomics: Serialize farm-boundary, media-retraction, and Telegram-log processors with LockService (#473, #472, #471) — https://github.com/TrueSightDAO/tokenomics/commit/765ae53
+- tokenomics: Add optional Plot ID column to SunMint Tree Planting intake (#474) — https://github.com/TrueSightDAO/tokenomics/commit/0100cd4
+- agentic_ai_context: Invoice convention hardening (issuer entity + EIN) and bilingual CRF de Anapu agreement (#1021, #1019) — https://github.com/TrueSightDAO/agentic_ai_context/commit/b43305d
+
+Community (Telegram log):
+
+- Gary Teh: Reviewed Agroverse invoice hardening, confirming requirement for TrueTech Inc issuer stamps and EIN.
+- Sophia Truesight: Completed Sítio Torres FDA FSVP site-visit record using EXIF-safe PDF pipeline.
+- Security: Risk acceptance decision filed for fine-grained PAT exposure incident (thread 24647).
+- Sophia Truesight: Shipped SunMint tree-planting reject saga fixes (B1/B2/B3 live).
+- Sophia Truesight: Completed Sítio Cristo reciprocity links and Sitio Torres media task prod deploy.
