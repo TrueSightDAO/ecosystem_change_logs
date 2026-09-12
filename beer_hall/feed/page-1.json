@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-09-11T03:35:23Z",
+  "generated_at": "2026-09-12T03:39:33Z",
   "page": 1,
   "page_size": 10,
-  "total": 113,
+  "total": 114,
   "page_count": 12,
   "entries": [
+    {
+      "id": "beer-hall-2026-09-12T033932Z",
+      "posted_at_utc": "2026-09-12T03:39:32Z",
+      "slug": "crf-anapu-gallery-and-black-king-update",
+      "preview": "Automated daily digest of the DAO - **Cacau na Veia** — Published 33 site-visit videos and transcripts to the farm page gallery. - **SunMint Map** — Fixed blank basemap tiles at deep zoom levels by upscaling z17 imagery…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-09-12T033932Z_crf-anapu-gallery-and-black-king-update.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-09-12T033932Z_crf-anapu-gallery-and-black-king-update.json"
+    },
     {
       "id": "beer-hall-2026-09-11T033523Z",
       "posted_at_utc": "2026-09-11T03:35:23Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **SunMint** — Shipped the tree-growth monitoring page featuring video capture, GPS-based tree selection, and signed PM002 measurement events. - **Ops** — Enforced the new `DEPLOY_PUSH…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-26T012318Z_sunmint-monitoring-page-deploy-sop.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-26T012318Z_sunmint-monitoring-page-deploy-sop.json"
-    },
-    {
-      "id": "beer-hall-2026-08-24T012305Z",
-      "posted_at_utc": "2026-08-24T01:23:05Z",
-      "slug": "founderhaus-launch-fund-transfer-state",
-      "preview": "Automated daily digest of the DAO - **Web** — Launched the FounderHaus Farm Edition as a SunMint initiative, adding a dedicated program page, brief details, and batch verification CTAs to the site. - **Tokenomics** — In…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-24T012305Z_founderhaus-launch-fund-transfer-state.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-24T012305Z_founderhaus-launch-fund-transfer-state.json"
     }
   ]
 }
