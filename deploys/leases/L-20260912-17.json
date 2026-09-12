@@ -1,0 +1,10 @@
+{
+  "id": "L-20260912-17",
+  "agent": "sophia",
+  "target_type": "prod-sync",
+  "target_id": "dapp_prod",
+  "action": "sync_beta_to_prod dapp_prod",
+  "started_utc": "2026-09-12T22:20:04Z",
+  "ttl_minutes": 30,
+  "status": "open"
+}
