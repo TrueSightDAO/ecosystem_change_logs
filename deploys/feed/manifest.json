@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-12T22:20:08Z",
+  "updated_utc": "2026-09-13T02:08:56Z",
   "entries": [
+    {
+      "id": "deploy_20260913T020855Z_agroverse-shop-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260913T020855Z",
+      "target_type": "prod-sync",
+      "target_id": "agroverse_shop_prod",
+      "action": "sync_beta_to_prod agroverse_shop_prod",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260913-19",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_prod/commits/main",
+      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260912T222006Z_dapp-prod",
       "agent": "sophia",
@@ -2586,19 +2599,6 @@
       "git_ref": "",
       "result": "success",
       "lease_id": "L-20260830-023143",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
-      "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
-    },
-    {
-      "id": "deploy_20260830T022319Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
-      "agent": "sophia",
-      "timestamp_utc": "2026-08-30T02:23:19.468776+00:00",
-      "target_type": "clasp",
-      "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
-      "action": "deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "L-20260830-022315",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
       "notes": "direct LLM-run deploy (DEPLOY_PUSH_SOP Phase 2)"
     }
