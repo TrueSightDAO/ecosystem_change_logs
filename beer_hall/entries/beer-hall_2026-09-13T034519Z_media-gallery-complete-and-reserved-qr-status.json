@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-09-13T034519Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-09-13T03:45:19Z",
+  "slug": "media-gallery-complete-and-reserved-qr-status",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-09-13T034519Z_media-gallery-complete-and-reserved-qr-status.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-09-13T034519Z_media-gallery-complete-and-reserved-qr-status.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Media Gallery Publisher** — Plan completed (PR1–PR7) and fetch-first gallery logic merged to production.\n- **Sales Policy** — Finalized Reservation Event spec v3 (two-event hold model with settlement rules).\n- **SunMint Inventory** — Added Reserved QR status to hide held trees from availability pickers.\n- **CRF Anapu** — Added 14 new site-visit videos to the program media gallery.\n- **Logistics (Ilhéus)** — Secured warehouse keys, purchased shipping supplies (boxes/bags/scale), and reorganized inventory.\n- **GAS Fix** — Resolved script lock stall in expense processor that was blocking submissions.\n- **Sales Data** — Fixed SKU price readout in market research to match GAS/dapp contract values.\n- **Incident Response** — Filed report on placeholder submissions from Edgar.\n- **Field Ops** — Verified Mercado Libre shipping address and logged currency for Reinforced Cardboard Boxes.",
+  "message2_shipped": "Shipped\n\n- truesight_me_beta: Add 14 CRF Anapu site-visit videos to program gallery (#377) — https://github.com/TrueSightDAO/truesight_me_beta/commit/1a22e76\n- agroverse_shop_beta: Merge media-gallery fetch-first logic with local fallback (PR6) (#322) — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/1390844\n- tokenomics: Add RESERVED QR status enum + fix expense processor lock stall (#481, #475) — https://github.com/TrueSightDAO/tokenomics/commit/18050d1\n- tokenomics: Stop false Grok scoring and emit SKU catalog cache (#479, #477) — https://github.com/TrueSightDAO/tokenomics/commit/3c92587\n- go_to_market: Fix SKU price readout to match GAS/dapp contract values (#175) — https://github.com/TrueSightDAO/go_to_market/commit/bed242c\n- agentic_ai_context: Media Gallery Publisher complete, Reservation Event spec v3, and Edgar incident report (#1068, #1056, #1055) — https://github.com/TrueSightDAO/agentic_ai_context/commit/0a5919a\n\nCommunity (Telegram log):\n\n- Gary Teh: Completed site inspections in Pacajé, at Paulo's farm, Fazenda Dona Rosa, Uruará, CEPOTX factory, and Santa Anna.\n- Gary Teh: Logged currency for Reinforced Cardboard Boxes; verified Mercado Libre shipping address mapping.\n- Edgar: Secured warehouse keys in Ilhéus; purchased shipping supplies (boxes, bags, scale, tape); reorganized warehouse.\n- Sophia Truesight: Marked Media Gallery Publisher plan complete.\n- Security: Filed incident report for Edgar placeholder submissions (empty-body rows)."
+}
