@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-14T18:23:09Z",
+  "updated_utc": "2026-09-14T22:52:15Z",
   "entries": [
+    {
+      "id": "deploy_20260914T225212Z_dapp-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260914T225212Z",
+      "target_type": "prod-sync",
+      "target_id": "dapp_prod",
+      "action": "sync_beta_to_prod dapp_prod",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260914-19",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_prod/commits/main",
+      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260914T182306Z_autopilot",
       "agent": "sophia",
@@ -2586,19 +2599,6 @@
       "git_ref": "",
       "result": "failure",
       "lease_id": "L-20260828-05",
-      "evidence_url": "",
-      "notes": "409 merge conflict \u2014 histories diverged; DO NOT force. Human reconcile."
-    },
-    {
-      "id": "deploy_20260828T125904Z_truesight-me-prod",
-      "agent": "sophia",
-      "timestamp_utc": "20260828T125904Z",
-      "target_type": "prod-sync",
-      "target_id": "truesight_me_prod",
-      "action": "sync_beta_to_prod truesight_me_prod",
-      "git_ref": "",
-      "result": "failure",
-      "lease_id": "L-20260828-04",
       "evidence_url": "",
       "notes": "409 merge conflict \u2014 histories diverged; DO NOT force. Human reconcile."
     }
