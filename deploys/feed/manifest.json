@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-14T02:57:04Z",
+  "updated_utc": "2026-09-14T03:03:52Z",
   "entries": [
+    {
+      "id": "deploy_20260914T030350Z_autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20260914T030350Z",
+      "target_type": "ec2",
+      "target_id": "autopilot",
+      "action": "deploy_autopilot (local)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260914-17",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/66717f37ff1aada83d13e5a1bf3eb4b61d396eb7",
+      "notes": "autopilot restarted onto 66717f37ff1aada83d13e5a1bf3eb4b61d396eb7; marker processed on boot."
+    },
     {
       "id": "deploy_20260914T025702Z_autopilot",
       "agent": "sophia",
@@ -2588,19 +2601,6 @@
       "lease_id": "",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/313",
       "notes": "Backfilled after merge (module shipped in the same commit). Gate: 763 passed / 1 skipped, ruff clean."
-    },
-    {
-      "id": "deploy_20260825T155754Z_autopilot",
-      "agent": "sophia",
-      "timestamp_utc": "20260825T155754Z",
-      "target_type": "ec2",
-      "target_id": "autopilot",
-      "action": "deploy_autopilot (local)",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "L-20260825-01",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/887dc8d97c09d659f99ff445b5f83a25d59677a4",
-      "notes": "autopilot restarted onto 887dc8d97c09d659f99ff445b5f83a25d59677a4; marker processed on boot."
     }
   ]
 }
