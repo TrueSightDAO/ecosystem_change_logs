@@ -1,7 +1,18 @@
 {
-  "total": 29,
-  "updated_utc": "2026-09-14T09:00:37Z",
+  "total": 30,
+  "updated_utc": "2026-09-14T09:11:07Z",
   "entries": [
+    {
+      "id": "repo_access_20260914T091105Z_farm-media-manifests",
+      "timestamp_utc": "2026-09-14T09:11:05Z",
+      "agent": "sophia",
+      "repo": "farm_media_manifests",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/fazenda-santa-rosa.json",
+      "detail": "path=fazenda-santa-rosa.json branch=main"
+    },
     {
       "id": "repo_access_20260914T090036Z_agentic-ai-context",
       "timestamp_utc": "2026-09-14T09:00:36Z",
