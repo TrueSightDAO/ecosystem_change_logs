@@ -1,7 +1,18 @@
 {
-  "total": 102,
-  "updated_utc": "2026-09-14T18:26:04Z",
+  "total": 103,
+  "updated_utc": "2026-09-14T18:29:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260914T182950Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-14T18:29:50Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1120",
+      "detail": "branch=followups/deploy-coalescing-debounce changes=1"
+    },
     {
       "id": "repo_access_20260914T182602Z_truesight-autopilot",
       "timestamp_utc": "2026-09-14T18:26:02Z",
