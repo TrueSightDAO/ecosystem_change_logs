@@ -1,7 +1,18 @@
 {
-  "total": 106,
-  "updated_utc": "2026-09-14T23:06:39Z",
+  "total": 107,
+  "updated_utc": "2026-09-14T23:17:20Z",
   "entries": [
+    {
+      "id": "repo_access_20260914T231718Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-14T23:17:18Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/459",
+      "detail": "branch=feat/discord-voice-io changes=8"
+    },
     {
       "id": "repo_access_20260914T230638Z_agentic-ai-context",
       "timestamp_utc": "2026-09-14T23:06:38Z",
