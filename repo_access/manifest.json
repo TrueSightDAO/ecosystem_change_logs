@@ -1,7 +1,18 @@
 {
-  "total": 31,
-  "updated_utc": "2026-09-14T09:11:10Z",
+  "total": 32,
+  "updated_utc": "2026-09-14T09:11:14Z",
   "entries": [
+    {
+      "id": "repo_access_20260914T091113Z_farm-media-manifests",
+      "timestamp_utc": "2026-09-14T09:11:13Z",
+      "agent": "sophia",
+      "repo": "farm_media_manifests",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/index.json",
+      "detail": "path=index.json branch=main"
+    },
     {
       "id": "repo_access_20260914T091109Z_farm-media-manifests",
       "timestamp_utc": "2026-09-14T09:11:09Z",
