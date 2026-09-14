@@ -1,7 +1,18 @@
 {
-  "total": 1,
-  "updated_utc": "2026-09-14T03:00:00Z",
+  "total": 2,
+  "updated_utc": "2026-09-14T03:13:17Z",
   "entries": [
+    {
+      "id": "repo_access_20260914T031316Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-14T03:13:16Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/442",
+      "detail": "branch=fix/discord-chat-blocking-session-persistence changes=3"
+    },
     {
       "id": "repo_access_20260914T025959Z_truesight-autopilot",
       "timestamp_utc": "2026-09-14T02:59:59Z",
