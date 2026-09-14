@@ -1,0 +1,13 @@
+{
+  "id": "deploy_20260914T225241Z_autopilot",
+  "agent": "sophia",
+  "timestamp_utc": "20260914T225241Z",
+  "target_type": "ec2",
+  "target_id": "autopilot",
+  "action": "deploy_autopilot (local)",
+  "git_ref": "",
+  "result": "success",
+  "lease_id": "L-20260914-18",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/0cc6c9c48e034c42b1b09ba51565b0f36a423234",
+  "notes": "autopilot restarted onto 0cc6c9c48e034c42b1b09ba51565b0f36a423234; marker processed on boot."
+}
