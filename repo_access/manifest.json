@@ -1,7 +1,18 @@
 {
-  "total": 111,
-  "updated_utc": "2026-09-14T23:20:45Z",
+  "total": 112,
+  "updated_utc": "2026-09-14T23:20:55Z",
   "entries": [
+    {
+      "id": "repo_access_20260914T232053Z_dao-protocol",
+      "timestamp_utc": "2026-09-14T23:20:53Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=166 method=squash"
+    },
     {
       "id": "repo_access_20260914T232044Z_dao-protocol",
       "timestamp_utc": "2026-09-14T23:20:44Z",
