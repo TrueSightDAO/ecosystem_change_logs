@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-14T03:17:24Z",
+  "updated_utc": "2026-09-14T03:49:12Z",
   "entries": [
+    {
+      "id": "deploy_20260914T034909Z_autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20260914T034909Z",
+      "target_type": "ec2",
+      "target_id": "autopilot",
+      "action": "deploy_autopilot (local)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260914-17",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/d0ab78d7a01c59e0415888d8d896a1066118089f",
+      "notes": "autopilot restarted onto d0ab78d7a01c59e0415888d8d896a1066118089f; marker processed on boot."
+    },
     {
       "id": "deploy_20260914T031721Z_autopilot",
       "agent": "sophia",
@@ -2588,19 +2601,6 @@
       "lease_id": "L-20260825-03",
       "evidence_url": "",
       "notes": "Phase-2 subprocess killed by its own restart step (exit=-15) after git_pull+pip+nginx OK. Service recovered via systemd Restart=always. See thread 14320."
-    },
-    {
-      "id": "deploy_20260825T161332Z_truesight-me-prod",
-      "agent": "sophia",
-      "timestamp_utc": "20260825T161332Z",
-      "target_type": "prod-sync",
-      "target_id": "truesight_me_prod",
-      "action": "sync_beta_to_prod truesight_me_prod",
-      "git_ref": "",
-      "result": "failure",
-      "lease_id": "L-20260825-02",
-      "evidence_url": "",
-      "notes": "409 merge conflict \u2014 histories diverged; DO NOT force. Human reconcile."
     }
   ]
 }
