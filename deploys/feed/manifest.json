@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-14T22:52:43Z",
+  "updated_utc": "2026-09-14T22:57:41Z",
   "entries": [
+    {
+      "id": "deploy_20260914T225739Z_dapp-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260914T225739Z",
+      "target_type": "prod-sync",
+      "target_id": "dapp_prod",
+      "action": "sync_beta_to_prod dapp_prod",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260914-18",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_prod/commits/main",
+      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260914T225241Z_autopilot",
       "agent": "sophia",
@@ -2588,19 +2601,6 @@
       "lease_id": "L-20260829-06",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1o2lzpdTZBYTTFdXzWJoATxznbqL959b_O7_no2Gd-OV4ryOPZOsqxtpU",
       "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
-    },
-    {
-      "id": "deploy_20260829T101435Z_autopilot",
-      "agent": "sophia",
-      "timestamp_utc": "20260829T101435Z",
-      "target_type": "ec2",
-      "target_id": "autopilot",
-      "action": "deploy_autopilot (local)",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "L-20260829-06",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/72ff72c75a79e067e0760c081b8e1b64e5fd4c60",
-      "notes": "autopilot restarted onto 72ff72c75a79e067e0760c081b8e1b64e5fd4c60; marker processed on boot."
     }
   ]
 }
