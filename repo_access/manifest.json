@@ -1,7 +1,18 @@
 {
-  "total": 91,
-  "updated_utc": "2026-09-14T17:43:31Z",
+  "total": 92,
+  "updated_utc": "2026-09-14T17:44:10Z",
   "entries": [
+    {
+      "id": "repo_access_20260914T174408Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-14T17:44:08Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1115 method=squash"
+    },
     {
       "id": "repo_access_20260914T174330Z_agentic-ai-context",
       "timestamp_utc": "2026-09-14T17:43:30Z",
