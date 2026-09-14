@@ -1,7 +1,18 @@
 {
-  "total": 101,
-  "updated_utc": "2026-09-14T18:05:07Z",
+  "total": 102,
+  "updated_utc": "2026-09-14T18:26:04Z",
   "entries": [
+    {
+      "id": "repo_access_20260914T182602Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-14T18:26:02Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=457 method=squash"
+    },
     {
       "id": "repo_access_20260914T180506Z_agentic-ai-context",
       "timestamp_utc": "2026-09-14T18:05:06Z",
