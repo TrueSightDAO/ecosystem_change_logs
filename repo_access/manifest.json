@@ -1,7 +1,18 @@
 {
-  "total": 4,
-  "updated_utc": "2026-09-14T03:13:25Z",
+  "total": 5,
+  "updated_utc": "2026-09-14T03:14:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260914T031405Z_farm-media-manifests",
+      "timestamp_utc": "2026-09-14T03:14:05Z",
+      "agent": "sophia",
+      "repo": "farm_media_manifests",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/cepotx-office-altamira.json",
+      "detail": "path=cepotx-office-altamira.json branch=main"
+    },
     {
       "id": "repo_access_20260914T031324Z_truesight-autopilot",
       "timestamp_utc": "2026-09-14T03:13:24Z",
