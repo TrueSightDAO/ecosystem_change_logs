@@ -1,7 +1,18 @@
 {
-  "total": 52,
-  "updated_utc": "2026-09-14T12:17:28Z",
+  "total": 53,
+  "updated_utc": "2026-09-14T12:21:16Z",
   "entries": [
+    {
+      "id": "repo_access_20260914T122115Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-14T12:21:15Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/brazil/2026-09-14_black_king_corridor_report_EN_PT.pdf",
+      "detail": "path=brazil/2026-09-14_black_king_corridor_report_EN_PT.pdf branch=main"
+    },
     {
       "id": "repo_access_20260914T121726Z_agentic-ai-context",
       "timestamp_utc": "2026-09-14T12:17:26Z",
