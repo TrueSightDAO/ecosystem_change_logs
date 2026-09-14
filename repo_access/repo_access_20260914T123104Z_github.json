@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260914T123104Z_github",
+  "timestamp_utc": "2026-09-14T12:31:04Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/inventory_20260914122951_paloma_2e5e1382491047aaa6761b667c801ca5.jpg",
+  "detail": "path=assets/inventory_20260914122951_paloma_2e5e1382491047aaa6761b667c801ca5.jpg branch=main"
+}
