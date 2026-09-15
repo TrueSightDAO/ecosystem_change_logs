@@ -1,7 +1,18 @@
 {
-  "total": 191,
-  "updated_utc": "2026-09-15T15:19:42Z",
+  "total": 192,
+  "updated_utc": "2026-09-15T15:41:02Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T154100Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-15T15:41:00Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/465",
+      "detail": "branch=fix/discord-resume-registry-noop changes=3"
+    },
     {
       "id": "repo_access_20260915T151941Z_tokenomics",
       "timestamp_utc": "2026-09-15T15:19:41Z",
