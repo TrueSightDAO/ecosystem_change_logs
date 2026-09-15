@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-15T17:45:33Z",
+  "updated_utc": "2026-09-15T17:46:33Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T174632Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-15T17:46:32Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1192",
+      "detail": "branch=fix/public-key-cache-tracker-desync-2 changes=6"
+    },
     {
       "id": "repo_access_20260915T174531Z_agentic-ai-context",
       "timestamp_utc": "2026-09-15T17:45:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1088 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T031457Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T03:14:57Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1088",
-      "detail": "branch=cacao-varieties-roadmap-fix2 changes=1"
     }
   ]
 }
