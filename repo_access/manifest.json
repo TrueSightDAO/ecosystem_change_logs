@@ -1,7 +1,18 @@
 {
-  "total": 190,
-  "updated_utc": "2026-09-15T15:18:25Z",
+  "total": 191,
+  "updated_utc": "2026-09-15T15:19:42Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T151941Z_tokenomics",
+      "timestamp_utc": "2026-09-15T15:19:41Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=493 method=squash"
+    },
     {
       "id": "repo_access_20260915T151823Z_agentic-ai-context",
       "timestamp_utc": "2026-09-15T15:18:23Z",
