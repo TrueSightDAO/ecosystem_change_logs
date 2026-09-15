@@ -1,7 +1,18 @@
 {
-  "total": 179,
-  "updated_utc": "2026-09-15T13:20:05Z",
+  "total": 180,
+  "updated_utc": "2026-09-15T13:49:44Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T134942Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-15T13:49:42Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1163",
+      "detail": "branch=fix/resume-marker-parseable changes=2"
+    },
     {
       "id": "repo_access_20260915T132004Z_sprint-site",
       "timestamp_utc": "2026-09-15T13:20:04Z",
