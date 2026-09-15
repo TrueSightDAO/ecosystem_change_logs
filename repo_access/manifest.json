@@ -1,7 +1,18 @@
 {
-  "total": 129,
-  "updated_utc": "2026-09-15T00:56:53Z",
+  "total": 130,
+  "updated_utc": "2026-09-15T00:57:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T005705Z_cfr-anapu",
+      "timestamp_utc": "2026-09-15T00:57:05Z",
+      "agent": "sophia",
+      "repo": "cfr-anapu",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=4 method=squash"
+    },
     {
       "id": "repo_access_20260915T005652Z_cfr-anapu",
       "timestamp_utc": "2026-09-15T00:56:52Z",
