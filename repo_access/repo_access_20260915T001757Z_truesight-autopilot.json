@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260915T001757Z_truesight-autopilot",
+  "timestamp_utc": "2026-09-15T00:17:57Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/462",
+  "detail": "branch=fix/hermetic-settings-default-tests changes=3"
+}
