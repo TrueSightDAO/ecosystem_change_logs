@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-15T17:35:44Z",
+  "updated_utc": "2026-09-15T17:37:46Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T173745Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-15T17:37:45Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=468 method=squash"
+    },
     {
       "id": "repo_access_20260915T173542Z_truesight-autopilot",
       "timestamp_utc": "2026-09-15T17:35:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/index.json",
       "detail": "path=index.json branch=main"
-    },
-    {
-      "id": "repo_access_20260914T031405Z_farm-media-manifests",
-      "timestamp_utc": "2026-09-14T03:14:05Z",
-      "agent": "sophia",
-      "repo": "farm_media_manifests",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/cepotx-office-altamira.json",
-      "detail": "path=cepotx-office-altamira.json branch=main"
     }
   ]
 }
