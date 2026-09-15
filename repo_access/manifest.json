@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-15T22:11:21Z",
+  "updated_utc": "2026-09-15T23:16:15Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T231614Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-15T23:16:14Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1220",
+      "detail": "branch=handoff/30870-prod-sales-recon-pr changes=2"
+    },
     {
       "id": "repo_access_20260915T221120Z_truesight-autopilot",
       "timestamp_utc": "2026-09-15T22:11:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/farms/fazenda-bom-sucesso.json",
       "detail": "path=farms/fazenda-bom-sucesso.json branch=main"
-    },
-    {
-      "id": "repo_access_20260914T091105Z_farm-media-manifests",
-      "timestamp_utc": "2026-09-14T09:11:05Z",
-      "agent": "sophia",
-      "repo": "farm_media_manifests",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/fazenda-santa-rosa.json",
-      "detail": "path=fazenda-santa-rosa.json branch=main"
     }
   ]
 }
