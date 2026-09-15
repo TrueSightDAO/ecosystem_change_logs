@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-15T22:00:27Z",
+  "updated_utc": "2026-09-15T22:11:21Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T221120Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-15T22:11:20Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=477 method=squash"
+    },
     {
       "id": "repo_access_20260915T220026Z_agentic-ai-context",
       "timestamp_utc": "2026-09-15T22:00:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/fazenda-santa-rosa.json",
       "detail": "path=fazenda-santa-rosa.json branch=main"
-    },
-    {
-      "id": "repo_access_20260914T090036Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T09:00:36Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1094 method=squash"
     }
   ]
 }
