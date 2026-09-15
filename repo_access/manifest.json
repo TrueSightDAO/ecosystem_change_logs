@@ -1,7 +1,18 @@
 {
-  "total": 143,
-  "updated_utc": "2026-09-15T07:23:35Z",
+  "total": 144,
+  "updated_utc": "2026-09-15T07:45:41Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T074539Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-15T07:45:39Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/464",
+      "detail": "branch=fix/deploy-caller-thread-notice changes=13"
+    },
     {
       "id": "repo_access_20260915T072333Z_truesight-autopilot",
       "timestamp_utc": "2026-09-15T07:23:33Z",
