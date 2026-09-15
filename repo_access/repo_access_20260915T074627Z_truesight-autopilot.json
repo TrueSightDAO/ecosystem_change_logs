@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260915T074627Z_truesight-autopilot",
+  "timestamp_utc": "2026-09-15T07:46:27Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/blob/fix/deploy-caller-thread-notice/tests/test_deploy_notify_caller.py",
+  "detail": "path=tests/test_deploy_notify_caller.py branch=fix/deploy-caller-thread-notice"
+}
