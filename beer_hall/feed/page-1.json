@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-09-14T03:54:47Z",
+  "generated_at": "2026-09-15T03:54:24Z",
   "page": 1,
   "page_size": 10,
-  "total": 116,
+  "total": 117,
   "page_count": 12,
   "entries": [
+    {
+      "id": "beer-hall-2026-09-15T035424Z",
+      "posted_at_utc": "2026-09-15T03:54:24Z",
+      "slug": "youtube-fix-repo-access-denylist-complete",
+      "preview": "Automated daily digest of the DAO - **Media Performance** — Fixed squished YouTube embeds and implemented lazy-loading to resolve missing-video glitches on load. - **Governance** — Completed Repo-Access Denylist migrati…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-09-15T035424Z_youtube-fix-repo-access-denylist-complete.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-09-15T035424Z_youtube-fix-repo-access-denylist-complete.json"
+    },
     {
       "id": "beer-hall-2026-09-14T035447Z",
       "posted_at_utc": "2026-09-14T03:54:47Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **SunMint** — Launched Impact Map V1, enabling users to view tree plots, satellite history (Sentinel-2), and regional data via a new Leaflet-based interface. - **Shop** — Added Rancho…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-08-31T041857Z_sunmint-impact-map-farm-pages-invalidation-fix.md",
       "json_path": "beer_hall/entries/beer-hall_2026-08-31T041857Z_sunmint-impact-map-farm-pages-invalidation-fix.json"
-    },
-    {
-      "id": "beer-hall-2026-08-29T060614Z",
-      "posted_at_utc": "2026-08-29T06:06:14Z",
-      "slug": "founderhaus-content-launch-bitangels-event",
-      "preview": "Automated daily digest of the DAO - **FounderHaus** — Launched the Farm Edition program page with embedded videos, a planting-day photo gallery, and direct links to the Cacao Tea shop. - **Shop** — Updated the Cacao Tea…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-29T060614Z_founderhaus-content-launch-bitangels-event.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-29T060614Z_founderhaus-content-launch-bitangels-event.json"
     }
   ]
 }
