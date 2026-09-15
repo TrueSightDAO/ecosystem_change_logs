@@ -1,7 +1,18 @@
 {
-  "total": 145,
-  "updated_utc": "2026-09-15T07:46:29Z",
+  "total": 146,
+  "updated_utc": "2026-09-15T07:47:18Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T074717Z_farm-media-manifests",
+      "timestamp_utc": "2026-09-15T07:47:17Z",
+      "agent": "sophia",
+      "repo": "farm_media_manifests",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/santa-anna-fazenda-para.json",
+      "detail": "path=santa-anna-fazenda-para.json branch=main"
+    },
     {
       "id": "repo_access_20260915T074627Z_truesight-autopilot",
       "timestamp_utc": "2026-09-15T07:46:27Z",
