@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260915T004357Z_cfr-anapu",
+  "timestamp_utc": "2026-09-15T00:43:57Z",
+  "agent": "sophia",
+  "repo": "cfr-anapu",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=3 method=squash"
+}
