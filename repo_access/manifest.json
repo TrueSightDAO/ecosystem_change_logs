@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-15T21:22:36Z",
+  "updated_utc": "2026-09-15T21:23:29Z",
   "entries": [
+    {
+      "id": "repo_access_20260915T212328Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-15T21:23:28Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1211",
+      "detail": "branch=docs/auto-advance-close changes=4"
+    },
     {
       "id": "repo_access_20260915T212235Z_truesight-autopilot",
       "timestamp_utc": "2026-09-15T21:22:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1095 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T044124Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T04:41:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1095",
-      "detail": "branch=followups/map-youtube-reconcile changes=1"
     }
   ]
 }
