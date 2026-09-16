@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-16T22:00:49Z",
+  "updated_utc": "2026-09-16T22:00:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260916T220051Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-16T22:00:51Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1234 method=squash"
+    },
     {
       "id": "repo_access_20260916T220048Z_agentic-ai-context",
       "timestamp_utc": "2026-09-16T22:00:48Z",
@@ -2183,17 +2194,6 @@
     {
       "id": "repo_access_20260914T121726Z_agentic-ai-context",
       "timestamp_utc": "2026-09-14T12:17:26Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/brazil/2026-09-14_black_king_corridor_report_EN_PT.pdf",
-      "detail": "path=brazil/2026-09-14_black_king_corridor_report_EN_PT.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260914T121327Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T12:13:27Z",
       "agent": "sophia",
       "repo": "agentic_ai_context",
       "action": "upload_file_to_github",
