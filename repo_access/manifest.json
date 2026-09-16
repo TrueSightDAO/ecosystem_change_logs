@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-16T21:18:08Z",
+  "updated_utc": "2026-09-16T21:25:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260916T212550Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-16T21:25:50Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/479",
+      "detail": "branch=docs/pr422-supersession-analysis changes=1"
+    },
     {
       "id": "repo_access_20260916T211807Z_agentic-ai-context",
       "timestamp_utc": "2026-09-16T21:18:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1101",
       "detail": "branch=update/ling-mobile-capsule-escalation-2026-09-14 changes=1"
-    },
-    {
-      "id": "repo_access_20260914T113319Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T11:33:19Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1100",
-      "detail": "branch=update/gianluca-farmers-followup-escalation-2026-09-14 changes=1"
     }
   ]
 }
