@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-16T21:17:35Z",
+  "updated_utc": "2026-09-16T21:18:05Z",
   "entries": [
+    {
+      "id": "repo_access_20260916T211804Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-16T21:18:04Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=422 method=squash"
+    },
     {
       "id": "repo_access_20260916T211734Z_truesight-autopilot",
       "timestamp_utc": "2026-09-16T21:17:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1099",
       "detail": "branch=update/podream-followup-escalation-2026-09-14 changes=1"
-    },
-    {
-      "id": "repo_access_20260914T113043Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T11:30:43Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1098",
-      "detail": "branch=update/matheus-nota-fiscal-status-2026-09-14 changes=2"
     }
   ]
 }
