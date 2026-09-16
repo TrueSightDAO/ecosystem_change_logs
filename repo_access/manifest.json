@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-16T22:07:52Z",
+  "updated_utc": "2026-09-16T22:16:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260916T221604Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-16T22:16:04Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=481 method=squash"
+    },
     {
       "id": "repo_access_20260916T220751Z_sunmint-beta",
       "timestamp_utc": "2026-09-16T22:07:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1105 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T122141Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T12:21:41Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1105",
-      "detail": "branch=followup/blackking-state-tax-records changes=1"
     }
   ]
 }
