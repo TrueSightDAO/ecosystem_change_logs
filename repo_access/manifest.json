@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-16T21:43:43Z",
+  "updated_utc": "2026-09-16T22:00:49Z",
   "entries": [
+    {
+      "id": "repo_access_20260916T220048Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-16T22:00:48Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1233 method=squash"
+    },
     {
       "id": "repo_access_20260916T214342Z_agentic-ai-context",
       "timestamp_utc": "2026-09-16T21:43:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/brazil/2026-09-14_black_king_corridor_report_EN_PT.pdf",
       "detail": "path=brazil/2026-09-14_black_king_corridor_report_EN_PT.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260914T121253Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T12:12:53Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1104",
-      "detail": "branch=docs/pat-leak-test-isolation-followup changes=1"
     }
   ]
 }
