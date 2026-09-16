@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-16T21:09:14Z",
+  "updated_utc": "2026-09-16T21:09:48Z",
   "entries": [
+    {
+      "id": "repo_access_20260916T210946Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-16T21:09:46Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1227 method=squash"
+    },
     {
       "id": "repo_access_20260916T210913Z_agentic-ai-context",
       "timestamp_utc": "2026-09-16T21:09:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1097 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T092135Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T09:21:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1097",
-      "detail": "branch=followup/chat-blocking-persist-parity changes=1"
     }
   ]
 }
