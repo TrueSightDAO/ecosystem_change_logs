@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-09-16T035312Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-09-16T03:53:12Z",
+  "slug": "reservation-settlement-and-cacau-na-veia",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-09-16T035312Z_reservation-settlement-and-cacau-na-veia.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-09-16T035312Z_reservation-settlement-and-cacau-na-veia.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Sales Logic** — Shipped RESERVATION + RESERVATION SETTLEMENT GAS processors (Unit 3) to support two-event sales models.\n- **Partner Pages** — Published Sítio Cacau na Veia farm page with 33 site-visit videos and gallery.\n- **Media System** — Implemented fetch-first gallery logic with local fallback to improve loading reliability.\n- **Maps** — Fixed blank-basemap zoom wall at high zoom levels by upscaling z17 imagery.\n- **Governance** — Fixed Grok scorer to prevent false \"Successfully Completed\" stamps on non-contribution events.\n- **Ops** — Completed Sophia Live Progress Plan UAT and resolved auto-advance marker drift.\n- **Stability** — serialized plot-invalidation and media-retraction processors with LockService to stop race conditions.\n- **Routing** — Optimized Brazilian journey path (south→north→west) to remove backtracking.",
+  "message2_shipped": "Shipped\n\n- tokenomics: Ship RESERVATION + RESERVATION SETTLEMENT GAS processors (Unit 3) (#488) — https://github.com/TrueSightDAO/tokenomics/commit/8e05cc3\n- agroverse_shop_beta: Add Sítio Cacau na Veia (Pacajá) farm page + 33 site-visit videos; implement fetch-first gallery with local fallback (#310, #322) — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/4662efc\n- truesight_me_beta: Fix blank-basemap zoom wall; repoint quests/Trello redirects to sprint.truesight.me (#376, #380) — https://github.com/TrueSightDAO/truesight_me_beta/commit/b64dd83\n- tokenomics: Stop Grok scorer falsely stamping rows as Successfully Completed; add SunMint Tree Planting optional Plot ID (#479, #474) — https://github.com/TrueSightDAO/tokenomics/commit/3c92587\n- agentic_ai_context: Sophia Live Progress Plan complete; record UAT results + close out auto-advance plan (#1208, #1211) — https://github.com/TrueSightDAO/agentic_ai_context/commit/71d1aed\n- tokenomics: Serialize plot-invalidation and media-retraction processors with LockService (#469, #472) — https://github.com/TrueSightDAO/tokenomics/commit/45b1acf\n- agroverse_shop_beta: Optimize Brazilian path (smooth south→north→west route) (#321) — https://github.com/TrueSightDAO/agroverse_shop_beta/commit/2cdd03f"
+}
