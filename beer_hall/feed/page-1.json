@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-09-15T03:54:24Z",
+  "generated_at": "2026-09-16T03:53:12Z",
   "page": 1,
   "page_size": 10,
-  "total": 117,
+  "total": 118,
   "page_count": 12,
   "entries": [
+    {
+      "id": "beer-hall-2026-09-16T035312Z",
+      "posted_at_utc": "2026-09-16T03:53:12Z",
+      "slug": "reservation-settlement-and-cacau-na-veia",
+      "preview": "Automated daily digest of the DAO - **Sales Logic** — Shipped RESERVATION + RESERVATION SETTLEMENT GAS processors (Unit 3) to support two-event sales models. - **Partner Pages** — Published Sítio Cacau na Veia farm page…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-09-16T035312Z_reservation-settlement-and-cacau-na-veia.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-09-16T035312Z_reservation-settlement-and-cacau-na-veia.json"
+    },
     {
       "id": "beer-hall-2026-09-15T035424Z",
       "posted_at_utc": "2026-09-15T03:54:24Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **SunMint Map** — Added a farm selector dropdown and registry section to the impact map, complete with status legends and boundary-authority indicators. - **Navigation** — Wired SunMi…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-09-01T040402Z_sunmint-map-filters-boundary-webhook-live.md",
       "json_path": "beer_hall/entries/beer-hall_2026-09-01T040402Z_sunmint-map-filters-boundary-webhook-live.json"
-    },
-    {
-      "id": "beer-hall-2026-08-31T041857Z",
-      "posted_at_utc": "2026-08-31T04:18:57Z",
-      "slug": "sunmint-impact-map-farm-pages-invalidation-fix",
-      "preview": "Automated daily digest of the DAO - **SunMint** — Launched Impact Map V1, enabling users to view tree plots, satellite history (Sentinel-2), and regional data via a new Leaflet-based interface. - **Shop** — Added Rancho…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-08-31T041857Z_sunmint-impact-map-farm-pages-invalidation-fix.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-08-31T041857Z_sunmint-impact-map-farm-pages-invalidation-fix.json"
     }
   ]
 }
