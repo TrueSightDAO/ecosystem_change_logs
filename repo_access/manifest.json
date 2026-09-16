@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-16T21:08:53Z",
+  "updated_utc": "2026-09-16T21:09:14Z",
   "entries": [
+    {
+      "id": "repo_access_20260916T210913Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-16T21:09:13Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1228",
+      "detail": "branch=followups/subscription-sales-automation changes=2"
+    },
     {
       "id": "repo_access_20260916T210851Z_agentic-ai-context",
       "timestamp_utc": "2026-09-16T21:08:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1097",
       "detail": "branch=followup/chat-blocking-persist-parity changes=1"
-    },
-    {
-      "id": "repo_access_20260914T091156Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T09:11:56Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1096 method=squash"
     }
   ]
 }
