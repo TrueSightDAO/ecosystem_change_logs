@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-15T23:16:15Z",
+  "updated_utc": "2026-09-16T12:44:36Z",
   "entries": [
+    {
+      "id": "repo_access_20260916T124435Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-16T12:44:35Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1222 method=squash"
+    },
     {
       "id": "repo_access_20260915T231614Z_agentic-ai-context",
       "timestamp_utc": "2026-09-15T23:16:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/index.json",
       "detail": "path=index.json branch=main"
-    },
-    {
-      "id": "repo_access_20260914T091109Z_farm-media-manifests",
-      "timestamp_utc": "2026-09-14T09:11:09Z",
-      "agent": "sophia",
-      "repo": "farm_media_manifests",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/farms/fazenda-bom-sucesso.json",
-      "detail": "path=farms/fazenda-bom-sucesso.json branch=main"
     }
   ]
 }
