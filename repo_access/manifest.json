@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-16T21:37:23Z",
+  "updated_utc": "2026-09-16T21:43:43Z",
   "entries": [
+    {
+      "id": "repo_access_20260916T214342Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-16T21:43:42Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1234",
+      "detail": "branch=plan/brain-tier-pr2-merged-marker changes=1"
+    },
     {
       "id": "repo_access_20260916T213722Z_agentic-ai-context",
       "timestamp_utc": "2026-09-16T21:37:22Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1104",
       "detail": "branch=docs/pat-leak-test-isolation-followup changes=1"
-    },
-    {
-      "id": "repo_access_20260914T115242Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T11:52:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=900 method=squash"
     }
   ]
 }
