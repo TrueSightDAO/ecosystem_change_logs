@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260916T220751Z_sunmint-beta",
+  "timestamp_utc": "2026-09-16T22:07:51Z",
+  "agent": "sophia",
+  "repo": "sunmint_beta",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=84 method=squash"
+}
