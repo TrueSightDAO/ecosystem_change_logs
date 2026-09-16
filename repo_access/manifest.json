@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-16T22:00:52Z",
+  "updated_utc": "2026-09-16T22:07:29Z",
   "entries": [
+    {
+      "id": "repo_access_20260916T220727Z_sunmint-beta",
+      "timestamp_utc": "2026-09-16T22:07:27Z",
+      "agent": "sophia",
+      "repo": "sunmint_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint_beta/pull/84",
+      "detail": "branch=crf-anapu/pr1-vendor-readiness changes=3"
+    },
     {
       "id": "repo_access_20260916T220051Z_agentic-ai-context",
       "timestamp_utc": "2026-09-16T22:00:51Z",
@@ -2183,17 +2194,6 @@
     {
       "id": "repo_access_20260914T122115Z_agentic-ai-context",
       "timestamp_utc": "2026-09-14T12:21:15Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/brazil/2026-09-14_black_king_corridor_report_EN_PT.pdf",
-      "detail": "path=brazil/2026-09-14_black_king_corridor_report_EN_PT.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260914T121726Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T12:17:26Z",
       "agent": "sophia",
       "repo": "agentic_ai_context",
       "action": "upload_file_to_github",
