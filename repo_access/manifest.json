@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T01:56:49Z",
+  "updated_utc": "2026-09-17T02:05:02Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T020500Z_cfr-anapu",
+      "timestamp_utc": "2026-09-17T02:05:00Z",
+      "agent": "sophia",
+      "repo": "cfr-anapu",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=6 method=squash"
+    },
     {
       "id": "repo_access_20260917T015648Z_truesight-me-beta",
       "timestamp_utc": "2026-09-17T01:56:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1102 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T125717Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T12:57:17Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1101 method=squash"
     }
   ]
 }
