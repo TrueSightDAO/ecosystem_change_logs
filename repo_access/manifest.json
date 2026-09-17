@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T15:04:19Z",
+  "updated_utc": "2026-09-17T15:07:29Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T150728Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-17T15:07:28Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=490 method=squash"
+    },
     {
       "id": "repo_access_20260917T150418Z_truesight-autopilot",
       "timestamp_utc": "2026-09-17T15:04:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1118 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T232053Z_dao-protocol",
-      "timestamp_utc": "2026-09-14T23:20:53Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=166 method=squash"
     }
   ]
 }
