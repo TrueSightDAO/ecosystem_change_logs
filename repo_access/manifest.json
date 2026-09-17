@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T21:03:43Z",
+  "updated_utc": "2026-09-17T21:03:47Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T210346Z_black-king-nota-fiscal-raw",
+      "timestamp_utc": "2026-09-17T21:03:46Z",
+      "agent": "sophia",
+      "repo": "black-king-nota-fiscal-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29250650042585000180550010000000131061000060.pdf",
+      "detail": "path=nfe/29250650042585000180550010000000131061000060.pdf branch=main"
+    },
     {
       "id": "repo_access_20260917T210342Z_black-king-nota-fiscal-raw",
       "timestamp_utc": "2026-09-17T21:03:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=3 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T131946Z_sprint-site",
-      "timestamp_utc": "2026-09-15T13:19:46Z",
-      "agent": "sophia",
-      "repo": "sprint-site",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sprint-site/pull/3",
-      "detail": "branch=feat/dapp-restyle-logo changes=2"
     }
   ]
 }
