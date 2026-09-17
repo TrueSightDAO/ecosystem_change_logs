@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T15:01:07Z",
+  "updated_utc": "2026-09-17T15:01:10Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T150109Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T15:01:09Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1250 method=squash"
+    },
     {
       "id": "repo_access_20260917T150105Z_cfr-anapu",
       "timestamp_utc": "2026-09-17T15:01:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/459",
       "detail": "branch=feat/discord-voice-io changes=8"
-    },
-    {
-      "id": "repo_access_20260914T230638Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T23:06:38Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1120 method=squash"
     }
   ]
 }
