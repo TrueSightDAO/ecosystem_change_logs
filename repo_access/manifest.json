@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T17:05:16Z",
+  "updated_utc": "2026-09-17T17:42:37Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T174236Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T17:42:36Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1258",
+      "detail": "branch=followup/acl-privatisation-broke-notarizations-redirect changes=1"
+    },
     {
       "id": "repo_access_20260917T170515Z_go-to-market",
       "timestamp_utc": "2026-09-17T17:05:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/29",
       "detail": "branch=fix/detect-uploadlimitexceeded-as-quota changes=3"
-    },
-    {
-      "id": "repo_access_20260915T074717Z_farm-media-manifests",
-      "timestamp_utc": "2026-09-15T07:47:17Z",
-      "agent": "sophia",
-      "repo": "farm_media_manifests",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/santa-anna-fazenda-para.json",
-      "detail": "path=santa-anna-fazenda-para.json branch=main"
     }
   ]
 }
