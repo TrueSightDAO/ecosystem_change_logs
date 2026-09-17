@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T13:27:58Z",
+  "updated_utc": "2026-09-17T14:26:14Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T142613Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T14:26:13Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1247",
+      "detail": "branch=plan/member-workspace-quarantine changes=2"
+    },
     {
       "id": "repo_access_20260917T132756Z_truesight-autopilot",
       "timestamp_utc": "2026-09-17T13:27:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=456 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T174750Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T17:47:50Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1116 method=squash"
     }
   ]
 }
