@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T20:52:40Z",
+  "updated_utc": "2026-09-17T20:58:47Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T205845Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T20:58:45Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1265",
+      "detail": "branch=docs/cfr-payout-backfill-paulo changes=2"
+    },
     {
       "id": "repo_access_20260917T205239Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T20:52:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1156 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T115850Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T11:58:50Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1153 method=squash"
     }
   ]
 }
