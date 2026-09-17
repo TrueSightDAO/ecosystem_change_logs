@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T17:42:48Z",
+  "updated_utc": "2026-09-17T18:32:05Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T183203Z_cfr-anapu",
+      "timestamp_utc": "2026-09-17T18:32:03Z",
+      "agent": "sophia",
+      "repo": "cfr-anapu",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/cfr-anapu/pull/11",
+      "detail": "branch=feat/payout-via-edgar changes=6"
+    },
     {
       "id": "repo_access_20260917T174246Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T17:42:46Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1146",
       "detail": "branch=followups/black-king-warehouse-fsvp changes=1"
-    },
-    {
-      "id": "repo_access_20260915T075330Z_farm-media-daemon",
-      "timestamp_utc": "2026-09-15T07:53:30Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=29 method=squash"
     }
   ]
 }
