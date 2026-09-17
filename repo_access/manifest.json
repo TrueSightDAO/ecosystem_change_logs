@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T22:06:04Z",
+  "updated_utc": "2026-09-17T22:38:22Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T223821Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T22:38:21Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1268 method=squash"
+    },
     {
       "id": "repo_access_20260917T220603Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T22:06:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/fix/freight-rev10-butter-priced/exports/2026-06-11_packing_list_black_king_to_truetech_rev10.pdf",
       "detail": "path=exports/2026-06-11_packing_list_black_king_to_truetech_rev10.pdf branch=fix/freight-rev10-butter-priced"
-    },
-    {
-      "id": "repo_access_20260915T144739Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T14:47:39Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/fix/freight-rev10-butter-priced/exports/2026-06-11_commercial_invoice_black_king_to_truetech_rev10.pdf",
-      "detail": "path=exports/2026-06-11_commercial_invoice_black_king_to_truetech_rev10.pdf branch=fix/freight-rev10-butter-priced"
     }
   ]
 }
