@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T15:09:53Z",
+  "updated_utc": "2026-09-17T15:15:22Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T151520Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T15:15:20Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1252",
+      "detail": "branch=docs/envoy-sentinel-pr0 changes=15"
+    },
     {
       "id": "repo_access_20260917T150952Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T15:09:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=461 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T234737Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-14T23:47:37Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/461",
-      "detail": "branch=docs/discord-30d-archive-sweep changes=1"
     }
   ]
 }
