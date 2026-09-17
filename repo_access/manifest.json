@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T21:01:14Z",
+  "updated_utc": "2026-09-17T21:02:46Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T210244Z_black-king-nota-fiscal-raw",
+      "timestamp_utc": "2026-09-17T21:02:44Z",
+      "agent": "sophia",
+      "repo": "black-king-nota-fiscal-raw",
+      "action": "create_repo",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw",
+      "detail": "org=TrueSightDAO private=True"
+    },
     {
       "id": "repo_access_20260917T210113Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T21:01:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sprint-site",
       "detail": "org=TrueSightDAO private=False"
-    },
-    {
-      "id": "repo_access_20260915T121322Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T12:13:22Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1156 method=squash"
     }
   ]
 }
