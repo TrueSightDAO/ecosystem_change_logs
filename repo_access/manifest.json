@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T17:01:11Z",
+  "updated_utc": "2026-09-17T17:03:02Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T170301Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T17:03:01Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1257",
+      "detail": "branch=docs/envoy-parity-complete-residual changes=5"
+    },
     {
       "id": "repo_access_20260917T170110Z_truesight-autopilot",
       "timestamp_utc": "2026-09-17T17:01:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/463",
       "detail": "branch=fix/followup-strike-delivery-confirmation changes=8"
-    },
-    {
-      "id": "repo_access_20260915T070431Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T07:04:31Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1145 method=squash"
     }
   ]
 }
