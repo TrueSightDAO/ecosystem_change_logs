@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260917T150418Z_truesight-autopilot",
+  "timestamp_utc": "2026-09-17T15:04:18Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/490",
+  "detail": "branch=feat/member-workspace-private-guard changes=5"
+}
