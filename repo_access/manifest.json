@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T23:11:31Z",
+  "updated_utc": "2026-09-17T23:11:33Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T231132Z_tokenomics",
+      "timestamp_utc": "2026-09-17T23:11:32Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/502",
+      "detail": "branch=feat/q5-provision-payout-tabs changes=10"
+    },
     {
       "id": "repo_access_20260917T231129Z_agent-handoffs",
       "timestamp_utc": "2026-09-17T23:11:29Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=465 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T154100Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-15T15:41:00Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/465",
-      "detail": "branch=fix/discord-resume-registry-noop changes=3"
     }
   ]
 }
