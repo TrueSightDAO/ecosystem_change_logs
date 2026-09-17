@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T17:42:37Z",
+  "updated_utc": "2026-09-17T17:42:48Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T174246Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T17:42:46Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1258 method=squash"
+    },
     {
       "id": "repo_access_20260917T174236Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T17:42:36Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=29 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T075315Z_farm-media-daemon",
-      "timestamp_utc": "2026-09-15T07:53:15Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/29",
-      "detail": "branch=fix/detect-uploadlimitexceeded-as-quota changes=3"
     }
   ]
 }
