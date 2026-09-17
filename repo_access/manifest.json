@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T21:03:19Z",
+  "updated_utc": "2026-09-17T21:03:23Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T210322Z_black-king-nota-fiscal-raw",
+      "timestamp_utc": "2026-09-17T21:03:22Z",
+      "agent": "sophia",
+      "repo": "black-king-nota-fiscal-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29250350042585000180550010000000081061000069.pdf",
+      "detail": "path=nfe/29250350042585000180550010000000081061000069.pdf branch=main"
+    },
     {
       "id": "repo_access_20260917T210318Z_black-king-nota-fiscal-raw",
       "timestamp_utc": "2026-09-17T21:03:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1158",
       "detail": "branch=docs/pr4-supervisor-advisory-boundary changes=9"
-    },
-    {
-      "id": "repo_access_20260915T124136Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T12:41:36Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1157 method=squash"
     }
   ]
 }
