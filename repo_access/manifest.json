@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T16:17:33Z",
+  "updated_utc": "2026-09-17T16:19:17Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T161916Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-17T16:19:16Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=493 method=squash"
+    },
     {
       "id": "repo_access_20260917T161732Z_tokenomics",
       "timestamp_utc": "2026-09-17T16:17:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/claude_telegram_monitor/pull/3",
       "detail": "branch=exec/capture-topic-close-reopen-signals changes=2"
-    },
-    {
-      "id": "repo_access_20260915T010802Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T01:08:02Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1134 method=squash"
     }
   ]
 }
