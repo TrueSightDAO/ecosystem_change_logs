@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T02:59:49Z",
+  "updated_utc": "2026-09-17T03:01:32Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T030130Z_agent-handoffs",
+      "timestamp_utc": "2026-09-17T03:01:30Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/bionpact_from_sophia_20260917T030129Z.json",
+      "detail": "path=handoffs/bionpact_from_sophia_20260917T030129Z.json branch=main"
+    },
     {
       "id": "repo_access_20260917T025948Z_truesight-autopilot",
       "timestamp_utc": "2026-09-17T02:59:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/aora/pull/3",
       "detail": "branch=decks/modules-en-draft changes=1"
-    },
-    {
-      "id": "repo_access_20260914T140955Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T14:09:55Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1110 method=squash"
     }
   ]
 }
