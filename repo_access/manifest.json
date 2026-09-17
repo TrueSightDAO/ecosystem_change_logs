@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T16:17:10Z",
+  "updated_utc": "2026-09-17T16:17:19Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T161717Z_tokenomics",
+      "timestamp_utc": "2026-09-17T16:17:17Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=500 method=squash"
+    },
     {
       "id": "repo_access_20260917T161709Z_tokenomics",
       "timestamp_utc": "2026-09-17T16:17:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1136 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T010337Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T01:03:37Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1136",
-      "detail": "branch=fix/farm-plan-pr8-tracker-tick changes=2"
     }
   ]
 }
