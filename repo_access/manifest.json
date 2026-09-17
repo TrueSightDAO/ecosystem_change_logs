@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T22:38:22Z",
+  "updated_utc": "2026-09-17T23:04:35Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T230434Z_dao-protocol",
+      "timestamp_utc": "2026-09-17T23:04:34Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/169",
+      "detail": "branch=feat/q2-register-payout-event-catalog changes=3"
+    },
     {
       "id": "repo_access_20260917T223821Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T22:38:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1170 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T144743Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T14:47:43Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/fix/freight-rev10-butter-priced/exports/2026-06-11_packing_list_black_king_to_truetech_rev10.pdf",
-      "detail": "path=exports/2026-06-11_packing_list_black_king_to_truetech_rev10.pdf branch=fix/freight-rev10-butter-priced"
     }
   ]
 }
