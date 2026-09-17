@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T03:01:32Z",
+  "updated_utc": "2026-09-17T03:01:35Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T030134Z_agent-handoffs",
+      "timestamp_utc": "2026-09-17T03:01:34Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260917T030133Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20260917T030133Z.json branch=main"
+    },
     {
       "id": "repo_access_20260917T030130Z_agent-handoffs",
       "timestamp_utc": "2026-09-17T03:01:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/aora/blob/decks/modules-en-draft/decks/aora-modules.en.pptx",
       "detail": "path=decks/aora-modules.en.pptx branch=decks/modules-en-draft"
-    },
-    {
-      "id": "repo_access_20260914T141355Z_aora",
-      "timestamp_utc": "2026-09-14T14:13:55Z",
-      "agent": "sophia",
-      "repo": "aora",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/aora/pull/3",
-      "detail": "branch=decks/modules-en-draft changes=1"
     }
   ]
 }
