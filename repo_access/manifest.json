@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T16:19:17Z",
+  "updated_utc": "2026-09-17T16:22:40Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T162239Z_cfr-anapu",
+      "timestamp_utc": "2026-09-17T16:22:39Z",
+      "agent": "sophia",
+      "repo": "cfr-anapu",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/cfr-anapu/pull/10",
+      "detail": "branch=feat/payout-lang-toggle-persistence changes=26"
+    },
     {
       "id": "repo_access_20260917T161916Z_truesight-autopilot",
       "timestamp_utc": "2026-09-17T16:19:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1143",
       "detail": "branch=feat/handoff-index-s8 changes=1"
-    },
-    {
-      "id": "repo_access_20260915T055732Z_claude-telegram-monitor",
-      "timestamp_utc": "2026-09-15T05:57:32Z",
-      "agent": "sophia",
-      "repo": "claude_telegram_monitor",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/claude_telegram_monitor/pull/3",
-      "detail": "branch=exec/capture-topic-close-reopen-signals changes=2"
     }
   ]
 }
