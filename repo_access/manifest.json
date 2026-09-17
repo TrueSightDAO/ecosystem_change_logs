@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-16T22:16:06Z",
+  "updated_utc": "2026-09-17T01:07:04Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T010703Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T01:07:03Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1236",
+      "detail": "branch=crf-anapu/pr1-tracker-reconcile changes=13"
+    },
     {
       "id": "repo_access_20260916T221604Z_truesight-autopilot",
       "timestamp_utc": "2026-09-16T22:16:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1106",
       "detail": "branch=followup/upload-local-file-sha-422 changes=1"
-    },
-    {
-      "id": "repo_access_20260914T122153Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T12:21:53Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1105 method=squash"
     }
   ]
 }
