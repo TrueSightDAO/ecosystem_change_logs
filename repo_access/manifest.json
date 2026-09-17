@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T21:03:16Z",
+  "updated_utc": "2026-09-17T21:03:19Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T210318Z_black-king-nota-fiscal-raw",
+      "timestamp_utc": "2026-09-17T21:03:18Z",
+      "agent": "sophia",
+      "repo": "black-king-nota-fiscal-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29250350042585000180550010000000071061000061.pdf",
+      "detail": "path=nfe/29250350042585000180550010000000071061000061.pdf branch=main"
+    },
     {
       "id": "repo_access_20260917T210315Z_black-king-nota-fiscal-raw",
       "timestamp_utc": "2026-09-17T21:03:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1157 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T124125Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T12:41:25Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/chore/handoff-manifest-untracked-threads-pr1/handoffs/index.json",
-      "detail": "path=handoffs/index.json branch=chore/handoff-manifest-untracked-threads-pr1"
     }
   ]
 }
