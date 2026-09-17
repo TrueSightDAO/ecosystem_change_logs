@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T03:01:35Z",
+  "updated_utc": "2026-09-17T03:02:04Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T030202Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T03:02:02Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1241",
+      "detail": "branch=docs/gh-cli-canonical-pat-rule changes=2"
+    },
     {
       "id": "repo_access_20260917T030134Z_agent-handoffs",
       "timestamp_utc": "2026-09-17T03:01:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/176",
       "detail": "branch=decks/ceremonial-cacao-positioning-en changes=1"
-    },
-    {
-      "id": "repo_access_20260914T141403Z_aora",
-      "timestamp_utc": "2026-09-14T14:14:03Z",
-      "agent": "sophia",
-      "repo": "aora",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/aora/blob/decks/modules-en-draft/decks/aora-modules.en.pptx",
-      "detail": "path=decks/aora-modules.en.pptx branch=decks/modules-en-draft"
     }
   ]
 }
