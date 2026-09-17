@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T18:32:05Z",
+  "updated_utc": "2026-09-17T18:34:25Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T183424Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T18:34:24Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1259",
+      "detail": "branch=docs/pii-envelope-fork-decision changes=2"
+    },
     {
       "id": "repo_access_20260917T183203Z_cfr-anapu",
       "timestamp_utc": "2026-09-17T18:32:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1146 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T080606Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T08:06:06Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1146",
-      "detail": "branch=followups/black-king-warehouse-fsvp changes=1"
     }
   ]
 }
