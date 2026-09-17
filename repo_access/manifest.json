@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T14:36:14Z",
+  "updated_utc": "2026-09-17T14:40:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T144051Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T14:40:51Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1249",
+      "detail": "branch=followup/merge-pr-ci-gate-no-workflow-repo changes=1"
+    },
     {
       "id": "repo_access_20260917T143612Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T14:36:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1120",
       "detail": "branch=followups/deploy-coalescing-debounce changes=1"
-    },
-    {
-      "id": "repo_access_20260914T182602Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-14T18:26:02Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=457 method=squash"
     }
   ]
 }
