@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T15:32:32Z",
+  "updated_utc": "2026-09-17T15:46:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T154651Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-17T15:46:51Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/492",
+      "detail": "branch=fix/hard-exclude-payout-registration-pii changes=7"
+    },
     {
       "id": "repo_access_20260917T153230Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T15:32:30Z",
@@ -2183,17 +2194,6 @@
     {
       "id": "repo_access_20260915T004331Z_agentic-ai-context",
       "timestamp_utc": "2026-09-15T00:43:31Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1127 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T002258Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T00:22:58Z",
       "agent": "sophia",
       "repo": "agentic_ai_context",
       "action": "merge_pr",
