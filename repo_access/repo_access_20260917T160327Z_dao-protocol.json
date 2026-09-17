@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260917T160327Z_dao-protocol",
+  "timestamp_utc": "2026-09-17T16:03:27Z",
+  "agent": "sophia",
+  "repo": "dao_protocol",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/168",
+  "detail": "branch=fix/ledger-emit-hard-exclude-payout-registration changes=4"
+}
