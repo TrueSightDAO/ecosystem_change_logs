@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T01:25:56Z",
+  "updated_utc": "2026-09-17T01:28:50Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T012849Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T01:28:49Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1237 method=squash"
+    },
     {
       "id": "repo_access_20260917T012554Z_cfr-anapu",
       "timestamp_utc": "2026-09-17T01:25:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1108 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T125202Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T12:52:02Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1108",
-      "detail": "branch=followup/upload-tool-sha-422-regression changes=1"
     }
   ]
 }
