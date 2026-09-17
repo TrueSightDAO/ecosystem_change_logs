@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260917T024551Z_sentiment-importer",
+  "timestamp_utc": "2026-09-17T02:45:51Z",
+  "agent": "sophia",
+  "repo": "sentiment_importer",
+  "action": "merge_pr",
+  "result": "failure",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=1136 method=squash"
+}
