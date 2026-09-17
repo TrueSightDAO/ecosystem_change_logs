@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T14:41:01Z",
+  "updated_utc": "2026-09-17T14:47:10Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T144708Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T14:47:08Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1250",
+      "detail": "branch=docs/brain-tier-sentinel-followup changes=3"
+    },
     {
       "id": "repo_access_20260917T144100Z_cfr-anapu",
       "timestamp_utc": "2026-09-17T14:41:00Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1121 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T230354Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T23:03:54Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1121",
-      "detail": "branch=followup/dao-protocol-empty-body-guard changes=1"
     }
   ]
 }
