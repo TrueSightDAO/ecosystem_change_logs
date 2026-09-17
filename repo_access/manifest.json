@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T13:19:05Z",
+  "updated_utc": "2026-09-17T13:22:36Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T132235Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-17T13:22:35Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/488",
+      "detail": "branch=fix/pr3-remaining-collateral changes=6"
+    },
     {
       "id": "repo_access_20260917T131904Z_truesight-autopilot",
       "timestamp_utc": "2026-09-17T13:19:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1116",
       "detail": "branch=followup/orlantildes-butter-decision changes=2"
-    },
-    {
-      "id": "repo_access_20260914T174408Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T17:44:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1115 method=squash"
     }
   ]
 }
