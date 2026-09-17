@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260917T111144Z_truesight-autopilot",
+  "timestamp_utc": "2026-09-17T11:11:44Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/486",
+  "detail": "branch=fix/ci-gate-no-workflows-fallback changes=3"
+}
