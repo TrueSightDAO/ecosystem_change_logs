@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T15:33:52Z",
+  "updated_utc": "2026-09-17T16:09:35Z",
   "entries": [
+    {
+      "id": "deploy_20260917T160932Z_autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20260917T160932Z",
+      "target_type": "ec2",
+      "target_id": "autopilot",
+      "action": "deploy_autopilot (local)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260917-20",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/ef4cde5211cabe40981a6e11877d3b8b3dd5eb1f",
+      "notes": "autopilot restarted onto ef4cde5211cabe40981a6e11877d3b8b3dd5eb1f; marker processed on boot."
+    },
     {
       "id": "deploy_20260917T153349Z_autopilot",
       "agent": "sophia",
@@ -2588,19 +2601,6 @@
       "lease_id": "L-20260829-06",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF",
       "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
-    },
-    {
-      "id": "deploy_20260829T133141Z_1ibrxqw-utsfkbku-fiotrkfblxlnx8khsksw2qq",
-      "agent": "sophia",
-      "timestamp_utc": "20260829T133141Z",
-      "target_type": "clasp",
-      "target_id": "1IBrXqW_uTsFkbKU-fiOTrkfBlxLnX8KHsKSw2qqF3NoOa36wU0OKEVGH",
-      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1IBrXqW_uTsFkbKU-fiOTrkfBlxLnX8KHsKSw2qqF3NoOa36wU0OKEVGH --push --no-hooks",
-      "git_ref": "",
-      "result": "failure",
-      "lease_id": "L-20260829-06",
-      "evidence_url": "",
-      "notes": "exit=1 stderr="
     }
   ]
 }
