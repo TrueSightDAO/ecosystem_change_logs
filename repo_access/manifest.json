@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T03:18:08Z",
+  "updated_utc": "2026-09-17T03:23:22Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T032321Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T03:23:21Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1242",
+      "detail": "branch=chore/crf-tracker-pr5-complete changes=7"
+    },
     {
       "id": "repo_access_20260917T031807Z_tokenomics",
       "timestamp_utc": "2026-09-17T03:18:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=454 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T141722Z_go-to-market",
-      "timestamp_utc": "2026-09-14T14:17:22Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/blob/decks/ceremonial-cacao-positioning-en/decks/ceremonial-cacao-positioning.en.pptx",
-      "detail": "path=decks/ceremonial-cacao-positioning.en.pptx branch=decks/ceremonial-cacao-positioning-en"
     }
   ]
 }
