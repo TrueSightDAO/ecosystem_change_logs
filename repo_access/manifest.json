@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T03:02:04Z",
+  "updated_utc": "2026-09-17T03:18:08Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T031807Z_tokenomics",
+      "timestamp_utc": "2026-09-17T03:18:07Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=499 method=squash"
+    },
     {
       "id": "repo_access_20260917T030202Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T03:02:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/go_to_market/blob/decks/ceremonial-cacao-positioning-en/decks/ceremonial-cacao-positioning.en.pptx",
       "detail": "path=decks/ceremonial-cacao-positioning.en.pptx branch=decks/ceremonial-cacao-positioning-en"
-    },
-    {
-      "id": "repo_access_20260914T141716Z_go-to-market",
-      "timestamp_utc": "2026-09-14T14:17:16Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/176",
-      "detail": "branch=decks/ceremonial-cacao-positioning-en changes=1"
     }
   ]
 }
