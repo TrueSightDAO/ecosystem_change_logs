@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T11:11:45Z",
+  "updated_utc": "2026-09-17T12:49:00Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T124859Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T12:48:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1243",
+      "detail": "branch=docs/crf-pr7-program-modes-and-status changes=5"
+    },
     {
       "id": "repo_access_20260917T111144Z_truesight-autopilot",
       "timestamp_utc": "2026-09-17T11:11:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1112",
       "detail": "branch=followup/matheus-delivery-unconfirmed changes=2"
-    },
-    {
-      "id": "repo_access_20260914T173725Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-14T17:37:25Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=455 method=squash"
     }
   ]
 }
