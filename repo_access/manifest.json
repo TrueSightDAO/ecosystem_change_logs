@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T02:19:13Z",
+  "updated_utc": "2026-09-17T02:23:26Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T022324Z_cfr-anapu",
+      "timestamp_utc": "2026-09-17T02:23:24Z",
+      "agent": "sophia",
+      "repo": "cfr-anapu",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=7 method=squash"
+    },
     {
       "id": "repo_access_20260917T021912Z_tokenomics",
       "timestamp_utc": "2026-09-17T02:19:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1109 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T140334Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T14:03:34Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1109",
-      "detail": "branch=chore/rearm-chocolate-phase2-timer changes=2"
     }
   ]
 }
