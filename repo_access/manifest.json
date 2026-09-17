@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T03:24:25Z",
+  "updated_utc": "2026-09-17T11:11:45Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T111144Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-17T11:11:44Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/486",
+      "detail": "branch=fix/ci-gate-no-workflows-fallback changes=3"
+    },
     {
       "id": "repo_access_20260917T032424Z_truesight-autopilot",
       "timestamp_utc": "2026-09-17T03:24:24Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=455 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T173214Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T17:32:14Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1111 method=squash"
     }
   ]
 }
