@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T02:41:24Z",
+  "updated_utc": "2026-09-17T02:45:32Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T024530Z_sentiment-importer",
+      "timestamp_utc": "2026-09-17T02:45:30Z",
+      "agent": "sophia",
+      "repo": "sentiment_importer",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1136",
+      "detail": "branch=fix/reimport-rebuild-derived-signals changes=3"
+    },
     {
       "id": "repo_access_20260917T024123Z_tokenomics",
       "timestamp_utc": "2026-09-17T02:41:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=451 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T140527Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-14T14:05:27Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/453",
-      "detail": "branch=feat/followup-blocked-status changes=5"
     }
   ]
 }
