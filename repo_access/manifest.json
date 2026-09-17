@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T23:04:35Z",
+  "updated_utc": "2026-09-17T23:04:45Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T230443Z_dao-protocol",
+      "timestamp_utc": "2026-09-17T23:04:43Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=169 method=squash"
+    },
     {
       "id": "repo_access_20260917T230434Z_dao-protocol",
       "timestamp_utc": "2026-09-17T23:04:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1171 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T150440Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T15:04:40Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1170 method=squash"
     }
   ]
 }
