@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T23:10:48Z",
+  "updated_utc": "2026-09-17T23:11:31Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T231129Z_agent-handoffs",
+      "timestamp_utc": "2026-09-17T23:11:29Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260917T231127Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20260917T231127Z.json branch=main"
+    },
     {
       "id": "repo_access_20260917T231047Z_agent-handoffs",
       "timestamp_utc": "2026-09-17T23:10:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/465",
       "detail": "branch=fix/discord-resume-registry-noop changes=3"
-    },
-    {
-      "id": "repo_access_20260915T151941Z_tokenomics",
-      "timestamp_utc": "2026-09-15T15:19:41Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=493 method=squash"
     }
   ]
 }
