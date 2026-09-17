@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260917T210350Z_black-king-nota-fiscal-raw",
+  "timestamp_utc": "2026-09-17T21:03:50Z",
+  "agent": "sophia",
+  "repo": "black-king-nota-fiscal-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29250650042585000180550010000000141061000067.pdf",
+  "detail": "path=nfe/29250650042585000180550010000000141061000067.pdf branch=main"
+}
