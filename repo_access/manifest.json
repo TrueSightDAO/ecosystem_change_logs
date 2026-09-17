@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T17:03:02Z",
+  "updated_utc": "2026-09-17T17:03:17Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T170316Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-17T17:03:16Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/envoy-parity-complete-residual/handoffs/index.json",
+      "detail": "path=handoffs/index.json branch=docs/envoy-parity-complete-residual"
+    },
     {
       "id": "repo_access_20260917T170301Z_agentic-ai-context",
       "timestamp_utc": "2026-09-17T17:03:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/464",
       "detail": "branch=fix/deploy-caller-thread-notice changes=13"
-    },
-    {
-      "id": "repo_access_20260915T072333Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-15T07:23:33Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/463",
-      "detail": "branch=fix/followup-strike-delivery-confirmation changes=8"
     }
   ]
 }
