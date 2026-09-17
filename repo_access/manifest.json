@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T13:25:32Z",
+  "updated_utc": "2026-09-17T13:26:45Z",
   "entries": [
+    {
+      "id": "repo_access_20260917T132643Z_lineage-engine",
+      "timestamp_utc": "2026-09-17T13:26:43Z",
+      "agent": "sophia",
+      "repo": "lineage-engine",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=26 method=squash"
+    },
     {
       "id": "repo_access_20260917T132530Z_truesight-autopilot",
       "timestamp_utc": "2026-09-17T13:25:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1117 method=squash"
-    },
-    {
-      "id": "repo_access_20260914T174711Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-14T17:47:11Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1117",
-      "detail": "branch=followup/matheus-park-blocked changes=2"
     }
   ]
 }
