@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T19:21:18Z",
+  "updated_utc": "2026-09-18T19:27:16Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T192714Z_tokenomics",
+      "timestamp_utc": "2026-09-18T19:27:14Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/528",
+      "detail": "branch=manifest/1orWgdGckts55-deployments-head changes=1"
+    },
     {
       "id": "repo_access_20260918T192117Z_agentic-ai-context",
       "timestamp_utc": "2026-09-18T19:21:17Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=100 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T024551Z_sentiment-importer",
-      "timestamp_utc": "2026-09-17T02:45:51Z",
-      "agent": "sophia",
-      "repo": "sentiment_importer",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1136 method=squash"
     }
   ]
 }
