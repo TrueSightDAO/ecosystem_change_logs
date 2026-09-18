@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T02:06:11Z",
+  "updated_utc": "2026-09-18T02:09:41Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T020940Z_tokenomics",
+      "timestamp_utc": "2026-09-18T02:09:40Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/520",
+      "detail": "branch=guard/remote-only-file-no-delete changes=4"
+    },
     {
       "id": "repo_access_20260918T020610Z_agentic-ai-context",
       "timestamp_utc": "2026-09-18T02:06:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1229 method=squash"
-    },
-    {
-      "id": "repo_access_20260916T211412Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-16T21:14:12Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1229",
-      "detail": "branch=handoffs/30870-row-terminal-v2 changes=1"
     }
   ]
 }
