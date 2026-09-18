@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T18:37:44Z",
+  "updated_utc": "2026-09-18T19:01:37Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T190136Z_dao-protocol",
+      "timestamp_utc": "2026-09-18T19:01:36Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=172 method=squash"
+    },
     {
       "id": "repo_access_20260918T183743Z_dao-protocol",
       "timestamp_utc": "2026-09-18T18:37:43Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/497",
       "detail": "branch=audit/gas-drift-2026-09-17 changes=1"
-    },
-    {
-      "id": "repo_access_20260917T022324Z_cfr-anapu",
-      "timestamp_utc": "2026-09-17T02:23:24Z",
-      "agent": "sophia",
-      "repo": "cfr-anapu",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=7 method=squash"
     }
   ]
 }
