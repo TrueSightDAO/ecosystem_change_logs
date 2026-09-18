@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T19:27:27Z",
+  "updated_utc": "2026-09-18T21:44:49Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T214448Z_agent-handoffs",
+      "timestamp_utc": "2026-09-18T21:44:48Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260918T214446Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20260918T214446Z.json branch=main"
+    },
     {
       "id": "repo_access_20260918T192725Z_tokenomics",
       "timestamp_utc": "2026-09-18T19:27:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/bionpact_from_sophia_20260917T030129Z.json",
       "detail": "path=handoffs/bionpact_from_sophia_20260917T030129Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20260917T025948Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-17T02:59:48Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/482",
-      "detail": "branch=feat/brain-pr3-member-dispatch changes=3"
     }
   ]
 }
