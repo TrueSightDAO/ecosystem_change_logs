@@ -1,0 +1,42 @@
+---
+id: 'beer-hall-2026-09-18T034357Z'
+channel: beer_hall
+posted_at_utc: '2026-09-18T03:43:57Z'
+slug: 'payout-sink-and-crf-anapu-badges'
+sheet_log: 'OpenClaw Beer Hall updates'
+links: []
+pr_commit_links: []
+notes: 'Drafted automatically by .github/workflows/beer-hall-digest-daily.yml'
+---
+
+## Message 1 (TLDR)
+
+Automated daily digest of the DAO
+
+- **Payouts** — Shipped private PIX registration ledger and dual-write PAYOUT EVENT sink (Tier-1 payouts + Tier-2 events).
+- **Partner Pages** — SunMint activity badges + itemized click-through now live for CRF Anapu.
+- **Governance** — Envoy Discord parity complete (bot ID + sheet binding + autopilot integration).
+- **Field Ops** — Verified AGL16 CIC lab-test payment; resolved Black King NF-e transit/crosswalk rules.
+- **Security** — Hardened GAS services: scrubbed leaked tokens and enforced secret-free Credentials.js accessors.
+- **Data Privacy** — Removed [PAYOUT REGISTRATION] bodies from public ADVISORY_SNAPSHOT.
+- **AI Ops** — Fixed sentiment importer bug where derived signal flags were wiped on price reimport.
+- **Infrastructure** — Vault credential migration UAT complete; resolved krake_nginx vault-pin glitch.
+
+## Message 2 (Shipped + community)
+
+Shipped
+
+- tokenomics: Ship private PIX registration ledger with dedup + fail-closed PII guard; ship PAYOUT EVENT sink (Tier-1 payouts + Tier-2 events) (#499, #504) — https://github.com/TrueSightDAO/tokenomics/commit/66089d6 / https://github.com/TrueSightDAO/tokenomics/commit/55ad27c
+- truesight_me_beta: SunMint activity badges + itemized click-through (CRF Anapu PR5) (#381) — https://github.com/TrueSightDAO/truesight_me_beta/commit/0709215
+- agentic_ai_context: Envoy Discord parity COMPLETE (path i + autopilot); M5 prod promotion recorded (#1257, #1268) — https://github.com/TrueSightDAO/agentic_ai_context/commit/8ab43a2 / https://github.com/TrueSightDAO/agentic_ai_context/commit/6c1be68
+- tokenomics: Scrub leaked token literals from tracked GAS sources; enforce secret-free Credentials.js (#519, #505) — https://github.com/TrueSightDAO/tokenomics/commit/c9f5b80 / https://github.com/TrueSightDAO/tokenomics/commit/6285a5c
+- go_to_market: Exclude [PAYOUT REGISTRATION] bodies from public ADVISORY_SNAPSHOT (#177) — https://github.com/TrueSightDAO/go_to_market/commit/03885ff
+- agentic_ai_context: Add Black King NFe / transit-register crosswalk; resolve NF11/12/14 (#1269, #1275) — https://github.com/TrueSightDAO/agentic_ai_context/commit/3d9a62c / https://github.com/TrueSightDAO/agentic_ai_context/commit/c595f16
+- tokenomics: Add payouts + payout events tabs to CFR provisioner; fix provisioner two-run bug (#502, #503) — https://github.com/TrueSightDAO/tokenomics/commit/d7db1c3
+
+Community (Telegram log):
+
+- Gary Teh, Sophia Truesight: Verified AGL16 CIC lab-test payment (R$2,880.00) against signed ledger.
+- Sophia Truesight: Fixed sentiment importer bug where derived signal flags were wiped on EODHD price reimport.
+- Sophia Truesight: Vault credential migration UAT complete; resolved krake_nginx vault-pin glitch.
+- Gary Teh: Re-framed Sophia autopilot scope to prevent drift into truesight_autopilot merge-gate code.
