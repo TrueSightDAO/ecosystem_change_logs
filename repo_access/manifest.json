@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T01:48:43Z",
+  "updated_utc": "2026-09-18T01:54:53Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T015451Z_tokenomics",
+      "timestamp_utc": "2026-09-18T01:54:51Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/519",
+      "detail": "branch=scrub/token-literals-and-property-name changes=3"
+    },
     {
       "id": "repo_access_20260918T014842Z_tokenomics",
       "timestamp_utc": "2026-09-18T01:48:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1228",
       "detail": "branch=followups/subscription-sales-automation changes=2"
-    },
-    {
-      "id": "repo_access_20260916T210851Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-16T21:08:51Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1227",
-      "detail": "branch=sop/subscription-sales-reconciliation changes=2"
     }
   ]
 }
