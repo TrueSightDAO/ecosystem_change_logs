@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T19:27:16Z",
+  "updated_utc": "2026-09-18T19:27:27Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T192725Z_tokenomics",
+      "timestamp_utc": "2026-09-18T19:27:25Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=528 method=squash"
+    },
     {
       "id": "repo_access_20260918T192714Z_tokenomics",
       "timestamp_utc": "2026-09-18T19:27:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/482",
       "detail": "branch=feat/brain-pr3-member-dispatch changes=3"
-    },
-    {
-      "id": "repo_access_20260917T025248Z_dapp-beta",
-      "timestamp_utc": "2026-09-17T02:52:48Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=100 method=squash"
     }
   ]
 }
