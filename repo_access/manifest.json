@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T00:33:05Z",
+  "updated_utc": "2026-09-18T01:06:59Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T010658Z_tokenomics",
+      "timestamp_utc": "2026-09-18T01:06:58Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/507",
+      "detail": "branch=fix/gas-credentials-1K1wcXFAop changes=2"
+    },
     {
       "id": "repo_access_20260918T003304Z_tokenomics",
       "timestamp_utc": "2026-09-18T00:33:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1191",
       "detail": "branch=fix/public-key-cache-tracker-desync changes=1"
-    },
-    {
-      "id": "repo_access_20260915T173745Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-15T17:37:45Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=468 method=squash"
     }
   ]
 }
