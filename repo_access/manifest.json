@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T11:59:07Z",
+  "updated_utc": "2026-09-18T12:02:23Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T120222Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-18T12:02:22Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/declarations/BLACK_KING_NFE_DECLARATION_AND_AUDIT_20260918_SIGNED_bilingual_EN-PT.pdf",
+      "detail": "path=declarations/BLACK_KING_NFE_DECLARATION_AND_AUDIT_20260918_SIGNED_bilingual_EN-PT.pdf branch=main"
+    },
     {
       "id": "repo_access_20260918T115906Z_agentic-ai-context",
       "timestamp_utc": "2026-09-18T11:59:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/479",
       "detail": "branch=docs/pr422-supersession-analysis changes=1"
-    },
-    {
-      "id": "repo_access_20260916T211807Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-16T21:18:07Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1229 method=squash"
     }
   ]
 }
