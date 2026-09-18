@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T16:55:46Z",
+  "updated_utc": "2026-09-18T17:03:51Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T170350Z_proposals",
+      "timestamp_utc": "2026-09-18T17:03:50Z",
+      "agent": "sophia",
+      "repo": "proposals",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/proposals/blob/main/attachments/BLACK_KING_PROPOSAL_BIS_CONTABILIDADE_EN_PT.pdf",
+      "detail": "path=attachments/BLACK_KING_PROPOSAL_BIS_CONTABILIDADE_EN_PT.pdf branch=main"
+    },
     {
       "id": "repo_access_20260918T165544Z_proposals",
       "timestamp_utc": "2026-09-18T16:55:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint_beta/pull/84",
       "detail": "branch=crf-anapu/pr1-vendor-readiness changes=3"
-    },
-    {
-      "id": "repo_access_20260916T220051Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-16T22:00:51Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1234 method=squash"
     }
   ]
 }
