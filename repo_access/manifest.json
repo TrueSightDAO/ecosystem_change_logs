@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T18:13:33Z",
+  "updated_utc": "2026-09-18T18:37:44Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T183743Z_dao-protocol",
+      "timestamp_utc": "2026-09-18T18:37:43Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/172",
+      "detail": "branch=fix/intake-append-silent-drop-v2 changes=4"
+    },
     {
       "id": "repo_access_20260918T181331Z_dao-protocol",
       "timestamp_utc": "2026-09-18T18:13:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=7 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T021912Z_tokenomics",
-      "timestamp_utc": "2026-09-17T02:19:12Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/496",
-      "detail": "branch=feat/gas-live-repo-parity-check changes=4"
     }
   ]
 }
