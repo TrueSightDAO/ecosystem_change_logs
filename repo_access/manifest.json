@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T01:42:28Z",
+  "updated_utc": "2026-09-18T01:42:46Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T014244Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-18T01:42:44Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1275 method=squash"
+    },
     {
       "id": "repo_access_20260918T014227Z_agentic-ai-context",
       "timestamp_utc": "2026-09-18T01:42:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1220",
       "detail": "branch=handoff/30870-prod-sales-recon-pr changes=2"
-    },
-    {
-      "id": "repo_access_20260915T221120Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-15T22:11:20Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=477 method=squash"
     }
   ]
 }
