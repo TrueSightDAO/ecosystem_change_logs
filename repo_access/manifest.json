@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T00:29:15Z",
+  "updated_utc": "2026-09-18T00:30:18Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T003016Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-18T00:30:16Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1270",
+      "detail": "branch=docs/bk-crosswalk-fix-cardinality changes=1"
+    },
     {
       "id": "repo_access_20260918T002914Z_agentic-ai-context",
       "timestamp_utc": "2026-09-18T00:29:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/380",
       "detail": "branch=sophia/pr6-repoint-quests-to-sprint changes=2"
-    },
-    {
-      "id": "repo_access_20260915T170649Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T17:06:49Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1188 method=squash"
     }
   ]
 }
