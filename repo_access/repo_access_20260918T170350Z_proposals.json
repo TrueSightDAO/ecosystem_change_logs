@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260918T170350Z_proposals",
+  "timestamp_utc": "2026-09-18T17:03:50Z",
+  "agent": "sophia",
+  "repo": "proposals",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/proposals/blob/main/attachments/BLACK_KING_PROPOSAL_BIS_CONTABILIDADE_EN_PT.pdf",
+  "detail": "path=attachments/BLACK_KING_PROPOSAL_BIS_CONTABILIDADE_EN_PT.pdf branch=main"
+}
