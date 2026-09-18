@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T19:21:07Z",
+  "updated_utc": "2026-09-18T19:21:18Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T192117Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-18T19:21:17Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1282 method=squash"
+    },
     {
       "id": "repo_access_20260918T192106Z_agentic-ai-context",
       "timestamp_utc": "2026-09-18T19:21:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1136 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T024530Z_sentiment-importer",
-      "timestamp_utc": "2026-09-17T02:45:30Z",
-      "agent": "sophia",
-      "repo": "sentiment_importer",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1136",
-      "detail": "branch=fix/reimport-rebuild-derived-signals changes=3"
     }
   ]
 }
