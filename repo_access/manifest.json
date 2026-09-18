@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T12:19:49Z",
+  "updated_utc": "2026-09-18T12:27:03Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T122702Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-18T12:27:02Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1279",
+      "detail": "branch=docs/crf-12.6-manual-feed-m3-deferred changes=9"
+    },
     {
       "id": "repo_access_20260918T121948Z_tokenomics",
       "timestamp_utc": "2026-09-18T12:19:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1233",
       "detail": "branch=crf-anapu/pr0c-manifest-reconcile changes=6"
-    },
-    {
-      "id": "repo_access_20260916T212824Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-16T21:28:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1231 method=squash"
     }
   ]
 }
