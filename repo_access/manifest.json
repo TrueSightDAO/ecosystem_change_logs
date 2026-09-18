@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T01:38:56Z",
+  "updated_utc": "2026-09-18T01:42:28Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T014227Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-18T01:42:27Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1275",
+      "detail": "branch=docs/black-king-nf111214-resolved changes=9"
+    },
     {
       "id": "repo_access_20260918T013855Z_tokenomics",
       "timestamp_utc": "2026-09-18T01:38:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=477 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T220026Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T22:00:26Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1214 method=squash"
     }
   ]
 }
