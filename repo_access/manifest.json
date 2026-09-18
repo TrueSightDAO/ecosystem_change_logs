@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T19:03:24Z",
+  "updated_utc": "2026-09-18T19:03:35Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T190334Z_tokenomics",
+      "timestamp_utc": "2026-09-18T19:03:34Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=527 method=squash"
+    },
     {
       "id": "repo_access_20260918T190322Z_tokenomics",
       "timestamp_utc": "2026-09-18T19:03:22Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/audit/gas-drift-2026-09-17/scripts/audit_gas_drift.py",
       "detail": "path=scripts/audit_gas_drift.py branch=audit/gas-drift-2026-09-17"
-    },
-    {
-      "id": "repo_access_20260917T024042Z_tokenomics",
-      "timestamp_utc": "2026-09-17T02:40:42Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/audit/gas-drift-2026-09-17/docs/gas_drift_audit_2026-09-17.md",
-      "detail": "path=docs/gas_drift_audit_2026-09-17.md branch=audit/gas-drift-2026-09-17"
     }
   ]
 }
