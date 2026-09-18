@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T18:08:32Z",
+  "updated_utc": "2026-09-18T18:09:54Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T180952Z_tokenomics",
+      "timestamp_utc": "2026-09-18T18:09:52Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/525",
+      "detail": "branch=fix/currency-conversion-canonicalize-and-lock changes=7"
+    },
     {
       "id": "repo_access_20260918T180830Z_agent-handoffs",
       "timestamp_utc": "2026-09-18T18:08:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1239 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T014829Z_lineage-engine",
-      "timestamp_utc": "2026-09-17T01:48:29Z",
-      "agent": "sophia",
-      "repo": "lineage-engine",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=24 method=squash"
     }
   ]
 }
