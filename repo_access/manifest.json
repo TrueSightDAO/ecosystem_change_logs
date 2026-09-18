@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T01:25:34Z",
+  "updated_utc": "2026-09-18T01:27:22Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T012721Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-18T01:27:21Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1271",
+      "detail": "branch=docs/black-king-taraval-destination-rule changes=5"
+    },
     {
       "id": "repo_access_20260918T012533Z_tokenomics",
       "timestamp_utc": "2026-09-18T01:25:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1208",
       "detail": "branch=update/live-progress-complete changes=4"
-    },
-    {
-      "id": "repo_access_20260915T211132Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T21:11:32Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1207",
-      "detail": "branch=update/live-progress-plan-tracker-complete-2 changes=1"
     }
   ]
 }
