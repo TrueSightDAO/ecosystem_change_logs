@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T17:27:05Z",
+  "updated_utc": "2026-09-18T17:42:08Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T174206Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-18T17:42:06Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1280",
+      "detail": "branch=docs/q2-q5-server-side-complete changes=5"
+    },
     {
       "id": "repo_access_20260918T172703Z_agentic-ai-context",
       "timestamp_utc": "2026-09-18T17:27:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=481 method=squash"
-    },
-    {
-      "id": "repo_access_20260916T220751Z_sunmint-beta",
-      "timestamp_utc": "2026-09-16T22:07:51Z",
-      "agent": "sophia",
-      "repo": "sunmint_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=84 method=squash"
     }
   ]
 }
