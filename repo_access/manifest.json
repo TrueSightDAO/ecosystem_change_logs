@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T12:27:03Z",
+  "updated_utc": "2026-09-18T12:29:24Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T122923Z_tokenomics",
+      "timestamp_utc": "2026-09-18T12:29:23Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=522 method=squash"
+    },
     {
       "id": "repo_access_20260918T122702Z_agentic-ai-context",
       "timestamp_utc": "2026-09-18T12:27:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1234",
       "detail": "branch=plan/brain-tier-pr2-merged-marker changes=1"
-    },
-    {
-      "id": "repo_access_20260916T213722Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-16T21:37:22Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1233",
-      "detail": "branch=crf-anapu/pr0c-manifest-reconcile changes=6"
     }
   ]
 }
