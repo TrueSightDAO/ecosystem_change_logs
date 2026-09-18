@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T01:25:17Z",
+  "updated_utc": "2026-09-18T01:25:34Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T012533Z_tokenomics",
+      "timestamp_utc": "2026-09-18T01:25:33Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=515 method=squash"
+    },
     {
       "id": "repo_access_20260918T012516Z_tokenomics",
       "timestamp_utc": "2026-09-18T01:25:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1207",
       "detail": "branch=update/live-progress-plan-tracker-complete-2 changes=1"
-    },
-    {
-      "id": "repo_access_20260915T211050Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T21:10:50Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1206",
-      "detail": "branch=update/live-progress-plan-tracker-complete changes=3"
     }
   ]
 }
