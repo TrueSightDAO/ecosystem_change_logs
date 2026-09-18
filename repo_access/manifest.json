@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T01:20:33Z",
+  "updated_utc": "2026-09-18T01:21:08Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T012107Z_tokenomics",
+      "timestamp_utc": "2026-09-18T01:21:07Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=513 method=squash"
+    },
     {
       "id": "repo_access_20260918T012032Z_tokenomics",
       "timestamp_utc": "2026-09-18T01:20:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1201 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T193235Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T19:32:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1201",
-      "detail": "branch=docs/auto-advance-pr-less-pr0 changes=4"
     }
   ]
 }
