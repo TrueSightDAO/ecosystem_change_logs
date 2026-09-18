@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-09-16T03:53:12Z",
+  "generated_at": "2026-09-18T03:43:57Z",
   "page": 1,
   "page_size": 10,
-  "total": 118,
+  "total": 119,
   "page_count": 12,
   "entries": [
+    {
+      "id": "beer-hall-2026-09-18T034357Z",
+      "posted_at_utc": "2026-09-18T03:43:57Z",
+      "slug": "payout-sink-and-crf-anapu-badges",
+      "preview": "Automated daily digest of the DAO - **Payouts** — Shipped private PIX registration ledger and dual-write PAYOUT EVENT sink (Tier-1 payouts + Tier-2 events). - **Partner Pages** — SunMint activity badges + itemized click…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-09-18T034357Z_payout-sink-and-crf-anapu-badges.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-09-18T034357Z_payout-sink-and-crf-anapu-badges.json"
+    },
     {
       "id": "beer-hall-2026-09-16T035312Z",
       "posted_at_utc": "2026-09-16T03:53:12Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **New Farms** — Published profiles for Sítio Raimundo & Geniza and Fazenda Bom Sucesso (Pará), complete with planting-day galleries, YouTube embeds, and updated hero imagery. - **SunM…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-09-05T032747Z_sunmint-deep-links-farms-cepotx-deal.md",
       "json_path": "beer_hall/entries/beer-hall_2026-09-05T032747Z_sunmint-deep-links-farms-cepotx-deal.json"
-    },
-    {
-      "id": "beer-hall-2026-09-01T040402Z",
-      "posted_at_utc": "2026-09-01T04:04:02Z",
-      "slug": "sunmint-map-filters-boundary-webhook-live",
-      "preview": "Automated daily digest of the DAO - **SunMint Map** — Added a farm selector dropdown and registry section to the impact map, complete with status legends and boundary-authority indicators. - **Navigation** — Wired SunMi…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-09-01T040402Z_sunmint-map-filters-boundary-webhook-live.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-09-01T040402Z_sunmint-map-filters-boundary-webhook-live.json"
     }
   ]
 }
