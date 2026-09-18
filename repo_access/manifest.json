@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T17:53:07Z",
+  "updated_utc": "2026-09-18T17:57:07Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T175705Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-18T17:57:05Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/496",
+      "detail": "branch=test/e2e-tree-planting-payout changes=1"
+    },
     {
       "id": "repo_access_20260918T175306Z_tokenomics",
       "timestamp_utc": "2026-09-18T17:53:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1237 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T012554Z_cfr-anapu",
-      "timestamp_utc": "2026-09-17T01:25:54Z",
-      "agent": "sophia",
-      "repo": "cfr-anapu",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=5 method=squash"
     }
   ]
 }
