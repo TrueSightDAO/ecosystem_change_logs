@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-17T23:22:54Z",
+  "updated_utc": "2026-09-18T00:15:15Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T001514Z_tokenomics",
+      "timestamp_utc": "2026-09-18T00:15:14Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "branch=fix/provisioner-single-pass-headers changes=3"
+    },
     {
       "id": "repo_access_20260917T232253Z_truesight-autopilot",
       "timestamp_utc": "2026-09-17T23:22:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=467 method=squash"
-    },
-    {
-      "id": "repo_access_20260915T165615Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-15T16:56:15Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=466 method=squash"
     }
   ]
 }
