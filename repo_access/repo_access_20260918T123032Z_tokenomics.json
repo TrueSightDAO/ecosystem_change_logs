@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260918T123032Z_tokenomics",
+  "timestamp_utc": "2026-09-18T12:30:32Z",
+  "agent": "sophia",
+  "repo": "tokenomics",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=521 method=squash"
+}
