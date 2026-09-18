@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T01:31:41Z",
+  "updated_utc": "2026-09-18T01:37:21Z",
   "entries": [
+    {
+      "id": "repo_access_20260918T013720Z_tokenomics",
+      "timestamp_utc": "2026-09-18T01:37:20Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/516",
+      "detail": "branch=fix/trigger-status-verifiable-ss12-q3b changes=6"
+    },
     {
       "id": "repo_access_20260918T013140Z_agentic-ai-context",
       "timestamp_utc": "2026-09-18T01:31:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/auto-advance-close/handoffs/index.json",
       "detail": "path=handoffs/index.json branch=docs/auto-advance-close"
-    },
-    {
-      "id": "repo_access_20260915T212328Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-15T21:23:28Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1211",
-      "detail": "branch=docs/auto-advance-close changes=4"
     }
   ]
 }
