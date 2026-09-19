@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-19T20:52:51Z",
+  "updated_utc": "2026-09-19T20:53:04Z",
   "entries": [
+    {
+      "id": "repo_access_20260919T205302Z_farm-media-daemon",
+      "timestamp_utc": "2026-09-19T20:53:02Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=30 method=squash"
+    },
     {
       "id": "repo_access_20260919T205250Z_farm-media-daemon",
       "timestamp_utc": "2026-09-19T20:52:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1245",
       "detail": "branch=docs/brazil-gcc-middle-east-sop changes=5"
-    },
-    {
-      "id": "repo_access_20260917T124859Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T12:48:59Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1243",
-      "detail": "branch=docs/crf-pr7-program-modes-and-status changes=5"
     }
   ]
 }
