@@ -1,0 +1,10 @@
+{
+  "id": "L-20260919-22",
+  "agent": "sophia",
+  "target_type": "prod-sync",
+  "target_id": "agroverse_shop_prod",
+  "action": "sync_beta_to_prod agroverse_shop_prod",
+  "started_utc": "2026-09-19T22:20:52Z",
+  "ttl_minutes": 30,
+  "status": "open"
+}
