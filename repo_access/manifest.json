@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-19T22:19:53Z",
+  "updated_utc": "2026-09-19T22:35:42Z",
   "entries": [
+    {
+      "id": "repo_access_20260919T223540Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-19T22:35:40Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1286",
+      "detail": "branch=plan/sunmint-plot-explorer changes=1"
+    },
     {
       "id": "repo_access_20260919T221952Z_agentic-ai-context",
       "timestamp_utc": "2026-09-19T22:19:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1246 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T131514Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T13:15:14Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1246",
-      "detail": "branch=docs/open-followups-source-guide-qc changes=1"
     }
   ]
 }
