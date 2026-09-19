@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-19T12:38:43Z",
+  "updated_utc": "2026-09-19T18:26:18Z",
   "entries": [
+    {
+      "id": "repo_access_20260919T182617Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-09-19T18:26:17Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/323",
+      "detail": "branch=partner/santos-cnpj-identity changes=2"
+    },
     {
       "id": "repo_access_20260919T123841Z_agentic-ai-context",
       "timestamp_utc": "2026-09-19T12:38:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1242",
       "detail": "branch=chore/crf-tracker-pr5-complete changes=7"
-    },
-    {
-      "id": "repo_access_20260917T031807Z_tokenomics",
-      "timestamp_utc": "2026-09-17T03:18:07Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=499 method=squash"
     }
   ]
 }
