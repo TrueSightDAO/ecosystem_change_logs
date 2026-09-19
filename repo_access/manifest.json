@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-19T22:39:03Z",
+  "updated_utc": "2026-09-19T22:44:41Z",
   "entries": [
+    {
+      "id": "repo_access_20260919T224440Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-19T22:44:40Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1289",
+      "detail": "branch=docs/sa-sheet-access-matrix changes=4"
+    },
     {
       "id": "repo_access_20260919T223901Z_agentic-ai-context",
       "timestamp_utc": "2026-09-19T22:39:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=481 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T132643Z_lineage-engine",
-      "timestamp_utc": "2026-09-17T13:26:43Z",
-      "agent": "sophia",
-      "repo": "lineage-engine",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=26 method=squash"
     }
   ]
 }
