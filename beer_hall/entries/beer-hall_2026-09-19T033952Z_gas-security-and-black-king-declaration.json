@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-09-19T033952Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-09-19T03:39:52Z",
+  "slug": "gas-security-and-black-king-declaration",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-09-19T033952Z_gas-security-and-black-king-declaration.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-09-19T033952Z_gas-security-and-black-king-declaration.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Security** — Hardened GAS deployment pipeline: fail-closed on unverifiable pushes and added pre-push guards to prevent accidental deletion of remote-only files.\n- **Stability** — Resolved critical GAS load-time ReferenceError incident; deployed smoke-test harness for all `/exec` endpoints.\n- **Partner Ops** — Added bilingual EN+PT declaration and audit PDF for Black King NF-e transit; published Bis Contabilidade retention proposal.\n- **Supply Chain** — Server-side Q2–Q5 pipeline complete: Edgar webhook wired, catalog live, and dedup gate verified.\n- **Data Integrity** — Fixed currency conversion ledger to be atomic/idempotent; resolved Tier-1 drift with selective pull-first sync.\n- **Infrastructure** — Corrected `getCredentials()` entry point breakage affecting multiple services.",
+  "message2_shipped": "Shipped\n\n- tokenomics: Fail closed on unverifiable pushes; add pre-push guard to prevent remote-only file deletion; fix breaking `getCredentials()` call (#526, #527, #520) — https://github.com/TrueSightDAO/tokenomics/commit/3cbb4cd / https://github.com/TrueSightDAO/tokenomics/commit/9383c74\n- tokenomics: Add endpoint smoke-test harness; resolve Tier-1 drift via selective pull-first (#523, #521) — https://github.com/TrueSightDAO/tokenomics/commit/fa792da / https://github.com/TrueSightDAO/tokenomics/commit/c824166\n- agentic_ai_context: Q2–Q5 server side complete — Edgar webhook, catalog, dedup gate verified (#1280) — https://github.com/TrueSightDAO/agentic_ai_context/commit/3f587be\n- proposals: Add bilingual EN+PT proposal PDF for Bis Contabilidade retention (Black King) — https://github.com/TrueSightDAO/proposals/commit/7a14709\n- agentic_ai_context: Add bilingual signed Black King NF-e declaration & audit PDF — https://github.com/TrueSightDAO/agentic_ai_context/commit/4a02151\n- tokenomics: Canonicalize currency labels; make ledger append atomic/idempotent (#525) — https://github.com/TrueSightDAO/tokenomics/commit/cd61e6e\n- agentic_ai_context: Track GAS load-time ReferenceError incident (#1282) — https://github.com/TrueSightDAO/agentic_ai_context/commit/da26446"
+}
