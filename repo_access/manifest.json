@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-18T21:44:49Z",
+  "updated_utc": "2026-09-19T12:38:11Z",
   "entries": [
+    {
+      "id": "repo_access_20260919T123810Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-19T12:38:10Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/exports/2026-06-11_commercial_invoice_black_king_to_truetech_rev11_EN_PT.pdf",
+      "detail": "path=exports/2026-06-11_commercial_invoice_black_king_to_truetech_rev11_EN_PT.pdf branch=main"
+    },
     {
       "id": "repo_access_20260918T214448Z_agent-handoffs",
       "timestamp_utc": "2026-09-18T21:44:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260917T030133Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20260917T030133Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20260917T030130Z_agent-handoffs",
-      "timestamp_utc": "2026-09-17T03:01:30Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/bionpact_from_sophia_20260917T030129Z.json",
-      "detail": "path=handoffs/bionpact_from_sophia_20260917T030129Z.json branch=main"
     }
   ]
 }
