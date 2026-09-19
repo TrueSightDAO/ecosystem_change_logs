@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-19T12:38:14Z",
+  "updated_utc": "2026-09-19T12:38:43Z",
   "entries": [
+    {
+      "id": "repo_access_20260919T123841Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-19T12:38:41Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1284 method=squash"
+    },
     {
       "id": "repo_access_20260919T123813Z_agentic-ai-context",
       "timestamp_utc": "2026-09-19T12:38:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=499 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T030202Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T03:02:02Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1241",
-      "detail": "branch=docs/gh-cli-canonical-pat-rule changes=2"
     }
   ]
 }
