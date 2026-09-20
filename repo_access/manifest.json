@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T16:13:20Z",
+  "updated_utc": "2026-09-20T16:16:30Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T161629Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-20T16:16:29Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1299",
+      "detail": "branch=plan/pr8-pr9-satellite-history changes=2"
+    },
     {
       "id": "repo_access_20260920T161318Z_agentic-ai-context",
       "timestamp_utc": "2026-09-20T16:13:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/member-workspace/pull/1",
       "detail": "branch=seed/repo-skeleton changes=3"
-    },
-    {
-      "id": "repo_access_20260917T160222Z_member-workspace",
-      "timestamp_utc": "2026-09-17T16:02:22Z",
-      "agent": "sophia",
-      "repo": "member-workspace",
-      "action": "create_repo",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/member-workspace",
-      "detail": "org=TrueSightDAO private=True"
     }
   ]
 }
