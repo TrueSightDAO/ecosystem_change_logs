@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T18:12:11Z",
+  "updated_utc": "2026-09-20T18:16:13Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T181612Z_tokenomics",
+      "timestamp_utc": "2026-09-20T18:16:12Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/529",
+      "detail": "branch=docs/pr1-sunmint-farmer-settlement-schema changes=7"
+    },
     {
       "id": "repo_access_20260920T181210Z_agentic-ai-context",
       "timestamp_utc": "2026-09-20T18:12:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1256 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T160802Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T16:08:02Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1256",
-      "detail": "branch=docs/openfollowups-sentinel-id-native-reframe changes=2"
     }
   ]
 }
