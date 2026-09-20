@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T21:16:59Z",
+  "updated_utc": "2026-09-20T22:40:46Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T224045Z_dao-protocol",
+      "timestamp_utc": "2026-09-20T22:40:45Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=176 method=squash"
+    },
     {
       "id": "repo_access_20260920T211657Z_agentic-ai-context",
       "timestamp_utc": "2026-09-20T21:16:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29241150042585000180550010000000011061000061.pdf",
       "detail": "path=nfe/29241150042585000180550010000000011061000061.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260917T210244Z_black-king-nota-fiscal-raw",
-      "timestamp_utc": "2026-09-17T21:02:44Z",
-      "agent": "sophia",
-      "repo": "black-king-nota-fiscal-raw",
-      "action": "create_repo",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw",
-      "detail": "org=TrueSightDAO private=True"
     }
   ]
 }
