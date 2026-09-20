@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T13:08:10Z",
+  "updated_utc": "2026-09-20T16:13:13Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T161311Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-20T16:13:11Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/sunmint-farmer-ledger-and-batch-link-plan/handoffs/HANDOFF_MANIFEST.md",
+      "detail": "path=handoffs/HANDOFF_MANIFEST.md branch=docs/sunmint-farmer-ledger-and-batch-link-plan"
+    },
     {
       "id": "repo_access_20260920T130808Z_truesight-me-beta",
       "timestamp_utc": "2026-09-20T13:08:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=492 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T154651Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-17T15:46:51Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/492",
-      "detail": "branch=fix/hard-exclude-payout-registration-pii changes=7"
     }
   ]
 }
