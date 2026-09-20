@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260920T161318Z_agentic-ai-context",
+  "timestamp_utc": "2026-09-20T16:13:18Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/sunmint-farmer-ledger-and-batch-link-plan/handoffs/index.json",
+  "detail": "path=handoffs/index.json branch=docs/sunmint-farmer-ledger-and-batch-link-plan"
+}
