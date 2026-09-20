@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T16:41:59Z",
+  "updated_utc": "2026-09-20T16:43:49Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T164348Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-20T16:43:48Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1304",
+      "detail": "branch=plan/pr8a-self-driving-backfill-daemon changes=3"
+    },
     {
       "id": "repo_access_20260920T164158Z_truesight-me-beta",
       "timestamp_utc": "2026-09-20T16:41:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1255",
       "detail": "branch=docs/openfollowups-envoy-cache-email-null-tracker changes=1"
-    },
-    {
-      "id": "repo_access_20260917T160352Z_dao-protocol",
-      "timestamp_utc": "2026-09-17T16:03:52Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=168 method=squash"
     }
   ]
 }
