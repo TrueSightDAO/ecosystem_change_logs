@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T18:25:52Z",
+  "updated_utc": "2026-09-20T18:37:45Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T183744Z_tokenomics",
+      "timestamp_utc": "2026-09-20T18:37:44Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/531",
+      "detail": "branch=feat/pr3-sunmint-farmer-reconciliation changes=3"
+    },
     {
       "id": "repo_access_20260920T182551Z_agentic-ai-context",
       "timestamp_utc": "2026-09-20T18:25:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/494",
       "detail": "branch=fix/deploy-env-mtime-staleness changes=3"
-    },
-    {
-      "id": "repo_access_20260917T162248Z_cfr-anapu",
-      "timestamp_utc": "2026-09-17T16:22:48Z",
-      "agent": "sophia",
-      "repo": "cfr-anapu",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=10 method=squash"
     }
   ]
 }
