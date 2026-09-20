@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T04:37:24Z",
+  "updated_utc": "2026-09-20T04:42:33Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T044232Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-20T04:42:32Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1297",
+      "detail": "branch=handoff/black-king-closeout changes=2"
+    },
     {
       "id": "repo_access_20260920T043723Z_truesight-me-beta",
       "timestamp_utc": "2026-09-20T04:37:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1249 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T150109Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T15:01:09Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1250 method=squash"
     }
   ]
 }
