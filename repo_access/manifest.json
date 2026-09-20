@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T20:52:43Z",
+  "updated_utc": "2026-09-20T21:04:18Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T210417Z_tokenomics",
+      "timestamp_utc": "2026-09-20T21:04:17Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=537 method=squash"
+    },
     {
       "id": "repo_access_20260920T205242Z_agentic-ai-context",
       "timestamp_utc": "2026-09-20T20:52:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1264",
       "detail": "branch=docs/cfr-payout-module-sunmint-scope changes=3"
-    },
-    {
-      "id": "repo_access_20260917T204912Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T20:49:12Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1263 method=squash"
     }
   ]
 }
