@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T16:40:56Z",
+  "updated_utc": "2026-09-20T16:41:59Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T164158Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-20T16:41:58Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=389 method=squash"
+    },
     {
       "id": "repo_access_20260920T164055Z_truesight-me-beta",
       "timestamp_utc": "2026-09-20T16:40:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=168 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T160327Z_dao-protocol",
-      "timestamp_utc": "2026-09-17T16:03:27Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/168",
-      "detail": "branch=fix/ledger-emit-hard-exclude-payout-registration changes=4"
     }
   ]
 }
