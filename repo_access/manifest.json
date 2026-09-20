@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T13:07:40Z",
+  "updated_utc": "2026-09-20T13:07:47Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T130745Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-20T13:07:45Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=388 method=squash"
+    },
     {
       "id": "repo_access_20260920T130739Z_truesight-me-beta",
       "timestamp_utc": "2026-09-20T13:07:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1254 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T153216Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T15:32:16Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1254",
-      "detail": "branch=docs/openfollowups-envoy-cache-email-null changes=1"
     }
   ]
 }
