@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T20:27:04Z",
+  "updated_utc": "2026-09-20T20:39:45Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T203944Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-20T20:39:44Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1310 method=squash"
+    },
     {
       "id": "repo_access_20260920T202703Z_tokenomics",
       "timestamp_utc": "2026-09-20T20:27:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1261 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T191256Z_agent-handoffs",
-      "timestamp_utc": "2026-09-17T19:12:56Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/bionpact_from_sophia_20260917T191254Z.json",
-      "detail": "path=handoffs/bionpact_from_sophia_20260917T191254Z.json branch=main"
     }
   ]
 }
