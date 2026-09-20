@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T19:57:53Z",
+  "updated_utc": "2026-09-20T20:01:27Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T200126Z_sunmint",
+      "timestamp_utc": "2026-09-20T20:01:26Z",
+      "agent": "sophia",
+      "repo": "sunmint",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/cache_satellite_scenes.py",
+      "detail": "path=scripts/cache_satellite_scenes.py branch=main"
+    },
     {
       "id": "repo_access_20260920T195752Z_agentic-ai-context",
       "timestamp_utc": "2026-09-20T19:57:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1258 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T174236Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T17:42:36Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1258",
-      "detail": "branch=followup/acl-privatisation-broke-notarizations-redirect changes=1"
     }
   ]
 }
