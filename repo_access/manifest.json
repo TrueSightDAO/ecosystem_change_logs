@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T16:21:33Z",
+  "updated_utc": "2026-09-20T16:40:56Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T164055Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-20T16:40:55Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/389",
+      "detail": "branch=feat/sunmint-plot-satellite-history changes=7"
+    },
     {
       "id": "repo_access_20260920T162132Z_agentic-ai-context",
       "timestamp_utc": "2026-09-20T16:21:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/168",
       "detail": "branch=fix/ledger-emit-hard-exclude-payout-registration changes=4"
-    },
-    {
-      "id": "repo_access_20260917T160304Z_member-workspace",
-      "timestamp_utc": "2026-09-17T16:03:04Z",
-      "agent": "sophia",
-      "repo": "member-workspace",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1 method=squash"
     }
   ]
 }
