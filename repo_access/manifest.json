@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T20:18:21Z",
+  "updated_utc": "2026-09-20T20:18:46Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T201845Z_tokenomics",
+      "timestamp_utc": "2026-09-20T20:18:45Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=533 method=squash"
+    },
     {
       "id": "repo_access_20260920T201820Z_tokenomics",
       "timestamp_utc": "2026-09-20T20:18:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/pii-envelope-fork-decision/plans/PII_EVENT_ENVELOPE.md",
       "detail": "path=plans/PII_EVENT_ENVELOPE.md branch=docs/pii-envelope-fork-decision"
-    },
-    {
-      "id": "repo_access_20260917T183424Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T18:34:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1259",
-      "detail": "branch=docs/pii-envelope-fork-decision changes=2"
     }
   ]
 }
