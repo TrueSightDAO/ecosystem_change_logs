@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T18:24:45Z",
+  "updated_utc": "2026-09-20T18:25:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T182551Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-20T18:25:51Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1307 method=squash"
+    },
     {
       "id": "repo_access_20260920T182444Z_agentic-ai-context",
       "timestamp_utc": "2026-09-20T18:24:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=10 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T162239Z_cfr-anapu",
-      "timestamp_utc": "2026-09-17T16:22:39Z",
-      "agent": "sophia",
-      "repo": "cfr-anapu",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/cfr-anapu/pull/10",
-      "detail": "branch=feat/payout-lang-toggle-persistence changes=26"
     }
   ]
 }
