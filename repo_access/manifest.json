@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T08:39:56Z",
+  "updated_utc": "2026-09-20T09:38:10Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T093809Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-20T09:38:09Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=386 method=squash"
+    },
     {
       "id": "repo_access_20260920T083955Z_truesight-me-beta",
       "timestamp_utc": "2026-09-20T08:39:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/490",
       "detail": "branch=feat/member-workspace-private-guard changes=5"
-    },
-    {
-      "id": "repo_access_20260917T150227Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T15:02:27Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1251 method=squash"
     }
   ]
 }
