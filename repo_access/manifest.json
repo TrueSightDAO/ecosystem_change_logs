@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T20:39:45Z",
+  "updated_utc": "2026-09-20T20:40:20Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T204019Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-20T20:40:19Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1310 method=squash"
+    },
     {
       "id": "repo_access_20260920T203944Z_agentic-ai-context",
       "timestamp_utc": "2026-09-20T20:39:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1262",
       "detail": "branch=docs/cfr-payout-event-module-12.8 changes=1"
-    },
-    {
-      "id": "repo_access_20260917T191542Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T19:15:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1261 method=squash"
     }
   ]
 }
