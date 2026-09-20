@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T03:29:28Z",
+  "updated_utc": "2026-09-20T03:42:31Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T034230Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-20T03:42:30Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1293",
+      "detail": "branch=handoff/pii-envelope-closeout changes=3"
+    },
     {
       "id": "repo_access_20260920T032927Z_truesight-me-beta",
       "timestamp_utc": "2026-09-20T03:29:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1250",
       "detail": "branch=docs/brain-tier-sentinel-followup changes=3"
-    },
-    {
-      "id": "repo_access_20260917T144100Z_cfr-anapu",
-      "timestamp_utc": "2026-09-17T14:41:00Z",
-      "agent": "sophia",
-      "repo": "cfr-anapu",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/cfr-anapu/pull/9",
-      "detail": "branch=feat/payout-onefield-form changes=3"
     }
   ]
 }
