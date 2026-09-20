@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T20:24:24Z",
+  "updated_utc": "2026-09-20T20:26:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T202605Z_tokenomics",
+      "timestamp_utc": "2026-09-20T20:26:05Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/535",
+      "detail": "branch=test/pr4-partial-write-coverage changes=2"
+    },
     {
       "id": "repo_access_20260920T202423Z_dao-protocol",
       "timestamp_utc": "2026-09-20T20:24:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1260 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T190708Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T19:07:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1260",
-      "detail": "branch=plan/s12-payout-event-dual-write changes=1"
     }
   ]
 }
