@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T11:43:45Z",
+  "updated_utc": "2026-09-20T11:43:48Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T114347Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-20T11:43:47Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/assets/sunmint-plot-explorer-uat/04_mobile_fullpage.png",
+      "detail": "path=assets/sunmint-plot-explorer-uat/04_mobile_fullpage.png branch=main"
+    },
     {
       "id": "repo_access_20260920T114344Z_agentic-ai-context",
       "timestamp_utc": "2026-09-20T11:43:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1253",
       "detail": "branch=docs/crf-plan-s11-payout-sink-cfr-program-sheet changes=2"
-    },
-    {
-      "id": "repo_access_20260917T151623Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T15:16:23Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1252 method=squash"
     }
   ]
 }
