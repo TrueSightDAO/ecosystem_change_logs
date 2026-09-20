@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T10:41:32Z",
+  "updated_utc": "2026-09-20T11:43:36Z",
   "entries": [
+    {
+      "id": "repo_access_20260920T114335Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-20T11:43:35Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/assets/sunmint-plot-explorer-uat/01_desktop_viewport.png",
+      "detail": "path=assets/sunmint-plot-explorer-uat/01_desktop_viewport.png branch=main"
+    },
     {
       "id": "repo_access_20260920T104131Z_truesight-me-beta",
       "timestamp_utc": "2026-09-20T10:41:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1251 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T150728Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-17T15:07:28Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=490 method=squash"
     }
   ]
 }
