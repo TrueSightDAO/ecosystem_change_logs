@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T12:20:27Z",
+  "updated_utc": "2026-09-21T12:22:51Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T122249Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-21T12:22:49Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/497",
+      "detail": "branch=feat/pr8-stalled-balance-aging-report changes=1"
+    },
     {
       "id": "repo_access_20260921T122026Z_truesight-me-beta",
       "timestamp_utc": "2026-09-21T12:20:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/512",
       "detail": "branch=fix/gas-1wONDeDwZ-secret-free-credentials changes=2"
-    },
-    {
-      "id": "repo_access_20260918T011737Z_tokenomics",
-      "timestamp_utc": "2026-09-18T01:17:37Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=511 method=squash"
     }
   ]
 }
