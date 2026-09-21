@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260921T005934Z_sunmint",
+  "timestamp_utc": "2026-09-21T00:59:34Z",
+  "agent": "sophia",
+  "repo": "sunmint",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/.github/workflows/cache-satellite-scenes.yml",
+  "detail": "path=.github/workflows/cache-satellite-scenes.yml branch=main"
+}
