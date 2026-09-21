@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T16:09:47Z",
+  "updated_utc": "2026-09-21T16:09:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T160950Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T16:09:50Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_ORIGIN_TOUR_PT.pdf",
+      "detail": "path=handoffs/LIZ_BAHIA_ORIGIN_TOUR_PT.pdf branch=main"
+    },
     {
       "id": "repo_access_20260921T160945Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T16:09:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/proposals/blob/main/attachments/BLACK_KING_PROPOSAL_BIS_CONTABILIDADE_EN_PT.pdf",
       "detail": "path=attachments/BLACK_KING_PROPOSAL_BIS_CONTABILIDADE_EN_PT.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260918T165544Z_proposals",
-      "timestamp_utc": "2026-09-18T16:55:44Z",
-      "agent": "sophia",
-      "repo": "proposals",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/proposals/blob/main/attachments/BLACK_KING_PROPOSAL_BIS_CONTABILIDADE.pdf",
-      "detail": "path=attachments/BLACK_KING_PROPOSAL_BIS_CONTABILIDADE.pdf branch=main"
     }
   ]
 }
