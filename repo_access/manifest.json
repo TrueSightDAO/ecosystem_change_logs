@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T14:52:21Z",
+  "updated_utc": "2026-09-21T14:52:35Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T145234Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T14:52:34Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "branch=handoff/register-brazil-sf-freight-lane-10800-index changes=1"
+    },
     {
       "id": "repo_access_20260921T145220Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T14:52:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=519 method=squash"
-    },
-    {
-      "id": "repo_access_20260918T015451Z_tokenomics",
-      "timestamp_utc": "2026-09-18T01:54:51Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/519",
-      "detail": "branch=scrub/token-literals-and-property-name changes=3"
     }
   ]
 }
