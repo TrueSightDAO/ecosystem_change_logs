@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T03:27:00Z",
+  "updated_utc": "2026-09-21T03:31:46Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T033145Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T03:31:45Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1323",
+      "detail": "branch=docs/followups-plot-financing-doc-gap changes=2"
+    },
     {
       "id": "repo_access_20260921T032659Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T03:26:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/507",
       "detail": "branch=fix/gas-credentials-1K1wcXFAop changes=2"
-    },
-    {
-      "id": "repo_access_20260918T003304Z_tokenomics",
-      "timestamp_utc": "2026-09-18T00:33:04Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=504 method=squash"
     }
   ]
 }
