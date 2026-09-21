@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T19:37:49Z",
+  "updated_utc": "2026-09-21T19:37:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T193751Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T19:37:51Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/LIZ_BAHIA_DECK_v10.md",
+      "detail": "path=handoffs/liz_bahia_deck/LIZ_BAHIA_DECK_v10.md branch=main"
+    },
     {
       "id": "repo_access_20260921T193748Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T19:37:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/525",
       "detail": "branch=fix/currency-conversion-canonicalize-and-lock changes=7"
-    },
-    {
-      "id": "repo_access_20260918T180830Z_agent-handoffs",
-      "timestamp_utc": "2026-09-18T18:08:30Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260918T180829Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20260918T180829Z.json branch=main"
     }
   ]
 }
