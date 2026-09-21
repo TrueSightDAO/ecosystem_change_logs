@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T19:44:06Z",
+  "updated_utc": "2026-09-21T19:44:13Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T194411Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-09-21T19:44:11Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/itacare-cachoeira-do-cleandro-photo/assets/images/experiences/itacare/cachoeira-do-cleandro.jpg",
+      "detail": "path=assets/images/experiences/itacare/cachoeira-do-cleandro.jpg branch=feat/itacare-cachoeira-do-cleandro-photo"
+    },
     {
       "id": "repo_access_20260921T194405Z_agroverse-shop-beta",
       "timestamp_utc": "2026-09-21T19:44:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260918T181015Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20260918T181015Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20260918T181012Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-18T18:10:12Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1281",
-      "detail": "branch=followups/currency-conversion-canonicalize-deploy changes=1"
     }
   ]
 }
