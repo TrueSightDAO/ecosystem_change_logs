@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T03:01:21Z",
+  "updated_utc": "2026-09-21T03:01:38Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T030137Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T03:01:37Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1318 method=squash"
+    },
     {
       "id": "repo_access_20260921T030120Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T03:01:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/170",
       "detail": "branch=feat/q3a-payout-event-dispatch-routing changes=3"
-    },
-    {
-      "id": "repo_access_20260917T230443Z_dao-protocol",
-      "timestamp_utc": "2026-09-17T23:04:43Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=169 method=squash"
     }
   ]
 }
