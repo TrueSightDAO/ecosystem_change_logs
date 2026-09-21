@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T15:57:23Z",
+  "updated_utc": "2026-09-21T15:57:38Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T155737Z_agent-handoffs",
+      "timestamp_utc": "2026-09-21T15:57:37Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260921T155736Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20260921T155736Z.json branch=main"
+    },
     {
       "id": "repo_access_20260921T155721Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T15:57:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=522 method=squash"
-    },
-    {
-      "id": "repo_access_20260918T122702Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-18T12:27:02Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1279",
-      "detail": "branch=docs/crf-12.6-manual-feed-m3-deferred changes=9"
     }
   ]
 }
