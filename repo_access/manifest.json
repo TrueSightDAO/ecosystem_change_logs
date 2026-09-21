@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T14:54:05Z",
+  "updated_utc": "2026-09-21T15:04:43Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T150442Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T15:04:42Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_VISIT_2026-09-29_itinerary.pdf",
+      "detail": "path=handoffs/LIZ_BAHIA_VISIT_2026-09-29_itinerary.pdf branch=main"
+    },
     {
       "id": "repo_access_20260921T145404Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T14:54:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1276",
       "detail": "branch=docs/crosswalk-rev5-coopercabruca-emitter changes=5"
-    },
-    {
-      "id": "repo_access_20260918T020114Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-18T02:01:14Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1273 method=squash"
     }
   ]
 }
