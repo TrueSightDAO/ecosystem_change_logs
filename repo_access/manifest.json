@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T19:44:13Z",
+  "updated_utc": "2026-09-21T19:45:01Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T194459Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-09-21T19:44:59Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=325 method=squash"
+    },
     {
       "id": "repo_access_20260921T194411Z_agroverse-shop-beta",
       "timestamp_utc": "2026-09-21T19:44:11Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=525 method=squash"
-    },
-    {
-      "id": "repo_access_20260918T181016Z_agent-handoffs",
-      "timestamp_utc": "2026-09-18T18:10:16Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260918T181015Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20260918T181015Z.json branch=main"
     }
   ]
 }
