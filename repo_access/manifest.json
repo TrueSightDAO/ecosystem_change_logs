@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T01:48:53Z",
+  "updated_utc": "2026-09-21T02:43:18Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T024316Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-21T02:43:16Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/391",
+      "detail": "branch=feat/pr11-plot-overlay-slider changes=8"
+    },
     {
       "id": "repo_access_20260921T014852Z_agent-handoffs",
       "timestamp_utc": "2026-09-21T01:48:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=101 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T210352Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T21:03:52Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1266 method=squash"
     }
   ]
 }
