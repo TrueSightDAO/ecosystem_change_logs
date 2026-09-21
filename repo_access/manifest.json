@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T20:14:21Z",
+  "updated_utc": "2026-09-21T20:15:49Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T201547Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-09-21T20:15:47Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/326",
+      "detail": "branch=feat/itacare-cultural-page-richer changes=10"
+    },
     {
       "id": "repo_access_20260921T201420Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T20:14:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=323 method=squash"
-    },
-    {
-      "id": "repo_access_20260919T204836Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-09-19T20:48:36Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/324",
-      "detail": "branch=partner/santos-tradename changes=4"
     }
   ]
 }
