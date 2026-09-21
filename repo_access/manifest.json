@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T00:09:27Z",
+  "updated_utc": "2026-09-21T00:20:12Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T002010Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T00:20:10Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1315 method=squash"
+    },
     {
       "id": "repo_access_20260921T000926Z_truesight-me-beta",
       "timestamp_utc": "2026-09-21T00:09:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29250350042585000180550010000000061061000064.pdf",
       "detail": "path=nfe/29250350042585000180550010000000061061000064.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260917T210311Z_black-king-nota-fiscal-raw",
-      "timestamp_utc": "2026-09-17T21:03:11Z",
-      "agent": "sophia",
-      "repo": "black-king-nota-fiscal-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29250250042585000180550010000000051061000063.pdf",
-      "detail": "path=nfe/29250250042585000180550010000000051061000063.pdf branch=main"
     }
   ]
 }
