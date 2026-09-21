@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260921T135238Z_truesight-autopilot",
+  "timestamp_utc": "2026-09-21T13:52:38Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "merge_pr",
+  "result": "failure",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=498 method=squash"
+}
