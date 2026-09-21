@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T19:49:36Z",
+  "updated_utc": "2026-09-21T19:50:23Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T195021Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T19:50:21Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1332",
+      "detail": "branch=brazil/ncm-utrib-export-norm-2026-09-21 changes=9"
+    },
     {
       "id": "repo_access_20260921T194935Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T19:49:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/528",
       "detail": "branch=manifest/1orWgdGckts55-deployments-head changes=1"
-    },
-    {
-      "id": "repo_access_20260918T192117Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-18T19:21:17Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1282 method=squash"
     }
   ]
 }
