@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T03:23:28Z",
+  "updated_utc": "2026-09-21T03:25:44Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T032543Z_tokenomics",
+      "timestamp_utc": "2026-09-21T03:25:43Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/542",
+      "detail": "branch=docs/pr9-schema-col-u-and-plot-id changes=6"
+    },
     {
       "id": "repo_access_20260921T032326Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T03:23:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1269 method=squash"
-    },
-    {
-      "id": "repo_access_20260918T002858Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-18T00:28:58Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1269",
-      "detail": "branch=docs/black-king-nfe-transit-crosswalk changes=1"
     }
   ]
 }
