@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T13:51:59Z",
+  "updated_utc": "2026-09-21T13:52:12Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T135211Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-21T13:52:11Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "branch=fix/pdf-unicode-font-tests changes=1"
+    },
     {
       "id": "repo_access_20260921T135158Z_truesight-autopilot",
       "timestamp_utc": "2026-09-21T13:51:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=515 method=squash"
-    },
-    {
-      "id": "repo_access_20260918T012516Z_tokenomics",
-      "timestamp_utc": "2026-09-18T01:25:16Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/515",
-      "detail": "branch=fix/gas-1y6JVYwqdr-accessor-and-dup-landmine changes=4"
     }
   ]
 }
