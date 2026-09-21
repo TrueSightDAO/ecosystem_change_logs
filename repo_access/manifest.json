@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T03:23:19Z",
+  "updated_utc": "2026-09-21T03:23:28Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T032326Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T03:23:26Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1321 method=squash"
+    },
     {
       "id": "repo_access_20260921T032318Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T03:23:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1269",
       "detail": "branch=docs/black-king-nfe-transit-crosswalk changes=1"
-    },
-    {
-      "id": "repo_access_20260918T001554Z_tokenomics",
-      "timestamp_utc": "2026-09-18T00:15:54Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=503 method=squash"
     }
   ]
 }
