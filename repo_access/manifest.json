@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T00:50:18Z",
+  "updated_utc": "2026-09-21T00:51:39Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T005138Z_sunmint",
+      "timestamp_utc": "2026-09-21T00:51:38Z",
+      "agent": "sophia",
+      "repo": "sunmint",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/cache_satellite_scenes.py",
+      "detail": "path=scripts/cache_satellite_scenes.py branch=main"
+    },
     {
       "id": "repo_access_20260921T005016Z_sunmint",
       "timestamp_utc": "2026-09-21T00:50:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29250450042585000180550010000000111061000068.pdf",
       "detail": "path=nfe/29250450042585000180550010000000111061000068.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260917T210333Z_black-king-nota-fiscal-raw",
-      "timestamp_utc": "2026-09-17T21:03:33Z",
-      "agent": "sophia",
-      "repo": "black-king-nota-fiscal-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29250450042585000180550010000000101061000060.pdf",
-      "detail": "path=nfe/29250450042585000180550010000000101061000060.pdf branch=main"
     }
   ]
 }
