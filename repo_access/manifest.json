@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T19:50:23Z",
+  "updated_utc": "2026-09-21T19:50:51Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T195049Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T19:50:49Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/ncm-utrib-export-norm-2026-09-21/handoffs/index.json",
+      "detail": "path=handoffs/index.json branch=brazil/ncm-utrib-export-norm-2026-09-21"
+    },
     {
       "id": "repo_access_20260921T195021Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T19:50:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=528 method=squash"
-    },
-    {
-      "id": "repo_access_20260918T192714Z_tokenomics",
-      "timestamp_utc": "2026-09-18T19:27:14Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/528",
-      "detail": "branch=manifest/1orWgdGckts55-deployments-head changes=1"
     }
   ]
 }
