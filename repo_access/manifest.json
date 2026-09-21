@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T12:18:13Z",
+  "updated_utc": "2026-09-21T12:18:23Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T121822Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-21T12:18:22Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=392 method=squash"
+    },
     {
       "id": "repo_access_20260921T121812Z_truesight-me-beta",
       "timestamp_utc": "2026-09-21T12:18:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/511",
       "detail": "branch=fix/gas-1duQFfTO-restore-credentials-accessor changes=3"
-    },
-    {
-      "id": "repo_access_20260918T011156Z_tokenomics",
-      "timestamp_utc": "2026-09-18T01:11:56Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=510 method=squash"
     }
   ]
 }
