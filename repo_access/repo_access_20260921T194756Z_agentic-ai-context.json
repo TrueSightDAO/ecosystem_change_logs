@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260921T194756Z_agentic-ai-context",
+  "timestamp_utc": "2026-09-21T19:47:56Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/nfe-units-of-measure-blocker-2026-09-21/handoffs/index.json",
+  "detail": "path=handoffs/index.json branch=brazil/nfe-units-of-measure-blocker-2026-09-21"
+}
