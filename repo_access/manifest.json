@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T20:12:39Z",
+  "updated_utc": "2026-09-21T20:14:21Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T201420Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T20:14:20Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1335 method=squash"
+    },
     {
       "id": "repo_access_20260921T201237Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T20:12:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/324",
       "detail": "branch=partner/santos-tradename changes=4"
-    },
-    {
-      "id": "repo_access_20260919T182617Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-09-19T18:26:17Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/323",
-      "detail": "branch=partner/santos-cnpj-identity changes=2"
     }
   ]
 }
