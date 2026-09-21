@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T14:53:06Z",
+  "updated_utc": "2026-09-21T14:54:05Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T145404Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T14:54:04Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1328 method=squash"
+    },
     {
       "id": "repo_access_20260921T145305Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T14:53:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1273 method=squash"
-    },
-    {
-      "id": "repo_access_20260918T015948Z_agent-handoffs",
-      "timestamp_utc": "2026-09-18T01:59:48Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260918T015947Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20260918T015947Z.json branch=main"
     }
   ]
 }
