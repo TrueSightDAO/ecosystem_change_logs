@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T15:57:10Z",
+  "updated_utc": "2026-09-21T15:57:15Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T155713Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T15:57:13Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/img.zip",
+      "detail": "path=handoffs/liz_bahia_deck/img.zip branch=main"
+    },
     {
       "id": "repo_access_20260921T155708Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T15:57:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=520 method=squash"
-    },
-    {
-      "id": "repo_access_20260918T120420Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-18T12:04:20Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/declarations/BLACK_KING_DECLARATION_20260918_chaves_EN-PT_SIGNED.pdf",
-      "detail": "path=declarations/BLACK_KING_DECLARATION_20260918_chaves_EN-PT_SIGNED.pdf branch=main"
     }
   ]
 }
