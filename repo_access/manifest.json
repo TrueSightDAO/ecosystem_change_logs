@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-20T22:46:11Z",
+  "updated_utc": "2026-09-21T00:09:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T000905Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-21T00:09:05Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/390",
+      "detail": "branch=chore/pr9-retire-marketing-satellite-widget changes=4"
+    },
     {
       "id": "repo_access_20260920T224610Z_sunmint",
       "timestamp_utc": "2026-09-20T22:46:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29250250042585000180550010000000041061000066.pdf",
       "detail": "path=nfe/29250250042585000180550010000000041061000066.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260917T210304Z_black-king-nota-fiscal-raw",
-      "timestamp_utc": "2026-09-17T21:03:04Z",
-      "agent": "sophia",
-      "repo": "black-king-nota-fiscal-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/black-king-nota-fiscal-raw/blob/main/nfe/29250150042585000180550010000000031061000065.pdf",
-      "detail": "path=nfe/29250150042585000180550010000000031061000065.pdf branch=main"
     }
   ]
 }
