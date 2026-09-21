@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T02:48:11Z",
+  "updated_utc": "2026-09-21T02:55:10Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T025509Z_tokenomics",
+      "timestamp_utc": "2026-09-21T02:55:09Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/538",
+      "detail": "branch=feat/plot-financing-event-sink changes=4"
+    },
     {
       "id": "repo_access_20260921T024810Z_dao-protocol",
       "timestamp_utc": "2026-09-21T02:48:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1267 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T220420Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T22:04:20Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1267",
-      "detail": "branch=docs/crf-plan-m2-m4-progress changes=2"
     }
   ]
 }
