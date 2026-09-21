@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T12:27:41Z",
+  "updated_utc": "2026-09-21T12:28:25Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T122823Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T12:28:23Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1326",
+      "detail": "branch=docs/pr8-tick-and-decision-0-8-resolved-v2 changes=6"
+    },
     {
       "id": "repo_access_20260921T122739Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T12:27:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=513 method=squash"
-    },
-    {
-      "id": "repo_access_20260918T012032Z_tokenomics",
-      "timestamp_utc": "2026-09-18T01:20:32Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=512 method=squash"
     }
   ]
 }
