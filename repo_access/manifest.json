@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T14:03:09Z",
+  "updated_utc": "2026-09-21T14:04:43Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T140442Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T14:04:42Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/exports/2026-09-21_commercial_invoice_black_king_to_truetech_rev11_EN_PT_BRL.pdf",
+      "detail": "path=exports/2026-09-21_commercial_invoice_black_king_to_truetech_rev11_EN_PT_BRL.pdf branch=main"
+    },
     {
       "id": "repo_access_20260921T140307Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T14:03:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/516",
       "detail": "branch=fix/trigger-status-verifiable-ss12-q3b changes=6"
-    },
-    {
-      "id": "repo_access_20260918T013140Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-18T01:31:40Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1274 method=squash"
     }
   ]
 }
