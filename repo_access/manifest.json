@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T03:18:56Z",
+  "updated_utc": "2026-09-21T03:21:45Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T032144Z_tokenomics",
+      "timestamp_utc": "2026-09-21T03:21:44Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/541",
+      "detail": "branch=feat/pr62-plot-transfer changes=11"
+    },
     {
       "id": "repo_access_20260921T031855Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T03:18:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=495 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T232125Z_tokenomics",
-      "timestamp_utc": "2026-09-17T23:21:25Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=502 method=squash"
     }
   ]
 }
