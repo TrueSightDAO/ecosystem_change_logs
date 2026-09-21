@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T16:30:43Z",
+  "updated_utc": "2026-09-21T16:30:47Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T163046Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T16:30:46Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/flyers/resende_cacao_ceremony.jpg",
+      "detail": "path=handoffs/liz_bahia_deck/flyers/resende_cacao_ceremony.jpg branch=main"
+    },
     {
       "id": "repo_access_20260921T163042Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T16:30:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1280",
       "detail": "branch=docs/q2-q5-server-side-complete changes=5"
-    },
-    {
-      "id": "repo_access_20260918T172703Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-18T17:27:03Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1279 method=squash"
     }
   ]
 }
