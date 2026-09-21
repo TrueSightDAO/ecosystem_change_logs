@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T02:43:18Z",
+  "updated_utc": "2026-09-21T02:47:59Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T024758Z_dao-protocol",
+      "timestamp_utc": "2026-09-21T02:47:58Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/177",
+      "detail": "branch=feat/plot-financing-event-registration changes=4"
+    },
     {
       "id": "repo_access_20260921T024316Z_truesight-me-beta",
       "timestamp_utc": "2026-09-21T02:43:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=102 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T211351Z_dapp-beta",
-      "timestamp_utc": "2026-09-17T21:13:51Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=101 method=squash"
     }
   ]
 }
