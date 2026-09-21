@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T19:32:17Z",
+  "updated_utc": "2026-09-21T19:37:49Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T193748Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T19:37:48Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/LIZ_BAHIA_ORIGIN_TOUR_EN_PT_v10.pdf",
+      "detail": "path=handoffs/liz_bahia_deck/LIZ_BAHIA_ORIGIN_TOUR_EN_PT_v10.pdf branch=main"
+    },
     {
       "id": "repo_access_20260921T193215Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T19:32:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260918T180829Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20260918T180829Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20260918T180451Z_agent-handoffs",
-      "timestamp_utc": "2026-09-18T18:04:51Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260918T180450Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20260918T180450Z.json branch=main"
     }
   ]
 }
