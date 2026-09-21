@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260921T135158Z_truesight-autopilot",
+  "timestamp_utc": "2026-09-21T13:51:58Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/498",
+  "detail": "branch=fix/pdf-unicode-font-and-logo-header changes=4"
+}
