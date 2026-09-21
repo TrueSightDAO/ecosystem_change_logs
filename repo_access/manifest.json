@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T19:37:52Z",
+  "updated_utc": "2026-09-21T19:44:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T194405Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-09-21T19:44:05Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/325",
+      "detail": "branch=feat/itacare-cachoeira-do-cleandro-photo changes=1"
+    },
     {
       "id": "repo_access_20260921T193751Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T19:37:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1281",
       "detail": "branch=followups/currency-conversion-canonicalize-deploy changes=1"
-    },
-    {
-      "id": "repo_access_20260918T180952Z_tokenomics",
-      "timestamp_utc": "2026-09-18T18:09:52Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/525",
-      "detail": "branch=fix/currency-conversion-canonicalize-and-lock changes=7"
     }
   ]
 }
