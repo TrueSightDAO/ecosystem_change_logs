@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T13:04:53Z",
+  "updated_utc": "2026-09-21T13:51:59Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T135158Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-21T13:51:58Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/498",
+      "detail": "branch=fix/pdf-unicode-font-and-logo-header changes=4"
+    },
     {
       "id": "repo_access_20260921T130452Z_truesight-me-beta",
       "timestamp_utc": "2026-09-21T13:04:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/515",
       "detail": "branch=fix/gas-1y6JVYwqdr-accessor-and-dup-landmine changes=4"
-    },
-    {
-      "id": "repo_access_20260918T012235Z_tokenomics",
-      "timestamp_utc": "2026-09-18T01:22:35Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=514 method=squash"
     }
   ]
 }
