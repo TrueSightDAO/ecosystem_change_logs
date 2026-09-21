@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T15:57:38Z",
+  "updated_utc": "2026-09-21T16:09:40Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T160939Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T16:09:39Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/deck_pt.html",
+      "detail": "path=handoffs/liz_bahia_deck/deck_pt.html branch=main"
+    },
     {
       "id": "repo_access_20260921T155737Z_agent-handoffs",
       "timestamp_utc": "2026-09-21T15:57:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=521 method=squash"
-    },
-    {
-      "id": "repo_access_20260918T122923Z_tokenomics",
-      "timestamp_utc": "2026-09-18T12:29:23Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=522 method=squash"
     }
   ]
 }
