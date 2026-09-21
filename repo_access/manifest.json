@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T13:52:12Z",
+  "updated_utc": "2026-09-21T13:52:21Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T135220Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-21T13:52:20Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/blob/fix/pdf-unicode-font-and-logo-header/tests/test_pdf_tools.py",
+      "detail": "path=tests/test_pdf_tools.py branch=fix/pdf-unicode-font-and-logo-header"
+    },
     {
       "id": "repo_access_20260921T135211Z_truesight-autopilot",
       "timestamp_utc": "2026-09-21T13:52:11Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1271",
       "detail": "branch=docs/black-king-taraval-destination-rule changes=5"
-    },
-    {
-      "id": "repo_access_20260918T012533Z_tokenomics",
-      "timestamp_utc": "2026-09-18T01:25:33Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=515 method=squash"
     }
   ]
 }
