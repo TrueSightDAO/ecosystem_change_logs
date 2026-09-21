@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T22:44:34Z",
+  "updated_utc": "2026-09-21T22:44:41Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T224439Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T22:44:39Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v16.md",
+      "detail": "path=handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v16.md branch=main"
+    },
     {
       "id": "repo_access_20260921T224432Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T22:44:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1286 method=squash"
-    },
-    {
-      "id": "repo_access_20260919T223556Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-19T22:35:56Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1287",
-      "detail": "branch=plan/sunmint-plot-explorer-manifest-row changes=1"
     }
   ]
 }
