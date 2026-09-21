@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260921T135211Z_truesight-autopilot",
+  "timestamp_utc": "2026-09-21T13:52:11Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "branch=fix/pdf-unicode-font-tests changes=1"
+}
