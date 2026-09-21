@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T03:17:08Z",
+  "updated_utc": "2026-09-21T03:18:47Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T031846Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T03:18:46Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1320",
+      "detail": "branch=docs/sunmint-pr53-tick-and-repoint changes=4"
+    },
     {
       "id": "repo_access_20260921T031707Z_tokenomics",
       "timestamp_utc": "2026-09-21T03:17:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=495 method=squash"
-    },
-    {
-      "id": "repo_access_20260917T231641Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-17T23:16:41Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/495",
-      "detail": "branch=feat/payout-event-lookup-fallback changes=6"
     }
   ]
 }
