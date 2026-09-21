@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T19:15:42Z",
+  "updated_utc": "2026-09-21T19:15:50Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T191549Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T19:15:49Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_DECK_v7.txt",
+      "detail": "path=handoffs/LIZ_BAHIA_DECK_v7.txt branch=main"
+    },
     {
       "id": "repo_access_20260921T191541Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T19:15:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/496",
       "detail": "branch=test/e2e-tree-planting-payout changes=1"
-    },
-    {
-      "id": "repo_access_20260918T175306Z_tokenomics",
-      "timestamp_utc": "2026-09-18T17:53:06Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=524 method=squash"
     }
   ]
 }
