@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T02:55:20Z",
+  "updated_utc": "2026-09-21T03:00:53Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T030052Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T03:00:52Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1318",
+      "detail": "branch=docs/sunmint-013-reversal-0.13-refuted changes=9"
+    },
     {
       "id": "repo_access_20260921T025518Z_tokenomics",
       "timestamp_utc": "2026-09-21T02:55:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/169",
       "detail": "branch=feat/q2-register-payout-event-catalog changes=3"
-    },
-    {
-      "id": "repo_access_20260917T223821Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-17T22:38:21Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1268 method=squash"
     }
   ]
 }
