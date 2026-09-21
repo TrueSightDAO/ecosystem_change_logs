@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T15:56:57Z",
+  "updated_utc": "2026-09-21T15:57:01Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T155659Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T15:56:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/README.md",
+      "detail": "path=handoffs/liz_bahia_deck/README.md branch=main"
+    },
     {
       "id": "repo_access_20260921T155655Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T15:56:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/declarations/BLACK_KING_NFE_DECLARATION_AND_AUDIT_20260918_SIGNED.pdf",
       "detail": "path=declarations/BLACK_KING_NFE_DECLARATION_AND_AUDIT_20260918_SIGNED.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260918T115742Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-18T11:57:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/declarations/BLACK_KING_NFE_DECLARATION_AND_AUDIT_20260918.pdf",
-      "detail": "path=declarations/BLACK_KING_NFE_DECLARATION_AND_AUDIT_20260918.pdf branch=main"
     }
   ]
 }
