@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-21T19:51:17Z",
+  "updated_utc": "2026-09-21T19:51:24Z",
   "entries": [
+    {
+      "id": "repo_access_20260921T195123Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-21T19:51:23Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v13.pdf",
+      "detail": "path=handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v13.pdf branch=main"
+    },
     {
       "id": "repo_access_20260921T195115Z_agentic-ai-context",
       "timestamp_utc": "2026-09-21T19:51:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/exports/2026-06-11_commercial_invoice_black_king_to_truetech_rev11_EN_PT.pdf",
       "detail": "path=exports/2026-06-11_commercial_invoice_black_king_to_truetech_rev11_EN_PT.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260918T214448Z_agent-handoffs",
-      "timestamp_utc": "2026-09-18T21:44:48Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260918T214446Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20260918T214446Z.json branch=main"
     }
   ]
 }
