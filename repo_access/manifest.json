@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-22T11:31:05Z",
+  "updated_utc": "2026-09-22T13:09:41Z",
   "entries": [
+    {
+      "id": "repo_access_20260922T130939Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-22T13:09:39Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1339",
+      "detail": "branch=docs/siscomex-representante-tutorial-artifact changes=6"
+    },
     {
       "id": "repo_access_20260922T113104Z_tokenomics",
       "timestamp_utc": "2026-09-22T11:31:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1289 method=squash"
-    },
-    {
-      "id": "repo_access_20260919T224440Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-19T22:44:40Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1289",
-      "detail": "branch=docs/sa-sheet-access-matrix changes=4"
     }
   ]
 }
