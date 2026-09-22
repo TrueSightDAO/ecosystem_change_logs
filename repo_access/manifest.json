@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-22T18:01:16Z",
+  "updated_utc": "2026-09-22T19:16:25Z",
   "entries": [
+    {
+      "id": "repo_access_20260922T191623Z_oracle",
+      "timestamp_utc": "2026-09-22T19:16:23Z",
+      "agent": "sophia",
+      "repo": "oracle",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=66 method=squash"
+    },
     {
       "id": "repo_access_20260922T180114Z_tokenomics",
       "timestamp_utc": "2026-09-22T18:01:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1297",
       "detail": "branch=handoff/black-king-closeout changes=2"
-    },
-    {
-      "id": "repo_access_20260920T043723Z_truesight-me-beta",
-      "timestamp_utc": "2026-09-20T04:37:23Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=383 method=squash"
     }
   ]
 }
