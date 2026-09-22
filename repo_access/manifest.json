@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-22T19:47:29Z",
+  "updated_utc": "2026-09-22T19:54:26Z",
   "entries": [
+    {
+      "id": "repo_access_20260922T195425Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-22T19:54:25Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1343",
+      "detail": "branch=docs/followup-residual-ledger-dups-getdata changes=1"
+    },
     {
       "id": "repo_access_20260922T194727Z_agentic-ai-context",
       "timestamp_utc": "2026-09-22T19:47:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/assets/sunmint-plot-explorer-uat/01_desktop_viewport.png",
       "detail": "path=assets/sunmint-plot-explorer-uat/01_desktop_viewport.png branch=main"
-    },
-    {
-      "id": "repo_access_20260920T104131Z_truesight-me-beta",
-      "timestamp_utc": "2026-09-20T10:41:31Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=387 method=squash"
     }
   ]
 }
