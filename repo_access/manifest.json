@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-22T03:56:15Z",
+  "updated_utc": "2026-09-22T11:29:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260922T112951Z_tokenomics",
+      "timestamp_utc": "2026-09-22T11:29:51Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/546",
+      "detail": "branch=fix/transfer-abort-invalid-state-write changes=5"
+    },
     {
       "id": "repo_access_20260922T035614Z_agentic-ai-context",
       "timestamp_utc": "2026-09-22T03:56:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1288 method=squash"
-    },
-    {
-      "id": "repo_access_20260919T223854Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-19T22:38:54Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1288",
-      "detail": "branch=fix/plot-explorer-freshness-and-manifest-row changes=5"
     }
   ]
 }
