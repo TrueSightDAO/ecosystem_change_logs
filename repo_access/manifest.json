@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-22T15:44:16Z",
+  "updated_utc": "2026-09-22T15:44:25Z",
   "entries": [
+    {
+      "id": "repo_access_20260922T154424Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-22T15:44:24Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/archive/sebrae-emissor-nfe-manual/brazil/sources/2026-06_sebrae_emissor_nfe_manual_v10_PT.pdf",
+      "detail": "path=brazil/sources/2026-06_sebrae_emissor_nfe_manual_v10_PT.pdf branch=archive/sebrae-emissor-nfe-manual"
+    },
     {
       "id": "repo_access_20260922T154414Z_agentic-ai-context",
       "timestamp_utc": "2026-09-22T15:44:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1292 method=squash"
-    },
-    {
-      "id": "repo_access_20260920T032420Z_agent-handoffs",
-      "timestamp_utc": "2026-09-20T03:24:20Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260920T032419Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20260920T032419Z.json branch=main"
     }
   ]
 }
