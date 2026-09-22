@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-22T13:50:07Z",
+  "updated_utc": "2026-09-22T15:44:16Z",
   "entries": [
+    {
+      "id": "repo_access_20260922T154414Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-22T15:44:14Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1340",
+      "detail": "branch=archive/sebrae-emissor-nfe-manual changes=2"
+    },
     {
       "id": "repo_access_20260922T135006Z_tokenomics",
       "timestamp_utc": "2026-09-22T13:50:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260920T032419Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20260920T032419Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20260920T032417Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-20T03:24:17Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1292",
-      "detail": "branch=docs/prod-go-ahead-envoy-verified changes=9"
     }
   ]
 }
