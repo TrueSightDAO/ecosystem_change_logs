@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260923T150819Z_fda-fsvp",
+  "timestamp_utc": "2026-09-23T15:08:19Z",
+  "agent": "sophia",
+  "repo": "fda_fsvp",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=32 method=squash"
+}
