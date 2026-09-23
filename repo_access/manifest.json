@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-23T15:07:28Z",
+  "updated_utc": "2026-09-23T15:07:39Z",
   "entries": [
+    {
+      "id": "repo_access_20260923T150738Z_fda-fsvp",
+      "timestamp_utc": "2026-09-23T15:07:38Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/blob/docs/archive-sebrae-nfe-manual/regulations%20reference%20documents/2026-06%20-%20SEBRAE%20NF-e%20Emissor%20Manual%20v10.pdf",
+      "detail": "path=regulations reference documents/2026-06 - SEBRAE NF-e Emissor Manual v10.pdf branch=docs/archive-sebrae-nfe-manual"
+    },
     {
       "id": "repo_access_20260923T150726Z_fda-fsvp",
       "timestamp_utc": "2026-09-23T15:07:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1298 method=squash"
-    },
-    {
-      "id": "repo_access_20260920T125759Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-20T12:57:59Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1298",
-      "detail": "branch=docs/verifier-loads-surface-itself changes=2"
     }
   ]
 }
