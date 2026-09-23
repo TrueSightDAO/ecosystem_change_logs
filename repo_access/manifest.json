@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-23T21:46:43Z",
+  "updated_utc": "2026-09-23T21:46:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260923T214650Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-23T21:46:50Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1344 method=squash"
+    },
     {
       "id": "repo_access_20260923T214641Z_agentic-ai-context",
       "timestamp_utc": "2026-09-23T21:46:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/sunmint-farmer-ledger-and-batch-link-plan/handoffs/HANDOFF_MANIFEST.md",
       "detail": "path=handoffs/HANDOFF_MANIFEST.md branch=docs/sunmint-farmer-ledger-and-batch-link-plan"
-    },
-    {
-      "id": "repo_access_20260920T130808Z_truesight-me-beta",
-      "timestamp_utc": "2026-09-20T13:08:08Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=388 method=squash"
     }
   ]
 }
