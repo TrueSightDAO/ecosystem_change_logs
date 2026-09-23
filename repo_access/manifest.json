@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-23T15:07:39Z",
+  "updated_utc": "2026-09-23T15:08:20Z",
   "entries": [
+    {
+      "id": "repo_access_20260923T150819Z_fda-fsvp",
+      "timestamp_utc": "2026-09-23T15:08:19Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=32 method=squash"
+    },
     {
       "id": "repo_access_20260923T150738Z_fda-fsvp",
       "timestamp_utc": "2026-09-23T15:07:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/388",
       "detail": "branch=fix/plots-stale-beta-banner changes=2"
-    },
-    {
-      "id": "repo_access_20260920T125816Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-20T12:58:16Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1298 method=squash"
     }
   ]
 }
