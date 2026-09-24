@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T15:54:51Z",
+  "updated_utc": "2026-09-24T15:57:21Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T155720Z_lineage-assets",
+      "timestamp_utc": "2026-09-24T15:57:20Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024OSCAR_CB_20260620_1__cert.pdf",
+      "detail": "path=certs/2024OSCAR_CB_20260620_1__cert.pdf branch=main"
+    },
     {
       "id": "repo_access_20260924T155450Z_capoeira",
       "timestamp_utc": "2026-09-24T15:54:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "branch=docs/sunmint-013-reversal-0.13-followups changes=1"
-    },
-    {
-      "id": "repo_access_20260921T030052Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T03:00:52Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1318",
-      "detail": "branch=docs/sunmint-013-reversal-0.13-refuted changes=9"
     }
   ]
 }
