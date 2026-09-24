@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T05:49:08Z",
+  "updated_utc": "2026-09-24T05:53:01Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T055259Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T05:52:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1358",
+      "detail": "branch=followups/sunmint-cert-download-manifest-landmine changes=2"
+    },
     {
       "id": "repo_access_20260924T054907Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T05:49:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/535",
       "detail": "branch=test/pr4-partial-write-coverage changes=2"
-    },
-    {
-      "id": "repo_access_20260920T202423Z_dao-protocol",
-      "timestamp_utc": "2026-09-20T20:24:23Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=174 method=squash"
     }
   ]
 }
