@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:16:51Z",
+  "updated_utc": "2026-09-24T17:18:42Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T171841Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T17:18:41Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1388",
+      "detail": "branch=docs/sunmint-ledger-manager-sa changes=2"
+    },
     {
       "id": "repo_access_20260924T171650Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T17:16:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1328",
       "detail": "branch=handoff/register-brazil-sf-freight-lane-10800 changes=1"
-    },
-    {
-      "id": "repo_access_20260921T144728Z_agent-handoffs",
-      "timestamp_utc": "2026-09-21T14:47:28Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260921T144727Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20260921T144727Z.json branch=main"
     }
   ]
 }
