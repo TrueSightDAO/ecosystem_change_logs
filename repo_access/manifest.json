@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T16:59:34Z",
+  "updated_utc": "2026-09-24T16:59:51Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T165950Z_dao-protocol",
+      "timestamp_utc": "2026-09-24T16:59:50Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=180 method=squash"
+    },
     {
       "id": "repo_access_20260924T165932Z_cfr-anapu",
       "timestamp_utc": "2026-09-24T16:59:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/498",
       "detail": "branch=fix/pdf-unicode-font-and-logo-header changes=4"
-    },
-    {
-      "id": "repo_access_20260921T130452Z_truesight-me-beta",
-      "timestamp_utc": "2026-09-21T13:04:52Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/393",
-      "detail": "branch=fix/pr11c-mobile-scroll-to-detail changes=2"
     }
   ]
 }
