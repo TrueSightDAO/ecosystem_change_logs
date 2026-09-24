@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T04:30:48Z",
+  "updated_utc": "2026-09-24T04:35:56Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T043555Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T04:35:55Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1347",
+      "detail": "branch=sop/sunmint-certificate-issue changes=1"
+    },
     {
       "id": "repo_access_20260924T043047Z_signature-assets",
       "timestamp_utc": "2026-09-24T04:30:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1306 method=squash"
-    },
-    {
-      "id": "repo_access_20260920T181745Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-20T18:17:45Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1306",
-      "detail": "branch=docs/sunmint-plan-close-pr1 changes=2"
     }
   ]
 }
