@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T04:24:23Z",
+  "updated_utc": "2026-09-24T04:30:34Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T043033Z_signature-assets",
+      "timestamp_utc": "2026-09-24T04:30:33Z",
+      "agent": "sophia",
+      "repo": "signature_assets",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/signature_assets/pull/2",
+      "detail": "branch=sophia/gestural-signature-mark changes=1"
+    },
     {
       "id": "repo_access_20260924T042422Z_signature-assets",
       "timestamp_utc": "2026-09-24T04:24:22Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/529",
       "detail": "branch=docs/pr1-sunmint-farmer-settlement-schema changes=7"
-    },
-    {
-      "id": "repo_access_20260920T181210Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-20T18:12:10Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1296 method=squash"
     }
   ]
 }
