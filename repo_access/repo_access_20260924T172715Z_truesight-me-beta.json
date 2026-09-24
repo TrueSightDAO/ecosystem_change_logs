@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260924T172715Z_truesight-me-beta",
+  "timestamp_utc": "2026-09-24T17:27:15Z",
+  "agent": "sophia",
+  "repo": "truesight_me_beta",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/396",
+  "detail": "branch=feat/qr-sunmint-deeplink-bag changes=5"
+}
