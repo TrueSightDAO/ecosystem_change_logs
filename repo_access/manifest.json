@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:30:34Z",
+  "updated_utc": "2026-09-24T17:31:54Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T173153Z_tokenomics",
+      "timestamp_utc": "2026-09-24T17:31:53Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/552",
+      "detail": "branch=feat/gas-get-installed-scanner-triggers changes=2"
+    },
     {
       "id": "repo_access_20260924T173032Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T17:30:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/deck_pt.html",
       "detail": "path=handoffs/liz_bahia_deck/deck_pt.html branch=main"
-    },
-    {
-      "id": "repo_access_20260921T155737Z_agent-handoffs",
-      "timestamp_utc": "2026-09-21T15:57:37Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260921T155736Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20260921T155736Z.json branch=main"
     }
   ]
 }
