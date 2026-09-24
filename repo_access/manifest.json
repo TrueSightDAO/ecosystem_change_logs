@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:25:06Z",
+  "updated_utc": "2026-09-24T17:27:17Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T172715Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-24T17:27:15Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/396",
+      "detail": "branch=feat/qr-sunmint-deeplink-bag changes=5"
+    },
     {
       "id": "repo_access_20260924T172504Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T17:25:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/README.md",
       "detail": "path=handoffs/liz_bahia_deck/README.md branch=main"
-    },
-    {
-      "id": "repo_access_20260921T155655Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T15:56:55Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/deck.html",
-      "detail": "path=handoffs/liz_bahia_deck/deck.html branch=main"
     }
   ]
 }
