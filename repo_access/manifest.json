@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:24:51Z",
+  "updated_utc": "2026-09-24T17:25:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T172504Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T17:25:04Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1391 method=squash"
+    },
     {
       "id": "repo_access_20260924T172450Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T17:24:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/deck.html",
       "detail": "path=handoffs/liz_bahia_deck/deck.html branch=main"
-    },
-    {
-      "id": "repo_access_20260921T154945Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T15:49:45Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_ORIGIN_TOUR_2026-09-29.pdf",
-      "detail": "path=handoffs/LIZ_BAHIA_ORIGIN_TOUR_2026-09-29.pdf branch=main"
     }
   ]
 }
