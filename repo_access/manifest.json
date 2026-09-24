@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T05:48:57Z",
+  "updated_utc": "2026-09-24T05:49:08Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T054907Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T05:49:07Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1356 method=squash"
+    },
     {
       "id": "repo_access_20260924T054856Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T05:48:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=174 method=squash"
-    },
-    {
-      "id": "repo_access_20260920T202325Z_dao-protocol",
-      "timestamp_utc": "2026-09-20T20:23:25Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/174",
-      "detail": "branch=docs/pr4b-payout-farmer-settlement-semantics changes=3"
     }
   ]
 }
