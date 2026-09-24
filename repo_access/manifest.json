@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T16:59:51Z",
+  "updated_utc": "2026-09-24T17:03:02Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T170300Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T17:03:00Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1382",
+      "detail": "branch=docs/cfr-sink-11.5-status-and-followups changes=1"
+    },
     {
       "id": "repo_access_20260924T165950Z_dao-protocol",
       "timestamp_utc": "2026-09-24T16:59:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "branch=fix/pdf-unicode-font-tests changes=1"
-    },
-    {
-      "id": "repo_access_20260921T135158Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-21T13:51:58Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/498",
-      "detail": "branch=fix/pdf-unicode-font-and-logo-header changes=4"
     }
   ]
 }
