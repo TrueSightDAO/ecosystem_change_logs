@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T18:12:44Z",
+  "updated_utc": "2026-09-24T18:12:54Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T181252Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T18:12:52Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1397 method=squash"
+    },
     {
       "id": "repo_access_20260924T181242Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T18:12:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/325",
       "detail": "branch=feat/itacare-cachoeira-do-cleandro-photo changes=1"
-    },
-    {
-      "id": "repo_access_20260921T193751Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T19:37:51Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/LIZ_BAHIA_DECK_v10.md",
-      "detail": "path=handoffs/liz_bahia_deck/LIZ_BAHIA_DECK_v10.md branch=main"
     }
   ]
 }
