@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T04:52:17Z",
+  "updated_utc": "2026-09-24T05:06:26Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T050624Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T05:06:24Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1351",
+      "detail": "branch=sop/sunmint-certificate-photo-left changes=7"
+    },
     {
       "id": "repo_access_20260924T045215Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T04:52:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=532 method=squash"
-    },
-    {
-      "id": "repo_access_20260920T184240Z_tokenomics",
-      "timestamp_utc": "2026-09-20T18:42:40Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/532",
-      "detail": "branch=fix/pr3-reconcile-idempotency-guard changes=3"
     }
   ]
 }
