@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:34:14Z",
+  "updated_utc": "2026-09-24T17:34:20Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T173418Z_sunmint",
+      "timestamp_utc": "2026-09-24T17:34:18Z",
+      "agent": "sophia",
+      "repo": "sunmint",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/tests/test_build_index_loud_failure.py",
+      "detail": "path=tests/test_build_index_loud_failure.py branch=main"
+    },
     {
       "id": "repo_access_20260924T173412Z_sunmint",
       "timestamp_utc": "2026-09-24T17:34:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_DECK_v6.txt",
       "detail": "path=handoffs/LIZ_BAHIA_DECK_v6.txt branch=main"
-    },
-    {
-      "id": "repo_access_20260921T163046Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T16:30:46Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/flyers/resende_cacao_ceremony.jpg",
-      "detail": "path=handoffs/liz_bahia_deck/flyers/resende_cacao_ceremony.jpg branch=main"
     }
   ]
 }
