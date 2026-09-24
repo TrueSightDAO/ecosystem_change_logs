@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T15:34:08Z",
+  "updated_utc": "2026-09-24T15:54:51Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T155450Z_capoeira",
+      "timestamp_utc": "2026-09-24T15:54:50Z",
+      "agent": "sophia",
+      "repo": "capoeira",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=48 method=squash"
+    },
     {
       "id": "repo_access_20260924T153407Z_sunmint",
       "timestamp_utc": "2026-09-24T15:34:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1318",
       "detail": "branch=docs/sunmint-013-reversal-0.13-refuted changes=9"
-    },
-    {
-      "id": "repo_access_20260921T025518Z_tokenomics",
-      "timestamp_utc": "2026-09-21T02:55:18Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=538 method=squash"
     }
   ]
 }
