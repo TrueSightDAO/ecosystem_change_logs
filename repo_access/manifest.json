@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T16:55:30Z",
+  "updated_utc": "2026-09-24T16:55:41Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T165540Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T16:55:40Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1381 method=squash"
+    },
     {
       "id": "repo_access_20260924T165528Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T16:55:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=392 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T121812Z_truesight-me-beta",
-      "timestamp_utc": "2026-09-21T12:18:12Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/392",
-      "detail": "branch=fix/pr11b-default-newest-clipped-scene changes=2"
     }
   ]
 }
