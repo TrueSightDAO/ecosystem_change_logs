@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:32:05Z",
+  "updated_utc": "2026-09-24T17:32:37Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T173235Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-24T17:32:35Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=396 method=squash"
+    },
     {
       "id": "repo_access_20260924T173204Z_tokenomics",
       "timestamp_utc": "2026-09-24T17:32:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_ORIGIN_TOUR_PT.pdf",
       "detail": "path=handoffs/LIZ_BAHIA_ORIGIN_TOUR_PT.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260921T160945Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T16:09:45Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_ORIGIN_TOUR_EN_PT.pdf",
-      "detail": "path=handoffs/LIZ_BAHIA_ORIGIN_TOUR_EN_PT.pdf branch=main"
     }
   ]
 }
