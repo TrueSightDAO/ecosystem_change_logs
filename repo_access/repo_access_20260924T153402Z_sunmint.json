@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260924T153402Z_sunmint",
+  "timestamp_utc": "2026-09-24T15:34:02Z",
+  "agent": "sophia",
+  "repo": "sunmint",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/fix/tree-index-canonical-tree-id/tests/test_build_tree_geojson_tree_id.py",
+  "detail": "path=tests/test_build_tree_geojson_tree_id.py branch=fix/tree-index-canonical-tree-id"
+}
