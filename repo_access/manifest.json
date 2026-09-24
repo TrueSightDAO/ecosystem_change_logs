@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:19:46Z",
+  "updated_utc": "2026-09-24T17:19:59Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T171957Z_sunmint-beta",
+      "timestamp_utc": "2026-09-24T17:19:57Z",
+      "agent": "sophia",
+      "repo": "sunmint_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=86 method=squash"
+    },
     {
       "id": "repo_access_20260924T171944Z_sunmint-beta",
       "timestamp_utc": "2026-09-24T17:19:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/handoff/register-brazil-sf-freight-lane-10800/handoffs/index.json",
       "detail": "path=handoffs/index.json branch=handoff/register-brazil-sf-freight-lane-10800"
-    },
-    {
-      "id": "repo_access_20260921T145234Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T14:52:34Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "branch=handoff/register-brazil-sf-freight-lane-10800-index changes=1"
     }
   ]
 }
