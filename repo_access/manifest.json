@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T18:44:08Z",
+  "updated_utc": "2026-09-24T18:46:30Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T184628Z_lineage-assets",
+      "timestamp_utc": "2026-09-24T18:46:28Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=15 method=squash"
+    },
     {
       "id": "repo_access_20260924T184407Z_lineage-assets",
       "timestamp_utc": "2026-09-24T18:44:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/nfe-units-of-measure-blocker-2026-09-21/handoffs/index.json",
       "detail": "path=handoffs/index.json branch=brazil/nfe-units-of-measure-blocker-2026-09-21"
-    },
-    {
-      "id": "repo_access_20260921T194750Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T19:47:50Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/nfe-units-of-measure-blocker-2026-09-21/handoffs/HANDOFF_MANIFEST.md",
-      "detail": "path=handoffs/HANDOFF_MANIFEST.md branch=brazil/nfe-units-of-measure-blocker-2026-09-21"
     }
   ]
 }
