@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T16:09:21Z",
+  "updated_utc": "2026-09-24T16:12:51Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T161248Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-24T16:12:48Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=501 method=squash"
+    },
     {
       "id": "repo_access_20260924T160919Z_truesight-autopilot",
       "timestamp_utc": "2026-09-24T16:09:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/540",
       "detail": "branch=feat/pr53-tree-charge-tests changes=9"
-    },
-    {
-      "id": "repo_access_20260921T031503Z_tokenomics",
-      "timestamp_utc": "2026-09-21T03:15:03Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/539",
-      "detail": "branch=feat/pr53-tree-charge changes=9"
     }
   ]
 }
