@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T04:30:39Z",
+  "updated_utc": "2026-09-24T04:30:48Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T043047Z_signature-assets",
+      "timestamp_utc": "2026-09-24T04:30:47Z",
+      "agent": "sophia",
+      "repo": "signature_assets",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=2 method=squash"
+    },
     {
       "id": "repo_access_20260924T043038Z_signature-assets",
       "timestamp_utc": "2026-09-24T04:30:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1306",
       "detail": "branch=docs/sunmint-plan-close-pr1 changes=2"
-    },
-    {
-      "id": "repo_access_20260920T181631Z_tokenomics",
-      "timestamp_utc": "2026-09-20T18:16:31Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=529 method=squash"
     }
   ]
 }
