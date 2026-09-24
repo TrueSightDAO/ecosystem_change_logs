@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:37:40Z",
+  "updated_utc": "2026-09-24T18:01:03Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T180101Z_lineage-assets",
+      "timestamp_utc": "2026-09-24T18:01:01Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/12",
+      "detail": "branch=feat/seed-linked-tree-from-sunmint changes=11"
+    },
     {
       "id": "repo_access_20260924T173738Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T17:37:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_DECK_v7.txt",
       "detail": "path=handoffs/LIZ_BAHIA_DECK_v7.txt branch=main"
-    },
-    {
-      "id": "repo_access_20260921T191541Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T19:15:41Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_ORIGIN_TOUR_EN_PT.pdf",
-      "detail": "path=handoffs/LIZ_BAHIA_ORIGIN_TOUR_EN_PT.pdf branch=main"
     }
   ]
 }
