@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T15:03:55Z",
+  "updated_utc": "2026-09-24T15:04:12Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T150410Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T15:04:10Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1373 method=squash"
+    },
     {
       "id": "repo_access_20260924T150353Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T15:03:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/177",
       "detail": "branch=feat/plot-financing-event-registration changes=4"
-    },
-    {
-      "id": "repo_access_20260921T024316Z_truesight-me-beta",
-      "timestamp_utc": "2026-09-21T02:43:16Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/391",
-      "detail": "branch=feat/pr11-plot-overlay-slider changes=8"
     }
   ]
 }
