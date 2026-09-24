@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T16:59:11Z",
+  "updated_utc": "2026-09-24T16:59:22Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T165920Z_dao-protocol",
+      "timestamp_utc": "2026-09-24T16:59:20Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/180",
+      "detail": "branch=feat/payout-registration-dispatch-route changes=7"
+    },
     {
       "id": "repo_access_20260924T165909Z_cfr-anapu",
       "timestamp_utc": "2026-09-24T16:59:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1326 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T122823Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T12:28:23Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1326",
-      "detail": "branch=docs/pr8-tick-and-decision-0-8-resolved-v2 changes=6"
     }
   ]
 }
