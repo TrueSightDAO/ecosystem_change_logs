@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T15:04:12Z",
+  "updated_utc": "2026-09-24T15:33:58Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T153356Z_sunmint",
+      "timestamp_utc": "2026-09-24T15:33:56Z",
+      "agent": "sophia",
+      "repo": "sunmint",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/fix/tree-index-canonical-tree-id/scripts/build_tree_geojson.py",
+      "detail": "path=scripts/build_tree_geojson.py branch=fix/tree-index-canonical-tree-id"
+    },
     {
       "id": "repo_access_20260924T150410Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T15:04:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=177 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T024758Z_dao-protocol",
-      "timestamp_utc": "2026-09-21T02:47:58Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/177",
-      "detail": "branch=feat/plot-financing-event-registration changes=4"
     }
   ]
 }
