@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:22:29Z",
+  "updated_utc": "2026-09-24T17:23:22Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T172320Z_tokenomics",
+      "timestamp_utc": "2026-09-24T17:23:20Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/551",
+      "detail": "branch=feat/gas-scanner-doget-convention changes=4"
+    },
     {
       "id": "repo_access_20260924T172228Z_cfr-anapu",
       "timestamp_utc": "2026-09-24T17:22:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_ORIGIN_TOUR_2026-09-29.pdf",
       "detail": "path=handoffs/LIZ_BAHIA_ORIGIN_TOUR_2026-09-29.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260921T151027Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T15:10:27Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1330",
-      "detail": "branch=docs/governor-sync-cron-bug changes=1"
     }
   ]
 }
