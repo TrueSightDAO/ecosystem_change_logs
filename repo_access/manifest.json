@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T18:15:40Z",
+  "updated_utc": "2026-09-24T18:16:26Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T181625Z_lineage-assets",
+      "timestamp_utc": "2026-09-24T18:16:25Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=14 method=squash"
+    },
     {
       "id": "repo_access_20260924T181539Z_tokenomics",
       "timestamp_utc": "2026-09-24T18:15:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1331",
       "detail": "branch=brazil/nfe-units-of-measure-blocker-2026-09-21 changes=6"
-    },
-    {
-      "id": "repo_access_20260921T194459Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-09-21T19:44:59Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=325 method=squash"
     }
   ]
 }
