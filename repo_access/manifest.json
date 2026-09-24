@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T09:56:10Z",
+  "updated_utc": "2026-09-24T09:59:12Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T095910Z_capoeira",
+      "timestamp_utc": "2026-09-24T09:59:10Z",
+      "agent": "sophia",
+      "repo": "capoeira",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=45 method=squash"
+    },
     {
       "id": "repo_access_20260924T095609Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T09:56:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/cache_satellite_scenes.py",
       "detail": "path=scripts/cache_satellite_scenes.py branch=main"
-    },
-    {
-      "id": "repo_access_20260920T224354Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-20T22:43:54Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1314 method=squash"
     }
   ]
 }
