@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:22:16Z",
+  "updated_utc": "2026-09-24T17:22:29Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T172228Z_cfr-anapu",
+      "timestamp_utc": "2026-09-24T17:22:28Z",
+      "agent": "sophia",
+      "repo": "cfr-anapu",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=14 method=squash"
+    },
     {
       "id": "repo_access_20260924T172214Z_cfr-anapu",
       "timestamp_utc": "2026-09-24T17:22:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1330",
       "detail": "branch=docs/governor-sync-cron-bug changes=1"
-    },
-    {
-      "id": "repo_access_20260921T150442Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T15:04:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_VISIT_2026-09-29_itinerary.pdf",
-      "detail": "path=handoffs/LIZ_BAHIA_VISIT_2026-09-29_itinerary.pdf branch=main"
     }
   ]
 }
