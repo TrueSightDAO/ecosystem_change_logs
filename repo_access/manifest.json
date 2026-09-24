@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:16:15Z",
+  "updated_utc": "2026-09-24T17:16:42Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T171640Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T17:16:40Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1387",
+      "detail": "branch=fix/sunmint-index-freeze-resolved-2 changes=1"
+    },
     {
       "id": "repo_access_20260924T171613Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T17:16:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1327 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T144404Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T14:44:04Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/lane-runbook-ilheus-sfo-2026-09/brazil/sources/2026-09-21_black_king_accountant_thread_notes.md",
-      "detail": "path=brazil/sources/2026-09-21_black_king_accountant_thread_notes.md branch=brazil/lane-runbook-ilheus-sfo-2026-09"
     }
   ]
 }
