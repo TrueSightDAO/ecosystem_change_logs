@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T05:47:26Z",
+  "updated_utc": "2026-09-24T05:47:35Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T054733Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T05:47:33Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1355 method=squash"
+    },
     {
       "id": "repo_access_20260924T054724Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T05:47:24Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=534 method=squash"
-    },
-    {
-      "id": "repo_access_20260920T202042Z_tokenomics",
-      "timestamp_utc": "2026-09-20T20:20:42Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/534",
-      "detail": "branch=feat/pr4-step2-fpe-ledger-booking changes=8"
     }
   ]
 }
