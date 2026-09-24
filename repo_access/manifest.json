@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T18:12:54Z",
+  "updated_utc": "2026-09-24T18:15:25Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T181524Z_tokenomics",
+      "timestamp_utc": "2026-09-24T18:15:24Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/553",
+      "detail": "branch=fix/gas-documents-scope-and-deploy-identity-docs changes=5"
+    },
     {
       "id": "repo_access_20260924T181252Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T18:12:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/itacare-cachoeira-do-cleandro-photo/assets/images/experiences/itacare/cachoeira-do-cleandro.jpg",
       "detail": "path=assets/images/experiences/itacare/cachoeira-do-cleandro.jpg branch=feat/itacare-cachoeira-do-cleandro-photo"
-    },
-    {
-      "id": "repo_access_20260921T194405Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-09-21T19:44:05Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/325",
-      "detail": "branch=feat/itacare-cachoeira-do-cleandro-photo changes=1"
     }
   ]
 }
