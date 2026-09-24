@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T15:58:41Z",
+  "updated_utc": "2026-09-24T15:58:48Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T155847Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T15:58:47Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1374 method=squash"
+    },
     {
       "id": "repo_access_20260924T155839Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T15:58:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1319 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T030305Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T03:03:05Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1319",
-      "detail": "branch=docs/sunmint-resume-repoint-and-followup changes=3"
     }
   ]
 }
