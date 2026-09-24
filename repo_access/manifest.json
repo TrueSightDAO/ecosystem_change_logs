@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:32:37Z",
+  "updated_utc": "2026-09-24T17:34:07Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T173405Z_sunmint",
+      "timestamp_utc": "2026-09-24T17:34:05Z",
+      "agent": "sophia",
+      "repo": "sunmint",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/build_plots_geojson.py",
+      "detail": "path=scripts/build_plots_geojson.py branch=main"
+    },
     {
       "id": "repo_access_20260924T173235Z_truesight-me-beta",
       "timestamp_utc": "2026-09-24T17:32:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_ORIGIN_TOUR_EN_PT.pdf",
       "detail": "path=handoffs/LIZ_BAHIA_ORIGIN_TOUR_EN_PT.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260921T160950Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T16:09:50Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/LIZ_BAHIA_ORIGIN_TOUR_PT.pdf",
-      "detail": "path=handoffs/LIZ_BAHIA_ORIGIN_TOUR_PT.pdf branch=main"
     }
   ]
 }
