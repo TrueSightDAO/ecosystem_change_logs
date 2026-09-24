@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T05:40:16Z",
+  "updated_utc": "2026-09-24T05:40:26Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T054025Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T05:40:25Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1354 method=squash"
+    },
     {
       "id": "repo_access_20260924T054015Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T05:40:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=533 method=squash"
-    },
-    {
-      "id": "repo_access_20260920T201820Z_tokenomics",
-      "timestamp_utc": "2026-09-20T20:18:20Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/533",
-      "detail": "branch=feat/pr4-step1-fpe-pure-legs changes=4"
     }
   ]
 }
