@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T09:51:18Z",
+  "updated_utc": "2026-09-24T09:55:30Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T095529Z_capoeira",
+      "timestamp_utc": "2026-09-24T09:55:29Z",
+      "agent": "sophia",
+      "repo": "capoeira",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=44 method=squash"
+    },
     {
       "id": "repo_access_20260924T095116Z_truesight-autopilot",
       "timestamp_utc": "2026-09-24T09:51:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1313 method=squash"
-    },
-    {
-      "id": "repo_access_20260920T211432Z_dao-protocol",
-      "timestamp_utc": "2026-09-20T21:14:32Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=175 method=squash"
     }
   ]
 }
