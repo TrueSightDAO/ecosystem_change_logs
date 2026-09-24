@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T21:51:27Z",
+  "updated_utc": "2026-09-24T21:51:36Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T215134Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T21:51:34Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1401 method=squash"
+    },
     {
       "id": "repo_access_20260924T215125Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T21:51:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1332 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T195049Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T19:50:49Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/ncm-utrib-export-norm-2026-09-21/handoffs/index.json",
-      "detail": "path=handoffs/index.json branch=brazil/ncm-utrib-export-norm-2026-09-21"
     }
   ]
 }
