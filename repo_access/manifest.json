@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T14:51:13Z",
+  "updated_utc": "2026-09-24T15:03:55Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T150353Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T15:03:53Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1373",
+      "detail": "branch=followups/tree-index-tree-id-off-by-one changes=1"
+    },
     {
       "id": "repo_access_20260924T145111Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T14:51:11Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/391",
       "detail": "branch=feat/pr11-plot-overlay-slider changes=8"
-    },
-    {
-      "id": "repo_access_20260921T014852Z_agent-handoffs",
-      "timestamp_utc": "2026-09-21T01:48:52Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260921T014851Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20260921T014851Z.json branch=main"
     }
   ]
 }
