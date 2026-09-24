@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T16:30:15Z",
+  "updated_utc": "2026-09-24T16:31:25Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T163123Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-24T16:31:23Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=395 method=squash"
+    },
     {
       "id": "repo_access_20260924T163013Z_truesight-me-beta",
       "timestamp_utc": "2026-09-24T16:30:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=541 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T032144Z_tokenomics",
-      "timestamp_utc": "2026-09-21T03:21:44Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/541",
-      "detail": "branch=feat/pr62-plot-transfer changes=11"
     }
   ]
 }
