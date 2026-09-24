@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T04:49:01Z",
+  "updated_utc": "2026-09-24T04:49:09Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T044908Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T04:49:08Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/templates/sunmint-certificate/templates/sunmint_certificate/render_sunmint_certificate.py",
+      "detail": "path=templates/sunmint_certificate/render_sunmint_certificate.py branch=templates/sunmint-certificate"
+    },
     {
       "id": "repo_access_20260924T044900Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T04:49:00Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/531",
       "detail": "branch=feat/pr3-sunmint-farmer-reconciliation changes=3"
-    },
-    {
-      "id": "repo_access_20260920T182551Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-20T18:25:51Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1307 method=squash"
     }
   ]
 }
