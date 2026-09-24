@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T17:03:19Z",
+  "updated_utc": "2026-09-24T17:03:29Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T170327Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T17:03:27Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "branch=docs/cfr-sink-11.5-status-and-plans changes=1"
+    },
     {
       "id": "repo_access_20260924T170318Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T17:03:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/blob/fix/pdf-unicode-font-and-logo-header/app/assets/truesight_dao_logo_long.png",
       "detail": "path=app/assets/truesight_dao_logo_long.png branch=fix/pdf-unicode-font-and-logo-header"
-    },
-    {
-      "id": "repo_access_20260921T135220Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-21T13:52:20Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/blob/fix/pdf-unicode-font-and-logo-header/tests/test_pdf_tools.py",
-      "detail": "path=tests/test_pdf_tools.py branch=fix/pdf-unicode-font-and-logo-header"
     }
   ]
 }
