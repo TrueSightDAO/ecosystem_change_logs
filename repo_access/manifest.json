@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T13:09:00Z",
+  "updated_utc": "2026-09-24T14:33:23Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T143322Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T14:33:22Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1372",
+      "detail": "branch=fix/cert-signature-caption-collision changes=1"
+    },
     {
       "id": "repo_access_20260924T130858Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T13:08:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/tests/test_cache_satellite_clip.py",
       "detail": "path=tests/test_cache_satellite_clip.py branch=main"
-    },
-    {
-      "id": "repo_access_20260921T014217Z_sunmint",
-      "timestamp_utc": "2026-09-21T01:42:17Z",
-      "agent": "sophia",
-      "repo": "sunmint",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/cache_satellite_scenes.py",
-      "detail": "path=scripts/cache_satellite_scenes.py branch=main"
     }
   ]
 }
