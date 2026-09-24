@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T10:09:31Z",
+  "updated_utc": "2026-09-24T10:19:25Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T101924Z_capoeira",
+      "timestamp_utc": "2026-09-24T10:19:24Z",
+      "agent": "sophia",
+      "repo": "capoeira",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=47 method=squash"
+    },
     {
       "id": "repo_access_20260924T100930Z_capoeira",
       "timestamp_utc": "2026-09-24T10:09:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=390 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T000905Z_truesight-me-beta",
-      "timestamp_utc": "2026-09-21T00:09:05Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/390",
-      "detail": "branch=chore/pr9-retire-marketing-satellite-widget changes=4"
     }
   ]
 }
