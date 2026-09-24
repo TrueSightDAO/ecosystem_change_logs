@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T16:56:30Z",
+  "updated_utc": "2026-09-24T16:57:16Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T165714Z_dao-protocol",
+      "timestamp_utc": "2026-09-24T16:57:14Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/179",
+      "detail": "branch=feat/cfr-program-dispatch-routing changes=4"
+    },
     {
       "id": "repo_access_20260924T165628Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T16:56:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/497",
       "detail": "branch=feat/pr8-stalled-balance-aging-report changes=1"
-    },
-    {
-      "id": "repo_access_20260921T122026Z_truesight-me-beta",
-      "timestamp_utc": "2026-09-21T12:20:26Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=392 method=squash"
     }
   ]
 }
