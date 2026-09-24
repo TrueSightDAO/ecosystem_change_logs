@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260924T165730Z_dao-protocol",
+  "timestamp_utc": "2026-09-24T16:57:30Z",
+  "agent": "sophia",
+  "repo": "dao_protocol",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=179 method=squash"
+}
