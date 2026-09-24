@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260924T163013Z_truesight-me-beta",
+  "timestamp_utc": "2026-09-24T16:30:13Z",
+  "agent": "sophia",
+  "repo": "truesight_me_beta",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/395",
+  "detail": "branch=content/crf-anapu-acai changes=2"
+}
