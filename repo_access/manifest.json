@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T05:06:45Z",
+  "updated_utc": "2026-09-24T05:26:16Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T052615Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T05:26:15Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1352",
+      "detail": "branch=fix/sunmint-qr-center-logo changes=5"
+    },
     {
       "id": "repo_access_20260924T050643Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T05:06:43Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/cache_satellite_scenes.py",
       "detail": "path=scripts/cache_satellite_scenes.py branch=main"
-    },
-    {
-      "id": "repo_access_20260920T195752Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-20T19:57:52Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1309 method=squash"
     }
   ]
 }
