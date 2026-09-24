@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-24T21:51:36Z",
+  "updated_utc": "2026-09-24T22:08:24Z",
   "entries": [
+    {
+      "id": "repo_access_20260924T220822Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-24T22:08:22Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1402",
+      "detail": "branch=fix/cert-registry-qr-resize-from-native changes=2"
+    },
     {
       "id": "repo_access_20260924T215134Z_agentic-ai-context",
       "timestamp_utc": "2026-09-24T21:51:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v13.pdf",
       "detail": "path=handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v13.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260921T195115Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T19:51:15Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1332 method=squash"
     }
   ]
 }
