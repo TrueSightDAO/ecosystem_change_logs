@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T01:39:12Z",
+  "updated_utc": "2026-09-25T01:39:16Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T013914Z_lineage-assets",
+      "timestamp_utc": "2026-09-25T01:39:14Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024SA_20251227_33__cert.pdf",
+      "detail": "path=certs/2024SA_20251227_33__cert.pdf branch=main"
+    },
     {
       "id": "repo_access_20260925T013910Z_lineage-assets",
       "timestamp_utc": "2026-09-25T01:39:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=544 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T203809Z_tokenomics",
-      "timestamp_utc": "2026-09-21T20:38:09Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/544",
-      "detail": "branch=fix/transfer-gas-duplicate-functions-doget changes=10"
     }
   ]
 }
