@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T18:37:25Z",
+  "updated_utc": "2026-09-25T19:37:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T193704Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-25T19:37:04Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/506",
+      "detail": "branch=fix/auto-advance-registry-first-plan-scope changes=9"
+    },
     {
       "id": "repo_access_20260925T183724Z_lineage-assets",
       "timestamp_utc": "2026-09-25T18:37:24Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/templates/sunmint-certificate/templates/sunmint_certificate/render_sunmint_certificate.py",
       "detail": "path=templates/sunmint_certificate/render_sunmint_certificate.py branch=templates/sunmint-certificate"
-    },
-    {
-      "id": "repo_access_20260924T044912Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T04:49:12Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/templates/sunmint-certificate/templates/sunmint_certificate/certificate_border.png",
-      "detail": "path=templates/sunmint_certificate/certificate_border.png branch=templates/sunmint-certificate"
     }
   ]
 }
