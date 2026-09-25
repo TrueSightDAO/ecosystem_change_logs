@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T18:30:31Z",
+  "updated_utc": "2026-09-25T18:37:13Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T183711Z_lineage-assets",
+      "timestamp_utc": "2026-09-25T18:37:11Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/21",
+      "detail": "branch=keys/owner-email-pepper-wrap-public changes=3"
+    },
     {
       "id": "repo_access_20260925T183029Z_lineage-assets",
       "timestamp_utc": "2026-09-25T18:30:29Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/templates/sunmint-certificate/templates/sunmint_certificate/render_sunmint_certificate.py",
       "detail": "path=templates/sunmint_certificate/render_sunmint_certificate.py branch=templates/sunmint-certificate"
-    },
-    {
-      "id": "repo_access_20260924T044900Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T04:49:00Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1349",
-      "detail": "branch=templates/sunmint-certificate changes=2"
     }
   ]
 }
