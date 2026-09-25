@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260925T142851Z_oracle",
+  "timestamp_utc": "2026-09-25T14:28:51Z",
+  "agent": "sophia",
+  "repo": "oracle",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=72 method=squash"
+}
