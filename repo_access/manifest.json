@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T21:54:33Z",
+  "updated_utc": "2026-09-25T21:54:47Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T215446Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-25T21:54:46Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/blob/feat/thread-goal-primitive/app/thread_goal.py",
+      "detail": "path=app/thread_goal.py branch=feat/thread-goal-primitive"
+    },
     {
       "id": "repo_access_20260925T215432Z_truesight-autopilot",
       "timestamp_utc": "2026-09-25T21:54:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1360 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T061447Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T06:14:47Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1360",
-      "detail": "branch=followups/sunmint-cert-qr-print-floor changes=1"
     }
   ]
 }
