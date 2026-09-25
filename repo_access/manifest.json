@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T01:38:54Z",
+  "updated_utc": "2026-09-25T01:38:58Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T013856Z_lineage-assets",
+      "timestamp_utc": "2026-09-25T01:38:56Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024PF_20250505_28__cert.pdf",
+      "detail": "path=certs/2024PF_20250505_28__cert.pdf branch=main"
+    },
     {
       "id": "repo_access_20260925T013853Z_lineage-assets",
       "timestamp_utc": "2026-09-25T01:38:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1335 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T201237Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T20:12:37Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v14.md",
-      "detail": "path=handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v14.md branch=main"
     }
   ]
 }
