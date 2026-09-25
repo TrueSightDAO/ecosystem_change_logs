@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260925T194507Z_dapp-beta",
+  "timestamp_utc": "2026-09-25T19:45:07Z",
+  "agent": "sophia",
+  "repo": "dapp_beta",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/105",
+  "detail": "branch=feat/payout-overpay-guards changes=8"
+}
