@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T20:35:29Z",
+  "updated_utc": "2026-09-25T20:56:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T205604Z_dapp-beta",
+      "timestamp_utc": "2026-09-25T20:56:04Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/107",
+      "detail": "branch=fix/payout-program-input-not-select changes=3"
+    },
     {
       "id": "repo_access_20260925T203528Z_agentic-ai-context",
       "timestamp_utc": "2026-09-25T20:35:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1359",
       "detail": "branch=followups/qr-manifest-no-refresh-trigger changes=1"
-    },
-    {
-      "id": "repo_access_20260924T055309Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T05:53:09Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1358 method=squash"
     }
   ]
 }
