@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T20:30:32Z",
+  "updated_utc": "2026-09-25T20:31:44Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T203143Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-25T20:31:43Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1413",
+      "detail": "branch=docs/i18n-pr10b-tracker changes=4"
+    },
     {
       "id": "repo_access_20260925T203031Z_capoeira",
       "timestamp_utc": "2026-09-25T20:30:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1355 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T054724Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T05:47:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1355",
-      "detail": "branch=fix/cert-qr-print-safe-and-photo-paired changes=4"
     }
   ]
 }
