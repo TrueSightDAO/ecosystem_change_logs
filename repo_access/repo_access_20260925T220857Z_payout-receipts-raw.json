@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260925T220857Z_payout-receipts-raw",
+  "timestamp_utc": "2026-09-25T22:08:57Z",
+  "agent": "sophia",
+  "repo": "payout-receipts-raw",
+  "action": "create_repo",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/payout-receipts-raw",
+  "detail": "org=TrueSightDAO private=True"
+}
