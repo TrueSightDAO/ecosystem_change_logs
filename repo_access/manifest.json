@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T01:39:16Z",
+  "updated_utc": "2026-09-25T03:00:08Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T030007Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-25T03:00:07Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/502",
+      "detail": "branch=feat/resume-option-buttons changes=14"
+    },
     {
       "id": "repo_access_20260925T013914Z_lineage-assets",
       "timestamp_utc": "2026-09-25T01:39:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/545",
       "detail": "branch=fix/transfer-gas-resolve-failed-fail-closed changes=3"
-    },
-    {
-      "id": "repo_access_20260921T203821Z_tokenomics",
-      "timestamp_utc": "2026-09-21T20:38:21Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=544 method=squash"
     }
   ]
 }
