@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T13:42:57Z",
+  "updated_utc": "2026-09-25T13:47:02Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T134700Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-25T13:47:00Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1404",
+      "detail": "branch=docs/provenance-page-glossary changes=5"
+    },
     {
       "id": "repo_access_20260925T134256Z_oracle",
       "timestamp_utc": "2026-09-25T13:42:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1338",
       "detail": "branch=provenance/dao-origin-2017 changes=1"
-    },
-    {
-      "id": "repo_access_20260921T224439Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-21T22:44:39Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v16.md",
-      "detail": "path=handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v16.md branch=main"
     }
   ]
 }
