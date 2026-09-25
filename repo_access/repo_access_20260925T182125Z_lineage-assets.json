@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260925T182125Z_lineage-assets",
+  "timestamp_utc": "2026-09-25T18:21:25Z",
+  "agent": "sophia",
+  "repo": "lineage-assets",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/19",
+  "detail": "branch=feat/owner-email-blind-index changes=7"
+}
