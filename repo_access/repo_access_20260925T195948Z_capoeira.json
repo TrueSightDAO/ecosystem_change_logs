@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260925T195948Z_capoeira",
+  "timestamp_utc": "2026-09-25T19:59:48Z",
+  "agent": "sophia",
+  "repo": "capoeira",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/capoeira/pull/51",
+  "detail": "branch=docs/i18n-pr10 changes=2"
+}
