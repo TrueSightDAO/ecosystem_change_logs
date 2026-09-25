@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T21:54:47Z",
+  "updated_utc": "2026-09-25T21:54:53Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T215452Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-25T21:54:52Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/blob/feat/thread-goal-primitive/tests/test_thread_goal.py",
+      "detail": "path=tests/test_thread_goal.py branch=feat/thread-goal-primitive"
+    },
     {
       "id": "repo_access_20260925T215446Z_truesight-autopilot",
       "timestamp_utc": "2026-09-25T21:54:46Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/500",
       "detail": "branch=fix/telegram-reply-context changes=3"
-    },
-    {
-      "id": "repo_access_20260924T061500Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T06:15:00Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1360 method=squash"
     }
   ]
 }
