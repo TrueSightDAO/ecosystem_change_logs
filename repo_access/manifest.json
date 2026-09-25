@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T17:29:58Z",
+  "updated_utc": "2026-09-25T17:33:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T173305Z_lineage-assets",
+      "timestamp_utc": "2026-09-25T17:33:05Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/18",
+      "detail": "branch=feat/sheet-deeplink-per-qr changes=7"
+    },
     {
       "id": "repo_access_20260925T172957Z_lineage-assets",
       "timestamp_utc": "2026-09-25T17:29:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1344",
       "detail": "branch=docs/tree02-photo-supersession-note changes=2"
-    },
-    {
-      "id": "repo_access_20260923T214538Z_sunmint",
-      "timestamp_utc": "2026-09-23T21:45:38Z",
-      "agent": "sophia",
-      "repo": "sunmint",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/images/20260902_bomsucesso_tree02.jpg",
-      "detail": "path=images/20260902_bomsucesso_tree02.jpg branch=main"
     }
   ]
 }
