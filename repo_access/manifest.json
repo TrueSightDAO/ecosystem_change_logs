@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T21:54:53Z",
+  "updated_utc": "2026-09-25T21:57:36Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T215734Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-25T21:57:34Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=509 method=squash"
+    },
     {
       "id": "repo_access_20260925T215452Z_truesight-autopilot",
       "timestamp_utc": "2026-09-25T21:54:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=43 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T084232Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-24T08:42:32Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/500",
-      "detail": "branch=fix/telegram-reply-context changes=3"
     }
   ]
 }
