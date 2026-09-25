@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260925T013910Z_lineage-assets",
+  "timestamp_utc": "2026-09-25T01:39:10Z",
+  "agent": "sophia",
+  "repo": "lineage-assets",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024OSR_81PB_20260412_4__cert.pdf",
+  "detail": "path=certs/2024OSR_81PB_20260412_4__cert.pdf branch=main"
+}
