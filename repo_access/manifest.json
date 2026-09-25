@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T03:00:08Z",
+  "updated_utc": "2026-09-25T03:46:24Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T034622Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-25T03:46:22Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=502 method=squash"
+    },
     {
       "id": "repo_access_20260925T030007Z_truesight-autopilot",
       "timestamp_utc": "2026-09-25T03:00:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=545 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T204233Z_tokenomics",
-      "timestamp_utc": "2026-09-21T20:42:33Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/545",
-      "detail": "branch=fix/transfer-gas-resolve-failed-fail-closed changes=3"
     }
   ]
 }
