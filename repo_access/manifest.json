@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T01:39:02Z",
+  "updated_utc": "2026-09-25T01:39:08Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T013907Z_lineage-assets",
+      "timestamp_utc": "2026-09-25T01:39:07Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024OSR_81PB_20260412_3__cert.pdf",
+      "detail": "path=certs/2024OSR_81PB_20260412_3__cert.pdf branch=main"
+    },
     {
       "id": "repo_access_20260925T013901Z_lineage-assets",
       "timestamp_utc": "2026-09-25T01:39:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=326 method=squash"
-    },
-    {
-      "id": "repo_access_20260921T201547Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-09-21T20:15:47Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/326",
-      "detail": "branch=feat/itacare-cultural-page-richer changes=10"
     }
   ]
 }
