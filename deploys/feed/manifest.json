@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T14:08:41Z",
+  "updated_utc": "2026-09-25T18:48:51Z",
   "entries": [
+    {
+      "id": "deploy_20260925T184848Z_autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20260925T184848Z",
+      "target_type": "ec2",
+      "target_id": "autopilot",
+      "action": "deploy_autopilot (local)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260925-22",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/8770fe18bdbfca46ac1fc7ac48d4397499b56c9d",
+      "notes": "autopilot restarted onto 8770fe18bdbfca46ac1fc7ac48d4397499b56c9d; marker processed on boot."
+    },
     {
       "id": "deploy_20260925T140837Z_autopilot",
       "agent": "sophia",
@@ -2580,19 +2593,6 @@
       "id": "deploy_20260829T220925Z_autopilot",
       "agent": "sophia",
       "timestamp_utc": "20260829T220925Z",
-      "target_type": "ec2",
-      "target_id": "autopilot",
-      "action": "deploy_autopilot (local)",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "L-20260829-06",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/bf5d5dd154e76162b096e6b17e025f9b5769288d",
-      "notes": "autopilot restarted onto bf5d5dd154e76162b096e6b17e025f9b5769288d; marker processed on boot."
-    },
-    {
-      "id": "deploy_20260829T220554Z_autopilot",
-      "agent": "sophia",
-      "timestamp_utc": "20260829T220554Z",
       "target_type": "ec2",
       "target_id": "autopilot",
       "action": "deploy_autopilot (local)",
