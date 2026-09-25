@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T18:21:27Z",
+  "updated_utc": "2026-09-25T18:22:28Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T182227Z_lineage-assets",
+      "timestamp_utc": "2026-09-25T18:22:27Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=19 method=squash"
+    },
     {
       "id": "repo_access_20260925T182125Z_lineage-assets",
       "timestamp_utc": "2026-09-25T18:21:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1348",
       "detail": "branch=sop/sunmint-certificate-rev2 changes=1"
-    },
-    {
-      "id": "repo_access_20260924T044347Z_capoeira",
-      "timestamp_utc": "2026-09-24T04:43:47Z",
-      "agent": "sophia",
-      "repo": "capoeira",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=42 method=squash"
     }
   ]
 }
