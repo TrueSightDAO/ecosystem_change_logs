@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260925T172857Z_capoeira",
+  "timestamp_utc": "2026-09-25T17:28:57Z",
+  "agent": "sophia",
+  "repo": "capoeira",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=50 method=squash"
+}
