@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T17:51:45Z",
+  "updated_utc": "2026-09-25T17:54:14Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T175413Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-25T17:54:13Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/505",
+      "detail": "branch=fix/handoff-status-cell-terminal-scan changes=5"
+    },
     {
       "id": "repo_access_20260925T175144Z_agent-handoffs",
       "timestamp_utc": "2026-09-25T17:51:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T042413Z_signature-assets",
-      "timestamp_utc": "2026-09-24T04:24:13Z",
-      "agent": "sophia",
-      "repo": "signature_assets",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/signature_assets/pull/1",
-      "detail": "branch=docs/sophia-signature-provenance changes=1"
     }
   ]
 }
