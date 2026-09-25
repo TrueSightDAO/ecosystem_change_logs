@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T19:44:27Z",
+  "updated_utc": "2026-09-25T19:45:08Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T194507Z_dapp-beta",
+      "timestamp_utc": "2026-09-25T19:45:07Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/105",
+      "detail": "branch=feat/payout-overpay-guards changes=8"
+    },
     {
       "id": "repo_access_20260925T194425Z_truesight-autopilot",
       "timestamp_utc": "2026-09-25T19:44:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1351",
       "detail": "branch=sop/sunmint-certificate-photo-left changes=7"
-    },
-    {
-      "id": "repo_access_20260924T045215Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T04:52:15Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1350",
-      "detail": "branch=templates/sunmint-certificate-qr-dpi changes=1"
     }
   ]
 }
