@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T19:37:06Z",
+  "updated_utc": "2026-09-25T19:39:25Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T193924Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-25T19:39:24Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=506 method=squash"
+    },
     {
       "id": "repo_access_20260925T193704Z_truesight-autopilot",
       "timestamp_utc": "2026-09-25T19:37:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1349 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T044958Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T04:49:58Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/templates/sunmint-certificate/templates/sunmint_certificate/render_sunmint_certificate.py",
-      "detail": "path=templates/sunmint_certificate/render_sunmint_certificate.py branch=templates/sunmint-certificate"
     }
   ]
 }
