@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T20:02:12Z",
+  "updated_utc": "2026-09-25T20:05:45Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T200544Z_dapp-beta",
+      "timestamp_utc": "2026-09-25T20:05:44Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/106",
+      "detail": "branch=feat/payout-tree-picker-optional-program changes=11"
+    },
     {
       "id": "repo_access_20260925T200210Z_truesight-autopilot",
       "timestamp_utc": "2026-09-25T20:02:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1354 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T054015Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T05:40:15Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1354",
-      "detail": "branch=fix/qr-size-196-k4 changes=1"
     }
   ]
 }
