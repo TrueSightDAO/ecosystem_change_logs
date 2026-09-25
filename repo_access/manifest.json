@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T17:54:14Z",
+  "updated_utc": "2026-09-25T17:54:27Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T175426Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-25T17:54:26Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=505 method=squash"
+    },
     {
       "id": "repo_access_20260925T175413Z_truesight-autopilot",
       "timestamp_utc": "2026-09-25T17:54:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/signature_assets/pull/2",
       "detail": "branch=sophia/gestural-signature-mark changes=1"
-    },
-    {
-      "id": "repo_access_20260924T042422Z_signature-assets",
-      "timestamp_utc": "2026-09-24T04:24:22Z",
-      "agent": "sophia",
-      "repo": "signature_assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1 method=squash"
     }
   ]
 }
