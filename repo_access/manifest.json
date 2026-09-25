@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T17:47:48Z",
+  "updated_utc": "2026-09-25T17:51:45Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T175144Z_agent-handoffs",
+      "timestamp_utc": "2026-09-25T17:51:44Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260925T175143Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20260925T175143Z.json branch=main"
+    },
     {
       "id": "repo_access_20260925T174746Z_agentic-ai-context",
       "timestamp_utc": "2026-09-25T17:47:46Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/signature_assets/pull/1",
       "detail": "branch=docs/sophia-signature-provenance changes=1"
-    },
-    {
-      "id": "repo_access_20260924T042405Z_signature-assets",
-      "timestamp_utc": "2026-09-24T04:24:05Z",
-      "agent": "sophia",
-      "repo": "signature_assets",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/signature_assets/blob/main/sophia_truesight/sophia_truesight_signature_transparent.png",
-      "detail": "path=sophia_truesight/sophia_truesight_signature_transparent.png branch=main"
     }
   ]
 }
