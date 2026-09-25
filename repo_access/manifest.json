@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T14:28:53Z",
+  "updated_utc": "2026-09-25T14:29:01Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T142900Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-25T14:29:00Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1408 method=squash"
+    },
     {
       "id": "repo_access_20260925T142851Z_oracle",
       "timestamp_utc": "2026-09-25T14:28:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/archive/sebrae-emissor-nfe-manual/brazil/sources/2026-06_sebrae_emissor_nfe_manual_v10_PT.pdf",
       "detail": "path=brazil/sources/2026-06_sebrae_emissor_nfe_manual_v10_PT.pdf branch=archive/sebrae-emissor-nfe-manual"
-    },
-    {
-      "id": "repo_access_20260922T154414Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-22T15:44:14Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1340",
-      "detail": "branch=archive/sebrae-emissor-nfe-manual changes=2"
     }
   ]
 }
