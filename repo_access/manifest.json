@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T16:58:59Z",
+  "updated_utc": "2026-09-25T17:04:54Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T170452Z_lineage-assets",
+      "timestamp_utc": "2026-09-25T17:04:52Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024OSCAR_20260121_1__cert.pdf",
+      "detail": "path=certs/2024OSCAR_20260121_1__cert.pdf branch=main"
+    },
     {
       "id": "repo_access_20260925T165858Z_capoeira",
       "timestamp_utc": "2026-09-25T16:58:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/oracle/pull/68",
       "detail": "branch=fix/print-fulltext changes=3"
-    },
-    {
-      "id": "repo_access_20260922T195443Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-22T19:54:43Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1343 method=squash"
     }
   ]
 }
