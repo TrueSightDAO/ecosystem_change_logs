@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260925T203329Z_agentic-ai-context",
+  "timestamp_utc": "2026-09-25T20:33:29Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1414",
+  "detail": "branch=docs/i18n-manifest-row-uat changes=2"
+}
