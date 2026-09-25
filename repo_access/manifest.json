@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T13:49:52Z",
+  "updated_utc": "2026-09-25T14:12:29Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T141227Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-25T14:12:27Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1405",
+      "detail": "branch=docs/thread35944-v37-followup changes=5"
+    },
     {
       "id": "repo_access_20260925T134950Z_truesight-autopilot",
       "timestamp_utc": "2026-09-25T13:49:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=546 method=squash"
-    },
-    {
-      "id": "repo_access_20260922T112951Z_tokenomics",
-      "timestamp_utc": "2026-09-22T11:29:51Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/546",
-      "detail": "branch=fix/transfer-abort-invalid-state-write changes=5"
     }
   ]
 }
