@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T15:09:22Z",
+  "updated_utc": "2026-09-25T15:28:51Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T152850Z_tokenomics",
+      "timestamp_utc": "2026-09-25T15:28:50Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=555 method=squash"
+    },
     {
       "id": "repo_access_20260925T150920Z_tokenomics",
       "timestamp_utc": "2026-09-25T15:09:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1343",
       "detail": "branch=docs/followup-residual-ledger-dups-getdata changes=1"
-    },
-    {
-      "id": "repo_access_20260922T194727Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-22T19:47:27Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1342 method=squash"
     }
   ]
 }
