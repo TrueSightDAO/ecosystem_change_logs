@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T14:12:48Z",
+  "updated_utc": "2026-09-25T14:15:09Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T141507Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-25T14:15:07Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1406",
+      "detail": "branch=docs/provenance-badge-correction changes=3"
+    },
     {
       "id": "repo_access_20260925T141246Z_oracle",
       "timestamp_utc": "2026-09-25T14:12:46Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/siscomex-representante-tutorial-artifact/brazil/sources/2026-05-18_omega_siscomex_representante_tutorial.pdf",
       "detail": "path=brazil/sources/2026-05-18_omega_siscomex_representante_tutorial.pdf branch=docs/siscomex-representante-tutorial-artifact"
-    },
-    {
-      "id": "repo_access_20260922T130939Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-22T13:09:39Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1339",
-      "detail": "branch=docs/siscomex-representante-tutorial-artifact changes=6"
     }
   ]
 }
