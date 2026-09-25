@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T17:29:48Z",
+  "updated_utc": "2026-09-25T17:29:58Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T172957Z_lineage-assets",
+      "timestamp_utc": "2026-09-25T17:29:57Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=17 method=squash"
+    },
     {
       "id": "repo_access_20260925T172947Z_lineage-assets",
       "timestamp_utc": "2026-09-25T17:29:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/images/20260902_bomsucesso_tree02.jpg",
       "detail": "path=images/20260902_bomsucesso_tree02.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20260923T150819Z_fda-fsvp",
-      "timestamp_utc": "2026-09-23T15:08:19Z",
-      "agent": "sophia",
-      "repo": "fda_fsvp",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=32 method=squash"
     }
   ]
 }
