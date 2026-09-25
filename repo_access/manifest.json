@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T17:33:06Z",
+  "updated_utc": "2026-09-25T17:33:16Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T173315Z_lineage-assets",
+      "timestamp_utc": "2026-09-25T17:33:15Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=18 method=squash"
+    },
     {
       "id": "repo_access_20260925T173305Z_lineage-assets",
       "timestamp_utc": "2026-09-25T17:33:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1344 method=squash"
-    },
-    {
-      "id": "repo_access_20260923T214641Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-23T21:46:41Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1344",
-      "detail": "branch=docs/tree02-photo-supersession-note changes=2"
     }
   ]
 }
