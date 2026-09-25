@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T17:26:23Z",
+  "updated_utc": "2026-09-25T17:26:35Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T172633Z_lineage-assets",
+      "timestamp_utc": "2026-09-25T17:26:33Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=16 method=squash"
+    },
     {
       "id": "repo_access_20260925T172621Z_lineage-assets",
       "timestamp_utc": "2026-09-25T17:26:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/pull/32",
       "detail": "branch=docs/archive-sebrae-nfe-manual changes=1"
-    },
-    {
-      "id": "repo_access_20260922T205753Z_oracle",
-      "timestamp_utc": "2026-09-22T20:57:53Z",
-      "agent": "sophia",
-      "repo": "oracle",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=68 method=squash"
     }
   ]
 }
