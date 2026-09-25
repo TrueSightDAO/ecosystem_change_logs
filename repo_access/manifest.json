@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T17:42:59Z",
+  "updated_utc": "2026-09-25T17:46:46Z",
   "entries": [
+    {
+      "id": "repo_access_20260925T174644Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-25T17:46:44Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1411",
+      "detail": "branch=plan/sophia-goal-loop-and-brain changes=1"
+    },
     {
       "id": "repo_access_20260925T174258Z_dapp-beta",
       "timestamp_utc": "2026-09-25T17:42:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=499 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T021125Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-24T02:11:25Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/499",
-      "detail": "branch=fix/tree-link-precondition-duplicate-guard changes=4"
     }
   ]
 }
