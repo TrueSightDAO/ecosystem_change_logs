@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T21:46:29Z",
+  "updated_utc": "2026-09-26T21:47:23Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T214722Z_tokenomics",
+      "timestamp_utc": "2026-09-26T21:47:22Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "branch=fix/graft-link-harness-tests changes=1"
+    },
     {
       "id": "repo_access_20260926T214628Z_tokenomics",
       "timestamp_utc": "2026-09-26T21:46:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/13",
       "detail": "branch=fix/append-only-events-and-truthful-dryrun changes=5"
-    },
-    {
-      "id": "repo_access_20260924T180213Z_lineage-assets",
-      "timestamp_utc": "2026-09-24T18:02:13Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=12 method=squash"
     }
   ]
 }
