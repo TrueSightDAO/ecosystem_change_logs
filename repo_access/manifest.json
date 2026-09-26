@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T18:48:35Z",
+  "updated_utc": "2026-09-26T18:54:41Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T185440Z_tokenomics",
+      "timestamp_utc": "2026-09-26T18:54:40Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/568",
+      "detail": "branch=feat/sunmint-txid-dedup-col-v changes=12"
+    },
     {
       "id": "repo_access_20260926T184834Z_agentic-ai-context",
       "timestamp_utc": "2026-09-26T18:48:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1389 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T171858Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T17:18:58Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1389",
-      "detail": "branch=docs/sunmint-ledger-manager-sa-2 changes=4"
     }
   ]
 }
