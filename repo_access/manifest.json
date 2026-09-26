@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T21:48:11Z",
+  "updated_utc": "2026-09-26T21:48:24Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T214823Z_tokenomics",
+      "timestamp_utc": "2026-09-26T21:48:23Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=571 method=squash"
+    },
     {
       "id": "repo_access_20260926T214810Z_tokenomics",
       "timestamp_utc": "2026-09-26T21:48:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1397",
       "detail": "branch=docs/gas-scanner-convention-crosslink changes=4"
-    },
-    {
-      "id": "repo_access_20260924T181158Z_lineage-assets",
-      "timestamp_utc": "2026-09-24T18:11:58Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=13 method=squash"
     }
   ]
 }
