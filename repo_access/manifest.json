@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T09:09:26Z",
+  "updated_utc": "2026-09-26T15:31:13Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T153112Z_dapp-beta",
+      "timestamp_utc": "2026-09-26T15:31:12Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=115 method=squash"
+    },
     {
       "id": "repo_access_20260926T090925Z_tokenomics",
       "timestamp_utc": "2026-09-26T09:09:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1375 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T161609Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T16:16:09Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1375",
-      "detail": "branch=followups/payout-registration-sink-never-ingests changes=1"
     }
   ]
 }
