@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T18:55:06Z",
+  "updated_utc": "2026-09-26T18:56:46Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T185645Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-26T18:56:45Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1421",
+      "detail": "branch=docs/sunmint-txid-shipped-and-consolidated-deploy-runbook changes=3"
+    },
     {
       "id": "repo_access_20260926T185505Z_tokenomics",
       "timestamp_utc": "2026-09-26T18:55:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint_beta/pull/86",
       "detail": "branch=feat/species-acai-option changes=3"
-    },
-    {
-      "id": "repo_access_20260924T171935Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T17:19:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1388 method=squash"
     }
   ]
 }
