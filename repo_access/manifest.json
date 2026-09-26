@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T07:44:23Z",
+  "updated_utc": "2026-09-26T07:48:13Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T074812Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-26T07:48:12Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/515",
+      "detail": "branch=fix/tool-call-log-redaction-and-branch-remote-sweep changes=7"
+    },
     {
       "id": "repo_access_20260926T074422Z_truesight-autopilot",
       "timestamp_utc": "2026-09-26T07:44:22Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024OSCAR_CB_20260620_1__cert.pdf",
       "detail": "path=certs/2024OSCAR_CB_20260620_1__cert.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260924T155450Z_capoeira",
-      "timestamp_utc": "2026-09-24T15:54:50Z",
-      "agent": "sophia",
-      "repo": "capoeira",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=48 method=squash"
     }
   ]
 }
