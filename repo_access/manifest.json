@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T17:05:53Z",
+  "updated_utc": "2026-09-26T17:13:18Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T171316Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-09-26T17:13:16Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/328",
+      "detail": "branch=fix/sectioned-farm-gallery-render changes=4"
+    },
     {
       "id": "repo_access_20260926T170552Z_dapp-beta",
       "timestamp_utc": "2026-09-26T17:05:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1381",
       "detail": "branch=followup/sunmint-index-freeze-correction changes=4"
-    },
-    {
-      "id": "repo_access_20260924T165342Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T16:53:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1380",
-      "detail": "branch=followup/rebuild-tree-index-403-credential changes=1"
     }
   ]
 }
