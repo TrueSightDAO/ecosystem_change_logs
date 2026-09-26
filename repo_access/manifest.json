@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T07:48:13Z",
+  "updated_utc": "2026-09-26T07:48:28Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T074827Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-26T07:48:27Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=515 method=squash"
+    },
     {
       "id": "repo_access_20260926T074812Z_truesight-autopilot",
       "timestamp_utc": "2026-09-26T07:48:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260924T155826Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20260924T155826Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20260924T155720Z_lineage-assets",
-      "timestamp_utc": "2026-09-24T15:57:20Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024OSCAR_CB_20260620_1__cert.pdf",
-      "detail": "path=certs/2024OSCAR_CB_20260620_1__cert.pdf branch=main"
     }
   ]
 }
