@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T17:21:53Z",
+  "updated_utc": "2026-09-26T17:27:52Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T172751Z_sunmint",
+      "timestamp_utc": "2026-09-26T17:27:51Z",
+      "agent": "sophia",
+      "repo": "sunmint",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/build_tree_geojson.py",
+      "detail": "path=scripts/build_tree_geojson.py branch=main"
+    },
     {
       "id": "repo_access_20260926T172151Z_dapp-beta",
       "timestamp_utc": "2026-09-26T17:21:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/179",
       "detail": "branch=feat/cfr-program-dispatch-routing changes=4"
-    },
-    {
-      "id": "repo_access_20260924T165628Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T16:56:28Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1380 method=squash"
     }
   ]
 }
