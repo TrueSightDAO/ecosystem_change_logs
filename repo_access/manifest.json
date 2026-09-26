@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T00:22:38Z",
+  "updated_utc": "2026-09-26T00:23:51Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T002350Z_tokenomics",
+      "timestamp_utc": "2026-09-26T00:23:50Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/560",
+      "detail": "branch=feat/backfill-payout-registrations changes=4"
+    },
     {
       "id": "repo_access_20260926T002237Z_tokenomics",
       "timestamp_utc": "2026-09-26T00:22:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1370 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T103703Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T10:37:03Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1369 method=squash"
     }
   ]
 }
