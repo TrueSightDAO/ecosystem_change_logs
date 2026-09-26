@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T18:33:51Z",
+  "updated_utc": "2026-09-26T18:37:11Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T183709Z_tokenomics",
+      "timestamp_utc": "2026-09-26T18:37:09Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=567 method=squash"
+    },
     {
       "id": "repo_access_20260926T183350Z_tokenomics",
       "timestamp_utc": "2026-09-26T18:33:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1386",
       "detail": "branch=fix/sunmint-index-freeze-resolved changes=1"
-    },
-    {
-      "id": "repo_access_20260924T171247Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T17:12:47Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1385 method=squash"
     }
   ]
 }
