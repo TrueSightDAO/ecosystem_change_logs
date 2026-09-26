@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T16:54:36Z",
+  "updated_utc": "2026-09-26T16:55:15Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T165514Z_dapp-beta",
+      "timestamp_utc": "2026-09-26T16:55:14Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=117 method=squash"
+    },
     {
       "id": "repo_access_20260926T165434Z_dapp-beta",
       "timestamp_utc": "2026-09-26T16:54:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1378",
       "detail": "branch=docs/cfr-anapu-pr2-blocked-correction changes=6"
-    },
-    {
-      "id": "repo_access_20260924T163715Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T16:37:15Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1377 method=squash"
     }
   ]
 }
