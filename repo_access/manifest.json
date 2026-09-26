@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-25T22:34:48Z",
+  "updated_utc": "2026-09-26T00:08:17Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T000816Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-26T00:08:16Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1416",
+      "detail": "branch=docs/goal-loop-tracker-a1a3 changes=5"
+    },
     {
       "id": "repo_access_20260925T223446Z_truesight-autopilot",
       "timestamp_utc": "2026-09-25T22:34:46Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1365 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T102325Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T10:23:25Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1365",
-      "detail": "branch=docs/telegram-reply-context-pr3-followups changes=2"
     }
   ]
 }
