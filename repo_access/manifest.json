@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T17:27:56Z",
+  "updated_utc": "2026-09-26T17:29:45Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T172944Z_dapp-beta",
+      "timestamp_utc": "2026-09-26T17:29:44Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=123 method=squash"
+    },
     {
       "id": "repo_access_20260926T172754Z_sunmint",
       "timestamp_utc": "2026-09-26T17:27:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/cfr-anapu/pull/13",
       "detail": "branch=content/acai-cfr-main changes=3"
-    },
-    {
-      "id": "repo_access_20260924T165730Z_dao-protocol",
-      "timestamp_utc": "2026-09-24T16:57:30Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=179 method=squash"
     }
   ]
 }
