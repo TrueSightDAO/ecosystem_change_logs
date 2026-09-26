@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T04:09:59Z",
+  "updated_utc": "2026-09-26T07:44:23Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T074422Z_truesight-autopilot",
+      "timestamp_utc": "2026-09-26T07:44:22Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=514 method=squash"
+    },
     {
       "id": "repo_access_20260926T040958Z_truesight-autopilot",
       "timestamp_utc": "2026-09-26T04:09:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=48 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T153407Z_sunmint",
-      "timestamp_utc": "2026-09-24T15:34:07Z",
-      "agent": "sophia",
-      "repo": "sunmint",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/fix/tree-index-canonical-tree-id/SCHEMA.md",
-      "detail": "path=SCHEMA.md branch=fix/tree-index-canonical-tree-id"
     }
   ]
 }
