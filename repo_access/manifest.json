@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T21:38:44Z",
+  "updated_utc": "2026-09-26T21:46:29Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T214628Z_tokenomics",
+      "timestamp_utc": "2026-09-26T21:46:28Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/570",
+      "detail": "branch=fix/collapse-graft-link-onto-survivor changes=2"
+    },
     {
       "id": "repo_access_20260926T213842Z_tokenomics",
       "timestamp_utc": "2026-09-26T21:38:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=12 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T180101Z_lineage-assets",
-      "timestamp_utc": "2026-09-24T18:01:01Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/12",
-      "detail": "branch=feat/seed-linked-tree-from-sunmint changes=11"
     }
   ]
 }
