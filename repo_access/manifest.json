@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T00:57:02Z",
+  "updated_utc": "2026-09-26T01:15:05Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T011503Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-26T01:15:03Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1417",
+      "detail": "branch=docs/box-git-push-restore-20260926 changes=2"
+    },
     {
       "id": "repo_access_20260926T005701Z_agroverse-shop-beta",
       "timestamp_utc": "2026-09-26T00:57:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/fix/tree-index-canonical-tree-id/scripts/build_tree_geojson.py",
       "detail": "path=scripts/build_tree_geojson.py branch=fix/tree-index-canonical-tree-id"
-    },
-    {
-      "id": "repo_access_20260924T150410Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T15:04:10Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1373 method=squash"
     }
   ]
 }
