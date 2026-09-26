@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T19:04:27Z",
+  "updated_utc": "2026-09-26T19:21:55Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T192153Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-09-26T19:21:53Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=330 method=squash"
+    },
     {
       "id": "repo_access_20260926T190425Z_agentic-ai-context",
       "timestamp_utc": "2026-09-26T19:04:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/551",
       "detail": "branch=feat/gas-scanner-doget-convention changes=4"
-    },
-    {
-      "id": "repo_access_20260924T172228Z_cfr-anapu",
-      "timestamp_utc": "2026-09-24T17:22:28Z",
-      "agent": "sophia",
-      "repo": "cfr-anapu",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=14 method=squash"
     }
   ]
 }
