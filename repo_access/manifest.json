@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T17:01:49Z",
+  "updated_utc": "2026-09-26T17:03:42Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T170341Z_dapp-beta",
+      "timestamp_utc": "2026-09-26T17:03:41Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=119 method=squash"
+    },
     {
       "id": "repo_access_20260926T170148Z_dapp-beta",
       "timestamp_utc": "2026-09-26T17:01:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/cfr-anapu/pull/12",
       "detail": "branch=content/acai-revendor changes=3"
-    },
-    {
-      "id": "repo_access_20260924T165111Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T16:51:11Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1379 method=squash"
     }
   ]
 }
