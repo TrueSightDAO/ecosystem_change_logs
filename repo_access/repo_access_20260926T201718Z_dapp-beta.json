@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260926T201718Z_dapp-beta",
+  "timestamp_utc": "2026-09-26T20:17:18Z",
+  "agent": "sophia",
+  "repo": "dapp_beta",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/125",
+  "detail": "branch=fix/overpay-txid-dedup changes=10"
+}
