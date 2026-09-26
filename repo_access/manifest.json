@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T20:08:18Z",
+  "updated_utc": "2026-09-26T20:08:22Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T200820Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-26T20:08:20Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/deck/v21-quilombola/handoffs/liz_bahia_deck/build2.sh",
+      "detail": "path=handoffs/liz_bahia_deck/build2.sh branch=deck/v21-quilombola"
+    },
     {
       "id": "repo_access_20260926T200816Z_agentic-ai-context",
       "timestamp_utc": "2026-09-26T20:08:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1394 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T173017Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-24T17:30:17Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1394",
-      "detail": "branch=docs/cfr-acai-contribution-reported changes=2"
     }
   ]
 }
