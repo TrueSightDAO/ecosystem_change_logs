@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T20:32:24Z",
+  "updated_utc": "2026-09-26T21:12:23Z",
   "entries": [
+    {
+      "id": "repo_access_20260926T211222Z_farm-media-manifests",
+      "timestamp_utc": "2026-09-26T21:12:22Z",
+      "agent": "sophia",
+      "repo": "farm_media_manifests",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=3 method=squash"
+    },
     {
       "id": "repo_access_20260926T203223Z_dapp-beta",
       "timestamp_utc": "2026-09-26T20:32:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1395 method=squash"
-    },
-    {
-      "id": "repo_access_20260924T173418Z_sunmint",
-      "timestamp_utc": "2026-09-24T17:34:18Z",
-      "agent": "sophia",
-      "repo": "sunmint",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/tests/test_build_index_loud_failure.py",
-      "detail": "path=tests/test_build_index_loud_failure.py branch=main"
     }
   ]
 }
