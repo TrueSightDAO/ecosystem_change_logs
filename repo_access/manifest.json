@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-27T19:48:54Z",
+  "updated_utc": "2026-09-27T19:49:00Z",
   "entries": [
+    {
+      "id": "repo_access_20260927T194859Z_dapp-beta",
+      "timestamp_utc": "2026-09-27T19:48:59Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=130 method=squash"
+    },
     {
       "id": "repo_access_20260927T194852Z_dapp-beta",
       "timestamp_utc": "2026-09-27T19:48:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1408 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T142851Z_oracle",
-      "timestamp_utc": "2026-09-25T14:28:51Z",
-      "agent": "sophia",
-      "repo": "oracle",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=72 method=squash"
     }
   ]
 }
