@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-27T18:37:48Z",
+  "updated_utc": "2026-09-27T18:44:10Z",
   "entries": [
+    {
+      "id": "repo_access_20260927T184408Z_lineage-assets",
+      "timestamp_utc": "2026-09-27T18:44:08Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/26",
+      "detail": "branch=feat/burnin-gps-grok-reader changes=2"
+    },
     {
       "id": "repo_access_20260927T183746Z_lineage-assets",
       "timestamp_utc": "2026-09-27T18:37:46Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024SA_20251227_35__cert.pdf",
       "detail": "path=certs/2024SA_20251227_35__cert.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260925T034622Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-25T03:46:22Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=502 method=squash"
     }
   ]
 }
