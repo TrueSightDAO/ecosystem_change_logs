@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-27T19:15:29Z",
+  "updated_utc": "2026-09-27T19:17:11Z",
   "entries": [
+    {
+      "id": "repo_access_20260927T191710Z_lineage-assets",
+      "timestamp_utc": "2026-09-27T19:17:10Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=28 method=squash"
+    },
     {
       "id": "repo_access_20260927T191528Z_lineage-assets",
       "timestamp_utc": "2026-09-27T19:15:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/oracle/pull/72",
       "detail": "branch=fix/hexagram-chinese-global-collision changes=5"
-    },
-    {
-      "id": "repo_access_20260925T141227Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-25T14:12:27Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1405",
-      "detail": "branch=docs/thread35944-v37-followup changes=5"
     }
   ]
 }
