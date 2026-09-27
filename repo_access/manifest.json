@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-27T03:39:27Z",
+  "updated_utc": "2026-09-27T04:10:04Z",
   "entries": [
+    {
+      "id": "repo_access_20260927T041002Z_agent-handoffs",
+      "timestamp_utc": "2026-09-27T04:10:02Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/claude_from_sophia_20260927T041001Z.json",
+      "detail": "path=handoffs/claude_from_sophia_20260927T041001Z.json branch=main"
+    },
     {
       "id": "repo_access_20260927T033926Z_agent-handoffs",
       "timestamp_utc": "2026-09-27T03:39:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024OSR_81PB_20260412_4__cert.pdf",
       "detail": "path=certs/2024OSR_81PB_20260412_4__cert.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260925T013907Z_lineage-assets",
-      "timestamp_utc": "2026-09-25T01:39:07Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024OSR_81PB_20260412_3__cert.pdf",
-      "detail": "path=certs/2024OSR_81PB_20260412_3__cert.pdf branch=main"
     }
   ]
 }
