@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T23:47:32Z",
+  "updated_utc": "2026-09-27T00:09:31Z",
   "entries": [
+    {
+      "id": "repo_access_20260927T000930Z_dapp-beta",
+      "timestamp_utc": "2026-09-27T00:09:30Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/128",
+      "detail": "branch=fix/overpay-reason-inline-on-card changes=6"
+    },
     {
       "id": "repo_access_20260926T234731Z_truesight-autopilot",
       "timestamp_utc": "2026-09-26T23:47:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024PF_20250505_28__cert.pdf",
       "detail": "path=certs/2024PF_20250505_28__cert.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260925T013853Z_lineage-assets",
-      "timestamp_utc": "2026-09-25T01:38:53Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2023SA_81PB_20260412_1__cert.pdf",
-      "detail": "path=certs/2023SA_81PB_20260412_1__cert.pdf branch=main"
     }
   ]
 }
