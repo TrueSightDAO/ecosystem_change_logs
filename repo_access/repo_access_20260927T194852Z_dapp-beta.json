@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260927T194852Z_dapp-beta",
+  "timestamp_utc": "2026-09-27T19:48:52Z",
+  "agent": "sophia",
+  "repo": "dapp_beta",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/130",
+  "detail": "branch=fix/same-fix-window-0-15m changes=5"
+}
