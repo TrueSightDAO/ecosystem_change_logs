@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260927T184806Z_lineage-assets",
+  "timestamp_utc": "2026-09-27T18:48:06Z",
+  "agent": "sophia",
+  "repo": "lineage-assets",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/27",
+  "detail": "branch=feat/coord-resolution-pipeline changes=7"
+}
