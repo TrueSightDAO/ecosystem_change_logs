@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260927T191000Z_dapp-beta",
+  "timestamp_utc": "2026-09-27T19:10:00Z",
+  "agent": "sophia",
+  "repo": "dapp_beta",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/129",
+  "detail": "branch=fix/overpay-same-fix-guard changes=28"
+}
