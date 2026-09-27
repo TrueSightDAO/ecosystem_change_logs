@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-27T18:44:22Z",
+  "updated_utc": "2026-09-27T18:48:07Z",
   "entries": [
+    {
+      "id": "repo_access_20260927T184806Z_lineage-assets",
+      "timestamp_utc": "2026-09-27T18:48:06Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/27",
+      "detail": "branch=feat/coord-resolution-pipeline changes=7"
+    },
     {
       "id": "repo_access_20260927T184421Z_lineage-assets",
       "timestamp_utc": "2026-09-27T18:44:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/oracle/pull/71",
       "detail": "branch=feat/hexagram-chinese-names changes=8"
-    },
-    {
-      "id": "repo_access_20260925T134142Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-25T13:41:42Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=503 method=squash"
     }
   ]
 }
