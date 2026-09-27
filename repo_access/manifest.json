@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-27T04:14:17Z",
+  "updated_utc": "2026-09-27T18:37:33Z",
   "entries": [
+    {
+      "id": "repo_access_20260927T183732Z_lineage-assets",
+      "timestamp_utc": "2026-09-27T18:37:32Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/25",
+      "detail": "branch=feat/coord-resolution-exif-burnin changes=3"
+    },
     {
       "id": "repo_access_20260927T041415Z_agent-handoffs",
       "timestamp_utc": "2026-09-27T04:14:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/502",
       "detail": "branch=feat/resume-option-buttons changes=14"
-    },
-    {
-      "id": "repo_access_20260925T013914Z_lineage-assets",
-      "timestamp_utc": "2026-09-25T01:39:14Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024SA_20251227_33__cert.pdf",
-      "detail": "path=certs/2024SA_20251227_33__cert.pdf branch=main"
     }
   ]
 }
