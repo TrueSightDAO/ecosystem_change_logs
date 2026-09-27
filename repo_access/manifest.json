@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-27T19:49:00Z",
+  "updated_utc": "2026-09-27T19:49:38Z",
   "entries": [
+    {
+      "id": "repo_access_20260927T194937Z_dapp-beta",
+      "timestamp_utc": "2026-09-27T19:49:37Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=130 method=squash"
+    },
     {
       "id": "repo_access_20260927T194859Z_dapp-beta",
       "timestamp_utc": "2026-09-27T19:48:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1409",
       "detail": "branch=docs/gas-manual-trigger-all-llms changes=2"
-    },
-    {
-      "id": "repo_access_20260925T142900Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-25T14:29:00Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1408 method=squash"
     }
   ]
 }
