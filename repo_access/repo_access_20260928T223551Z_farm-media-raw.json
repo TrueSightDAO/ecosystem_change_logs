@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260928T223551Z_farm-media-raw",
+  "timestamp_utc": "2026-09-28T22:35:51Z",
+  "agent": "sophia",
+  "repo": "farm-media-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/farm-media-raw/blob/main/fazenda-sao-jorge-bahia/photos/IMG_8529.HEIC",
+  "detail": "path=fazenda-sao-jorge-bahia/photos/IMG_8529.HEIC branch=main"
+}
