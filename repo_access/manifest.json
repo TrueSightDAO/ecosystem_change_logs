@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T17:01:41Z",
+  "updated_utc": "2026-09-28T17:06:33Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T170631Z_dapp-beta",
+      "timestamp_utc": "2026-09-28T17:06:31Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/133",
+      "detail": "branch=feat/recipient-lookup-hint changes=8"
+    },
     {
       "id": "repo_access_20260928T170140Z_fda-fsvp",
       "timestamp_utc": "2026-09-28T17:01:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=49 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T152850Z_tokenomics",
-      "timestamp_utc": "2026-09-25T15:28:50Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=555 method=squash"
     }
   ]
 }
