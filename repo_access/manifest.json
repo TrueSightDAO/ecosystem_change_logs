@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T19:02:11Z",
+  "updated_utc": "2026-09-28T19:02:23Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T190221Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-28T19:02:21Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1431 method=squash"
+    },
     {
       "id": "repo_access_20260928T190210Z_agentic-ai-context",
       "timestamp_utc": "2026-09-28T19:02:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=17 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T172947Z_lineage-assets",
-      "timestamp_utc": "2026-09-25T17:29:47Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/17",
-      "detail": "branch=feat/owner-email-present-flag changes=4"
     }
   ]
 }
