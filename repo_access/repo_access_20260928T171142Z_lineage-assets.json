@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260928T171142Z_lineage-assets",
+  "timestamp_utc": "2026-09-28T17:11:42Z",
+  "agent": "sophia",
+  "repo": "lineage-assets",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/30",
+  "detail": "branch=feat/pending-cache-recipient-pk changes=6"
+}
