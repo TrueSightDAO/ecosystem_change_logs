@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260928T190914Z_dapp-beta",
+  "timestamp_utc": "2026-09-28T19:09:14Z",
+  "agent": "sophia",
+  "repo": "dapp_beta",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/135",
+  "detail": "branch=fix/clear-recipient-pk-on-unregistered-tree changes=3"
+}
