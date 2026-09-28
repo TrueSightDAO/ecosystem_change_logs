@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T19:09:16Z",
+  "updated_utc": "2026-09-28T19:12:03Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T191202Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-28T19:12:02Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1432",
+      "detail": "branch=feat/my-trees-module-plan changes=1"
+    },
     {
       "id": "repo_access_20260928T190914Z_dapp-beta",
       "timestamp_utc": "2026-09-28T19:09:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=18 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T173305Z_lineage-assets",
-      "timestamp_utc": "2026-09-25T17:33:05Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/18",
-      "detail": "branch=feat/sheet-deeplink-per-qr changes=7"
     }
   ]
 }
