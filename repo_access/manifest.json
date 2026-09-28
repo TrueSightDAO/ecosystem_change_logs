@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T21:08:11Z",
+  "updated_utc": "2026-09-28T21:31:27Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T213126Z_sunmint-beta",
+      "timestamp_utc": "2026-09-28T21:31:26Z",
+      "agent": "sophia",
+      "repo": "sunmint_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint_beta/pull/91",
+      "detail": "branch=refactor/pk-hash-framing changes=1"
+    },
     {
       "id": "repo_access_20260928T210810Z_agent-handoffs",
       "timestamp_utc": "2026-09-28T21:08:10Z",
@@ -2187,17 +2198,6 @@
       "repo": "dapp_beta",
       "action": "merge_pr",
       "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=104 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T173906Z_dapp-beta",
-      "timestamp_utc": "2026-09-25T17:39:06Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "failure",
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=104 method=squash"
