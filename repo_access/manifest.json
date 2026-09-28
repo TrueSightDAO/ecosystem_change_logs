@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T23:39:44Z",
+  "updated_utc": "2026-09-28T23:41:56Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T234155Z_sunmint-beta",
+      "timestamp_utc": "2026-09-28T23:41:55Z",
+      "agent": "sophia",
+      "repo": "sunmint_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=95 method=squash"
+    },
     {
       "id": "repo_access_20260928T233942Z_sunmint-beta",
       "timestamp_utc": "2026-09-28T23:39:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=105 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T194507Z_dapp-beta",
-      "timestamp_utc": "2026-09-25T19:45:07Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/105",
-      "detail": "branch=feat/payout-overpay-guards changes=8"
     }
   ]
 }
