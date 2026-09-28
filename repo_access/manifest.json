@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T17:06:33Z",
+  "updated_utc": "2026-09-28T17:11:43Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T171142Z_lineage-assets",
+      "timestamp_utc": "2026-09-28T17:11:42Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/30",
+      "detail": "branch=feat/pending-cache-recipient-pk changes=6"
+    },
     {
       "id": "repo_access_20260928T170631Z_dapp-beta",
       "timestamp_utc": "2026-09-28T17:06:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024OSCAR_20260121_1__cert.pdf",
       "detail": "path=certs/2024OSCAR_20260121_1__cert.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260925T165858Z_capoeira",
-      "timestamp_utc": "2026-09-25T16:58:58Z",
-      "agent": "sophia",
-      "repo": "capoeira",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=49 method=squash"
     }
   ]
 }
