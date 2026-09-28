@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T21:37:00Z",
+  "updated_utc": "2026-09-28T21:37:15Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T213714Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-28T21:37:14Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1434",
+      "detail": "branch=docs/pk-hash-framing-and-followups changes=4"
+    },
     {
       "id": "repo_access_20260928T213659Z_sunmint-beta",
       "timestamp_utc": "2026-09-28T21:36:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/plan/sophia-goal-loop-and-brain/plans/SOPHIA_GOAL_LOOP_AND_BRAIN_PLAN.md",
       "detail": "path=plans/SOPHIA_GOAL_LOOP_AND_BRAIN_PLAN.md branch=plan/sophia-goal-loop-and-brain"
-    },
-    {
-      "id": "repo_access_20260925T174644Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-25T17:46:44Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1411",
-      "detail": "branch=plan/sophia-goal-loop-and-brain changes=1"
     }
   ]
 }
