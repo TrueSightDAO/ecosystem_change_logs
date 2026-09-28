@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T21:31:27Z",
+  "updated_utc": "2026-09-28T21:37:00Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T213659Z_sunmint-beta",
+      "timestamp_utc": "2026-09-28T21:36:59Z",
+      "agent": "sophia",
+      "repo": "sunmint_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=91 method=squash"
+    },
     {
       "id": "repo_access_20260928T213126Z_sunmint-beta",
       "timestamp_utc": "2026-09-28T21:31:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1411",
       "detail": "branch=plan/sophia-goal-loop-and-brain changes=1"
-    },
-    {
-      "id": "repo_access_20260925T174258Z_dapp-beta",
-      "timestamp_utc": "2026-09-25T17:42:58Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=104 method=squash"
     }
   ]
 }
