@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T19:12:03Z",
+  "updated_utc": "2026-09-28T19:12:15Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T191214Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-28T19:12:14Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1432 method=squash"
+    },
     {
       "id": "repo_access_20260928T191202Z_agentic-ai-context",
       "timestamp_utc": "2026-09-28T19:12:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/104",
       "detail": "branch=feat/qr-product-card changes=3"
-    },
-    {
-      "id": "repo_access_20260925T173315Z_lineage-assets",
-      "timestamp_utc": "2026-09-25T17:33:15Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=18 method=squash"
     }
   ]
 }
