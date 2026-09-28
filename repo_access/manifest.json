@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T22:34:56Z",
+  "updated_utc": "2026-09-28T22:35:05Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T223504Z_sunmint-beta",
+      "timestamp_utc": "2026-09-28T22:35:04Z",
+      "agent": "sophia",
+      "repo": "sunmint_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=92 method=squash"
+    },
     {
       "id": "repo_access_20260928T223454Z_sunmint-beta",
       "timestamp_utc": "2026-09-28T22:34:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/505",
       "detail": "branch=fix/handoff-status-cell-terminal-scan changes=5"
-    },
-    {
-      "id": "repo_access_20260925T175144Z_agent-handoffs",
-      "timestamp_utc": "2026-09-25T17:51:44Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260925T175143Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20260925T175143Z.json branch=main"
     }
   ]
 }
