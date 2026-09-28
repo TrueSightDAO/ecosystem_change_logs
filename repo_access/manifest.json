@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T17:11:43Z",
+  "updated_utc": "2026-09-28T17:36:58Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T173655Z_lineage-assets",
+      "timestamp_utc": "2026-09-28T17:36:55Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=30 method=squash"
+    },
     {
       "id": "repo_access_20260928T171142Z_lineage-assets",
       "timestamp_utc": "2026-09-28T17:11:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/16",
       "detail": "branch=feat/pending-cache-product-fields changes=4"
-    },
-    {
-      "id": "repo_access_20260925T170452Z_lineage-assets",
-      "timestamp_utc": "2026-09-25T17:04:52Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/certs/2024OSCAR_20260121_1__cert.pdf",
-      "detail": "path=certs/2024OSCAR_20260121_1__cert.pdf branch=main"
     }
   ]
 }
