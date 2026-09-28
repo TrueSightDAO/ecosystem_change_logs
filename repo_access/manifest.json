@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T19:02:23Z",
+  "updated_utc": "2026-09-28T19:09:16Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T190914Z_dapp-beta",
+      "timestamp_utc": "2026-09-28T19:09:14Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/135",
+      "detail": "branch=fix/clear-recipient-pk-on-unregistered-tree changes=3"
+    },
     {
       "id": "repo_access_20260928T190221Z_agentic-ai-context",
       "timestamp_utc": "2026-09-28T19:02:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/18",
       "detail": "branch=feat/sheet-deeplink-per-qr changes=7"
-    },
-    {
-      "id": "repo_access_20260925T172957Z_lineage-assets",
-      "timestamp_utc": "2026-09-25T17:29:57Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=17 method=squash"
     }
   ]
 }
