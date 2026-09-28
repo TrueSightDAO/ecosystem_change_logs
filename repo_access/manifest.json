@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T19:12:15Z",
+  "updated_utc": "2026-09-28T21:08:11Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T210810Z_agent-handoffs",
+      "timestamp_utc": "2026-09-28T21:08:10Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20260928T210808Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20260928T210808Z.json branch=main"
+    },
     {
       "id": "repo_access_20260928T191214Z_agentic-ai-context",
       "timestamp_utc": "2026-09-28T19:12:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=104 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T173858Z_dapp-beta",
-      "timestamp_utc": "2026-09-25T17:38:58Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/104",
-      "detail": "branch=feat/qr-product-card changes=3"
     }
   ]
 }
