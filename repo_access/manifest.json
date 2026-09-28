@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T18:36:57Z",
+  "updated_utc": "2026-09-28T19:02:11Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T190210Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-28T19:02:10Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1431",
+      "detail": "branch=followup/cdn-cache-race-crossref-20260928 changes=1"
+    },
     {
       "id": "repo_access_20260928T183656Z_dapp-beta",
       "timestamp_utc": "2026-09-28T18:36:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/17",
       "detail": "branch=feat/owner-email-present-flag changes=4"
-    },
-    {
-      "id": "repo_access_20260925T172857Z_capoeira",
-      "timestamp_utc": "2026-09-25T17:28:57Z",
-      "agent": "sophia",
-      "repo": "capoeira",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=50 method=squash"
     }
   ]
 }
