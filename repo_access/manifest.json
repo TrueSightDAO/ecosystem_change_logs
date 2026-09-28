@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T17:01:30Z",
+  "updated_utc": "2026-09-28T17:01:41Z",
   "entries": [
+    {
+      "id": "repo_access_20260928T170140Z_fda-fsvp",
+      "timestamp_utc": "2026-09-28T17:01:40Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=33 method=squash"
+    },
     {
       "id": "repo_access_20260928T170128Z_fda-fsvp",
       "timestamp_utc": "2026-09-28T17:01:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=555 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T150920Z_tokenomics",
-      "timestamp_utc": "2026-09-25T15:09:20Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/555",
-      "detail": "branch=feat/sold-pending-tree-product-context changes=3"
     }
   ]
 }
