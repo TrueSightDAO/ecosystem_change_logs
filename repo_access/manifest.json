@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T02:42:38Z",
+  "updated_utc": "2026-09-29T02:42:47Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T024245Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T02:42:45Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/deck/v22-sep30-freight/handoffs/liz_bahia_deck/deck.html",
+      "detail": "path=handoffs/liz_bahia_deck/deck.html branch=deck/v22-sep30-freight"
+    },
     {
       "id": "repo_access_20260929T024236Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T02:42:36Z",
@@ -2187,17 +2198,6 @@
       "repo": "truesight_autopilot",
       "action": "merge_pr",
       "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=515 method=squash"
-    },
-    {
-      "id": "repo_access_20260926T074827Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-26T07:48:27Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "failure",
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=515 method=squash"
