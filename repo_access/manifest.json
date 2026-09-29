@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T00:15:47Z",
+  "updated_utc": "2026-09-29T00:20:00Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T001959Z_farm-media-daemon",
+      "timestamp_utc": "2026-09-29T00:19:59Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/32",
+      "detail": "branch=feat/unit-a-intake-watcher changes=5"
+    },
     {
       "id": "repo_access_20260929T001545Z_farm-media-daemon",
       "timestamp_utc": "2026-09-29T00:15:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/508",
       "detail": "branch=fix/registry-id-governor-prefixed-session changes=2"
-    },
-    {
-      "id": "repo_access_20260925T195948Z_capoeira",
-      "timestamp_utc": "2026-09-25T19:59:48Z",
-      "agent": "sophia",
-      "repo": "capoeira",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/capoeira/pull/51",
-      "detail": "branch=docs/i18n-pr10 changes=2"
     }
   ]
 }
