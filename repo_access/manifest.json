@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T01:52:49Z",
+  "updated_utc": "2026-09-29T02:14:15Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T021413Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T02:14:13Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1442",
+      "detail": "branch=chore/manifest-refresh-ledger-explorer changes=2"
+    },
     {
       "id": "repo_access_20260929T015247Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T01:52:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/560",
       "detail": "branch=feat/backfill-payout-registrations changes=4"
-    },
-    {
-      "id": "repo_access_20260926T002237Z_tokenomics",
-      "timestamp_utc": "2026-09-26T00:22:37Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/559",
-      "detail": "branch=feat/payout-registration-backfill-lever-2 changes=6"
     }
   ]
 }
