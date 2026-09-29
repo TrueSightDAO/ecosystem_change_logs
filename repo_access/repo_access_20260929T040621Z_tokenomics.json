@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260929T040621Z_tokenomics",
+  "timestamp_utc": "2026-09-29T04:06:21Z",
+  "agent": "sophia",
+  "repo": "tokenomics",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/576",
+  "detail": "branch=fix/payout-event-dedup-composite-key changes=4"
+}
