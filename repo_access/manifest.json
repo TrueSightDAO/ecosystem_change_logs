@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T04:18:05Z",
+  "updated_utc": "2026-09-29T04:37:07Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T043705Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T04:37:05Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1458 method=squash"
+    },
     {
       "id": "repo_access_20260929T041803Z_dapp-beta",
       "timestamp_utc": "2026-09-29T04:18:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=565 method=squash"
-    },
-    {
-      "id": "repo_access_20260926T182811Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-26T18:28:11Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1418 method=squash"
     }
   ]
 }
