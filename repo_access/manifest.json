@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T14:43:09Z",
+  "updated_utc": "2026-09-29T14:47:28Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T144726Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T14:47:26Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1468",
+      "detail": "branch=brazil/ordem-coleta-nfe16-rev2 changes=2"
+    },
     {
       "id": "repo_access_20260929T144307Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T14:43:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/deck/v21-quilombola/handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_EN_PT.pdf",
       "detail": "path=handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_EN_PT.pdf branch=deck/v21-quilombola"
-    },
-    {
-      "id": "repo_access_20260926T200824Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-26T20:08:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/deck/v21-quilombola/handoffs/liz_bahia_deck/img/map_town.png",
-      "detail": "path=handoffs/liz_bahia_deck/img/map_town.png branch=deck/v21-quilombola"
     }
   ]
 }
