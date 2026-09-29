@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T14:42:10Z",
+  "updated_utc": "2026-09-29T14:42:18Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T144217Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T14:42:17Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/nfe-16-issued/exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf",
+      "detail": "path=exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf branch=brazil/nfe-16-issued"
+    },
     {
       "id": "repo_access_20260929T144208Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T14:42:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/deck/v21-quilombola/handoffs/liz_bahia_deck/mkmap_final.py",
       "detail": "path=handoffs/liz_bahia_deck/mkmap_final.py branch=deck/v21-quilombola"
-    },
-    {
-      "id": "repo_access_20260926T200813Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-26T20:08:13Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/deck/v21-quilombola/handoffs/liz_bahia_deck/deck_pt.html",
-      "detail": "path=handoffs/liz_bahia_deck/deck_pt.html branch=deck/v21-quilombola"
     }
   ]
 }
