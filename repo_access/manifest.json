@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T02:41:28Z",
+  "updated_utc": "2026-09-29T02:42:38Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T024236Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T02:42:36Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1446",
+      "detail": "branch=deck/v22-sep30-freight changes=1"
+    },
     {
       "id": "repo_access_20260929T024127Z_dapp-beta",
       "timestamp_utc": "2026-09-29T02:41:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=515 method=squash"
-    },
-    {
-      "id": "repo_access_20260926T074812Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-26T07:48:12Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/515",
-      "detail": "branch=fix/tool-call-log-redaction-and-branch-remote-sweep changes=7"
     }
   ]
 }
