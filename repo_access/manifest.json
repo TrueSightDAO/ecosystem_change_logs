@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T00:41:16Z",
+  "updated_utc": "2026-09-29T00:43:42Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T004340Z_dapp-beta",
+      "timestamp_utc": "2026-09-29T00:43:40Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=139 method=squash"
+    },
     {
       "id": "repo_access_20260929T004114Z_farm-media-daemon",
       "timestamp_utc": "2026-09-29T00:41:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=509 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T215452Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-25T21:54:52Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/blob/feat/thread-goal-primitive/tests/test_thread_goal.py",
-      "detail": "path=tests/test_thread_goal.py branch=feat/thread-goal-primitive"
     }
   ]
 }
