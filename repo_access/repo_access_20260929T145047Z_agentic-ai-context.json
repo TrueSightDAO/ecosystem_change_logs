@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260929T145047Z_agentic-ai-context",
+  "timestamp_utc": "2026-09-29T14:50:47Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/ordem-coleta-nfe16-rev2/brazil/BRAZIL_TO_SF_FREIGHT_PREFLIGHT_CHECKLIST.md",
+  "detail": "path=brazil/BRAZIL_TO_SF_FREIGHT_PREFLIGHT_CHECKLIST.md branch=brazil/ordem-coleta-nfe16-rev2"
+}
