@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T02:30:34Z",
+  "updated_utc": "2026-09-29T02:37:38Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T023736Z_dapp-beta",
+      "timestamp_utc": "2026-09-29T02:37:36Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/143",
+      "detail": "branch=fix/payee-my-trees-tx-handle changes=8"
+    },
     {
       "id": "repo_access_20260929T023033Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T02:30:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=514 method=squash"
-    },
-    {
-      "id": "repo_access_20260926T013035Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-26T01:30:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1417 method=squash"
     }
   ]
 }
