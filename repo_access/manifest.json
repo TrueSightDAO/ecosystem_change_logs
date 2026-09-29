@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T02:44:48Z",
+  "updated_utc": "2026-09-29T02:45:55Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T024553Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T02:45:53Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1447",
+      "detail": "branch=plan/payout-farm-plot-pr1-tracker changes=1"
+    },
     {
       "id": "repo_access_20260929T024447Z_dapp-beta",
       "timestamp_utc": "2026-09-29T02:44:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/build_tree_geojson.py",
       "detail": "path=scripts/build_tree_geojson.py branch=main"
-    },
-    {
-      "id": "repo_access_20260926T162350Z_lineage-assets",
-      "timestamp_utc": "2026-09-26T16:23:50Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=22 method=squash"
     }
   ]
 }
