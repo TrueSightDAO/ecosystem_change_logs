@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T00:54:22Z",
+  "updated_utc": "2026-09-29T00:54:31Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T005429Z_farm-media-daemon",
+      "timestamp_utc": "2026-09-29T00:54:29Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/34",
+      "detail": "branch=feat/intake-per-zip-farm-ids changes=7"
+    },
     {
       "id": "repo_access_20260929T005420Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T00:54:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/payout-receipts-raw/blob/main/README.md",
       "detail": "path=README.md branch=main"
-    },
-    {
-      "id": "repo_access_20260925T220857Z_payout-receipts-raw",
-      "timestamp_utc": "2026-09-25T22:08:57Z",
-      "agent": "sophia",
-      "repo": "payout-receipts-raw",
-      "action": "create_repo",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/payout-receipts-raw",
-      "detail": "org=TrueSightDAO private=True"
     }
   ]
 }
