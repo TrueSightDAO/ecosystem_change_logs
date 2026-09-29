@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-28T23:43:22Z",
+  "updated_utc": "2026-09-29T00:15:06Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T001504Z_farm-media-daemon",
+      "timestamp_utc": "2026-09-29T00:15:04Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/31",
+      "detail": "branch=fix/unit-c-extensions-split changes=6"
+    },
     {
       "id": "repo_access_20260928T234321Z_cfr-anapu",
       "timestamp_utc": "2026-09-28T23:43:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=507 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T194639Z_dapp-beta",
-      "timestamp_utc": "2026-09-25T19:46:39Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=105 method=squash"
     }
   ]
 }
