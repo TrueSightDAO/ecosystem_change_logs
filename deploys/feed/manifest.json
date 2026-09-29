@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-26T19:19:08Z",
+  "updated_utc": "2026-09-29T02:01:46Z",
   "entries": [
+    {
+      "id": "deploy_20260929T020143Z_1jp8qnibczartlmombjojmynsfyxtqkuhp2qv5uq",
+      "agent": "sophia",
+      "timestamp_utc": "20260929T020143Z",
+      "target_type": "clasp",
+      "target_id": "1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF --push --no-hooks",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260929-22",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF",
+      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260926T191906Z_agroverse-shop-prod",
       "agent": "sophia",
@@ -2580,19 +2593,6 @@
       "id": "deploy_20260830T023159Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
       "agent": "sophia",
       "timestamp_utc": "20260830T023159Z",
-      "target_type": "clasp",
-      "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
-      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push --no-hooks",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "L-20260830-06",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
-      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
-    },
-    {
-      "id": "deploy_20260830T022330Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
-      "agent": "sophia",
-      "timestamp_utc": "20260830T022330Z",
       "target_type": "clasp",
       "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
       "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push --no-hooks",
