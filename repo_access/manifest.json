@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T01:52:39Z",
+  "updated_utc": "2026-09-29T01:52:49Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T015247Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T01:52:47Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1440 method=squash"
+    },
     {
       "id": "repo_access_20260929T015238Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T01:52:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/559",
       "detail": "branch=feat/payout-registration-backfill-lever-2 changes=6"
-    },
-    {
-      "id": "repo_access_20260926T002229Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-26T00:22:29Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v18.pdf",
-      "detail": "path=handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_v18.pdf branch=main"
     }
   ]
 }
