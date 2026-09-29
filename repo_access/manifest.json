@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T00:20:00Z",
+  "updated_utc": "2026-09-29T00:20:18Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T002017Z_farm-media-daemon",
+      "timestamp_utc": "2026-09-29T00:20:17Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=32 method=squash"
+    },
     {
       "id": "repo_access_20260929T001959Z_farm-media-daemon",
       "timestamp_utc": "2026-09-29T00:19:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/106",
       "detail": "branch=feat/payout-tree-picker-optional-program changes=11"
-    },
-    {
-      "id": "repo_access_20260925T200210Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-25T20:02:10Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/508",
-      "detail": "branch=fix/registry-id-governor-prefixed-session changes=2"
     }
   ]
 }
