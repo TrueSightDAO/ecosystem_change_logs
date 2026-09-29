@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260929T150036Z_agentic-ai-context",
+  "timestamp_utc": "2026-09-29T15:00:36Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/nfe16-xml-source/brazil/sources/2026-09-22_black_king_nfe_16.xml",
+  "detail": "path=brazil/sources/2026-09-22_black_king_nfe_16.xml branch=brazil/nfe16-xml-source"
+}
