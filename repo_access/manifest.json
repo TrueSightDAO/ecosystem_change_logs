@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T02:46:04Z",
+  "updated_utc": "2026-09-29T02:47:10Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T024709Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T02:47:09Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1448",
+      "detail": "branch=plan/payout-farm-plot-pr1-contrib changes=1"
+    },
     {
       "id": "repo_access_20260929T024603Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T02:46:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/117",
       "detail": "branch=fix/payout-program-filter-strict changes=10"
-    },
-    {
-      "id": "repo_access_20260926T164709Z_sunmint",
-      "timestamp_utc": "2026-09-26T16:47:09Z",
-      "agent": "sophia",
-      "repo": "sunmint",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/tests/test_build_tree_geojson_program.py",
-      "detail": "path=tests/test_build_tree_geojson_program.py branch=main"
     }
   ]
 }
