@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T01:40:20Z",
+  "updated_utc": "2026-09-29T01:40:25Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T014024Z_dapp-beta",
+      "timestamp_utc": "2026-09-29T01:40:24Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/141",
+      "detail": "branch=feat/ledger-explorer-nav-dapp changes=52"
+    },
     {
       "id": "repo_access_20260929T014018Z_truesight-me-beta",
       "timestamp_utc": "2026-09-29T01:40:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/558",
       "detail": "branch=feat/payout-registration-backfill-lever changes=1"
-    },
-    {
-      "id": "repo_access_20260926T001650Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-26T00:16:50Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/512",
-      "detail": "branch=fix/gitignore-runtime-state changes=2"
     }
   ]
 }
