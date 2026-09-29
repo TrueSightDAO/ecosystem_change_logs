@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T00:44:10Z",
+  "updated_utc": "2026-09-29T00:45:34Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T004533Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-29T00:45:33Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=401 method=squash"
+    },
     {
       "id": "repo_access_20260929T004408Z_dapp-beta",
       "timestamp_utc": "2026-09-29T00:44:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1415",
       "detail": "branch=fix/sunmint-cert-qr-module-overshoot changes=5"
-    },
-    {
-      "id": "repo_access_20260925T215834Z_dapp-beta",
-      "timestamp_utc": "2026-09-25T21:58:34Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=108 method=squash"
     }
   ]
 }
