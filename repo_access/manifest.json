@@ -1,17 +1,17 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T01:37:05Z",
+  "updated_utc": "2026-09-29T01:37:06Z",
   "entries": [
     {
-      "id": "repo_access_20260929T013703Z_tokenomics",
-      "timestamp_utc": "2026-09-29T01:37:03Z",
+      "id": "repo_access_20260929T013704Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-29T01:37:04Z",
       "agent": "sophia",
-      "repo": "tokenomics",
+      "repo": "truesight_me_beta",
       "action": "merge_pr",
       "result": "success",
       "mode": "default-allow",
       "evidence_url": "",
-      "detail": "pr=575 method=squash"
+      "detail": "pr=405 method=squash"
     },
     {
       "id": "repo_access_20260929T011013Z_agentic-ai-context",
