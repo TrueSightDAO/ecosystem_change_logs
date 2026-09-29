@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T14:50:24Z",
+  "updated_utc": "2026-09-29T14:50:32Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T145030Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T14:50:30Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/ordem-coleta-nfe16-rev2/exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf",
+      "detail": "path=exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf branch=brazil/ordem-coleta-nfe16-rev2"
+    },
     {
       "id": "repo_access_20260929T145023Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T14:50:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/125",
       "detail": "branch=fix/overpay-txid-dedup changes=10"
-    },
-    {
-      "id": "repo_access_20260926T200841Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-26T20:08:41Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1425 method=squash"
     }
   ]
 }
