@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T02:42:53Z",
+  "updated_utc": "2026-09-29T02:42:56Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T024254Z_dapp-beta",
+      "timestamp_utc": "2026-09-29T02:42:54Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=144 method=squash"
+    },
     {
       "id": "repo_access_20260929T024251Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T02:42:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=516 method=squash"
-    },
-    {
-      "id": "repo_access_20260926T085021Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-26T08:50:21Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/516",
-      "detail": "branch=fix/append-transcript-rate-limit changes=4"
     }
   ]
 }
