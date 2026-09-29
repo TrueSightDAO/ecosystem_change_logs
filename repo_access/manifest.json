@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T04:16:30Z",
+  "updated_utc": "2026-09-29T04:18:05Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T041803Z_dapp-beta",
+      "timestamp_utc": "2026-09-29T04:18:03Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/148",
+      "detail": "branch=feat/payout-feed-paid-linkage-consumers changes=8"
+    },
     {
       "id": "repo_access_20260929T041629Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T04:16:29Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1418 method=squash"
-    },
-    {
-      "id": "repo_access_20260926T182757Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-26T18:27:57Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1418",
-      "detail": "branch=docs/cfr-tree-planting-txid-notes-20260926 changes=5"
     }
   ]
 }
