@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T00:43:42Z",
+  "updated_utc": "2026-09-29T00:44:10Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T004408Z_dapp-beta",
+      "timestamp_utc": "2026-09-29T00:44:08Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=139 method=squash"
+    },
     {
       "id": "repo_access_20260929T004340Z_dapp-beta",
       "timestamp_utc": "2026-09-29T00:43:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=108 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T215734Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-25T21:57:34Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=509 method=squash"
     }
   ]
 }
