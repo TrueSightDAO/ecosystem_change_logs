@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T00:20:18Z",
+  "updated_utc": "2026-09-29T00:23:49Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T002347Z_sunmint-beta",
+      "timestamp_utc": "2026-09-29T00:23:47Z",
+      "agent": "sophia",
+      "repo": "sunmint_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=96 method=squash"
+    },
     {
       "id": "repo_access_20260929T002017Z_farm-media-daemon",
       "timestamp_utc": "2026-09-29T00:20:17Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=51 method=squash"
-    },
-    {
-      "id": "repo_access_20260925T200544Z_dapp-beta",
-      "timestamp_utc": "2026-09-25T20:05:44Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/106",
-      "detail": "branch=feat/payout-tree-picker-optional-program changes=11"
     }
   ]
 }
