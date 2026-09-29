@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T14:19:03Z",
+  "updated_utc": "2026-09-29T14:19:31Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T141930Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T14:19:30Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1465 method=squash"
+    },
     {
       "id": "repo_access_20260929T141902Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T14:19:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/24",
       "detail": "branch=feat/public-request-txid changes=4"
-    },
-    {
-      "id": "repo_access_20260926T200214Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-26T20:02:14Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1424",
-      "detail": "branch=fix/dedup-convention-signatures-are-public changes=4"
     }
   ]
 }
