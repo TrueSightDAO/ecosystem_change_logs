@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T02:39:28Z",
+  "updated_utc": "2026-09-29T03:02:42Z",
   "entries": [
+    {
+      "id": "deploy_20260929T030239Z_truesight-me-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20260929T030239Z",
+      "target_type": "prod-sync",
+      "target_id": "truesight_me_prod",
+      "action": "sync_beta_to_prod truesight_me_prod",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20260929-22",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_prod/commits/main",
+      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20260929T023925Z_truesight-me-prod",
       "agent": "sophia",
@@ -2588,19 +2601,6 @@
       "lease_id": "L-20260830-06",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/6d64a766f663425a9e648d406be35c218376be5c",
       "notes": "autopilot restarted onto 6d64a766f663425a9e648d406be35c218376be5c; marker processed on boot."
-    },
-    {
-      "id": "deploy_20260830T145249Z_sunmint-prod",
-      "agent": "sophia",
-      "timestamp_utc": "20260830T145249Z",
-      "target_type": "prod-sync",
-      "target_id": "sunmint_prod",
-      "action": "gh merge-upstream sunmint_beta -> sunmint_prod (network-first service worker)",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint_prod/commits/main",
-      "notes": "Offline-capable Sunmint: SW live on prod (sunmint.truesight.me + monitor-tree-growth). PR sunmint_beta#47 merged; prod synced via merge-upstream with autopilot PAT (garyjob PAT lacks merge-upstream perms). SW verified 200 on prod + beta; CNAME intact."
     }
   ]
 }
