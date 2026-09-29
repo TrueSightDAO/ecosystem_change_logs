@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T15:11:02Z",
+  "updated_utc": "2026-09-29T15:12:05Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T151203Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-29T15:12:03Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1473",
+      "detail": "branch=brazil/correction-letter-gary-contact changes=1"
+    },
     {
       "id": "repo_access_20260929T151059Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T15:10:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=572 method=squash"
-    },
-    {
-      "id": "repo_access_20260926T215537Z_tokenomics",
-      "timestamp_utc": "2026-09-26T21:55:37Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/572",
-      "detail": "branch=feat/link-resolve-by-txid changes=11"
     }
   ]
 }
