@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-29T02:14:15Z",
+  "updated_utc": "2026-09-29T02:15:53Z",
   "entries": [
+    {
+      "id": "repo_access_20260929T021552Z_truesight-me-beta",
+      "timestamp_utc": "2026-09-29T02:15:52Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/407",
+      "detail": "branch=fix/explorer-linked-tree-txid changes=5"
+    },
     {
       "id": "repo_access_20260929T021413Z_agentic-ai-context",
       "timestamp_utc": "2026-09-29T02:14:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=560 method=squash"
-    },
-    {
-      "id": "repo_access_20260926T002350Z_tokenomics",
-      "timestamp_utc": "2026-09-26T00:23:50Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/560",
-      "detail": "branch=feat/backfill-payout-registrations changes=4"
     }
   ]
 }
