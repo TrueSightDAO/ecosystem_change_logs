@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260930T234927Z_dao-protocol",
+  "timestamp_utc": "2026-09-30T23:49:27Z",
+  "agent": "sophia",
+  "repo": "dao_protocol",
+  "action": "open_fix_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/181",
+  "detail": "fix_agent.run_simple"
+}
