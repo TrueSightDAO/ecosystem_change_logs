@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260930T160058Z_github",
+  "timestamp_utc": "2026-09-30T16:00:58Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/expense_20260930_gary_teh_tape_armazinho_ponto5_95brl.jpg",
+  "detail": "path=assets/expense_20260930_gary_teh_tape_armazinho_ponto5_95brl.jpg branch=main"
+}
