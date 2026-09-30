@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-30T23:39:39Z",
+  "updated_utc": "2026-09-30T23:40:28Z",
   "entries": [
+    {
+      "id": "repo_access_20260930T234027Z_agentic-ai-context",
+      "timestamp_utc": "2026-09-30T23:40:27Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1479",
+      "detail": "branch=followups/cli-fileuploaded-guard changes=1"
+    },
     {
       "id": "repo_access_20260930T233938Z_github",
       "timestamp_utc": "2026-09-30T23:39:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/25",
       "detail": "branch=feat/coord-resolution-exif-burnin changes=3"
-    },
-    {
-      "id": "repo_access_20260927T041415Z_agent-handoffs",
-      "timestamp_utc": "2026-09-27T04:14:15Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/claude_from_sophia_20260927T041414Z.json",
-      "detail": "path=handoffs/claude_from_sophia_20260927T041414Z.json branch=main"
     }
   ]
 }
