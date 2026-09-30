@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-30T23:39:35Z",
+  "updated_utc": "2026-09-30T23:39:39Z",
   "entries": [
+    {
+      "id": "repo_access_20260930T233938Z_github",
+      "timestamp_utc": "2026-09-30T23:39:38Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20260930233733_admin_sophia_41675741324c44f2aa61f11f9e1b404f.jpg",
+      "detail": "path=assets/dao_inventory_expense_20260930233733_admin_sophia_41675741324c44f2aa61f11f9e1b404f.jpg branch=main"
+    },
     {
       "id": "repo_access_20260930T233933Z_github",
       "timestamp_utc": "2026-09-30T23:39:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/claude_from_sophia_20260927T041414Z.json",
       "detail": "path=handoffs/claude_from_sophia_20260927T041414Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20260927T041002Z_agent-handoffs",
-      "timestamp_utc": "2026-09-27T04:10:02Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/claude_from_sophia_20260927T041001Z.json",
-      "detail": "path=handoffs/claude_from_sophia_20260927T041001Z.json branch=main"
     }
   ]
 }
