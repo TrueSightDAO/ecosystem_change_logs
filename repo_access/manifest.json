@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-30T12:49:16Z",
+  "updated_utc": "2026-09-30T13:39:36Z",
   "entries": [
+    {
+      "id": "repo_access_20260930T133935Z_github",
+      "timestamp_utc": "2026-09-30T13:39:35Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/expense_20260930132831_gary_teh_9b8037ae_798a_48a9_a7e5_b2664e02e239.jpeg",
+      "detail": "path=assets/expense_20260930132831_gary_teh_9b8037ae_798a_48a9_a7e5_b2664e02e239.jpeg branch=main"
+    },
     {
       "id": "repo_access_20260930T124915Z_agentic-ai-context",
       "timestamp_utc": "2026-09-30T12:49:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/127",
       "detail": "branch=fix/payout-picker-txid-display-id changes=15"
-    },
-    {
-      "id": "repo_access_20260926T225834Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-26T22:58:34Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/517",
-      "detail": "branch=feat/txid-keyed-signature-mirrors changes=6"
     }
   ]
 }
