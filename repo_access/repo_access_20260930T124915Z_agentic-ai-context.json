@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260930T124915Z_agentic-ai-context",
+  "timestamp_utc": "2026-09-30T12:49:15Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/reports/PARA_FARMS_DOSSIER_2026-09-30.pdf",
+  "detail": "path=reports/PARA_FARMS_DOSSIER_2026-09-30.pdf branch=main"
+}
