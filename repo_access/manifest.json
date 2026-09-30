@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-30T13:39:36Z",
+  "updated_utc": "2026-09-30T15:39:23Z",
   "entries": [
+    {
+      "id": "repo_access_20260930T153921Z_tokenomics",
+      "timestamp_utc": "2026-09-30T15:39:21Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/578",
+      "detail": "branch=fix/expense-ledger-double-write-idempotency changes=3"
+    },
     {
       "id": "repo_access_20260930T133935Z_github",
       "timestamp_utc": "2026-09-30T13:39:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=127 method=squash"
-    },
-    {
-      "id": "repo_access_20260926T225945Z_dapp-beta",
-      "timestamp_utc": "2026-09-26T22:59:45Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/127",
-      "detail": "branch=fix/payout-picker-txid-display-id changes=15"
     }
   ]
 }
