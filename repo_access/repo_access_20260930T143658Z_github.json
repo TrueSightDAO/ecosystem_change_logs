@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20260930T143658Z_github",
+  "timestamp_utc": "2026-09-30T14:36:58Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/5576f7cfd9c84d0ea92285d0f2660e6b.pdf",
+  "detail": "path=assets/5576f7cfd9c84d0ea92285d0f2660e6b.pdf branch=main"
+}
