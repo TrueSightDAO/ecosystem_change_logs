@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-01T00:19:41Z",
+  "updated_utc": "2026-10-01T15:29:47Z",
   "entries": [
+    {
+      "id": "repo_access_20261001T152946Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-01T15:29:46Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1480",
+      "detail": "branch=docs/brazil-du-e-cnpj-hold-2026-10-01 changes=6"
+    },
     {
       "id": "repo_access_20261001T001939Z_go-to-market",
       "timestamp_utc": "2026-10-01T00:19:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/129",
       "detail": "branch=fix/overpay-same-fix-guard changes=28"
-    },
-    {
-      "id": "repo_access_20260927T185333Z_agent-handoffs",
-      "timestamp_utc": "2026-09-27T18:53:33Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/claude_from_sophia_20260927T185332Z.json",
-      "detail": "path=handoffs/claude_from_sophia_20260927T185332Z.json branch=main"
     }
   ]
 }
