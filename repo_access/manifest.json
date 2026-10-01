@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-09-30T23:49:29Z",
+  "updated_utc": "2026-10-01T00:17:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261001T001745Z_dao-protocol",
+      "timestamp_utc": "2026-10-01T00:17:45Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=181 method=squash"
+    },
     {
       "id": "repo_access_20260930T234927Z_dao-protocol",
       "timestamp_utc": "2026-09-30T23:49:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=26 method=squash"
-    },
-    {
-      "id": "repo_access_20260927T184408Z_lineage-assets",
-      "timestamp_utc": "2026-09-27T18:44:08Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/26",
-      "detail": "branch=feat/burnin-gps-grok-reader changes=2"
     }
   ]
 }
