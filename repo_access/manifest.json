@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-01T15:29:47Z",
+  "updated_utc": "2026-10-01T15:32:36Z",
   "entries": [
+    {
+      "id": "repo_access_20261001T153235Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-01T15:32:35Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1481",
+      "detail": "branch=followups/payout-event-parser-and-ledger-append-race changes=1"
+    },
     {
       "id": "repo_access_20261001T152946Z_agentic-ai-context",
       "timestamp_utc": "2026-10-01T15:29:46Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=129 method=squash"
-    },
-    {
-      "id": "repo_access_20260927T191000Z_dapp-beta",
-      "timestamp_utc": "2026-09-27T19:10:00Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/129",
-      "detail": "branch=fix/overpay-same-fix-guard changes=28"
     }
   ]
 }
