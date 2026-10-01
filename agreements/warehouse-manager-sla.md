@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED: do not edit in place. Source of truth: https://docs.google.com/document/d/1FA_NpmwbnnCuV0m46UlfjbVdQvdF92594xcwUDu3JvI/edit
-     Exported by market_research/scripts/export_google_docs.py on 2026-09-29 09:43 UTC.
+     Exported by market_research/scripts/export_google_docs.py on 2026-10-01 10:01 UTC.
      Google Doc last modified: 2026-04-20T19:04:16.150Z -->
 
 # COMMUNITY WAREHOUSE MANAGER SERVICE LEVEL  AGREEMENT
@@ -45,12 +45,12 @@ CWM will receive 160 TDG governance tokens per month for providing warehousing f
 
 8. When utilizing Carreois, ensure the correct pricing tier is selected, plug in the dimensions and weight to this website and ensure the pricing is for *Exporta Fácil Standard* as opposed to express
 
-    [https://efi.correios.com.br/app/simulaPrecoPrazoInternacional/index.php](https://efi.correios.com.br/app/simulaPrecoPrazoInternacional/index.php)
+    [https\://efi.correios.com.br/app/simulaPrecoPrazoInternacional/index.php](https://efi.correios.com.br/app/simulaPrecoPrazoInternacional/index.php)
 
 9. Use FedEx e-commerce package tier for liquid shipments. 
 
    1. Determine weight and dimensions of package   
-   2. Determine rate of pricing via Fedex website [https://www.fedex.com/en-us/online/rating.html](https://www.fedex.com/en-us/online/rating.html),   
+   2. Determine rate of pricing via Fedex website [https\://www\.fedex.com/en-us/online/rating.html](https://www.fedex.com/en-us/online/rating.html),   
    3. Do a screenshot of the rates provided by the website  
    4. Surface this on Agroverse Guild channel to ensure the correct package and corresponding price is selected  
    5. Proceed to Fedex office for shipping with a screenshot of the select package and rates
