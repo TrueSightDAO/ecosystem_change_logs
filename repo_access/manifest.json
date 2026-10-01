@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-01T15:32:36Z",
+  "updated_utc": "2026-10-01T15:38:07Z",
   "entries": [
+    {
+      "id": "repo_access_20261001T153806Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-01T15:38:06Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1480 method=squash"
+    },
     {
       "id": "repo_access_20261001T153235Z_agentic-ai-context",
       "timestamp_utc": "2026-10-01T15:32:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/519",
       "detail": "branch=fix/sunmint-sync-409-retry-and-lock changes=6"
-    },
-    {
-      "id": "repo_access_20260927T191018Z_dapp-beta",
-      "timestamp_utc": "2026-09-27T19:10:18Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=129 method=squash"
     }
   ]
 }
