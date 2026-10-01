@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-01T00:19:15Z",
+  "updated_utc": "2026-10-01T00:19:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261001T001939Z_go-to-market",
+      "timestamp_utc": "2026-10-01T00:19:39Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=178 method=squash"
+    },
     {
       "id": "repo_access_20261001T001913Z_go-to-market",
       "timestamp_utc": "2026-10-01T00:19:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/claude_from_sophia_20260927T185332Z.json",
       "detail": "path=handoffs/claude_from_sophia_20260927T185332Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20260927T184806Z_lineage-assets",
-      "timestamp_utc": "2026-09-27T18:48:06Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/27",
-      "detail": "branch=feat/coord-resolution-pipeline changes=7"
     }
   ]
 }
