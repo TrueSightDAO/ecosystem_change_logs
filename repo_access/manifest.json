@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-02T18:25:12Z",
+  "updated_utc": "2026-10-02T18:38:35Z",
   "entries": [
+    {
+      "id": "repo_access_20261002T183833Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-02T18:38:33Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=522 method=squash"
+    },
     {
       "id": "repo_access_20261002T182510Z_truesight-autopilot",
       "timestamp_utc": "2026-10-02T18:25:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=28 method=squash"
-    },
-    {
-      "id": "repo_access_20260927T191528Z_lineage-assets",
-      "timestamp_utc": "2026-09-27T19:15:28Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/28",
-      "detail": "branch=feat/emit-photo-hash changes=3"
     }
   ]
 }
