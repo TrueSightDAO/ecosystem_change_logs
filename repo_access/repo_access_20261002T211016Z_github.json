@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261002T211016Z_github",
+  "timestamp_utc": "2026-10-02T21:10:16Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/expense_20261002_gary_teh_notary_power_of_attorney_paloma_328.18brl.jpg",
+  "detail": "path=assets/expense_20261002_gary_teh_notary_power_of_attorney_paloma_328.18brl.jpg branch=main"
+}
