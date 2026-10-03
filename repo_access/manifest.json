@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-03T23:11:07Z",
+  "updated_utc": "2026-10-03T23:11:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261003T231115Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-03T23:11:15Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1494 method=squash"
+    },
     {
       "id": "repo_access_20261003T231106Z_agentic-ai-context",
       "timestamp_utc": "2026-10-03T23:11:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1430 method=squash"
-    },
-    {
-      "id": "repo_access_20260928T150151Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-28T15:01:51Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1430",
-      "detail": "branch=followup/historic-satellite-landuse-audit changes=1"
     }
   ]
 }
