@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-03T21:19:02Z",
+  "updated_utc": "2026-10-03T21:39:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261003T213859Z_farm-media-manifests",
+      "timestamp_utc": "2026-10-03T21:38:59Z",
+      "agent": "sophia",
+      "repo": "farm_media_manifests",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=4 method=squash"
+    },
     {
       "id": "repo_access_20261003T211901Z_farm-media-manifests",
       "timestamp_utc": "2026-10-03T21:19:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1429",
       "detail": "branch=followup/sunmint-sheet-double-append changes=1"
-    },
-    {
-      "id": "repo_access_20260927T192250Z_truesight-autopilot",
-      "timestamp_utc": "2026-09-27T19:22:50Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=519 method=squash"
     }
   ]
 }
