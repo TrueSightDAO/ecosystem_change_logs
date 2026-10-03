@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-03T23:56:41Z",
+  "updated_utc": "2026-10-03T23:58:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261003T235807Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-03T23:58:07Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1497",
+      "detail": "branch=docs/map-cic-facility-register changes=2"
+    },
     {
       "id": "repo_access_20261003T235640Z_agentic-ai-context",
       "timestamp_utc": "2026-10-03T23:56:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/520",
       "detail": "branch=feat/ledger-index-chronological-order changes=3"
-    },
-    {
-      "id": "repo_access_20260928T161312Z_dapp-beta",
-      "timestamp_utc": "2026-09-28T16:13:12Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=132 method=squash"
     }
   ]
 }
