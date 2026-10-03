@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261003T213859Z_farm-media-manifests",
+  "timestamp_utc": "2026-10-03T21:38:59Z",
+  "agent": "sophia",
+  "repo": "farm_media_manifests",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=4 method=squash"
+}
