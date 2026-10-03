@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-02T21:10:18Z",
+  "updated_utc": "2026-10-03T21:19:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261003T211901Z_farm-media-manifests",
+      "timestamp_utc": "2026-10-03T21:19:01Z",
+      "agent": "sophia",
+      "repo": "farm_media_manifests",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/pull/4",
+      "detail": "branch=feat/founderhaus-partner-collection changes=3"
+    },
     {
       "id": "repo_access_20261002T211016Z_github",
       "timestamp_utc": "2026-10-02T21:10:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=519 method=squash"
-    },
-    {
-      "id": "repo_access_20260927T192108Z_lineage-assets",
-      "timestamp_utc": "2026-09-27T19:21:08Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=29 method=squash"
     }
   ]
 }
