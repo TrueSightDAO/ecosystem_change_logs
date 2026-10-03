@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-03T22:09:30Z",
+  "updated_utc": "2026-10-03T22:24:23Z",
   "entries": [
+    {
+      "id": "repo_access_20261003T222422Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-03T22:24:22Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1493",
+      "detail": "branch=docs/map-stills-source-zip-gap changes=1"
+    },
     {
       "id": "repo_access_20261003T220929Z_farm-media-daemon",
       "timestamp_utc": "2026-10-03T22:09:29Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/131",
       "detail": "branch=fix/payout-url-sync-and-recipient-autofill changes=12"
-    },
-    {
-      "id": "repo_access_20260927T194937Z_dapp-beta",
-      "timestamp_utc": "2026-09-27T19:49:37Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=130 method=squash"
     }
   ]
 }
