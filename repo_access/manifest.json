@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-04T17:03:22Z",
+  "updated_utc": "2026-10-04T17:03:32Z",
   "entries": [
+    {
+      "id": "repo_access_20261004T170331Z_farm-media-daemon",
+      "timestamp_utc": "2026-10-04T17:03:31Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=38 method=squash"
+    },
     {
       "id": "repo_access_20261004T170320Z_farm-media-daemon",
       "timestamp_utc": "2026-10-04T17:03:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=33 method=squash"
-    },
-    {
-      "id": "repo_access_20260928T170128Z_fda-fsvp",
-      "timestamp_utc": "2026-09-28T17:01:28Z",
-      "agent": "sophia",
-      "repo": "fda_fsvp",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/pull/33",
-      "detail": "branch=add/santa-ana-fazenda-bahia-entity changes=3"
     }
   ]
 }
