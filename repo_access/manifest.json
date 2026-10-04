@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-03T23:58:18Z",
+  "updated_utc": "2026-10-04T17:03:22Z",
   "entries": [
+    {
+      "id": "repo_access_20261004T170320Z_farm-media-daemon",
+      "timestamp_utc": "2026-10-04T17:03:20Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/38",
+      "detail": "branch=fix/intake-present-target-dupe-guard changes=5"
+    },
     {
       "id": "repo_access_20261003T235817Z_agentic-ai-context",
       "timestamp_utc": "2026-10-03T23:58:17Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/pull/33",
       "detail": "branch=add/santa-ana-fazenda-bahia-entity changes=3"
-    },
-    {
-      "id": "repo_access_20260928T163654Z_dapp-beta",
-      "timestamp_utc": "2026-09-28T16:36:54Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=132 method=squash"
     }
   ]
 }
