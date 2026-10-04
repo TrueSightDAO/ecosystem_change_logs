@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261004T221328Z_fda-fsvp",
+  "timestamp_utc": "2026-10-04T22:13:28Z",
+  "agent": "sophia",
+  "repo": "fda_fsvp",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/blob/main/suppliers/black_king/20260929_cic_lab_test_theobromine_caffeine_hplc.pdf",
+  "detail": "path=suppliers/black_king/20260929_cic_lab_test_theobromine_caffeine_hplc.pdf branch=main"
+}
