@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-04T17:03:32Z",
+  "updated_utc": "2026-10-04T22:13:29Z",
   "entries": [
+    {
+      "id": "repo_access_20261004T221328Z_fda-fsvp",
+      "timestamp_utc": "2026-10-04T22:13:28Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/blob/main/suppliers/black_king/20260929_cic_lab_test_theobromine_caffeine_hplc.pdf",
+      "detail": "path=suppliers/black_king/20260929_cic_lab_test_theobromine_caffeine_hplc.pdf branch=main"
+    },
     {
       "id": "repo_access_20261004T170331Z_farm-media-daemon",
       "timestamp_utc": "2026-10-04T17:03:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/133",
       "detail": "branch=feat/recipient-lookup-hint changes=8"
-    },
-    {
-      "id": "repo_access_20260928T170140Z_fda-fsvp",
-      "timestamp_utc": "2026-09-28T17:01:40Z",
-      "agent": "sophia",
-      "repo": "fda_fsvp",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=33 method=squash"
     }
   ]
 }
