@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-04T22:13:29Z",
+  "updated_utc": "2026-10-04T22:14:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261004T221359Z_fda-fsvp",
+      "timestamp_utc": "2026-10-04T22:13:59Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/pull/34",
+      "detail": "branch=add-cic-nfse-20260929-blackking changes=1"
+    },
     {
       "id": "repo_access_20261004T221328Z_fda-fsvp",
       "timestamp_utc": "2026-10-04T22:13:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/30",
       "detail": "branch=feat/pending-cache-recipient-pk changes=6"
-    },
-    {
-      "id": "repo_access_20260928T170631Z_dapp-beta",
-      "timestamp_utc": "2026-09-28T17:06:31Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/133",
-      "detail": "branch=feat/recipient-lookup-hint changes=8"
     }
   ]
 }
