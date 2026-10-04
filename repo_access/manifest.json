@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-04T22:14:01Z",
+  "updated_utc": "2026-10-04T22:14:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261004T221410Z_fda-fsvp",
+      "timestamp_utc": "2026-10-04T22:14:10Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=34 method=squash"
+    },
     {
       "id": "repo_access_20261004T221359Z_fda-fsvp",
       "timestamp_utc": "2026-10-04T22:13:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=30 method=squash"
-    },
-    {
-      "id": "repo_access_20260928T171142Z_lineage-assets",
-      "timestamp_utc": "2026-09-28T17:11:42Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/30",
-      "detail": "branch=feat/pending-cache-recipient-pk changes=6"
     }
   ]
 }
