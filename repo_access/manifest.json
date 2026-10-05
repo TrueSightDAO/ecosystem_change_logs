@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-05T22:49:47Z",
+  "updated_utc": "2026-10-05T22:50:30Z",
   "entries": [
+    {
+      "id": "repo_access_20261005T225028Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-05T22:50:28Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1510",
+      "detail": "branch=followups/agl9-break-ledger-status changes=1"
+    },
     {
       "id": "repo_access_20261005T224945Z_truesight-me-beta",
       "timestamp_utc": "2026-10-05T22:49:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1434 method=squash"
-    },
-    {
-      "id": "repo_access_20260928T213714Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-28T21:37:14Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1434",
-      "detail": "branch=docs/pk-hash-framing-and-followups changes=4"
     }
   ]
 }
