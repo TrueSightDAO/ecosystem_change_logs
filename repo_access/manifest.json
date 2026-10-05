@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-05T22:46:52Z",
+  "updated_utc": "2026-10-05T22:46:59Z",
   "entries": [
+    {
+      "id": "repo_access_20261005T224657Z_truesight-me-beta",
+      "timestamp_utc": "2026-10-05T22:46:57Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=411 method=squash"
+    },
     {
       "id": "repo_access_20261005T224650Z_truesight-me-beta",
       "timestamp_utc": "2026-10-05T22:46:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1432 method=squash"
-    },
-    {
-      "id": "repo_access_20260928T191202Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-28T19:12:02Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1432",
-      "detail": "branch=feat/my-trees-module-plan changes=1"
     }
   ]
 }
