@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261005T224745Z_truesight-me-beta",
+  "timestamp_utc": "2026-10-05T22:47:45Z",
+  "agent": "sophia",
+  "repo": "truesight_me_beta",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=411 method=squash"
+}
