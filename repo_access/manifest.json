@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-05T22:43:58Z",
+  "updated_utc": "2026-10-05T22:46:52Z",
   "entries": [
+    {
+      "id": "repo_access_20261005T224650Z_truesight-me-beta",
+      "timestamp_utc": "2026-10-05T22:46:50Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/411",
+      "detail": "branch=fix/agl8-agl14-status-sales-in-progress changes=2"
+    },
     {
       "id": "repo_access_20261005T224357Z_go-to-market",
       "timestamp_utc": "2026-10-05T22:43:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1432",
       "detail": "branch=feat/my-trees-module-plan changes=1"
-    },
-    {
-      "id": "repo_access_20260928T190914Z_dapp-beta",
-      "timestamp_utc": "2026-09-28T19:09:14Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/135",
-      "detail": "branch=fix/clear-recipient-pk-on-unregistered-tree changes=3"
     }
   ]
 }
