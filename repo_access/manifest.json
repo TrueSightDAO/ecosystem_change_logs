@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-05T22:26:25Z",
+  "updated_utc": "2026-10-05T22:43:58Z",
   "entries": [
+    {
+      "id": "repo_access_20261005T224357Z_go-to-market",
+      "timestamp_utc": "2026-10-05T22:43:57Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=179 method=squash"
+    },
     {
       "id": "repo_access_20261005T222623Z_go-to-market",
       "timestamp_utc": "2026-10-05T22:26:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/135",
       "detail": "branch=fix/clear-recipient-pk-on-unregistered-tree changes=3"
-    },
-    {
-      "id": "repo_access_20260928T190221Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-28T19:02:21Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1431 method=squash"
     }
   ]
 }
