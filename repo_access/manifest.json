@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-05T22:00:58Z",
+  "updated_utc": "2026-10-05T22:01:03Z",
   "entries": [
+    {
+      "id": "repo_access_20261005T220101Z_agent-handoffs",
+      "timestamp_utc": "2026-10-05T22:01:01Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/deepseek_from_sophia_20261005T220059Z.json",
+      "detail": "path=handoffs/deepseek_from_sophia_20261005T220059Z.json branch=main"
+    },
     {
       "id": "repo_access_20261005T220056Z_agent-handoffs",
       "timestamp_utc": "2026-10-05T22:00:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=134 method=squash"
-    },
-    {
-      "id": "repo_access_20260928T182720Z_dapp-beta",
-      "timestamp_utc": "2026-09-28T18:27:20Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/134",
-      "detail": "branch=feat/recipient-cache-first changes=14"
     }
   ]
 }
