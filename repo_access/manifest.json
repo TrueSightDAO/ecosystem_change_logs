@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-06T15:08:11Z",
+  "updated_utc": "2026-10-06T15:08:20Z",
   "entries": [
+    {
+      "id": "repo_access_20261006T150818Z_fda-fsvp",
+      "timestamp_utc": "2026-10-06T15:08:18Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/blob/add/cepotx-usda-nop-cert-20261002/suppliers/cepotx/20261002_CEPOTX_usda_nop_organic_certificate.pdf",
+      "detail": "path=suppliers/cepotx/20261002_CEPOTX_usda_nop_organic_certificate.pdf branch=add/cepotx-usda-nop-cert-20261002"
+    },
     {
       "id": "repo_access_20261006T150810Z_fda-fsvp",
       "timestamp_utc": "2026-10-06T15:08:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=93 method=squash"
-    },
-    {
-      "id": "repo_access_20260928T225551Z_dapp-beta",
-      "timestamp_utc": "2026-09-28T22:55:51Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=137 method=squash"
     }
   ]
 }
