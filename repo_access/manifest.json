@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-06T15:08:31Z",
+  "updated_utc": "2026-10-06T19:35:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261006T193514Z_github",
+      "timestamp_utc": "2026-10-06T19:35:14Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261006193420_admin_sophia_f0ba516ac8d1de089d1cf8ebbcd991b9.jpg",
+      "detail": "path=assets/dao_inventory_expense_20261006193420_admin_sophia_f0ba516ac8d1de089d1cf8ebbcd991b9.jpg branch=main"
+    },
     {
       "id": "repo_access_20261006T150829Z_fda-fsvp",
       "timestamp_utc": "2026-10-06T15:08:29Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1436",
       "detail": "branch=docs/followup-merge-pr-api-only-refusal changes=1"
-    },
-    {
-      "id": "repo_access_20260928T230404Z_cfr-anapu",
-      "timestamp_utc": "2026-09-28T23:04:04Z",
-      "agent": "sophia",
-      "repo": "cfr-anapu",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=16 method=squash"
     }
   ]
 }
