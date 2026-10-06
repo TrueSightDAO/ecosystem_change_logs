@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261006T014905Z_go-to-market",
+  "timestamp_utc": "2026-10-06T01:49:05Z",
+  "agent": "sophia",
+  "repo": "go_to_market",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=181 method=squash"
+}
