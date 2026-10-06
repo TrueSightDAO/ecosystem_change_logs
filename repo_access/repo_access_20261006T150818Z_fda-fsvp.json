@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261006T150818Z_fda-fsvp",
+  "timestamp_utc": "2026-10-06T15:08:18Z",
+  "agent": "sophia",
+  "repo": "fda_fsvp",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/blob/add/cepotx-usda-nop-cert-20261002/suppliers/cepotx/20261002_CEPOTX_usda_nop_organic_certificate.pdf",
+  "detail": "path=suppliers/cepotx/20261002_CEPOTX_usda_nop_organic_certificate.pdf branch=add/cepotx-usda-nop-cert-20261002"
+}
