@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-06T15:08:20Z",
+  "updated_utc": "2026-10-06T15:08:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261006T150829Z_fda-fsvp",
+      "timestamp_utc": "2026-10-06T15:08:29Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=35 method=squash"
+    },
     {
       "id": "repo_access_20261006T150818Z_fda-fsvp",
       "timestamp_utc": "2026-10-06T15:08:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=16 method=squash"
-    },
-    {
-      "id": "repo_access_20260928T230040Z_sunmint-beta",
-      "timestamp_utc": "2026-09-28T23:00:40Z",
-      "agent": "sophia",
-      "repo": "sunmint_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=93 method=squash"
     }
   ]
 }
