@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-07T20:55:39Z",
+  "updated_utc": "2026-10-07T21:05:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261007T210523Z_fda-fsvp",
+      "timestamp_utc": "2026-10-07T21:05:23Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=37 method=squash"
+    },
     {
       "id": "repo_access_20261007T205537Z_fda-fsvp",
       "timestamp_utc": "2026-10-07T20:55:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=98 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T002942Z_cfr-anapu",
-      "timestamp_utc": "2026-09-29T00:29:42Z",
-      "agent": "sophia",
-      "repo": "cfr-anapu",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=19 method=squash"
     }
   ]
 }
