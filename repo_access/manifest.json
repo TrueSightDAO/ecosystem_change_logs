@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-06T19:35:16Z",
+  "updated_utc": "2026-10-07T00:13:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261007T001332Z_github",
+      "timestamp_utc": "2026-10-07T00:13:32Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261007001311_admin_sophia_ef398f3b068a7f354ded36bf1a6b5223.jpg",
+      "detail": "path=assets/dao_inventory_expense_20261007001311_admin_sophia_ef398f3b068a7f354ded36bf1a6b5223.jpg branch=main"
+    },
     {
       "id": "repo_access_20261006T193514Z_github",
       "timestamp_utc": "2026-10-06T19:35:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1436 method=squash"
-    },
-    {
-      "id": "repo_access_20260928T230645Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-28T23:06:45Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1436",
-      "detail": "branch=docs/followup-merge-pr-api-only-refusal changes=1"
     }
   ]
 }
