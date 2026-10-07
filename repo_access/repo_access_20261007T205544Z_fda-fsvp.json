@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261007T205544Z_fda-fsvp",
+  "timestamp_utc": "2026-10-07T20:55:44Z",
+  "agent": "sophia",
+  "repo": "fda_fsvp",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/blob/fda/product-code-mapping-reference/suppliers/black_king/20261007_fda_product_codes_cacao_9_articles.pdf",
+  "detail": "path=suppliers/black_king/20261007_fda_product_codes_cacao_9_articles.pdf branch=fda/product-code-mapping-reference"
+}
