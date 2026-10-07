@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-07T21:06:43Z",
+  "updated_utc": "2026-10-07T21:07:36Z",
   "entries": [
+    {
+      "id": "repo_access_20261007T210734Z_fda-fsvp",
+      "timestamp_utc": "2026-10-07T21:07:34Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/pull/39",
+      "detail": "branch=fda/product-codes-confirmation-num-col changes=1"
+    },
     {
       "id": "repo_access_20261007T210641Z_fda-fsvp",
       "timestamp_utc": "2026-10-07T21:06:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "branch=feat/unit-d-format-fix changes=1"
-    },
-    {
-      "id": "repo_access_20260929T003924Z_farm-media-daemon",
-      "timestamp_utc": "2026-09-29T00:39:24Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/33",
-      "detail": "branch=feat/unit-d-processed-lifecycle changes=5"
     }
   ]
 }
