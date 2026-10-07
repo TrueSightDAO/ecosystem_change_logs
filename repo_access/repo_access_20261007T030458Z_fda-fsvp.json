@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261007T030458Z_fda-fsvp",
+  "timestamp_utc": "2026-10-07T03:04:58Z",
+  "agent": "sophia",
+  "repo": "fda_fsvp",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/blob/fda/pn-2026-10-06-cacao-9-articles-sfo/suppliers/black_king/20261006_fda_prior_notice_cacao_9_articles_sfo_air.pdf",
+  "detail": "path=suppliers/black_king/20261006_fda_prior_notice_cacao_9_articles_sfo_air.pdf branch=fda/pn-2026-10-06-cacao-9-articles-sfo"
+}
