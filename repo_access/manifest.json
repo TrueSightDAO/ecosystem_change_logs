@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-07T13:30:03Z",
+  "updated_utc": "2026-10-07T15:30:28Z",
   "entries": [
+    {
+      "id": "repo_access_20261007T153026Z_agent-handoffs",
+      "timestamp_utc": "2026-10-07T15:30:26Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261007T153025Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261007T153025Z.json branch=main"
+    },
     {
       "id": "repo_access_20261007T133001Z_github",
       "timestamp_utc": "2026-10-07T13:30:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=32 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T001959Z_farm-media-daemon",
-      "timestamp_utc": "2026-09-29T00:19:59Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/32",
-      "detail": "branch=feat/unit-a-intake-watcher changes=5"
     }
   ]
 }
