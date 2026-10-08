@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:47:42Z",
+  "updated_utc": "2026-10-08T17:47:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T174747Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:47:47Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-final-v3/brazil/sources/2026-10-08_5continent_quote_vs_invoice_FINAL_v3.pdf",
+      "detail": "path=brazil/sources/2026-10-08_5continent_quote_vs_invoice_FINAL_v3.pdf branch=brazil/5continent-final-v3"
+    },
     {
       "id": "repo_access_20261008T174741Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:47:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/deck/v22-sep30-freight/handoffs/liz_bahia_deck/deck.html",
       "detail": "path=handoffs/liz_bahia_deck/deck.html branch=deck/v22-sep30-freight"
-    },
-    {
-      "id": "repo_access_20260929T024236Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T02:42:36Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1446",
-      "detail": "branch=deck/v22-sep30-freight changes=1"
     }
   ]
 }
