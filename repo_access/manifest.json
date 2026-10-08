@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T16:09:02Z",
+  "updated_utc": "2026-10-08T16:09:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T160939Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T16:09:39Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1515",
+      "detail": "branch=docs/black-king-shipment-15-row changes=2"
+    },
     {
       "id": "repo_access_20261008T160900Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T16:09:00Z",
@@ -2187,17 +2198,6 @@
       "repo": "dapp_beta",
       "action": "merge_pr",
       "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=139 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T004340Z_dapp-beta",
-      "timestamp_utc": "2026-09-29T00:43:40Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "failure",
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=139 method=squash"
