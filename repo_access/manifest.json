@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:39:41Z",
+  "updated_utc": "2026-10-08T17:39:52Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T173950Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:39:50Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1521 method=squash"
+    },
     {
       "id": "repo_access_20261008T173940Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:39:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1444",
       "detail": "branch=docs/ledger-explorer-pr7-uat-gap3 changes=10"
-    },
-    {
-      "id": "repo_access_20260929T022424Z_dapp-beta",
-      "timestamp_utc": "2026-09-29T02:24:24Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/142",
-      "detail": "branch=chore/retire-ledger-explorer-duplicate changes=4"
     }
   ]
 }
