@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:46:11Z",
+  "updated_utc": "2026-10-08T17:46:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T174620Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:46:20Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1522 method=squash"
+    },
     {
       "id": "repo_access_20261008T174609Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:46:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/144",
       "detail": "branch=feat/payout-farm-plot-filter changes=2"
-    },
-    {
-      "id": "repo_access_20260929T023746Z_dapp-beta",
-      "timestamp_utc": "2026-09-29T02:37:46Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=143 method=squash"
     }
   ]
 }
