@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T22:41:43Z",
+  "updated_utc": "2026-10-08T22:41:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T224153Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T22:41:53Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/envoy-crosscheck-adjudication/brazil/sources/2026-10-08_envoy_crosscheck_5continent_1026-08.pdf",
+      "detail": "path=brazil/sources/2026-10-08_envoy_crosscheck_5continent_1026-08.pdf branch=brazil/envoy-crosscheck-adjudication"
+    },
     {
       "id": "repo_access_20261008T224142Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T22:41:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/409",
       "detail": "branch=feat/explorer-sunmint-program-link changes=5"
-    },
-    {
-      "id": "repo_access_20260929T024718Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T02:47:18Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1448 method=squash"
     }
   ]
 }
