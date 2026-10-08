@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:34:59Z",
+  "updated_utc": "2026-10-08T17:35:14Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T173512Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:35:12Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-extra-subtotal/brazil/sources/2026-10-08_5continent_quote_vs_invoice_3col.pdf",
+      "detail": "path=brazil/sources/2026-10-08_5continent_quote_vs_invoice_3col.pdf branch=brazil/5continent-extra-subtotal"
+    },
     {
       "id": "repo_access_20261008T173457Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:34:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1442",
       "detail": "branch=chore/manifest-refresh-ledger-explorer changes=2"
-    },
-    {
-      "id": "repo_access_20260929T015247Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T01:52:47Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1440 method=squash"
     }
   ]
 }
