@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:39:52Z",
+  "updated_utc": "2026-10-08T17:46:00Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T174559Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:45:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1522",
+      "detail": "branch=brazil/5continent-corrected-v2 changes=1"
+    },
     {
       "id": "repo_access_20261008T173950Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:39:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/143",
       "detail": "branch=fix/payee-my-trees-tx-handle changes=8"
-    },
-    {
-      "id": "repo_access_20260929T023033Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T02:30:33Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1444",
-      "detail": "branch=docs/ledger-explorer-pr7-uat-gap3 changes=10"
     }
   ]
 }
