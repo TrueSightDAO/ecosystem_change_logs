@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:32:01Z",
+  "updated_utc": "2026-10-08T17:32:08Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T173206Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:32:06Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-quote-3col/brazil/sources/2026-10-08_5continent_quote_vs_invoice_3col.pdf",
+      "detail": "path=brazil/sources/2026-10-08_5continent_quote_vs_invoice_3col.pdf branch=brazil/5continent-quote-3col"
+    },
     {
       "id": "repo_access_20261008T173159Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:31:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/141",
       "detail": "branch=feat/ledger-explorer-nav-dapp changes=52"
-    },
-    {
-      "id": "repo_access_20260929T014018Z_truesight-me-beta",
-      "timestamp_utc": "2026-09-29T01:40:18Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=406 method=squash"
     }
   ]
 }
