@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:46:00Z",
+  "updated_utc": "2026-10-08T17:46:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T174609Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:46:09Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-corrected-v2/brazil/sources/2026-10-08_5continent_quote_vs_invoice_CORRECTED_v2.pdf",
+      "detail": "path=brazil/sources/2026-10-08_5continent_quote_vs_invoice_CORRECTED_v2.pdf branch=brazil/5continent-corrected-v2"
+    },
     {
       "id": "repo_access_20261008T174559Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:45:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=143 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T023736Z_dapp-beta",
-      "timestamp_utc": "2026-09-29T02:37:36Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/143",
-      "detail": "branch=fix/payee-my-trees-tx-handle changes=8"
     }
   ]
 }
