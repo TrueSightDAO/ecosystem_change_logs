@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T22:21:20Z",
+  "updated_utc": "2026-10-08T22:32:38Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T223237Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T22:32:37Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1525",
+      "detail": "branch=brazil/5continent-final-v4 changes=1"
+    },
     {
       "id": "repo_access_20261008T222119Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T22:21:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=145 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T024349Z_dapp-beta",
-      "timestamp_utc": "2026-09-29T02:43:49Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/145",
-      "detail": "branch=feat/payout-farm-plot-filter-ui changes=9"
     }
   ]
 }
