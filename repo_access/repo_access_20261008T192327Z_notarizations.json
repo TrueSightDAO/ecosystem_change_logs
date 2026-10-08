@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261008T192327Z_notarizations",
+  "timestamp_utc": "2026-10-08T19:23:27Z",
+  "agent": "sophia",
+  "repo": "notarizations",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261008_AGL14_boarding_delivery_report.pdf",
+  "detail": "path=20261008_AGL14_boarding_delivery_report.pdf branch=main"
+}
