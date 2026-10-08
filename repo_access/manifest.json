@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:25:15Z",
+  "updated_utc": "2026-10-08T17:26:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T172654Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:26:54Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1517",
+      "detail": "branch=brazil/5continent-quote-vs-invoice changes=1"
+    },
     {
       "id": "repo_access_20261008T172514Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:25:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=140 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T005827Z_truesight-me-beta",
-      "timestamp_utc": "2026-09-29T00:58:27Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=403 method=squash"
     }
   ]
 }
