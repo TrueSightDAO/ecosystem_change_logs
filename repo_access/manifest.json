@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:39:35Z",
+  "updated_utc": "2026-10-08T17:39:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T173940Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:39:40Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-reverify-consistency/brazil/sources/2026-10-08_5continent_reverify_consistency.pdf",
+      "detail": "path=brazil/sources/2026-10-08_5continent_reverify_consistency.pdf branch=brazil/5continent-reverify-consistency"
+    },
     {
       "id": "repo_access_20261008T173933Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:39:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/142",
       "detail": "branch=chore/retire-ledger-explorer-duplicate changes=4"
-    },
-    {
-      "id": "repo_access_20260929T022406Z_sunmint-beta",
-      "timestamp_utc": "2026-09-29T02:24:06Z",
-      "agent": "sophia",
-      "repo": "sunmint_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint_beta/pull/99",
-      "detail": "branch=fix/sw-update-selfheal changes=8"
     }
   ]
 }
