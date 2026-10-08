@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:47:59Z",
+  "updated_utc": "2026-10-08T19:23:29Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T192327Z_notarizations",
+      "timestamp_utc": "2026-10-08T19:23:27Z",
+      "agent": "sophia",
+      "repo": "notarizations",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261008_AGL14_boarding_delivery_report.pdf",
+      "detail": "path=20261008_AGL14_boarding_delivery_report.pdf branch=main"
+    },
     {
       "id": "repo_access_20261008T174757Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:47:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=144 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T024251Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T02:42:51Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/deck/v22-sep30-freight/handoffs/liz_bahia_deck/deck_pt.html",
-      "detail": "path=handoffs/liz_bahia_deck/deck_pt.html branch=deck/v22-sep30-freight"
     }
   ]
 }
