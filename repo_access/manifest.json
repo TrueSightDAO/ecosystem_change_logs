@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:21:29Z",
+  "updated_utc": "2026-10-08T17:21:44Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T172143Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:21:43Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-invoice-1026-08/brazil/sources/2026-10-07_5continent_invoice_1026-08.pdf",
+      "detail": "path=brazil/sources/2026-10-07_5continent_invoice_1026-08.pdf branch=brazil/5continent-invoice-1026-08"
+    },
     {
       "id": "repo_access_20261008T172127Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:21:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=34 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T005429Z_farm-media-daemon",
-      "timestamp_utc": "2026-09-29T00:54:29Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/34",
-      "detail": "branch=feat/intake-per-zip-farm-ids changes=7"
     }
   ]
 }
