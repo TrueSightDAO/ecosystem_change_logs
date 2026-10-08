@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:35:14Z",
+  "updated_utc": "2026-10-08T17:36:00Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T173559Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:35:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1520",
+      "detail": "branch=brazil/5continent-extra-subtotal-2 changes=1"
+    },
     {
       "id": "repo_access_20261008T173512Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:35:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/407",
       "detail": "branch=fix/explorer-linked-tree-txid changes=5"
-    },
-    {
-      "id": "repo_access_20260929T021413Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T02:14:13Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1442",
-      "detail": "branch=chore/manifest-refresh-ledger-explorer changes=2"
     }
   ]
 }
