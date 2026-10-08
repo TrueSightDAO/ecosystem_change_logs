@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T19:23:29Z",
+  "updated_utc": "2026-10-08T22:20:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T222039Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T22:20:39Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1524",
+      "detail": "branch=brazil/5continent-variance-bridge changes=1"
+    },
     {
       "id": "repo_access_20261008T192327Z_notarizations",
       "timestamp_utc": "2026-10-08T19:23:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/deck/v22-sep30-freight/handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_EN_PT.pdf",
       "detail": "path=handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_EN_PT.pdf branch=deck/v22-sep30-freight"
-    },
-    {
-      "id": "repo_access_20260929T024254Z_dapp-beta",
-      "timestamp_utc": "2026-09-29T02:42:54Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=144 method=squash"
     }
   ]
 }
