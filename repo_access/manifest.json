@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:27:07Z",
+  "updated_utc": "2026-10-08T17:27:18Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T172717Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:27:17Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1517 method=squash"
+    },
     {
       "id": "repo_access_20261008T172705Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:27:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=405 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T011013Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T01:10:13Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1439",
-      "detail": "branch=docs/ledger-explorer-pr1-shipped changes=4"
     }
   ]
 }
