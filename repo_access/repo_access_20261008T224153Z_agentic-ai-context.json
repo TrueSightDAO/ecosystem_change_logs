@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261008T224153Z_agentic-ai-context",
+  "timestamp_utc": "2026-10-08T22:41:53Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/envoy-crosscheck-adjudication/brazil/sources/2026-10-08_envoy_crosscheck_5continent_1026-08.pdf",
+  "detail": "path=brazil/sources/2026-10-08_envoy_crosscheck_5continent_1026-08.pdf branch=brazil/envoy-crosscheck-adjudication"
+}
