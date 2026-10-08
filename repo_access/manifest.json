@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:32:18Z",
+  "updated_utc": "2026-10-08T17:34:59Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T173457Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:34:57Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1519",
+      "detail": "branch=brazil/5continent-extra-subtotal changes=1"
+    },
     {
       "id": "repo_access_20261008T173216Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:32:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1440 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T015238Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T01:52:38Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1440",
-      "detail": "branch=followups/map-intake-context-card changes=1"
     }
   ]
 }
