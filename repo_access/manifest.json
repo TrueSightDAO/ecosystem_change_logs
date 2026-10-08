@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T22:37:43Z",
+  "updated_utc": "2026-10-08T22:38:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T223812Z_tokenomics",
+      "timestamp_utc": "2026-10-08T22:38:12Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=579 method=squash"
+    },
     {
       "id": "repo_access_20261008T223742Z_tokenomics",
       "timestamp_utc": "2026-10-08T22:37:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1448",
       "detail": "branch=plan/payout-farm-plot-pr1-contrib changes=1"
-    },
-    {
-      "id": "repo_access_20260929T024603Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T02:46:03Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1447 method=squash"
     }
   ]
 }
