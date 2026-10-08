@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T17:26:55Z",
+  "updated_utc": "2026-10-08T17:27:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T172700Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T17:27:00Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-quote-vs-invoice/brazil/sources/2026-10-08_5continent_quote_vs_invoice_analysis.pdf",
+      "detail": "path=brazil/sources/2026-10-08_5continent_quote_vs_invoice_analysis.pdf branch=brazil/5continent-quote-vs-invoice"
+    },
     {
       "id": "repo_access_20261008T172654Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T17:26:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=404 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T010546Z_dapp-beta",
-      "timestamp_utc": "2026-09-29T01:05:46Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=140 method=squash"
     }
   ]
 }
