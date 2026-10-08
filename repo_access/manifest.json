@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-07T21:07:56Z",
+  "updated_utc": "2026-10-08T16:09:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T160900Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T16:09:00Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/exports/2026-10-09_commercial_invoice_black_king_to_truetech_final_EN_PT_BRL.pdf",
+      "detail": "path=exports/2026-10-09_commercial_invoice_black_king_to_truetech_final_EN_PT_BRL.pdf branch=main"
+    },
     {
       "id": "repo_access_20261007T210754Z_fda-fsvp",
       "timestamp_utc": "2026-10-07T21:07:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=139 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T004114Z_farm-media-daemon",
-      "timestamp_utc": "2026-09-29T00:41:14Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=33 method=squash"
     }
   ]
 }
