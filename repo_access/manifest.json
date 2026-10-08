@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-08T22:20:40Z",
+  "updated_utc": "2026-10-08T22:21:10Z",
   "entries": [
+    {
+      "id": "repo_access_20261008T222108Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-08T22:21:08Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-variance-bridge/brazil/sources/2026-10-08_5continent_variance_bridge.pdf",
+      "detail": "path=brazil/sources/2026-10-08_5continent_variance_bridge.pdf branch=brazil/5continent-variance-bridge"
+    },
     {
       "id": "repo_access_20261008T222039Z_agentic-ai-context",
       "timestamp_utc": "2026-10-08T22:20:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1446 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T024300Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T02:43:00Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/deck/v22-sep30-freight/handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_EN_PT.pdf",
-      "detail": "path=handoffs/liz_bahia_deck/AGROVERSE_CACAO_ADVENTURES_AUTUMN_SOLSTICE_2026_EN_PT.pdf branch=deck/v22-sep30-freight"
     }
   ]
 }
