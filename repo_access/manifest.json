@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T01:26:30Z",
+  "updated_utc": "2026-10-09T01:26:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T012639Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T01:26:39Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1528 method=squash"
+    },
     {
       "id": "repo_access_20261009T012628Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T01:26:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1454",
       "detail": "branch=followup/env-gmail-token-shell-hostile changes=1"
-    },
-    {
-      "id": "repo_access_20260929T031505Z_sunmint-beta",
-      "timestamp_utc": "2026-09-29T03:15:05Z",
-      "agent": "sophia",
-      "repo": "sunmint_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint_beta/pull/100",
-      "detail": "branch=fix/my-trees-keyed-deep-link-fallback changes=5"
     }
   ]
 }
