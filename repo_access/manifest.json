@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T19:30:27Z",
+  "updated_utc": "2026-10-09T19:33:15Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T193313Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T19:33:13Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1562",
+      "detail": "branch=research/aphis-us-side-permit-requirement-cocoa changes=1"
+    },
     {
       "id": "repo_access_20261009T193025Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T19:30:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/feat/cce-nfe16-volumes/exports/2026-09-29_cc-e_black_king_nfe16_volumes_PT.pdf",
       "detail": "path=exports/2026-09-29_cc-e_black_king_nfe16_volumes_PT.pdf branch=feat/cce-nfe16-volumes"
-    },
-    {
-      "id": "repo_access_20260929T154534Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T15:45:34Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1475",
-      "detail": "branch=feat/cce-nfe16-volumes changes=1"
     }
   ]
 }
