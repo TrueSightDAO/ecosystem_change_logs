@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T19:07:34Z",
+  "updated_utc": "2026-10-09T19:13:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T191302Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T19:13:02Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1560",
+      "detail": "branch=research/fda-import-alert-34-01-cocoa-brazil changes=1"
+    },
     {
       "id": "repo_access_20261009T190733Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T19:07:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1473 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T151203Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T15:12:03Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1473",
-      "detail": "branch=brazil/correction-letter-gary-contact changes=1"
     }
   ]
 }
