@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T18:03:13Z",
+  "updated_utc": "2026-10-09T18:07:50Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T180748Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T18:07:48Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1551",
+      "detail": "branch=reports/gary-2026-year-in-review changes=1"
+    },
     {
       "id": "repo_access_20261009T180312Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T18:03:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/nfe-16-issued/exports/2026-09-29_correction_letter_black_king_inv_rev12_EN_PT.pdf",
       "detail": "path=exports/2026-09-29_correction_letter_black_king_inv_rev12_EN_PT.pdf branch=brazil/nfe-16-issued"
-    },
-    {
-      "id": "repo_access_20260929T144201Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T14:42:01Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1467",
-      "detail": "branch=brazil/nfe-16-issued changes=19"
     }
   ]
 }
