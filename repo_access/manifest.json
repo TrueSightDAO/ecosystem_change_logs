@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T14:24:20Z",
+  "updated_utc": "2026-10-09T14:25:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T142512Z_tokenomics",
+      "timestamp_utc": "2026-10-09T14:25:12Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/580",
+      "detail": "branch=feat/pr4-managed-ledger-snapshot-publisher changes=6"
+    },
     {
       "id": "repo_access_20261009T142418Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T14:24:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1463 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T140445Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T14:04:45Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1463",
-      "detail": "branch=brazil/pickup-address-cel-paiva changes=8"
     }
   ]
 }
