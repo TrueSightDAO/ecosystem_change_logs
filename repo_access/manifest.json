@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T18:41:52Z",
+  "updated_utc": "2026-10-09T18:43:27Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T184325Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T18:43:25Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1554",
+      "detail": "branch=docs/fumigation-2025-vs-2026-cadence changes=1"
+    },
     {
       "id": "repo_access_20261009T184151Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T18:41:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/ordem-coleta-nfe16-rev2/brazil/BRAZIL_TO_SF_FREIGHT_PREFLIGHT_CHECKLIST.md",
       "detail": "path=brazil/BRAZIL_TO_SF_FREIGHT_PREFLIGHT_CHECKLIST.md branch=brazil/ordem-coleta-nfe16-rev2"
-    },
-    {
-      "id": "repo_access_20260929T145030Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T14:50:30Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/ordem-coleta-nfe16-rev2/exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf",
-      "detail": "path=exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf branch=brazil/ordem-coleta-nfe16-rev2"
     }
   ]
 }
