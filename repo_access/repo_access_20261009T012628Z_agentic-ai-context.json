@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261009T012628Z_agentic-ai-context",
+  "timestamp_utc": "2026-10-09T01:26:28Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/envoy-crosscheck-clean-tables/brazil/sources/2026-10-08_envoy_crosscheck_5continent_1026-08_CLEAN.pdf",
+  "detail": "path=brazil/sources/2026-10-08_envoy_crosscheck_5continent_1026-08_CLEAN.pdf branch=brazil/envoy-crosscheck-clean-tables"
+}
