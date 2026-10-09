@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261009T141320Z_treasury-cache",
+  "timestamp_utc": "2026-10-09T14:13:20Z",
+  "agent": "sophia",
+  "repo": "treasury-cache",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/treasury-cache/blob/main/managed-ledgers/AGL16.json",
+  "detail": "path=managed-ledgers/AGL16.json branch=main"
+}
