@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T14:24:09Z",
+  "updated_utc": "2026-10-09T14:24:20Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T142418Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T14:24:18Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1547 method=squash"
+    },
     {
       "id": "repo_access_20261009T142407Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T14:24:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1463",
       "detail": "branch=brazil/pickup-address-cel-paiva changes=8"
-    },
-    {
-      "id": "repo_access_20260929T051922Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T05:19:22Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1462 method=squash"
     }
   ]
 }
