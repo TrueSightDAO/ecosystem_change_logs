@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T19:13:15Z",
+  "updated_utc": "2026-10-09T19:24:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T192429Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T19:24:29Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1561",
+      "detail": "branch=research/weekend-vs-hold-sfo-agriculture-inspection changes=1"
+    },
     {
       "id": "repo_access_20261009T191314Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T19:13:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1474 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T151308Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T15:13:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1474",
-      "detail": "branch=brazil/remove-rebecca-contact changes=2"
     }
   ]
 }
