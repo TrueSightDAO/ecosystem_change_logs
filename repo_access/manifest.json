@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T18:48:00Z",
+  "updated_utc": "2026-10-09T18:53:45Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T185344Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T18:53:44Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1557",
+      "detail": "branch=docs/cbp-agriculture-hold-rootcause-hypotheses changes=1"
+    },
     {
       "id": "repo_access_20261009T184759Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T18:47:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/nfe16-xml-source/brazil/sources/2026-09-22_black_king_nfe_16.xml",
       "detail": "path=brazil/sources/2026-09-22_black_king_nfe_16.xml branch=brazil/nfe16-xml-source"
-    },
-    {
-      "id": "repo_access_20260929T150029Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T15:00:29Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1470",
-      "detail": "branch=brazil/nfe16-xml-source changes=3"
     }
   ]
 }
