@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261009T142948Z_dapp-beta",
+  "timestamp_utc": "2026-10-09T14:29:48Z",
+  "agent": "sophia",
+  "repo": "dapp_beta",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=149 method=squash"
+}
