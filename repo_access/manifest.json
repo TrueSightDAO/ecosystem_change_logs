@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T20:56:42Z",
+  "updated_utc": "2026-10-09T20:57:52Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T205750Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T20:57:50Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1564 method=squash"
+    },
     {
       "id": "repo_access_20261009T205641Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T20:56:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/expense_20260930132831_gary_teh_9b8037ae_798a_48a9_a7e5_b2664e02e239.jpeg",
       "detail": "path=assets/expense_20260930132831_gary_teh_9b8037ae_798a_48a9_a7e5_b2664e02e239.jpeg branch=main"
-    },
-    {
-      "id": "repo_access_20260930T124915Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-30T12:49:15Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/reports/PARA_FARMS_DOSSIER_2026-09-30.pdf",
-      "detail": "path=reports/PARA_FARMS_DOSSIER_2026-09-30.pdf branch=main"
     }
   ]
 }
