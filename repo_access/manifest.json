@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T02:36:35Z",
+  "updated_utc": "2026-10-09T02:36:45Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T023644Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T02:36:44Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1531 method=squash"
+    },
     {
       "id": "repo_access_20261009T023634Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T02:36:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/cfr-anapu/pull/22",
       "detail": "branch=vendor/my-trees-keyed-deep-link-fix changes=5"
-    },
-    {
-      "id": "repo_access_20260929T033811Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T03:38:11Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1455 method=squash"
     }
   ]
 }
