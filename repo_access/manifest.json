@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T12:27:03Z",
+  "updated_utc": "2026-10-09T12:27:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T122708Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T12:27:08Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-v6-bucket-derivation/brazil/sources/2026-10-09_5continent_v6_bucket_derivation.pdf",
+      "detail": "path=brazil/sources/2026-10-09_5continent_v6_bucket_derivation.pdf branch=brazil/5continent-v6-bucket-derivation"
+    },
     {
       "id": "repo_access_20261009T122701Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T12:27:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=576 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T040638Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T04:06:38Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1457 method=squash"
     }
   ]
 }
