@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T14:20:07Z",
+  "updated_utc": "2026-10-09T14:24:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T142359Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T14:23:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1547",
+      "detail": "branch=docs/2026-10-09-gary-reply-5continent changes=1"
+    },
     {
       "id": "repo_access_20261009T142005Z_sentiment-importer",
       "timestamp_utc": "2026-10-09T14:20:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1462",
       "detail": "branch=fix/followup-reconcile-path-b-literal-match changes=1"
-    },
-    {
-      "id": "repo_access_20260929T050745Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T05:07:45Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1461 method=squash"
     }
   ]
 }
