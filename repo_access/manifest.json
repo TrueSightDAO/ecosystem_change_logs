@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T14:26:55Z",
+  "updated_utc": "2026-10-09T14:29:08Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T142907Z_dapp-beta",
+      "timestamp_utc": "2026-10-09T14:29:07Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/149",
+      "detail": "branch=feat/pr4-repoint-ledger-dropdown-to-cache changes=4"
+    },
     {
       "id": "repo_access_20261009T142653Z_agent-handoffs",
       "timestamp_utc": "2026-10-09T14:26:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/order-de-coleta-from-rev12/exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf",
       "detail": "path=exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf branch=brazil/order-de-coleta-from-rev12"
-    },
-    {
-      "id": "repo_access_20260929T141309Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T14:13:09Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1464",
-      "detail": "branch=brazil/order-de-coleta-from-rev12 changes=2"
     }
   ]
 }
