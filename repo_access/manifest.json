@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T00:54:43Z",
+  "updated_utc": "2026-10-09T01:19:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T011909Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T01:19:09Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1527 method=squash"
+    },
     {
       "id": "repo_access_20261009T005442Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T00:54:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1452",
       "detail": "branch=plan/payout-farm-plot-pr2-scope changes=4"
-    },
-    {
-      "id": "repo_access_20260929T030333Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T03:03:33Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1451",
-      "detail": "branch=docs/explorer-pr8-prod-promoted changes=2"
     }
   ]
 }
