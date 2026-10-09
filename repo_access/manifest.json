@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T14:29:08Z",
+  "updated_utc": "2026-10-09T14:29:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T142948Z_dapp-beta",
+      "timestamp_utc": "2026-10-09T14:29:48Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=149 method=squash"
+    },
     {
       "id": "repo_access_20261009T142907Z_dapp-beta",
       "timestamp_utc": "2026-10-09T14:29:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1464 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T141318Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T14:13:18Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/order-de-coleta-from-rev12/exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf",
-      "detail": "path=exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf branch=brazil/order-de-coleta-from-rev12"
     }
   ]
 }
