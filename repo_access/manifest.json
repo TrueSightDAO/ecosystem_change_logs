@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T18:02:55Z",
+  "updated_utc": "2026-10-09T18:03:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T180301Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T18:03:01Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/warehouse/ilheus-floor-map-section/brazil/images/ilheus_warehouse_whiteboard_20261009.jpg",
+      "detail": "path=brazil/images/ilheus_warehouse_whiteboard_20261009.jpg branch=warehouse/ilheus-floor-map-section"
+    },
     {
       "id": "repo_access_20261009T180252Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T18:02:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1466 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T142131Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T14:21:31Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/correction-letter-pt-section/exports/2026-09-29_correction_letter_black_king_inv_rev12_EN_PT.pdf",
-      "detail": "path=exports/2026-09-29_correction_letter_black_king_inv_rev12_EN_PT.pdf branch=brazil/correction-letter-pt-section"
     }
   ]
 }
