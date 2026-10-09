@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T12:20:04Z",
+  "updated_utc": "2026-10-09T12:24:14Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T122413Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T12:24:13Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1544",
+      "detail": "branch=brazil/2023-vs-2026-invoice-comparison changes=1"
+    },
     {
       "id": "repo_access_20261009T122002Z_oracle",
       "timestamp_utc": "2026-10-09T12:20:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1456 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T040106Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T04:01:06Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1456",
-      "detail": "branch=docs/payout-filter-url-sync-note changes=1"
     }
   ]
 }
