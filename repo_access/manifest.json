@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T14:31:35Z",
+  "updated_utc": "2026-10-09T17:02:42Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T170240Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T17:02:40Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1549",
+      "detail": "branch=warehouse/ilheus-management-register changes=2"
+    },
     {
       "id": "repo_access_20261009T143134Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T14:31:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1465 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T141902Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T14:19:02Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/correction-letter-seacoast/exports/2026-09-29_correction_letter_black_king_inv_rev12_EN_PT.pdf",
-      "detail": "path=exports/2026-09-29_correction_letter_black_king_inv_rev12_EN_PT.pdf branch=brazil/correction-letter-seacoast"
     }
   ]
 }
