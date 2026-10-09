@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T19:13:04Z",
+  "updated_utc": "2026-10-09T19:13:15Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T191314Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T19:13:14Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1560 method=squash"
+    },
     {
       "id": "repo_access_20261009T191302Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T19:13:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1474",
       "detail": "branch=brazil/remove-rebecca-contact changes=2"
-    },
-    {
-      "id": "repo_access_20260929T151213Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T15:12:13Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1473 method=squash"
     }
   ]
 }
