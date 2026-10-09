@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T19:33:26Z",
+  "updated_utc": "2026-10-09T20:56:33Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T205631Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T20:56:31Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1563",
+      "detail": "branch=research/who-files-aphis-broker-vs-importer changes=1"
+    },
     {
       "id": "repo_access_20261009T193324Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T19:33:24Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/reports/PARA_FARMS_DOSSIER_2026-09.pdf",
       "detail": "path=reports/PARA_FARMS_DOSSIER_2026-09.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20260929T154554Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T15:45:54Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1475 method=squash"
     }
   ]
 }
