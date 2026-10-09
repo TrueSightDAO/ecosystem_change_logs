@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T18:43:37Z",
+  "updated_utc": "2026-10-09T18:46:18Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T184617Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T18:46:17Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1555",
+      "detail": "branch=docs/5continent-graziela-reply-adjudication changes=1"
+    },
     {
       "id": "repo_access_20261009T184335Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T18:43:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1469",
       "detail": "branch=brazil/ordem-coleta-rev3-pickup-contact changes=4"
-    },
-    {
-      "id": "repo_access_20260929T145108Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T14:51:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1468 method=squash"
     }
   ]
 }
