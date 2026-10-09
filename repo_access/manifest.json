@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T02:36:45Z",
+  "updated_utc": "2026-10-09T02:38:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T023829Z_agent-handoffs",
+      "timestamp_utc": "2026-10-09T02:38:29Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261009T023828Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261009T023828Z.json branch=main"
+    },
     {
       "id": "repo_access_20261009T023644Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T02:36:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=22 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T033815Z_cfr-anapu",
-      "timestamp_utc": "2026-09-29T03:38:15Z",
-      "agent": "sophia",
-      "repo": "cfr-anapu",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/cfr-anapu/pull/22",
-      "detail": "branch=vendor/my-trees-keyed-deep-link-fix changes=5"
     }
   ]
 }
