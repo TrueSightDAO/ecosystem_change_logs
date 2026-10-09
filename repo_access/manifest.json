@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T14:14:12Z",
+  "updated_utc": "2026-10-09T14:20:07Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T142005Z_sentiment-importer",
+      "timestamp_utc": "2026-10-09T14:20:05Z",
+      "agent": "sophia",
+      "repo": "sentiment_importer",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1137 method=squash"
+    },
     {
       "id": "repo_access_20261009T141410Z_sentiment-importer",
       "timestamp_utc": "2026-10-09T14:14:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1461 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T050732Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T05:07:32Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1461",
-      "detail": "branch=fix/payout-plan-pr3-supersede-paulo changes=6"
     }
   ]
 }
