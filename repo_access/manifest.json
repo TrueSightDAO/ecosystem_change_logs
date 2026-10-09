@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T12:27:20Z",
+  "updated_utc": "2026-10-09T13:51:05Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T135103Z_oracle",
+      "timestamp_utc": "2026-10-09T13:51:03Z",
+      "agent": "sophia",
+      "repo": "oracle",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/oracle/pull/74",
+      "detail": "branch=fix/mobile-stacked-card-whitespace changes=1"
+    },
     {
       "id": "repo_access_20261009T122718Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T12:27:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/148",
       "detail": "branch=feat/payout-feed-paid-linkage-consumers changes=8"
-    },
-    {
-      "id": "repo_access_20260929T041629Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T04:16:29Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1458",
-      "detail": "branch=docs/pr3-prod-promote-done changes=2"
     }
   ]
 }
