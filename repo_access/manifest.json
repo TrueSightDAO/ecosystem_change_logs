@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T12:24:14Z",
+  "updated_utc": "2026-10-09T12:24:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T122419Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T12:24:19Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/2023-vs-2026-invoice-comparison/brazil/sources/2026-10-09_2023_vs_2026_invoice_comparison.pdf",
+      "detail": "path=brazil/sources/2026-10-09_2023_vs_2026_invoice_comparison.pdf branch=brazil/2023-vs-2026-invoice-comparison"
+    },
     {
       "id": "repo_access_20261009T122413Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T12:24:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1457",
       "detail": "branch=handoff/map-intake-go-live-30550 changes=2"
-    },
-    {
-      "id": "repo_access_20260929T040116Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T04:01:16Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1456 method=squash"
     }
   ]
 }
