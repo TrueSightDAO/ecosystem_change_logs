@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T18:53:56Z",
+  "updated_utc": "2026-10-09T19:05:23Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T190522Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T19:05:22Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1558",
+      "detail": "branch=docs/pn-f26x30142399-filed-correction changes=2"
+    },
     {
       "id": "repo_access_20261009T185354Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T18:53:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1471",
       "detail": "branch=brazil/ordem-coleta-signature changes=5"
-    },
-    {
-      "id": "repo_access_20260929T150048Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T15:00:48Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1470 method=squash"
     }
   ]
 }
