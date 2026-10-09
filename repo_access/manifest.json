@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T18:08:01Z",
+  "updated_utc": "2026-10-09T18:10:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T181000Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T18:10:00Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1552",
+      "detail": "branch=reports/gary-2026-year-in-review-charts changes=1"
+    },
     {
       "id": "repo_access_20261009T180759Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T18:07:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/nfe-16-issued/brazil/sources/2026-09-22_black_king_nfe_16_danfe.pdf",
       "detail": "path=brazil/sources/2026-09-22_black_king_nfe_16_danfe.pdf branch=brazil/nfe-16-issued"
-    },
-    {
-      "id": "repo_access_20260929T144217Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T14:42:17Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/nfe-16-issued/exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf",
-      "detail": "path=exports/2026-09-29_ordem_de_coleta_black_king_ilheus_ssa.pdf branch=brazil/nfe-16-issued"
     }
   ]
 }
