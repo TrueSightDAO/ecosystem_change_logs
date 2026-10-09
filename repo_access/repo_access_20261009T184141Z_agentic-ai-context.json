@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261009T184141Z_agentic-ai-context",
+  "timestamp_utc": "2026-10-09T18:41:41Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/2026-09-24-fumigation-nfse-astra/brazil/sources/2026-09-24_black_king_fumigation_nfse_astra.pdf",
+  "detail": "path=brazil/sources/2026-09-24_black_king_fumigation_nfse_astra.pdf branch=docs/2026-09-24-fumigation-nfse-astra"
+}
