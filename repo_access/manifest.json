@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T13:51:05Z",
+  "updated_utc": "2026-10-09T13:51:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T135114Z_oracle",
+      "timestamp_utc": "2026-10-09T13:51:14Z",
+      "agent": "sophia",
+      "repo": "oracle",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=74 method=squash"
+    },
     {
       "id": "repo_access_20261009T135103Z_oracle",
       "timestamp_utc": "2026-10-09T13:51:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1458 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T041803Z_dapp-beta",
-      "timestamp_utc": "2026-09-29T04:18:03Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/148",
-      "detail": "branch=feat/payout-feed-paid-linkage-consumers changes=8"
     }
   ]
 }
