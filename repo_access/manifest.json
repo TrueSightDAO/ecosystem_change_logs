@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T14:24:01Z",
+  "updated_utc": "2026-10-09T14:24:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T142407Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T14:24:07Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/2026-10-09-gary-reply-5continent/brazil/sources/2026-10-09_gary_reply_to_graziela_re_5continent_invoice.pdf",
+      "detail": "path=brazil/sources/2026-10-09_gary_reply_to_graziela_re_5continent_invoice.pdf branch=docs/2026-10-09-gary-reply-5continent"
+    },
     {
       "id": "repo_access_20261009T142359Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T14:23:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1462 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T051905Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T05:19:05Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1462",
-      "detail": "branch=fix/followup-reconcile-path-b-literal-match changes=1"
     }
   ]
 }
