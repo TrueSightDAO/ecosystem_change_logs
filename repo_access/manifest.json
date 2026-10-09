@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T14:10:56Z",
+  "updated_utc": "2026-10-09T14:14:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T141410Z_sentiment-importer",
+      "timestamp_utc": "2026-10-09T14:14:10Z",
+      "agent": "sophia",
+      "repo": "sentiment_importer",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1137",
+      "detail": "branch=fix/perch-redis-private-ip changes=1"
+    },
     {
       "id": "repo_access_20261009T141055Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T14:10:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1461",
       "detail": "branch=fix/payout-plan-pr3-supersede-paulo changes=6"
-    },
-    {
-      "id": "repo_access_20260929T043919Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T04:39:19Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1459 method=squash"
     }
   ]
 }
