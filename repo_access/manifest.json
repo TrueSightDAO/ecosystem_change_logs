@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T01:19:11Z",
+  "updated_utc": "2026-10-09T01:26:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T012611Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T01:26:11Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1528",
+      "detail": "branch=brazil/envoy-crosscheck-clean-tables changes=1"
+    },
     {
       "id": "repo_access_20261009T011909Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T01:19:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1452 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T030435Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T03:04:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1452",
-      "detail": "branch=plan/payout-farm-plot-pr2-scope changes=4"
     }
   ]
 }
