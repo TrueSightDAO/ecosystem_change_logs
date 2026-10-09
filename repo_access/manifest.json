@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T12:16:22Z",
+  "updated_utc": "2026-10-09T12:20:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T122002Z_oracle",
+      "timestamp_utc": "2026-10-09T12:20:02Z",
+      "agent": "sophia",
+      "repo": "oracle",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=73 method=squash"
+    },
     {
       "id": "repo_access_20261009T121620Z_oracle",
       "timestamp_utc": "2026-10-09T12:16:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1456",
       "detail": "branch=docs/payout-filter-url-sync-note changes=1"
-    },
-    {
-      "id": "repo_access_20260929T035455Z_dapp-beta",
-      "timestamp_utc": "2026-09-29T03:54:55Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=147 method=squash"
     }
   ]
 }
