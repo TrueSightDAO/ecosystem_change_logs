@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T13:51:16Z",
+  "updated_utc": "2026-10-09T14:10:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T141044Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T14:10:44Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1546",
+      "detail": "branch=strategy/reconcile-brazil-lane-oscar-coop changes=4"
+    },
     {
       "id": "repo_access_20261009T135114Z_oracle",
       "timestamp_utc": "2026-10-09T13:51:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1459",
       "detail": "branch=docs/pr3-marker-awaiting-governor changes=1"
-    },
-    {
-      "id": "repo_access_20260929T043705Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-29T04:37:05Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1458 method=squash"
     }
   ]
 }
