@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-09T04:42:38Z",
+  "updated_utc": "2026-10-09T04:42:52Z",
   "entries": [
+    {
+      "id": "repo_access_20261009T044251Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-09T04:42:51Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1542 method=squash"
+    },
     {
       "id": "repo_access_20261009T044237Z_agentic-ai-context",
       "timestamp_utc": "2026-10-09T04:42:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=101 method=squash"
-    },
-    {
-      "id": "repo_access_20260929T034110Z_sunmint-beta",
-      "timestamp_utc": "2026-09-29T03:41:10Z",
-      "agent": "sophia",
-      "repo": "sunmint_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint_beta/pull/101",
-      "detail": "branch=fix/ledger-explorer-link-not-beta changes=2"
     }
   ]
 }
