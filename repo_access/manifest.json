@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-10T02:53:41Z",
+  "updated_utc": "2026-10-10T02:55:57Z",
   "entries": [
+    {
+      "id": "repo_access_20261010T025555Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-10T02:55:55Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1567",
+      "detail": "branch=docs/ilheus-window-lower-pane-fix changes=3"
+    },
     {
       "id": "repo_access_20261010T025340Z_agentic-ai-context",
       "timestamp_utc": "2026-10-10T02:53:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1476 method=squash"
-    },
-    {
-      "id": "repo_access_20260930T214543Z_agentic-ai-context",
-      "timestamp_utc": "2026-09-30T21:45:43Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1476",
-      "detail": "branch=wire-oscar-register changes=3"
     }
   ]
 }
