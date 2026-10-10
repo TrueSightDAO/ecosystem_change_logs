@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-10T04:00:10Z",
+  "updated_utc": "2026-10-10T05:54:03Z",
   "entries": [
+    {
+      "id": "deploy_20261010T055400Z_autopilot",
+      "agent": "sophia",
+      "timestamp_utc": "20261010T055400Z",
+      "target_type": "ec2",
+      "target_id": "autopilot",
+      "action": "deploy_autopilot (local)",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20261010-25",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/43a486cbb226c13b54c28e9664d9503fad4d9684",
+      "notes": "autopilot restarted onto 43a486cbb226c13b54c28e9664d9503fad4d9684; marker processed on boot."
+    },
     {
       "id": "deploy_20261010T040006Z_autopilot",
       "agent": "sophia",
@@ -2588,19 +2601,6 @@
       "lease_id": "L-20260831-06",
       "evidence_url": "",
       "notes": "409 merge conflict \u2014 histories diverged; DO NOT force. Human reconcile."
-    },
-    {
-      "id": "deploy_20260831T132539Z_agroverse-shop-prod",
-      "agent": "sophia",
-      "timestamp_utc": "20260831T132539Z",
-      "target_type": "prod-sync",
-      "target_id": "agroverse_shop_prod",
-      "action": "sync_beta_to_prod agroverse_shop_prod",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "L-20260831-06",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_prod/commits/main",
-      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
     }
   ]
 }
