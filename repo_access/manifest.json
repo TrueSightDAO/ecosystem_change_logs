@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-10T23:31:30Z",
+  "updated_utc": "2026-10-10T23:31:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261010T233146Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-10T23:31:46Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1582",
+      "detail": "branch=plan/discord-gateway-resume-tracker changes=1"
+    },
     {
       "id": "repo_access_20261010T233129Z_truesight-autopilot",
       "timestamp_utc": "2026-10-10T23:31:29Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1493",
       "detail": "branch=docs/map-stills-source-zip-gap changes=1"
-    },
-    {
-      "id": "repo_access_20261003T220929Z_farm-media-daemon",
-      "timestamp_utc": "2026-10-03T22:09:29Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=37 method=squash"
     }
   ]
 }
