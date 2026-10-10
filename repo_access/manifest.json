@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-10T03:57:39Z",
+  "updated_utc": "2026-10-10T03:57:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261010T035747Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-10T03:57:47Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1572 method=squash"
+    },
     {
       "id": "repo_access_20261010T035737Z_agentic-ai-context",
       "timestamp_utc": "2026-10-10T03:57:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1479",
       "detail": "branch=followups/cli-fileuploaded-guard changes=1"
-    },
-    {
-      "id": "repo_access_20260930T233938Z_github",
-      "timestamp_utc": "2026-09-30T23:39:38Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20260930233733_admin_sophia_41675741324c44f2aa61f11f9e1b404f.jpg",
-      "detail": "path=assets/dao_inventory_expense_20260930233733_admin_sophia_41675741324c44f2aa61f11f9e1b404f.jpg branch=main"
     }
   ]
 }
