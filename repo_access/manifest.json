@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-10T20:06:36Z",
+  "updated_utc": "2026-10-10T20:12:56Z",
   "entries": [
+    {
+      "id": "repo_access_20261010T201254Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-10T20:12:54Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1578",
+      "detail": "branch=docs/calendar-event-convention changes=4"
+    },
     {
       "id": "repo_access_20261010T200635Z_agentic-ai-context",
       "timestamp_utc": "2026-10-10T20:06:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/expense_20261002_gary_teh_notary_power_of_attorney_paloma_328.18brl.jpg",
       "detail": "path=assets/expense_20261002_gary_teh_notary_power_of_attorney_paloma_328.18brl.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261002T183833Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-02T18:38:33Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=522 method=squash"
     }
   ]
 }
