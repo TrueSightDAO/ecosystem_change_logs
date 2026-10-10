@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261010T142153Z_github",
+  "timestamp_utc": "2026-10-10T14:21:53Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/asset_receipt_20261010_santos_nfse_26_40kg_roast_peel_R400.pdf",
+  "detail": "path=assets/asset_receipt_20261010_santos_nfse_26_40kg_roast_peel_R400.pdf branch=main"
+}
