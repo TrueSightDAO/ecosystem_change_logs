@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-10T12:30:59Z",
+  "updated_utc": "2026-10-10T14:09:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261010T140914Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-10T14:09:14Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1576",
+      "detail": "branch=verdict/awb-weight-box-349-not-365 changes=1"
+    },
     {
       "id": "repo_access_20261010T123057Z_agentic-ai-context",
       "timestamp_utc": "2026-10-10T12:30:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/178",
       "detail": "branch=feat/founderhaus-summit-event-registry changes=4"
-    },
-    {
-      "id": "repo_access_20261001T001745Z_dao-protocol",
-      "timestamp_utc": "2026-10-01T00:17:45Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=181 method=squash"
     }
   ]
 }
