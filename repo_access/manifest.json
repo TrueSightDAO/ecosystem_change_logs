@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-10T14:31:00Z",
+  "updated_utc": "2026-10-10T18:31:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261010T183103Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-10T18:31:03Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=525 method=squash"
+    },
     {
       "id": "repo_access_20261010T143059Z_agentic-ai-context",
       "timestamp_utc": "2026-10-10T14:30:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1480",
       "detail": "branch=docs/brazil-du-e-cnpj-hold-2026-10-01 changes=6"
-    },
-    {
-      "id": "repo_access_20261001T001939Z_go-to-market",
-      "timestamp_utc": "2026-10-01T00:19:39Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=178 method=squash"
     }
   ]
 }
