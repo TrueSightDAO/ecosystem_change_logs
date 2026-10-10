@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-10T20:12:56Z",
+  "updated_utc": "2026-10-10T20:31:06Z",
   "entries": [
+    {
+      "id": "repo_access_20261010T203105Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-10T20:31:05Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1577 method=squash"
+    },
     {
       "id": "repo_access_20261010T201254Z_agentic-ai-context",
       "timestamp_utc": "2026-10-10T20:12:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/pull/4",
       "detail": "branch=feat/founderhaus-partner-collection changes=3"
-    },
-    {
-      "id": "repo_access_20261002T211016Z_github",
-      "timestamp_utc": "2026-10-02T21:10:16Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/expense_20261002_gary_teh_notary_power_of_attorney_paloma_328.18brl.jpg",
-      "detail": "path=assets/expense_20261002_gary_teh_notary_power_of_attorney_paloma_328.18brl.jpg branch=main"
     }
   ]
 }
