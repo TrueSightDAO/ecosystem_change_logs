@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-10T18:31:04Z",
+  "updated_utc": "2026-10-10T18:53:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261010T185347Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-10T18:53:47Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/526",
+      "detail": "branch=feat/calendar-discord-all-events changes=5"
+    },
     {
       "id": "repo_access_20261010T183103Z_truesight-autopilot",
       "timestamp_utc": "2026-10-10T18:31:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1481",
       "detail": "branch=followups/payout-event-parser-and-ledger-append-race changes=1"
-    },
-    {
-      "id": "repo_access_20261001T152946Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-01T15:29:46Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1480",
-      "detail": "branch=docs/brazil-du-e-cnpj-hold-2026-10-01 changes=6"
     }
   ]
 }
