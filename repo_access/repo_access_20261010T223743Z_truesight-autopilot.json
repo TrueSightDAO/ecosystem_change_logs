@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261010T223743Z_truesight-autopilot",
+  "timestamp_utc": "2026-10-10T22:37:43Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/528",
+  "detail": "branch=fix/calendar-skip-self-markers changes=4"
+}
