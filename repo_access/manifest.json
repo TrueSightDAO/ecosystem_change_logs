@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-10T18:54:12Z",
+  "updated_utc": "2026-10-10T19:31:05Z",
   "entries": [
+    {
+      "id": "repo_access_20261010T193104Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-10T19:31:04Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=526 method=squash"
+    },
     {
       "id": "repo_access_20261010T185410Z_truesight-autopilot",
       "timestamp_utc": "2026-10-10T18:54:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/522",
       "detail": "branch=fix/sales-guard-consignment-precondition changes=3"
-    },
-    {
-      "id": "repo_access_20261001T153806Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-01T15:38:06Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1480 method=squash"
     }
   ]
 }
