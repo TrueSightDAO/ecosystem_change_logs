@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-11T17:52:46Z",
+  "updated_utc": "2026-10-11T17:52:58Z",
   "entries": [
+    {
+      "id": "repo_access_20261011T175256Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-11T17:52:56Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1585 method=squash"
+    },
     {
       "id": "repo_access_20261011T175245Z_agentic-ai-context",
       "timestamp_utc": "2026-10-11T17:52:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1496 method=squash"
-    },
-    {
-      "id": "repo_access_20261003T235627Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-03T23:56:27Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1496",
-      "detail": "branch=docs/map-courier-manifest-oscar-register changes=2"
     }
   ]
 }
