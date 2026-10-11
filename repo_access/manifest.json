@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-11T17:52:58Z",
+  "updated_utc": "2026-10-11T17:57:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261011T175730Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-11T17:57:30Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1586",
+      "detail": "branch=docs/julio-store-enrichment-guide changes=1"
+    },
     {
       "id": "repo_access_20261011T175256Z_agentic-ai-context",
       "timestamp_utc": "2026-10-11T17:52:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1497",
       "detail": "branch=docs/map-cic-facility-register changes=2"
-    },
-    {
-      "id": "repo_access_20261003T235640Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-03T23:56:40Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1496 method=squash"
     }
   ]
 }
