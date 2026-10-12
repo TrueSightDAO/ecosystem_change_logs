@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-12T23:32:05Z",
+  "updated_utc": "2026-10-12T23:32:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261012T233214Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-12T23:32:14Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1590 method=squash"
+    },
     {
       "id": "repo_access_20261012T233203Z_agentic-ai-context",
       "timestamp_utc": "2026-10-12T23:32:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/blob/main/suppliers/black_king/20260929_cic_lab_test_theobromine_caffeine_hplc.pdf",
       "detail": "path=suppliers/black_king/20260929_cic_lab_test_theobromine_caffeine_hplc.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261004T170331Z_farm-media-daemon",
-      "timestamp_utc": "2026-10-04T17:03:31Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=38 method=squash"
     }
   ]
 }
