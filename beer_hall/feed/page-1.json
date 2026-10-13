@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-10-11T04:37:33Z",
+  "generated_at": "2026-10-13T05:56:06Z",
   "page": 1,
   "page_size": 10,
-  "total": 125,
+  "total": 126,
   "page_count": 13,
   "entries": [
+    {
+      "id": "beer-hall-2026-10-13T055606Z",
+      "posted_at_utc": "2026-10-13T05:56:06Z",
+      "slug": "black-king-landed-cost-wire-sent",
+      "preview": "Automated daily digest of the DAO - **Wire Transfer to 5 Continent Logistics** — Invoice #1026-08 paid for Brazil→SF cacao consignment; disputed lines clarified with Graziela (export-customs scope, FDA AMS $100 filing, …",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-10-13T055606Z_black-king-landed-cost-wire-sent.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-10-13T055606Z_black-king-landed-cost-wire-sent.json"
+    },
     {
       "id": "beer-hall-2026-10-11T043733Z",
       "posted_at_utc": "2026-10-11T04:37:33Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Media Performance** — Fixed squished YouTube embeds and implemented lazy-loading to resolve missing-video glitches on load. - **Governance** — Completed Repo-Access Denylist migrati…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-09-15T035424Z_youtube-fix-repo-access-denylist-complete.md",
       "json_path": "beer_hall/entries/beer-hall_2026-09-15T035424Z_youtube-fix-repo-access-denylist-complete.json"
-    },
-    {
-      "id": "beer-hall-2026-09-14T035447Z",
-      "posted_at_utc": "2026-09-14T03:54:47Z",
-      "slug": "sunmint-ux-reservation-logic-and-logistics",
-      "preview": "Automated daily digest of the DAO - **SunMint UX** — Added plot-specific tree lists to popups and sorted tree dropdowns by newest first. - **Sales Logic** — Shipped RESERVATION + RESERVATION SETTLEMENT GAS processors (U…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-09-14T035447Z_sunmint-ux-reservation-logic-and-logistics.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-09-14T035447Z_sunmint-ux-reservation-logic-and-logistics.json"
     }
   ]
 }
