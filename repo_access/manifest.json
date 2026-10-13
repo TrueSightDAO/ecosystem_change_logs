@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T03:24:12Z",
+  "updated_utc": "2026-10-13T03:37:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T033747Z_dao-protocol",
+      "timestamp_utc": "2026-10-13T03:37:47Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=183 method=squash"
+    },
     {
       "id": "repo_access_20261013T032411Z_dao-protocol",
       "timestamp_utc": "2026-10-13T03:24:11Z",
@@ -2187,17 +2198,6 @@
       "repo": "truesight_me_beta",
       "action": "merge_pr",
       "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=411 method=squash"
-    },
-    {
-      "id": "repo_access_20261005T224657Z_truesight-me-beta",
-      "timestamp_utc": "2026-10-05T22:46:57Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "merge_pr",
-      "result": "failure",
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=411 method=squash"
