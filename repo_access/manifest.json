@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T22:56:37Z",
+  "updated_utc": "2026-10-13T22:56:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T225644Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-13T22:56:44Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1598 method=squash"
+    },
     {
       "id": "repo_access_20261013T225635Z_truesight-autopilot",
       "timestamp_utc": "2026-10-13T22:56:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/blob/fda/pn-2026-10-06-cacao-9-articles-sfo/suppliers/black_king/20261006_fda_prior_notice_cacao_9_articles_sfo_air.pdf",
       "detail": "path=suppliers/black_king/20261006_fda_prior_notice_cacao_9_articles_sfo_air.pdf branch=fda/pn-2026-10-06-cacao-9-articles-sfo"
-    },
-    {
-      "id": "repo_access_20261007T030446Z_fda-fsvp",
-      "timestamp_utc": "2026-10-07T03:04:46Z",
-      "agent": "sophia",
-      "repo": "fda_fsvp",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/pull/36",
-      "detail": "branch=fda/pn-2026-10-06-cacao-9-articles-sfo changes=1"
     }
   ]
 }
