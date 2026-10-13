@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T12:53:53Z",
+  "updated_utc": "2026-10-13T12:54:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T125453Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-13T12:54:53Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1596 method=squash"
+    },
     {
       "id": "repo_access_20261013T125352Z_agentic-ai-context",
       "timestamp_utc": "2026-10-13T12:53:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1511",
       "detail": "branch=followups/cn-trademark-tooling-gaps changes=1"
-    },
-    {
-      "id": "repo_access_20261005T225451Z_go-to-market",
-      "timestamp_utc": "2026-10-05T22:54:51Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=180 method=squash"
     }
   ]
 }
