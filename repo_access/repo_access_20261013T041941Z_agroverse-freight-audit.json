@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261013T041941Z_agroverse-freight-audit",
+  "timestamp_utc": "2026-10-13T04:19:41Z",
+  "agent": "sophia",
+  "repo": "agroverse-freight-audit",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agroverse-freight-audit/blob/main/reports/2026-10-13_freight_cost_per_kg_2023_vs_2026.pdf",
+  "detail": "path=reports/2026-10-13_freight_cost_per_kg_2023_vs_2026.pdf branch=main"
+}
