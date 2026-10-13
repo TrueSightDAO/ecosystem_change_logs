@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T20:13:23Z",
+  "updated_utc": "2026-10-13T20:13:29Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T201327Z_github",
+      "timestamp_utc": "2026-10-13T20:13:27Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/currency_conversion_20261013_pix_brl_201.87_gary_to_matheus.jpg",
+      "detail": "path=assets/currency_conversion_20261013_pix_brl_201.87_gary_to_matheus.jpg branch=main"
+    },
     {
       "id": "repo_access_20261013T201321Z_github",
       "timestamp_utc": "2026-10-13T20:13:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/pull/35",
       "detail": "branch=add/cepotx-usda-nop-cert-20261002 changes=4"
-    },
-    {
-      "id": "repo_access_20261006T014905Z_go-to-market",
-      "timestamp_utc": "2026-10-06T01:49:05Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=181 method=squash"
     }
   ]
 }
