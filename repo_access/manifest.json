@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T02:37:48Z",
+  "updated_utc": "2026-10-13T02:47:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T024700Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-13T02:47:00Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1593",
+      "detail": "branch=plan/discord-gateway-resume-tick-deployed changes=2"
+    },
     {
       "id": "repo_access_20261013T023747Z_tokenomics",
       "timestamp_utc": "2026-10-13T02:37:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/410",
       "detail": "branch=fix/agl7-status-completed changes=1"
-    },
-    {
-      "id": "repo_access_20261005T220101Z_agent-handoffs",
-      "timestamp_utc": "2026-10-05T22:01:01Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/deepseek_from_sophia_20261005T220059Z.json",
-      "detail": "path=handoffs/deepseek_from_sophia_20261005T220059Z.json branch=main"
     }
   ]
 }
