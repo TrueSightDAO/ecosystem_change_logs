@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261013T225614Z_truesight-autopilot",
+  "timestamp_utc": "2026-10-13T22:56:14Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/532",
+  "detail": "branch=fix/attachment-path-doc-adapter-specific changes=1"
+}
