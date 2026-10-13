@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T00:49:37Z",
+  "updated_utc": "2026-10-13T02:35:45Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T023544Z_tokenomics",
+      "timestamp_utc": "2026-10-13T02:35:44Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/581",
+      "detail": "branch=feature/currency-definition-cols-n-v changes=7"
+    },
     {
       "id": "repo_access_20261013T004935Z_agentic-ai-context",
       "timestamp_utc": "2026-10-13T00:49:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261005T220055Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20261005T220055Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20261004T221410Z_fda-fsvp",
-      "timestamp_utc": "2026-10-04T22:14:10Z",
-      "agent": "sophia",
-      "repo": "fda_fsvp",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=34 method=squash"
     }
   ]
 }
