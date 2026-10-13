@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T12:09:23Z",
+  "updated_utc": "2026-10-13T12:28:35Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T122833Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-13T12:28:33Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1595",
+      "detail": "branch=sophia/agl16-prefix-strip-deploy-verified changes=2"
+    },
     {
       "id": "repo_access_20261013T120921Z_agent-handoffs",
       "timestamp_utc": "2026-10-13T12:09:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1510 method=squash"
-    },
-    {
-      "id": "repo_access_20261005T225028Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-05T22:50:28Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1510",
-      "detail": "branch=followups/agl9-break-ledger-status changes=1"
     }
   ]
 }
