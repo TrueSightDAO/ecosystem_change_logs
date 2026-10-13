@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T02:48:17Z",
+  "updated_utc": "2026-10-13T03:24:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T032411Z_dao-protocol",
+      "timestamp_utc": "2026-10-13T03:24:11Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/183",
+      "detail": "branch=fix/payout-registration-docstring changes=1"
+    },
     {
       "id": "repo_access_20261013T024815Z_dao-protocol",
       "timestamp_utc": "2026-10-13T02:48:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=411 method=squash"
-    },
-    {
-      "id": "repo_access_20261005T224650Z_truesight-me-beta",
-      "timestamp_utc": "2026-10-05T22:46:50Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/411",
-      "detail": "branch=fix/agl8-agl14-status-sales-in-progress changes=2"
     }
   ]
 }
