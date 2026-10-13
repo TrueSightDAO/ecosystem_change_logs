@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T15:06:54Z",
+  "updated_utc": "2026-10-13T20:13:23Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T201321Z_github",
+      "timestamp_utc": "2026-10-13T20:13:21Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/currency_conversion_20261013_wise_usd_to_brl_41.41usd.jpg",
+      "detail": "path=assets/currency_conversion_20261013_wise_usd_to_brl_41.41usd.jpg branch=main"
+    },
     {
       "id": "repo_access_20261013T150651Z_agroverse-freight-audit",
       "timestamp_utc": "2026-10-13T15:06:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=181 method=squash"
-    },
-    {
-      "id": "repo_access_20261006T014555Z_go-to-market",
-      "timestamp_utc": "2026-10-06T01:45:55Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/181",
-      "detail": "branch=report/cn-clearance-batch2-bahia changes=1"
     }
   ]
 }
