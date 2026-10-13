@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T20:13:29Z",
+  "updated_utc": "2026-10-13T21:43:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T214333Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-13T21:43:33Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1597",
+      "detail": "branch=docs/last-mile-carrier-energy-transport changes=1"
+    },
     {
       "id": "repo_access_20261013T201327Z_github",
       "timestamp_utc": "2026-10-13T20:13:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/blob/add/cepotx-usda-nop-cert-20261002/suppliers/cepotx/20261002_CEPOTX_usda_nop_organic_certificate.pdf",
       "detail": "path=suppliers/cepotx/20261002_CEPOTX_usda_nop_organic_certificate.pdf branch=add/cepotx-usda-nop-cert-20261002"
-    },
-    {
-      "id": "repo_access_20261006T150810Z_fda-fsvp",
-      "timestamp_utc": "2026-10-06T15:08:10Z",
-      "agent": "sophia",
-      "repo": "fda_fsvp",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/pull/35",
-      "detail": "branch=add/cepotx-usda-nop-cert-20261002 changes=4"
     }
   ]
 }
