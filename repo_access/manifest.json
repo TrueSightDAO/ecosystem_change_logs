@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T21:50:17Z",
+  "updated_utc": "2026-10-13T22:56:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T225614Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-13T22:56:14Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/532",
+      "detail": "branch=fix/attachment-path-doc-adapter-specific changes=1"
+    },
     {
       "id": "repo_access_20261013T215016Z_agentic-ai-context",
       "timestamp_utc": "2026-10-13T21:50:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261006193420_admin_sophia_f0ba516ac8d1de089d1cf8ebbcd991b9.jpg",
       "detail": "path=assets/dao_inventory_expense_20261006193420_admin_sophia_f0ba516ac8d1de089d1cf8ebbcd991b9.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261006T150829Z_fda-fsvp",
-      "timestamp_utc": "2026-10-06T15:08:29Z",
-      "agent": "sophia",
-      "repo": "fda_fsvp",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=35 method=squash"
     }
   ]
 }
