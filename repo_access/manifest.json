@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T22:58:47Z",
+  "updated_utc": "2026-10-13T22:59:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261013T225938Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-13T22:59:38Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1600",
+      "detail": "branch=followup/holdings-negative-balances changes=1"
+    },
     {
       "id": "repo_access_20261013T225845Z_truesight-autopilot",
       "timestamp_utc": "2026-10-13T22:58:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261007_oscar_108kg_wise_usd1212.97_brl6000_7b1feb52.jpg",
       "detail": "path=assets/dao_inventory_expense_20261007_oscar_108kg_wise_usd1212.97_brl6000_7b1feb52.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261007T030520Z_fda-fsvp",
-      "timestamp_utc": "2026-10-07T03:05:20Z",
-      "agent": "sophia",
-      "repo": "fda_fsvp",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=36 method=squash"
     }
   ]
 }
