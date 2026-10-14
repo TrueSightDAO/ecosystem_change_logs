@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T152820Z_notarizations",
+  "timestamp_utc": "2026-10-14T15:28:20Z",
+  "agent": "sophia",
+  "repo": "notarizations",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=3 method=squash"
+}
