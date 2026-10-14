@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T16:09:21Z",
+  "updated_utc": "2026-10-14T16:09:27Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T160925Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T16:09:25Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/TrueSight_DAO_LLC_Prospera_Operating_Agreement_v1.0.pdf",
+      "detail": "path=originals/TrueSight_DAO_LLC_Prospera_Operating_Agreement_v1.0.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T160920Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T16:09:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1521",
       "detail": "branch=brazil/5continent-reverify-consistency changes=1"
-    },
-    {
-      "id": "repo_access_20261008T173820Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:38:20Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1520 method=squash"
     }
   ]
 }
