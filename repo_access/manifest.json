@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:17:14Z",
+  "updated_utc": "2026-10-14T20:17:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T201717Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T20:17:17Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-prima-engagement-letter-2026-08-16.pdf",
+      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-prima-engagement-letter-2026-08-16.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T201713Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T20:17:13Z",
@@ -2187,17 +2198,6 @@
       "repo": "tokenomics",
       "action": "merge_pr",
       "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=580 method=squash"
-    },
-    {
-      "id": "repo_access_20261009T142536Z_tokenomics",
-      "timestamp_utc": "2026-10-09T14:25:36Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "failure",
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=580 method=squash"
