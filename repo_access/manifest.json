@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T15:28:22Z",
+  "updated_utc": "2026-10-14T15:28:35Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T152834Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T15:28:34Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1612",
+      "detail": "branch=docs/entity-registry-followup changes=1"
+    },
     {
       "id": "repo_access_20261014T152820Z_notarizations",
       "timestamp_utc": "2026-10-14T15:28:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-quote-3col/brazil/sources/2026-10-08_5continent_quote_vs_invoice_3col.pdf",
       "detail": "path=brazil/sources/2026-10-08_5continent_quote_vs_invoice_3col.pdf branch=brazil/5continent-quote-3col"
-    },
-    {
-      "id": "repo_access_20261008T173159Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:31:59Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1518",
-      "detail": "branch=brazil/5continent-quote-3col changes=1"
     }
   ]
 }
