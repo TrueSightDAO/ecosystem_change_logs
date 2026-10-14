@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T13:20:35Z",
+  "updated_utc": "2026-10-14T15:14:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T151417Z_notarizations",
+      "timestamp_utc": "2026-10-14T15:14:17Z",
+      "agent": "sophia",
+      "repo": "notarizations",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261013111620_zhiwen_teh_procuracao_publica_paloma_pinheiro_lecheta_brazil_setup.pdf",
+      "detail": "path=20261013111620_zhiwen_teh_procuracao_publica_paloma_pinheiro_lecheta_brazil_setup.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T132033Z_notarizations",
       "timestamp_utc": "2026-10-14T13:20:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1516 method=squash"
-    },
-    {
-      "id": "repo_access_20261008T172143Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:21:43Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-invoice-1026-08/brazil/sources/2026-10-07_5continent_invoice_1026-08.pdf",
-      "detail": "path=brazil/sources/2026-10-07_5continent_invoice_1026-08.pdf branch=brazil/5continent-invoice-1026-08"
     }
   ]
 }
