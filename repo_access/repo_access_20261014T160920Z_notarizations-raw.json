@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T160920Z_notarizations-raw",
+  "timestamp_utc": "2026-10-14T16:09:20Z",
+  "agent": "sophia",
+  "repo": "notarizations-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/Procuracao_Publica_Zhiwen_Teh_to_Paloma_Pinheiro_Lecheta_20261013.pdf",
+  "detail": "path=originals/Procuracao_Publica_Zhiwen_Teh_to_Paloma_Pinheiro_Lecheta_20261013.pdf branch=main"
+}
