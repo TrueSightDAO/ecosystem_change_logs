@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T16:25:34Z",
+  "updated_utc": "2026-10-14T16:26:14Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T162613Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T16:26:13Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1615 method=squash"
+    },
     {
       "id": "repo_access_20261014T162532Z_agentic-ai-context",
       "timestamp_utc": "2026-10-14T16:25:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1524 method=squash"
-    },
-    {
-      "id": "repo_access_20261008T222108Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T22:21:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-variance-bridge/brazil/sources/2026-10-08_5continent_variance_bridge.pdf",
-      "detail": "path=brazil/sources/2026-10-08_5continent_variance_bridge.pdf branch=brazil/5continent-variance-bridge"
     }
   ]
 }
