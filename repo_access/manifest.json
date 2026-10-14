@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:07:53Z",
+  "updated_utc": "2026-10-14T20:08:29Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T200827Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T20:08:27Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "branch=docs/entity-profiles-typo-fix changes=1"
+    },
     {
       "id": "repo_access_20261014T200752Z_agentic-ai-context",
       "timestamp_utc": "2026-10-14T20:07:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1531 method=squash"
-    },
-    {
-      "id": "repo_access_20261009T023634Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T02:36:34Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1531",
-      "detail": "branch=followups/managed-ledger-write-validation-41062 changes=1"
     }
   ]
 }
