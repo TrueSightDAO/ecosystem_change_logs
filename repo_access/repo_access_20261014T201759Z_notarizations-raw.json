@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T201759Z_notarizations-raw",
+  "timestamp_utc": "2026-10-14T20:17:59Z",
+  "agent": "sophia",
+  "repo": "notarizations-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-prima-invoice-070S2026-2026-08-24.pdf",
+  "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-prima-invoice-070S2026-2026-08-24.pdf branch=main"
+}
