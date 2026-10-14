@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T01:17:59Z",
+  "updated_utc": "2026-10-14T01:18:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T011802Z_sunmint",
+      "timestamp_utc": "2026-10-14T01:18:02Z",
+      "agent": "sophia",
+      "repo": "sunmint",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/SCHEMA.md",
+      "detail": "path=SCHEMA.md branch=main"
+    },
     {
       "id": "repo_access_20261014T011758Z_sunmint",
       "timestamp_utc": "2026-10-14T01:17:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/pull/37",
       "detail": "branch=fda/product-code-mapping-reference changes=2"
-    },
-    {
-      "id": "repo_access_20261007T161949Z_github",
-      "timestamp_utc": "2026-10-07T16:19:49Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261007_cic_to_coopercabruca_35.20.jpg",
-      "detail": "path=assets/dao_inventory_expense_20261007_cic_to_coopercabruca_35.20.jpg branch=main"
     }
   ]
 }
