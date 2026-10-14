@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:15:16Z",
+  "updated_utc": "2026-10-14T20:15:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T201519Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T20:15:19Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-incorporation-application-2026-05-11.pdf",
+      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-incorporation-application-2026-05-11.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T201514Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T20:15:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1544",
       "detail": "branch=brazil/2023-vs-2026-invoice-comparison changes=1"
-    },
-    {
-      "id": "repo_access_20261009T122002Z_oracle",
-      "timestamp_utc": "2026-10-09T12:20:02Z",
-      "agent": "sophia",
-      "repo": "oracle",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=73 method=squash"
     }
   ]
 }
