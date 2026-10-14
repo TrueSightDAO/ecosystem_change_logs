@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:15:52Z",
+  "updated_utc": "2026-10-14T20:15:57Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T201555Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T20:15:55Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-register-of-registrable-controllers-2026-05-11.pdf",
+      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-register-of-registrable-controllers-2026-05-11.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T201550Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T20:15:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=74 method=squash"
-    },
-    {
-      "id": "repo_access_20261009T135103Z_oracle",
-      "timestamp_utc": "2026-10-09T13:51:03Z",
-      "agent": "sophia",
-      "repo": "oracle",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/oracle/pull/74",
-      "detail": "branch=fix/mobile-stacked-card-whitespace changes=1"
     }
   ]
 }
