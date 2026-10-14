@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:15:42Z",
+  "updated_utc": "2026-10-14T20:15:47Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T201545Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T20:15:45Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-share-certificate-2026-05-11.pdf",
+      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-share-certificate-2026-05-11.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T201539Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T20:15:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1545 method=squash"
-    },
-    {
-      "id": "repo_access_20261009T122708Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T12:27:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-v6-bucket-derivation/brazil/sources/2026-10-09_5continent_v6_bucket_derivation.pdf",
-      "detail": "path=brazil/sources/2026-10-09_5continent_v6_bucket_derivation.pdf branch=brazil/5continent-v6-bucket-derivation"
     }
   ]
 }
