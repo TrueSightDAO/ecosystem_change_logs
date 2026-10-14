@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:17:40Z",
+  "updated_utc": "2026-10-14T20:17:45Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T201743Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T20:17:43Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-ocbc-bank-account-resolution-signed.pdf",
+      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-ocbc-bank-account-resolution-signed.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T201738Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T20:17:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1548",
       "detail": "branch=chore/pr4-followup-and-tracker changes=3"
-    },
-    {
-      "id": "repo_access_20261009T142948Z_dapp-beta",
-      "timestamp_utc": "2026-10-09T14:29:48Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=149 method=squash"
     }
   ]
 }
