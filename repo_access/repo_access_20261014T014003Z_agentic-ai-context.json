@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T014003Z_agentic-ai-context",
+  "timestamp_utc": "2026-10-14T01:40:03Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/plan/sunmint-pseudo-tree-qr/plans/SUNMINT_PSEUDO_TREE_QR_PLAN.md",
+  "detail": "path=plans/SUNMINT_PSEUDO_TREE_QR_PLAN.md branch=plan/sunmint-pseudo-tree-qr"
+}
