@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:20:39Z",
+  "updated_utc": "2026-10-14T20:25:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T202503Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T20:25:03Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1621",
+      "detail": "branch=docs/black-king-arrival-confirmed-kirsten changes=2"
+    },
     {
       "id": "repo_access_20261014T202037Z_agentic-ai-context",
       "timestamp_utc": "2026-10-14T20:20:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1552",
       "detail": "branch=reports/gary-2026-year-in-review-charts changes=1"
-    },
-    {
-      "id": "repo_access_20261009T180759Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T18:07:59Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1551 method=squash"
     }
   ]
 }
