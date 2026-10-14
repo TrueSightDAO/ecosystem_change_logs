@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T19:34:41Z",
+  "updated_utc": "2026-10-14T20:04:29Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T200427Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T20:04:27Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1617",
+      "detail": "branch=docs/black-king-ledger-routing-audit changes=3"
+    },
     {
       "id": "repo_access_20261014T193438Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T19:34:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/182",
       "detail": "branch=fix/chocolate-spec-bar-dimensions changes=2"
-    },
-    {
-      "id": "repo_access_20261009T012639Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T01:26:39Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1528 method=squash"
     }
   ]
 }
