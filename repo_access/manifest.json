@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T16:09:43Z",
+  "updated_utc": "2026-10-14T16:09:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T160953Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T16:09:53Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/MANIFEST.md",
+      "detail": "path=MANIFEST.md branch=main"
+    },
     {
       "id": "repo_access_20261014T160941Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T16:09:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-corrected-v2/brazil/sources/2026-10-08_5continent_quote_vs_invoice_CORRECTED_v2.pdf",
       "detail": "path=brazil/sources/2026-10-08_5continent_quote_vs_invoice_CORRECTED_v2.pdf branch=brazil/5continent-corrected-v2"
-    },
-    {
-      "id": "repo_access_20261008T174559Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:45:59Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1522",
-      "detail": "branch=brazil/5continent-corrected-v2 changes=1"
     }
   ]
 }
