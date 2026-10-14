@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T19:34:09Z",
+  "updated_utc": "2026-10-14T19:34:14Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T193412Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T19:34:12Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/Contributor%20Time%20Sheets/Ian%20Time%20Sheet.xlsx",
+      "detail": "path=originals/truetech-inc/Contributor Time Sheets/Ian Time Sheet.xlsx branch=main"
+    },
     {
       "id": "repo_access_20261014T193407Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T19:34:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1527 method=squash"
-    },
-    {
-      "id": "repo_access_20261009T005442Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T00:54:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1527",
-      "detail": "branch=brazil/5continent-final-v5-envoy-verified changes=1"
     }
   ]
 }
