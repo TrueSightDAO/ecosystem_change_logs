@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T131917Z_notarizations",
+  "timestamp_utc": "2026-10-14T13:19:17Z",
+  "agent": "sophia",
+  "repo": "notarizations",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/ENTITY_LEGAL_DOCS.md",
+  "detail": "path=ENTITY_LEGAL_DOCS.md branch=main"
+}
