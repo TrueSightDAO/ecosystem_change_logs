@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T15:27:35Z",
+  "updated_utc": "2026-10-14T15:28:05Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T152803Z_notarizations",
+      "timestamp_utc": "2026-10-14T15:28:03Z",
+      "agent": "sophia",
+      "repo": "notarizations",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations/pull/3",
+      "detail": "branch=docs/entity-registry-crosslink changes=1"
+    },
     {
       "id": "repo_access_20261014T152733Z_agentic-ai-context",
       "timestamp_utc": "2026-10-14T15:27:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1517 method=squash"
-    },
-    {
-      "id": "repo_access_20261008T172705Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:27:05Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-quote-vs-invoice/brazil/sources/2026-08-26_5continent_rate_quote.pdf",
-      "detail": "path=brazil/sources/2026-08-26_5continent_rate_quote.pdf branch=brazil/5continent-quote-vs-invoice"
     }
   ]
 }
