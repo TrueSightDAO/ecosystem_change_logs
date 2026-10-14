@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T16:13:29Z",
+  "updated_utc": "2026-10-14T16:13:39Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T161337Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T16:13:37Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1614 method=squash"
+    },
     {
       "id": "repo_access_20261014T161327Z_notarizations",
       "timestamp_utc": "2026-10-14T16:13:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1523 method=squash"
-    },
-    {
-      "id": "repo_access_20261008T174747Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:47:47Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-final-v3/brazil/sources/2026-10-08_5continent_quote_vs_invoice_FINAL_v3.pdf",
-      "detail": "path=brazil/sources/2026-10-08_5continent_quote_vs_invoice_FINAL_v3.pdf branch=brazil/5continent-final-v3"
     }
   ]
 }
