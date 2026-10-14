@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T193417Z_notarizations-raw",
+  "timestamp_utc": "2026-10-14T19:34:17Z",
+  "agent": "sophia",
+  "repo": "notarizations-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/Contributor%20Time%20Sheets/Matheus%20Time%20Sheet.xlsx",
+  "detail": "path=originals/truetech-inc/Contributor Time Sheets/Matheus Time Sheet.xlsx branch=main"
+}
