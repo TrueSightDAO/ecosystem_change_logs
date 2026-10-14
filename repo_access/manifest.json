@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:26:54Z",
+  "updated_utc": "2026-10-14T20:27:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T202703Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T20:27:03Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1622 method=squash"
+    },
     {
       "id": "repo_access_20261014T202652Z_agentic-ai-context",
       "timestamp_utc": "2026-10-14T20:26:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/2026-09-24-fumigation-nfse-astra/brazil/sources/2026-09-24_black_king_fumigation_nfse_astra.pdf",
       "detail": "path=brazil/sources/2026-09-24_black_king_fumigation_nfse_astra.pdf branch=docs/2026-09-24-fumigation-nfse-astra"
-    },
-    {
-      "id": "repo_access_20261009T184134Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T18:41:34Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1553",
-      "detail": "branch=docs/2026-09-24-fumigation-nfse-astra changes=1"
     }
   ]
 }
