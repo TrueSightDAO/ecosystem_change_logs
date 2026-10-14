@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T160941Z_notarizations-raw",
+  "timestamp_utc": "2026-10-14T16:09:41Z",
+  "agent": "sophia",
+  "repo": "notarizations-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/Siscomex_Black_King_Representacao_Despachante.pdf",
+  "detail": "path=originals/Siscomex_Black_King_Representacao_Despachante.pdf branch=main"
+}
