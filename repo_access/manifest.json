@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T15:28:35Z",
+  "updated_utc": "2026-10-14T15:32:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T153232Z_fda-fsvp",
+      "timestamp_utc": "2026-10-14T15:32:32Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/fda_fsvp/pull/40",
+      "detail": "branch=add/prospera-trading-entity-profile changes=5"
+    },
     {
       "id": "repo_access_20261014T152834Z_agentic-ai-context",
       "timestamp_utc": "2026-10-14T15:28:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1518 method=squash"
-    },
-    {
-      "id": "repo_access_20261008T173206Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:32:06Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-quote-3col/brazil/sources/2026-10-08_5continent_quote_vs_invoice_3col.pdf",
-      "detail": "path=brazil/sources/2026-10-08_5continent_quote_vs_invoice_3col.pdf branch=brazil/5continent-quote-3col"
     }
   ]
 }
