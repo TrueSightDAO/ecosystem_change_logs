@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:16:41Z",
+  "updated_utc": "2026-10-14T20:16:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T201644Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T20:16:44Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-consent-to-act-as-director-2026-05-08.pdf",
+      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-consent-to-act-as-director-2026-05-08.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T201639Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T20:16:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1137",
       "detail": "branch=fix/perch-redis-private-ip changes=1"
-    },
-    {
-      "id": "repo_access_20261009T141055Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T14:10:55Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1546 method=squash"
     }
   ]
 }
