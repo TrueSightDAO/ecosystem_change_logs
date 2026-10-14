@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T19:34:29Z",
+  "updated_utc": "2026-10-14T19:34:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T193438Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T19:34:38Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/MANIFEST.md",
+      "detail": "path=MANIFEST.md branch=main"
+    },
     {
       "id": "repo_access_20261014T193427Z_agentic-ai-context",
       "timestamp_utc": "2026-10-14T19:34:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1528 method=squash"
-    },
-    {
-      "id": "repo_access_20261009T012628Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T01:26:28Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/envoy-crosscheck-clean-tables/brazil/sources/2026-10-08_envoy_crosscheck_5continent_1026-08_CLEAN.pdf",
-      "detail": "path=brazil/sources/2026-10-08_envoy_crosscheck_5continent_1026-08_CLEAN.pdf branch=brazil/envoy-crosscheck-clean-tables"
     }
   ]
 }
