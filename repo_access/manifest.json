@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T19:34:04Z",
+  "updated_utc": "2026-10-14T19:34:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T193407Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T19:34:07Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/Contributor%20Time%20Sheets/Suchitra%20Time%20Sheet.xlsx",
+      "detail": "path=originals/truetech-inc/Contributor Time Sheets/Suchitra Time Sheet.xlsx branch=main"
+    },
     {
       "id": "repo_access_20261014T193403Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T19:34:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1527",
       "detail": "branch=brazil/5continent-final-v5-envoy-verified changes=1"
-    },
-    {
-      "id": "repo_access_20261008T224205Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T22:42:05Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1526 method=squash"
     }
   ]
 }
