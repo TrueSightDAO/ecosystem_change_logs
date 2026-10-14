@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:18:47Z",
+  "updated_utc": "2026-10-14T20:20:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T202018Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T20:20:18Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1620",
+      "detail": "branch=docs/black-king-photo2-indoor-two-pallets changes=2"
+    },
     {
       "id": "repo_access_20261014T201846Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T20:18:46Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1551",
       "detail": "branch=reports/gary-2026-year-in-review changes=1"
-    },
-    {
-      "id": "repo_access_20261009T180312Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T18:03:12Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1550 method=squash"
     }
   ]
 }
