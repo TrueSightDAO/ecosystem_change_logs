@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T16:09:32Z",
+  "updated_utc": "2026-10-14T16:09:37Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T160935Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T16:09:35Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/Siscomex_Black_King_Detalhar_Importador_Exportador.pdf",
+      "detail": "path=originals/Siscomex_Black_King_Detalhar_Importador_Exportador.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T160930Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T16:09:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1521 method=squash"
-    },
-    {
-      "id": "repo_access_20261008T173940Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:39:40Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-reverify-consistency/brazil/sources/2026-10-08_5continent_reverify_consistency.pdf",
-      "detail": "path=brazil/sources/2026-10-08_5continent_reverify_consistency.pdf branch=brazil/5continent-reverify-consistency"
     }
   ]
 }
