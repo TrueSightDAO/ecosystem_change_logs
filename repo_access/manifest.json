@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T01:17:51Z",
+  "updated_utc": "2026-10-14T01:17:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T011754Z_sunmint",
+      "timestamp_utc": "2026-10-14T01:17:54Z",
+      "agent": "sophia",
+      "repo": "sunmint",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/build_plots_geojson.py",
+      "detail": "path=scripts/build_plots_geojson.py branch=main"
+    },
     {
       "id": "repo_access_20261014T011749Z_sunmint",
       "timestamp_utc": "2026-10-14T01:17:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261007T154741Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20261007T154741Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20261007T153723Z_agent-handoffs",
-      "timestamp_utc": "2026-10-07T15:37:23Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261007T153722Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261007T153722Z.json branch=main"
     }
   ]
 }
