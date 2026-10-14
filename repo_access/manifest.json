@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T02:22:36Z",
+  "updated_utc": "2026-10-14T13:18:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T131840Z_notarizations",
+      "timestamp_utc": "2026-10-14T13:18:40Z",
+      "agent": "sophia",
+      "repo": "notarizations",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261014131753_gary_teh_truesight_dao_llc_prospera_certificate_of_organization.pdf",
+      "detail": "path=20261014131753_gary_teh_truesight_dao_llc_prospera_certificate_of_organization.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T022234Z_agentic-ai-context",
       "timestamp_utc": "2026-10-14T02:22:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261008T164724Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20261008T164724Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20261008T160950Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T16:09:50Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1515 method=squash"
     }
   ]
 }
