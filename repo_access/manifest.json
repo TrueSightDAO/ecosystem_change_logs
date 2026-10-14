@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T16:09:27Z",
+  "updated_utc": "2026-10-14T16:09:32Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T160930Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T16:09:30Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/Siscomex_Habilitacao_Omega_20261001.pdf",
+      "detail": "path=originals/Siscomex_Habilitacao_Omega_20261001.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T160925Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T16:09:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-reverify-consistency/brazil/sources/2026-10-08_5continent_reverify_consistency.pdf",
       "detail": "path=brazil/sources/2026-10-08_5continent_reverify_consistency.pdf branch=brazil/5continent-reverify-consistency"
-    },
-    {
-      "id": "repo_access_20261008T173933Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:39:33Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1521",
-      "detail": "branch=brazil/5continent-reverify-consistency changes=1"
     }
   ]
 }
