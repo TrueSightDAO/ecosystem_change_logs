@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T19:34:14Z",
+  "updated_utc": "2026-10-14T19:34:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T193417Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T19:34:17Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/Contributor%20Time%20Sheets/Matheus%20Time%20Sheet.xlsx",
+      "detail": "path=originals/truetech-inc/Contributor Time Sheets/Matheus Time Sheet.xlsx branch=main"
+    },
     {
       "id": "repo_access_20261014T193412Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T19:34:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1528",
       "detail": "branch=brazil/envoy-crosscheck-clean-tables changes=1"
-    },
-    {
-      "id": "repo_access_20261009T011909Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T01:19:09Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1527 method=squash"
     }
   ]
 }
