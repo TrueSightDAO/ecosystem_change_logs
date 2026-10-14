@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T011749Z_sunmint",
+  "timestamp_utc": "2026-10-14T01:17:49Z",
+  "agent": "sophia",
+  "repo": "sunmint",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/tests/test_build_tree_geojson_plot_assoc.py",
+  "detail": "path=tests/test_build_tree_geojson_plot_assoc.py branch=main"
+}
