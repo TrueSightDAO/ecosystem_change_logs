@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-13T23:48:55Z",
+  "updated_utc": "2026-10-14T01:04:17Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T010415Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-14T01:04:15Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/533",
+      "detail": "branch=fix/upload-sha-read-fallback changes=4"
+    },
     {
       "id": "repo_access_20261013T234854Z_agentic-ai-context",
       "timestamp_utc": "2026-10-13T23:48:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261007_oscar_108kg_wise_usd1212.97_brl6000_7b1feb52.jpg",
       "detail": "path=assets/dao_inventory_expense_20261007_oscar_108kg_wise_usd1212.97_brl6000_7b1feb52.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261007T132945Z_github",
-      "timestamp_utc": "2026-10-07T13:29:45Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261007_oscar_108kg_beans_ef5076cf.jpg",
-      "detail": "path=assets/dao_inventory_expense_20261007_oscar_108kg_beans_ef5076cf.jpg branch=main"
     }
   ]
 }
