@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T16:23:51Z",
+  "updated_utc": "2026-10-14T16:25:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T162532Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T16:25:32Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1615",
+      "detail": "branch=docs/fix-tree-estimation-col-u changes=1"
+    },
     {
       "id": "repo_access_20261014T162349Z_agent-handoffs",
       "timestamp_utc": "2026-10-14T16:23:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/brazil/5continent-variance-bridge/brazil/sources/2026-10-08_5continent_variance_bridge.pdf",
       "detail": "path=brazil/sources/2026-10-08_5continent_variance_bridge.pdf branch=brazil/5continent-variance-bridge"
-    },
-    {
-      "id": "repo_access_20261008T222039Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T22:20:39Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1524",
-      "detail": "branch=brazil/5continent-variance-bridge changes=1"
     }
   ]
 }
