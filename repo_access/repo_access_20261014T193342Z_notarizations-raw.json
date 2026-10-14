@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T193342Z_notarizations-raw",
+  "timestamp_utc": "2026-10-14T19:33:42Z",
+  "agent": "sophia",
+  "repo": "notarizations-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/GS1%20GTIN%20codes%2010%20in%20total.pdf",
+  "detail": "path=originals/truetech-inc/GS1 GTIN codes 10 in total.pdf branch=main"
+}
