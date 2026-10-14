@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T19:33:38Z",
+  "updated_utc": "2026-10-14T19:33:43Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T193342Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T19:33:42Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/GS1%20GTIN%20codes%2010%20in%20total.pdf",
+      "detail": "path=originals/truetech-inc/GS1 GTIN codes 10 in total.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T193337Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T19:33:37Z",
@@ -2187,17 +2198,6 @@
       "repo": "tokenomics",
       "action": "merge_pr",
       "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=579 method=squash"
-    },
-    {
-      "id": "repo_access_20261008T223742Z_tokenomics",
-      "timestamp_utc": "2026-10-08T22:37:42Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "failure",
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=579 method=squash"
