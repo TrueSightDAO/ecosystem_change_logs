@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T16:07:58Z",
+  "updated_utc": "2026-10-14T16:09:15Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T160913Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T16:09:13Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/Procuracao_Omega_Matheus_Reis_final_assinado.pdf",
+      "detail": "path=originals/Procuracao_Omega_Matheus_Reis_final_assinado.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T160755Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T16:07:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1519 method=squash"
-    },
-    {
-      "id": "repo_access_20261008T173559Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:35:59Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1520",
-      "detail": "branch=brazil/5continent-extra-subtotal-2 changes=1"
     }
   ]
 }
