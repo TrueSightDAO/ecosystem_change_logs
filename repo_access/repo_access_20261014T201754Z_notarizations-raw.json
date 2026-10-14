@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T201754Z_notarizations-raw",
+  "timestamp_utc": "2026-10-14T20:17:54Z",
+  "agent": "sophia",
+  "repo": "notarizations-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-iras-stamp-duty-share-transfer-2026-08-22.pdf",
+  "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-iras-stamp-duty-share-transfer-2026-08-22.pdf branch=main"
+}
