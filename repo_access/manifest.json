@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:17:19Z",
+  "updated_utc": "2026-10-14T20:17:29Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T201727Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T20:17:27Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-directors-and-secretaries-resignation-and-appointment-2026.pdf",
+      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-directors-and-secretaries-resignation-and-appointment-2026.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T201717Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T20:17:17Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261009T142651Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20261009T142651Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20261009T142618Z_tokenomics",
-      "timestamp_utc": "2026-10-09T14:26:18Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=580 method=squash"
     }
   ]
 }
