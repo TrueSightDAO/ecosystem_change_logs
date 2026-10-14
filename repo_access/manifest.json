@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:25:25Z",
+  "updated_utc": "2026-10-14T20:26:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T202652Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T20:26:52Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1622",
+      "detail": "branch=docs/black-king-main-ledger-ruling changes=2"
+    },
     {
       "id": "repo_access_20261014T202523Z_agentic-ai-context",
       "timestamp_utc": "2026-10-14T20:25:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1553",
       "detail": "branch=docs/2026-09-24-fumigation-nfse-astra changes=1"
-    },
-    {
-      "id": "repo_access_20261009T183024Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T18:30:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1552 method=squash"
     }
   ]
 }
