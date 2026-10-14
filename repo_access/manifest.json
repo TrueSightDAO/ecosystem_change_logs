@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T02:19:44Z",
+  "updated_utc": "2026-10-14T02:22:36Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T022234Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-14T02:22:34Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1610 method=squash"
+    },
     {
       "id": "repo_access_20261014T021943Z_agentic-ai-context",
       "timestamp_utc": "2026-10-14T02:19:43Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1515 method=squash"
-    },
-    {
-      "id": "repo_access_20261008T160939Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T16:09:39Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1515",
-      "detail": "branch=docs/black-king-shipment-15-row changes=2"
     }
   ]
 }
