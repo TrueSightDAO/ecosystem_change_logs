@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T152733Z_agentic-ai-context",
+  "timestamp_utc": "2026-10-14T15:27:33Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/entity_registry.json",
+  "detail": "path=entity_registry.json branch=main"
+}
