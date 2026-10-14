@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T15:32:34Z",
+  "updated_utc": "2026-10-14T15:32:52Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T153250Z_fda-fsvp",
+      "timestamp_utc": "2026-10-14T15:32:50Z",
+      "agent": "sophia",
+      "repo": "fda_fsvp",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=40 method=squash"
+    },
     {
       "id": "repo_access_20261014T153232Z_fda-fsvp",
       "timestamp_utc": "2026-10-14T15:32:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1519",
       "detail": "branch=brazil/5continent-extra-subtotal changes=1"
-    },
-    {
-      "id": "repo_access_20261008T173216Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-08T17:32:16Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1518 method=squash"
     }
   ]
 }
