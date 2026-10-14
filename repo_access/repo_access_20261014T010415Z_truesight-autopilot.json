@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T010415Z_truesight-autopilot",
+  "timestamp_utc": "2026-10-14T01:04:15Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/533",
+  "detail": "branch=fix/upload-sha-read-fallback changes=4"
+}
