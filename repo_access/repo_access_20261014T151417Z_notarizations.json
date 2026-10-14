@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T151417Z_notarizations",
+  "timestamp_utc": "2026-10-14T15:14:17Z",
+  "agent": "sophia",
+  "repo": "notarizations",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261013111620_zhiwen_teh_procuracao_publica_paloma_pinheiro_lecheta_brazil_setup.pdf",
+  "detail": "path=20261013111620_zhiwen_teh_procuracao_publica_paloma_pinheiro_lecheta_brazil_setup.pdf branch=main"
+}
