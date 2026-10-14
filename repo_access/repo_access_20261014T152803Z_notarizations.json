@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261014T152803Z_notarizations",
+  "timestamp_utc": "2026-10-14T15:28:03Z",
+  "agent": "sophia",
+  "repo": "notarizations",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations/pull/3",
+  "detail": "branch=docs/entity-registry-crosslink changes=1"
+}
