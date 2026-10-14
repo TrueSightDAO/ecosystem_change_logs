@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:16:56Z",
+  "updated_utc": "2026-10-14T20:17:00Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T201659Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T20:16:59Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-register-of-members-2026-08-24.pdf",
+      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-register-of-members-2026-08-24.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T201654Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T20:16:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/2026-10-09-gary-reply-5continent/brazil/sources/2026-10-09_gary_reply_to_graziela_re_5continent_invoice.pdf",
       "detail": "path=brazil/sources/2026-10-09_gary_reply_to_graziela_re_5continent_invoice.pdf branch=docs/2026-10-09-gary-reply-5continent"
-    },
-    {
-      "id": "repo_access_20261009T142359Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T14:23:59Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1547",
-      "detail": "branch=docs/2026-10-09-gary-reply-5continent changes=1"
     }
   ]
 }
