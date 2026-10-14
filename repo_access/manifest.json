@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T20:17:29Z",
+  "updated_utc": "2026-10-14T20:17:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261014T201732Z_notarizations-raw",
+      "timestamp_utc": "2026-10-14T20:17:32Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-share-transfer-resolution-2026-signed.pdf",
+      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-share-transfer-resolution-2026-signed.pdf branch=main"
+    },
     {
       "id": "repo_access_20261014T201727Z_notarizations-raw",
       "timestamp_utc": "2026-10-14T20:17:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/149",
       "detail": "branch=feat/pr4-repoint-ledger-dropdown-to-cache changes=4"
-    },
-    {
-      "id": "repo_access_20261009T142653Z_agent-handoffs",
-      "timestamp_utc": "2026-10-09T14:26:53Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261009T142651Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261009T142651Z.json branch=main"
     }
   ]
 }
