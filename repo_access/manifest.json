@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T21:31:51Z",
+  "updated_utc": "2026-10-15T21:38:33Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T213831Z_agent-handoffs",
+      "timestamp_utc": "2026-10-15T21:38:31Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261015T213830Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261015T213830Z.json branch=main"
+    },
     {
       "id": "repo_access_20261015T213150Z_tokenomics",
       "timestamp_utc": "2026-10-15T21:31:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1587",
       "detail": "branch=docs/julio-guide-clean changes=1"
-    },
-    {
-      "id": "repo_access_20261011T175730Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-11T17:57:30Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1586",
-      "detail": "branch=docs/julio-store-enrichment-guide changes=1"
     }
   ]
 }
