@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T06:07:40Z",
+  "updated_utc": "2026-10-15T13:01:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T130124Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T13:01:24Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1651",
+      "detail": "branch=plan/record-cde-rulings changes=5"
+    },
     {
       "id": "repo_access_20261015T060738Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T06:07:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1578",
       "detail": "branch=docs/calendar-event-convention changes=4"
-    },
-    {
-      "id": "repo_access_20261010T200635Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-10T20:06:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1577",
-      "detail": "branch=docs/close-out-discord-member-replies changes=2"
     }
   ]
 }
