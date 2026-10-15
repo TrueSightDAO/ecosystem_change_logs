@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T04:05:28Z",
+  "updated_utc": "2026-10-15T04:05:51Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T040549Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T04:05:49Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1634 method=squash"
+    },
     {
       "id": "repo_access_20261015T040527Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T04:05:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1563 method=squash"
-    },
-    {
-      "id": "repo_access_20261009T205631Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T20:56:31Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1563",
-      "detail": "branch=research/who-files-aphis-broker-vs-importer changes=1"
     }
   ]
 }
