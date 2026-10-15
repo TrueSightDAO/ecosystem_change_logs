@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T05:02:58Z",
+  "updated_utc": "2026-10-15T05:06:45Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T050644Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T05:06:44Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1644",
+      "detail": "branch=followup/managed-ledger-transaction-cli-gap changes=1"
+    },
     {
       "id": "repo_access_20261015T050256Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T05:02:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1576 method=squash"
-    },
-    {
-      "id": "repo_access_20261010T140914Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-10T14:09:14Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1576",
-      "detail": "branch=verdict/awb-weight-box-349-not-365 changes=1"
     }
   ]
 }
