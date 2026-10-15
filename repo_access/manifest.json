@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T05:10:08Z",
+  "updated_utc": "2026-10-15T05:11:51Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T051149Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T05:11:49Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/freight-plan/doc-hygiene-f-split-7.2/plans/FREIGHT_COST_AMORTIZATION_PLAN.md",
+      "detail": "path=plans/FREIGHT_COST_AMORTIZATION_PLAN.md branch=freight-plan/doc-hygiene-f-split-7.2"
+    },
     {
       "id": "repo_access_20261015T051007Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T05:10:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/526",
       "detail": "branch=feat/calendar-discord-all-events changes=5"
-    },
-    {
-      "id": "repo_access_20261010T183103Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-10T18:31:03Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=525 method=squash"
     }
   ]
 }
