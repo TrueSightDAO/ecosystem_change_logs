@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T04:01:02Z",
+  "updated_utc": "2026-10-15T04:01:56Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T040154Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T04:01:54Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1633",
+      "detail": "branch=docs/freight-plan-paid-from-managed-usd changes=2"
+    },
     {
       "id": "repo_access_20261015T040100Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T04:01:00Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1561 method=squash"
-    },
-    {
-      "id": "repo_access_20261009T192429Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T19:24:29Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1561",
-      "detail": "branch=research/weekend-vs-hold-sfo-agriculture-inspection changes=1"
     }
   ]
 }
