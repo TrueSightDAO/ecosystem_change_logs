@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T05:26:39Z",
+  "updated_utc": "2026-10-15T06:07:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T060738Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T06:07:38Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1650",
+      "detail": "branch=followup/managed-ledger-transaction-cli-gap-refresh changes=1"
+    },
     {
       "id": "repo_access_20261015T052638Z_dao-protocol",
       "timestamp_utc": "2026-10-15T05:26:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1577",
       "detail": "branch=docs/close-out-discord-member-replies changes=2"
-    },
-    {
-      "id": "repo_access_20261010T193104Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-10T19:31:04Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=526 method=squash"
     }
   ]
 }
