@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T02:30:09Z",
+  "updated_utc": "2026-10-15T02:59:33Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T025931Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T02:59:31Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1629",
+      "detail": "branch=plan/freight-cost-amortization changes=1"
+    },
     {
       "id": "repo_access_20261015T023007Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T02:30:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1557 method=squash"
-    },
-    {
-      "id": "repo_access_20261009T185344Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T18:53:44Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1557",
-      "detail": "branch=docs/cbp-agriculture-hold-rootcause-hypotheses changes=1"
     }
   ]
 }
