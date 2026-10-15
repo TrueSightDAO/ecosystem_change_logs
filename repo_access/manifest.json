@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T14:23:11Z",
+  "updated_utc": "2026-10-15T19:14:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T191407Z_github",
+      "timestamp_utc": "2026-10-15T19:14:07Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/TrueSight_DAO_Liabilities_AGL16.pdf",
+      "detail": "path=assets/TrueSight_DAO_Liabilities_AGL16.pdf branch=main"
+    },
     {
       "id": "repo_access_20261015T142310Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T14:23:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1579 method=squash"
-    },
-    {
-      "id": "repo_access_20261010T203424Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-10T20:34:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1579",
-      "detail": "branch=docs/calendar-event-convention-runner changes=4"
     }
   ]
 }
