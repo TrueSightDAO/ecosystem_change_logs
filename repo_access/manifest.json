@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-14T21:01:44Z",
+  "updated_utc": "2026-10-15T01:09:25Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T010923Z_agroverse-inventory",
+      "timestamp_utc": "2026-10-15T01:09:23Z",
+      "agent": "sophia",
+      "repo": "agroverse-inventory",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/3c53976f-c027-4527-add3-2031a1587d7f.json",
+      "detail": "path=currency-compositions/3c53976f-c027-4527-add3-2031a1587d7f.json branch=main"
+    },
     {
       "id": "repo_access_20261014T210141Z_github",
       "timestamp_utc": "2026-10-14T21:01:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1554",
       "detail": "branch=docs/fumigation-2025-vs-2026-cadence changes=1"
-    },
-    {
-      "id": "repo_access_20261009T184151Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T18:41:51Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1553 method=squash"
     }
   ]
 }
