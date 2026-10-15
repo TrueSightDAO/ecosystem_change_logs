@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T04:46:10Z",
+  "updated_utc": "2026-10-15T04:53:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T045307Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T04:53:07Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1639",
+      "detail": "branch=fix/open-followups-agl15-r66-shell-and-expense-double-insert changes=2"
+    },
     {
       "id": "repo_access_20261015T044608Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T04:46:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1568 method=squash"
-    },
-    {
-      "id": "repo_access_20261010T025638Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-10T02:56:38Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1568",
-      "detail": "branch=docs/ilheus-bathroom-window-confirmed changes=3"
     }
   ]
 }
