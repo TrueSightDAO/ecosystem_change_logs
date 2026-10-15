@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T22:10:47Z",
+  "updated_utc": "2026-10-15T22:26:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T222622Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T22:26:22Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1656",
+      "detail": "branch=docs/payout-report-format-sop changes=2"
+    },
     {
       "id": "repo_access_20261015T221045Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T22:10:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/581",
       "detail": "branch=feature/currency-definition-cols-n-v changes=7"
-    },
-    {
-      "id": "repo_access_20261013T004935Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-13T00:49:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1591 method=squash"
     }
   ]
 }
