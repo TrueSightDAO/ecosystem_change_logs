@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T21:01:59Z",
+  "updated_utc": "2026-10-15T21:03:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T210323Z_dao-protocol",
+      "timestamp_utc": "2026-10-15T21:03:23Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/188",
+      "detail": "branch=fix/webhook-timeout-and-text-numeric-guard changes=4"
+    },
     {
       "id": "repo_access_20261015T210157Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T21:01:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1582",
       "detail": "branch=plan/discord-gateway-resume-tracker changes=1"
-    },
-    {
-      "id": "repo_access_20261010T233129Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-10T23:31:29Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=528 method=squash"
     }
   ]
 }
