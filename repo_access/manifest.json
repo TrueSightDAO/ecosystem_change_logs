@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T04:56:38Z",
+  "updated_utc": "2026-10-15T04:59:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T045939Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T04:59:39Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1642",
+      "detail": "branch=fix/agl15-two-bugs-partial-offset changes=1"
+    },
     {
       "id": "repo_access_20261015T045636Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T04:56:36Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1575",
       "detail": "branch=status/usda-released-2026-10-09 changes=1"
-    },
-    {
-      "id": "repo_access_20261010T054151Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-10T05:41:51Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1574",
-      "detail": "branch=docs/41062-offchain-dedup-followups changes=1"
     }
   ]
 }
