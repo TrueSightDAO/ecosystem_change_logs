@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T13:01:26Z",
+  "updated_utc": "2026-10-15T13:46:51Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T134649Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T13:46:49Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1652",
+      "detail": "branch=fix/e2-server-half-status changes=3"
+    },
     {
       "id": "repo_access_20261015T130124Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T13:01:24Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1577 method=squash"
-    },
-    {
-      "id": "repo_access_20261010T201254Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-10T20:12:54Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1578",
-      "detail": "branch=docs/calendar-event-convention changes=4"
     }
   ]
 }
