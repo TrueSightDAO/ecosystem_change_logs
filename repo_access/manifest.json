@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T05:06:45Z",
+  "updated_utc": "2026-10-15T05:10:08Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T051007Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T05:10:07Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1645",
+      "detail": "branch=freight-plan/doc-hygiene-f-split-7.2 changes=2"
+    },
     {
       "id": "repo_access_20261015T050644Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T05:06:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=525 method=squash"
-    },
-    {
-      "id": "repo_access_20261010T143059Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-10T14:30:59Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1576 method=squash"
     }
   ]
 }
