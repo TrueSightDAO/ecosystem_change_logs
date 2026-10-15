@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T01:58:00Z",
+  "updated_utc": "2026-10-15T02:29:56Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T022955Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T02:29:55Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1627",
+      "detail": "branch=followup/repackaging-settlement-webhook-env changes=1"
+    },
     {
       "id": "repo_access_20261015T015758Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T01:57:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1556 method=squash"
-    },
-    {
-      "id": "repo_access_20261009T184748Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T18:47:48Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1556",
-      "detail": "branch=docs/astra-fumigation-cert-request-sent changes=1"
     }
   ]
 }
