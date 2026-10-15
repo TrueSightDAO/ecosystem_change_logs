@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T23:01:23Z",
+  "updated_utc": "2026-10-15T23:03:39Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T230337Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T23:03:37Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/reports/pix_payout_linked_cfr_anapu_20261015_v3.pdf",
+      "detail": "path=reports/pix_payout_linked_cfr_anapu_20261015_v3.pdf branch=main"
+    },
     {
       "id": "repo_access_20261015T230121Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T23:01:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1593 method=squash"
-    },
-    {
-      "id": "repo_access_20261013T024703Z_dao-protocol",
-      "timestamp_utc": "2026-10-13T02:47:03Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/182",
-      "detail": "branch=feature/define-currency-cols-n-v changes=8"
     }
   ]
 }
