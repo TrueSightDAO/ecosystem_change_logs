@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T21:57:53Z",
+  "updated_utc": "2026-10-15T22:10:47Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T221045Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T22:10:45Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/reports/pix_payout_linked_cfr_anapu_20261015.pdf",
+      "detail": "path=reports/pix_payout_linked_cfr_anapu_20261015.pdf branch=main"
+    },
     {
       "id": "repo_access_20261015T215752Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T21:57:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1591 method=squash"
-    },
-    {
-      "id": "repo_access_20261013T004926Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-13T00:49:26Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1591",
-      "detail": "branch=fix/currency-naming-agl8-clone-gas-gap changes=2"
     }
   ]
 }
