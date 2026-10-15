@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T13:46:51Z",
+  "updated_utc": "2026-10-15T14:23:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T142310Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T14:23:10Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1643 method=squash"
+    },
     {
       "id": "repo_access_20261015T134649Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T13:46:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1579",
       "detail": "branch=docs/calendar-event-convention-runner changes=4"
-    },
-    {
-      "id": "repo_access_20261010T203105Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-10T20:31:05Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1577 method=squash"
     }
   ]
 }
