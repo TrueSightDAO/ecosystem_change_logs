@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T04:04:40Z",
+  "updated_utc": "2026-10-15T04:05:28Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T040527Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T04:05:27Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1634",
+      "detail": "branch=docs/freight-plan-include-bank-fee-2 changes=9"
+    },
     {
       "id": "repo_access_20261015T040438Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T04:04:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1563",
       "detail": "branch=research/who-files-aphis-broker-vs-importer changes=1"
-    },
-    {
-      "id": "repo_access_20261009T193324Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-09T19:33:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1562 method=squash"
     }
   ]
 }
