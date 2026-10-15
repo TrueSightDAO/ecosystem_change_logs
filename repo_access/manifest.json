@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T05:18:26Z",
+  "updated_utc": "2026-10-15T05:26:39Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T052638Z_dao-protocol",
+      "timestamp_utc": "2026-10-15T05:26:38Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/187",
+      "detail": "branch=feat/managed-ledger-transaction-cli changes=2"
+    },
     {
       "id": "repo_access_20261015T051825Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T05:18:25Z",
@@ -2187,17 +2198,6 @@
       "repo": "truesight_autopilot",
       "action": "merge_pr",
       "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=526 method=squash"
-    },
-    {
-      "id": "repo_access_20261010T185410Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-10T18:54:10Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "failure",
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=526 method=squash"
