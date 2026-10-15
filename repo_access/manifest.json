@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T04:28:04Z",
+  "updated_utc": "2026-10-15T04:36:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T043622Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T04:36:22Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1637",
+      "detail": "branch=fix/open-followups-treasury-cache-negative-aum-addendum changes=1"
+    },
     {
       "id": "repo_access_20261015T042802Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T04:28:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1567",
       "detail": "branch=docs/ilheus-window-lower-pane-fix changes=3"
-    },
-    {
-      "id": "repo_access_20261010T025340Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-10T02:53:40Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1566 method=squash"
     }
   ]
 }
