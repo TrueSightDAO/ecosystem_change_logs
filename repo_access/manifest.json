@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-15T05:11:51Z",
+  "updated_utc": "2026-10-15T05:18:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261015T051825Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-15T05:18:25Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1649",
+      "detail": "branch=fix/freight-plan-s2.1-agl13-cash-note changes=1"
+    },
     {
       "id": "repo_access_20261015T051149Z_agentic-ai-context",
       "timestamp_utc": "2026-10-15T05:11:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=526 method=squash"
-    },
-    {
-      "id": "repo_access_20261010T185347Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-10T18:53:47Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/526",
-      "detail": "branch=feat/calendar-discord-all-events changes=5"
     }
   ]
 }
