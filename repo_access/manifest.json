@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-16T22:29:52Z",
+  "updated_utc": "2026-10-16T22:30:36Z",
   "entries": [
+    {
+      "id": "repo_access_20261016T223035Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-16T22:30:35Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=535 method=squash"
+    },
     {
       "id": "repo_access_20261016T222951Z_agentic-ai-context",
       "timestamp_utc": "2026-10-16T22:29:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261013_oscar_pix_beans_outstanding_R480.jpg",
       "detail": "path=assets/dao_inventory_expense_20261013_oscar_pix_beans_outstanding_R480.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261013T120251Z_agent-handoffs",
-      "timestamp_utc": "2026-10-13T12:02:51Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261013T120249Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261013T120249Z.json branch=main"
     }
   ]
 }
