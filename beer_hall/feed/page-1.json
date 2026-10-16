@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-10-13T05:56:06Z",
+  "generated_at": "2026-10-16T03:36:51Z",
   "page": 1,
   "page_size": 10,
-  "total": 126,
+  "total": 127,
   "page_count": 13,
   "entries": [
+    {
+      "id": "beer-hall-2026-10-16T033651Z",
+      "posted_at_utc": "2026-10-16T03:36:51Z",
+      "slug": "cfr-payout-live-settlement-sop-merged",
+      "preview": "Automated daily digest of the DAO - **CFR Anapu PIX Payout Schedule Shipped** — 86 trees, R$430 total, clickable per-tree links in PDF; all 86/86 links verified resolving. - **Cross-Ledger Freight Settlement SOP (§5.16)…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-10-16T033651Z_cfr-payout-live-settlement-sop-merged.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-10-16T033651Z_cfr-payout-live-settlement-sop-merged.json"
+    },
     {
       "id": "beer-hall-2026-10-13T055606Z",
       "posted_at_utc": "2026-10-13T05:56:06Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Sales Logic** — Shipped RESERVATION + RESERVATION SETTLEMENT GAS processors (Unit 3) to support two-event sales models. - **Partner Pages** — Published Sítio Cacau na Veia farm page…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-09-16T035312Z_reservation-settlement-and-cacau-na-veia.md",
       "json_path": "beer_hall/entries/beer-hall_2026-09-16T035312Z_reservation-settlement-and-cacau-na-veia.json"
-    },
-    {
-      "id": "beer-hall-2026-09-15T035424Z",
-      "posted_at_utc": "2026-09-15T03:54:24Z",
-      "slug": "youtube-fix-repo-access-denylist-complete",
-      "preview": "Automated daily digest of the DAO - **Media Performance** — Fixed squished YouTube embeds and implemented lazy-loading to resolve missing-video glitches on load. - **Governance** — Completed Repo-Access Denylist migrati…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-09-15T035424Z_youtube-fix-repo-access-denylist-complete.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-09-15T035424Z_youtube-fix-repo-access-denylist-complete.json"
     }
   ]
 }
