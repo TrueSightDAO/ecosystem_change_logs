@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-16T21:50:46Z",
+  "updated_utc": "2026-10-16T22:01:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261016T220145Z_tokenomics",
+      "timestamp_utc": "2026-10-16T22:01:45Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=584 method=squash"
+    },
     {
       "id": "repo_access_20261016T215045Z_tokenomics",
       "timestamp_utc": "2026-10-16T21:50:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=183 method=squash"
-    },
-    {
-      "id": "repo_access_20261013T032411Z_dao-protocol",
-      "timestamp_utc": "2026-10-13T03:24:11Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/183",
-      "detail": "branch=fix/payout-registration-docstring changes=1"
     }
   ]
 }
