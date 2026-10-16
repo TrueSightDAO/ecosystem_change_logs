@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-16T16:07:15Z",
+  "updated_utc": "2026-10-16T21:50:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261016T215045Z_tokenomics",
+      "timestamp_utc": "2026-10-16T21:50:45Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/584",
+      "detail": "branch=docs/schema-sa-sheet-access-matrix changes=2"
+    },
     {
       "id": "repo_access_20261016T160714Z_agent-handoffs",
       "timestamp_utc": "2026-10-16T16:07:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/183",
       "detail": "branch=fix/payout-registration-docstring changes=1"
-    },
-    {
-      "id": "repo_access_20261013T024815Z_dao-protocol",
-      "timestamp_utc": "2026-10-13T02:48:15Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=182 method=squash"
     }
   ]
 }
