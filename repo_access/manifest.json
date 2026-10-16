@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-16T23:25:00Z",
+  "updated_utc": "2026-10-16T23:26:30Z",
   "entries": [
+    {
+      "id": "repo_access_20261016T232628Z_bionpact-agentic-ai-context",
+      "timestamp_utc": "2026-10-16T23:26:28Z",
+      "agent": "sophia",
+      "repo": "bionpact_agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/bionpact_agentic_ai_context/blob/policy/bionpact-singapore-trade-and-data/BIONPACT_ENTITY.md",
+      "detail": "path=BIONPACT_ENTITY.md branch=policy/bionpact-singapore-trade-and-data"
+    },
     {
       "id": "repo_access_20261016T232458Z_bionpact-agentic-ai-context",
       "timestamp_utc": "2026-10-16T23:24:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1596",
       "detail": "branch=sophia/agl16-prefix-strip-verified-v2 changes=7"
-    },
-    {
-      "id": "repo_access_20261013T124552Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-13T12:45:52Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1595 method=squash"
     }
   ]
 }
