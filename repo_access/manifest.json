@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-16T23:27:03Z",
+  "updated_utc": "2026-10-16T23:29:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261016T232917Z_bionpact-agentic-ai-context",
+      "timestamp_utc": "2026-10-16T23:29:17Z",
+      "agent": "sophia",
+      "repo": "bionpact_agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1 method=squash"
+    },
     {
       "id": "repo_access_20261016T232701Z_bionpact-agentic-ai-context",
       "timestamp_utc": "2026-10-16T23:27:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse-freight-audit/blob/main/reports/2026-10-13_cost_per_kg_dao_dhl_fedex.pdf",
       "detail": "path=reports/2026-10-13_cost_per_kg_dao_dhl_fedex.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261013T150335Z_agroverse-freight-audit",
-      "timestamp_utc": "2026-10-13T15:03:35Z",
-      "agent": "sophia",
-      "repo": "agroverse-freight-audit",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse-freight-audit/blob/main/reports/2026-10-13_freight_cost_per_kg_2023_vs_2026.pdf",
-      "detail": "path=reports/2026-10-13_freight_cost_per_kg_2023_vs_2026.pdf branch=main"
     }
   ]
 }
