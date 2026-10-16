@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-16T22:30:50Z",
+  "updated_utc": "2026-10-16T23:22:50Z",
   "entries": [
+    {
+      "id": "repo_access_20261016T232249Z_bionpact-agentic-ai-context",
+      "timestamp_utc": "2026-10-16T23:22:49Z",
+      "agent": "sophia",
+      "repo": "bionpact_agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/bionpact_agentic_ai_context/pull/1",
+      "detail": "branch=policy/bionpact-singapore-trade-and-data changes=1"
+    },
     {
       "id": "repo_access_20261016T223048Z_agentic-ai-context",
       "timestamp_utc": "2026-10-16T22:30:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1595",
       "detail": "branch=sophia/agl16-prefix-strip-deploy-verified changes=2"
-    },
-    {
-      "id": "repo_access_20261013T120921Z_agent-handoffs",
-      "timestamp_utc": "2026-10-13T12:09:21Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261013T120920Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261013T120920Z.json branch=main"
     }
   ]
 }
