@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-17T02:26:35Z",
+  "updated_utc": "2026-10-17T03:12:53Z",
   "entries": [
+    {
+      "id": "repo_access_20261017T031252Z_dao-protocol",
+      "timestamp_utc": "2026-10-17T03:12:52Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=190 method=squash"
+    },
     {
       "id": "repo_access_20261017T022633Z_bionpact-agentic-ai-context",
       "timestamp_utc": "2026-10-17T02:26:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/533",
       "detail": "branch=fix/upload-sha-read-fallback changes=4"
-    },
-    {
-      "id": "repo_access_20261013T234854Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-13T23:48:54Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1600 method=squash"
     }
   ]
 }
