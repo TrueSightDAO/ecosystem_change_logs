@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-17T03:30:25Z",
+  "updated_utc": "2026-10-17T03:30:35Z",
   "entries": [
+    {
+      "id": "repo_access_20261017T033033Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-17T03:30:33Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1665 method=squash"
+    },
     {
       "id": "repo_access_20261017T033023Z_agentic-ai-context",
       "timestamp_utc": "2026-10-17T03:30:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/patches/2026-10-14_sunmint_plot_association_and_expected_trees.patch",
       "detail": "path=patches/2026-10-14_sunmint_plot_association_and_expected_trees.patch branch=main"
-    },
-    {
-      "id": "repo_access_20261014T010427Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-14T01:04:27Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=533 method=squash"
     }
   ]
 }
