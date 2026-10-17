@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-17T01:06:38Z",
+  "updated_utc": "2026-10-17T01:06:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261017T010647Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-17T01:06:47Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1663 method=squash"
+    },
     {
       "id": "repo_access_20261017T010637Z_agentic-ai-context",
       "timestamp_utc": "2026-10-17T01:06:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/532",
       "detail": "branch=fix/attachment-path-doc-adapter-specific changes=1"
-    },
-    {
-      "id": "repo_access_20261013T215016Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-13T21:50:16Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1597 method=squash"
     }
   ]
 }
