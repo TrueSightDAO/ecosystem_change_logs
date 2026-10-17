@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-17T01:24:17Z",
+  "updated_utc": "2026-10-17T02:01:51Z",
   "entries": [
+    {
+      "id": "repo_access_20261017T020149Z_dao-protocol",
+      "timestamp_utc": "2026-10-17T02:01:49Z",
+      "agent": "sophia",
+      "repo": "dao_protocol",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=189 method=squash"
+    },
     {
       "id": "repo_access_20261017T012415Z_agentic-ai-context",
       "timestamp_utc": "2026-10-17T01:24:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=532 method=squash"
-    },
-    {
-      "id": "repo_access_20261013T225627Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-13T22:56:27Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1598",
-      "detail": "branch=followups/cache-name-mojibake-and-stale-per-key-surface changes=1"
     }
   ]
 }
