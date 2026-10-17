@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-17T00:40:48Z",
+  "updated_utc": "2026-10-17T01:01:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261017T010146Z_tokenomics",
+      "timestamp_utc": "2026-10-17T01:01:46Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=585 method=squash"
+    },
     {
       "id": "repo_access_20261017T004046Z_tokenomics",
       "timestamp_utc": "2026-10-17T00:40:46Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1597",
       "detail": "branch=docs/last-mile-carrier-energy-transport changes=1"
-    },
-    {
-      "id": "repo_access_20261013T201327Z_github",
-      "timestamp_utc": "2026-10-13T20:13:27Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/currency_conversion_20261013_pix_brl_201.87_gary_to_matheus.jpg",
-      "detail": "path=assets/currency_conversion_20261013_pix_brl_201.87_gary_to_matheus.jpg branch=main"
     }
   ]
 }
