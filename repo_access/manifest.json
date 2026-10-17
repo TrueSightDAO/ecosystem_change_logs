@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-17T03:12:53Z",
+  "updated_utc": "2026-10-17T03:30:25Z",
   "entries": [
+    {
+      "id": "repo_access_20261017T033023Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-17T03:30:23Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1665",
+      "detail": "branch=chore/track-dao-protocol-deploy-prereqs changes=1"
+    },
     {
       "id": "repo_access_20261017T031252Z_dao-protocol",
       "timestamp_utc": "2026-10-17T03:12:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=533 method=squash"
-    },
-    {
-      "id": "repo_access_20261014T010415Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-14T01:04:15Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/533",
-      "detail": "branch=fix/upload-sha-read-fallback changes=4"
     }
   ]
 }
