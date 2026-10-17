@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-17T02:25:14Z",
+  "updated_utc": "2026-10-17T02:26:35Z",
   "entries": [
+    {
+      "id": "repo_access_20261017T022633Z_bionpact-agentic-ai-context",
+      "timestamp_utc": "2026-10-17T02:26:33Z",
+      "agent": "sophia",
+      "repo": "bionpact_agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=3 method=squash"
+    },
     {
       "id": "repo_access_20261017T022513Z_bionpact-agentic-ai-context",
       "timestamp_utc": "2026-10-17T02:25:13Z",
@@ -2187,17 +2198,6 @@
       "repo": "agentic_ai_context",
       "action": "merge_pr",
       "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1600 method=squash"
-    },
-    {
-      "id": "repo_access_20261013T225948Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-13T22:59:48Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "failure",
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1600 method=squash"
