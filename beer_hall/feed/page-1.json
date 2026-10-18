@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-10-16T03:36:51Z",
+  "generated_at": "2026-10-18T03:33:01Z",
   "page": 1,
   "page_size": 10,
-  "total": 127,
+  "total": 128,
   "page_count": 13,
   "entries": [
+    {
+      "id": "beer-hall-2026-10-18T033301Z",
+      "posted_at_utc": "2026-10-18T03:33:01Z",
+      "slug": "treasury-cache-fix-sa-access-matrix",
+      "preview": "Automated daily digest of the DAO - **Treasury Cache Publisher Restored** — Malformed URL in TBM ledger (missing `/edit` suffix) was crashing the cron; fix deployed, all 16 ledgers now publishing (was 15). - **Service A…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-10-18T033301Z_treasury-cache-fix-sa-access-matrix.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-10-18T033301Z_treasury-cache-fix-sa-access-matrix.json"
+    },
     {
       "id": "beer-hall-2026-10-16T033651Z",
       "posted_at_utc": "2026-10-16T03:36:51Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Payouts** — Shipped private PIX registration ledger and dual-write PAYOUT EVENT sink (Tier-1 payouts + Tier-2 events). - **Partner Pages** — SunMint activity badges + itemized click…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-09-18T034357Z_payout-sink-and-crf-anapu-badges.md",
       "json_path": "beer_hall/entries/beer-hall_2026-09-18T034357Z_payout-sink-and-crf-anapu-badges.json"
-    },
-    {
-      "id": "beer-hall-2026-09-16T035312Z",
-      "posted_at_utc": "2026-09-16T03:53:12Z",
-      "slug": "reservation-settlement-and-cacau-na-veia",
-      "preview": "Automated daily digest of the DAO - **Sales Logic** — Shipped RESERVATION + RESERVATION SETTLEMENT GAS processors (Unit 3) to support two-event sales models. - **Partner Pages** — Published Sítio Cacau na Veia farm page…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-09-16T035312Z_reservation-settlement-and-cacau-na-veia.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-09-16T035312Z_reservation-settlement-and-cacau-na-veia.json"
     }
   ]
 }
