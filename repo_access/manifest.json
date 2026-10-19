@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-19T19:53:04Z",
+  "updated_utc": "2026-10-19T19:53:17Z",
   "entries": [
+    {
+      "id": "repo_access_20261019T195315Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-19T19:53:15Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1668 method=squash"
+    },
     {
       "id": "repo_access_20261019T195301Z_agentic-ai-context",
       "timestamp_utc": "2026-10-19T19:53:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/tests/test_build_tree_geojson_plot_assoc.py",
       "detail": "path=tests/test_build_tree_geojson_plot_assoc.py branch=main"
-    },
-    {
-      "id": "repo_access_20261014T011735Z_sunmint",
-      "timestamp_utc": "2026-10-14T01:17:35Z",
-      "agent": "sophia",
-      "repo": "sunmint",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/tests/test_build_plots_estimated_trees.py",
-      "detail": "path=tests/test_build_plots_estimated_trees.py branch=main"
     }
   ]
 }
