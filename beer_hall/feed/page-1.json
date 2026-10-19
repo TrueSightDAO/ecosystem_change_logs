@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-10-18T03:33:01Z",
+  "generated_at": "2026-10-19T03:44:03Z",
   "page": 1,
   "page_size": 10,
-  "total": 128,
+  "total": 129,
   "page_count": 13,
   "entries": [
+    {
+      "id": "beer-hall-2026-10-19T034403Z",
+      "posted_at_utc": "2026-10-19T03:44:03Z",
+      "slug": "warehouse-logistics-attribution-corrected",
+      "preview": "Automated daily digest of the DAO - **Warehouse Logistics Attribution Corrected** — 6 h warehouse work (10/13–10/16: unload, unpack, storage solution) reassigned from Gary Teh to Kirsten Ritschel (Kiki's Cocoa); erroneo…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-10-19T034403Z_warehouse-logistics-attribution-corrected.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-10-19T034403Z_warehouse-logistics-attribution-corrected.json"
+    },
     {
       "id": "beer-hall-2026-10-18T033301Z",
       "posted_at_utc": "2026-10-18T03:33:01Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Security** — Hardened GAS deployment pipeline: fail-closed on unverifiable pushes and added pre-push guards to prevent accidental deletion of remote-only files. - **Stability** — Re…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-09-19T033952Z_gas-security-and-black-king-declaration.md",
       "json_path": "beer_hall/entries/beer-hall_2026-09-19T033952Z_gas-security-and-black-king-declaration.json"
-    },
-    {
-      "id": "beer-hall-2026-09-18T034357Z",
-      "posted_at_utc": "2026-09-18T03:43:57Z",
-      "slug": "payout-sink-and-crf-anapu-badges",
-      "preview": "Automated daily digest of the DAO - **Payouts** — Shipped private PIX registration ledger and dual-write PAYOUT EVENT sink (Tier-1 payouts + Tier-2 events). - **Partner Pages** — SunMint activity badges + itemized click…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-09-18T034357Z_payout-sink-and-crf-anapu-badges.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-09-18T034357Z_payout-sink-and-crf-anapu-badges.json"
     }
   ]
 }

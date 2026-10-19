@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-10-19T034403Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-10-19T03:44:03Z",
+  "slug": "warehouse-logistics-attribution-corrected",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-10-19T034403Z_warehouse-logistics-attribution-corrected.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-10-19T034403Z_warehouse-logistics-attribution-corrected.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Warehouse Logistics Attribution Corrected** — 6 h warehouse work (10/13–10/16: unload, unpack, storage solution) reassigned from Gary Teh to Kirsten Ritschel (Kiki's Cocoa); erroneous entry reversed and re-entered under correct contributor.\n- **Packaging Liaison Sessions Logged** — Kirsten + Gary each recorded 15 min on packaging concerns, separate from the earlier pallet-loading-capacity / bar-condition discussion.\n- No new partner-facing features, ledger changes, or schema updates shipped since previous Beer Hall.",
+  "message2_shipped": "Shipped\n\nNo new shipments since previous Beer Hall (2026-10-18). All repo activity was automated refresh cycles (stats indexes, advisory snapshots, inventory/currency snapshots).\n\nCommunity (Telegram log):\n\n- Gary Teh: Reversed 360-min warehouse logistics entry submitted in error; 6 h on 10/13–10/16 (unload, unpack, proper storage solution) were performed by Kirsten Ritschel, not Gary Teh. Net-zero for Gary; re-entered against correct contributor.\n- Kirsten Ritschel: 15 min liaising with Gary Teh on packaging concerns (separate session from earlier pallet-loading-capacity / bar-condition liaison).\n- Gary Teh: 15 min liaising with Kirsten Ritschel on packaging concerns (separate session from earlier pallet-loading-capacity / bar-condition liaison)."
+}
