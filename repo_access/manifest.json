@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T10:14:01Z",
+  "updated_utc": "2026-10-20T20:00:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T200039Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T20:00:39Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/334",
+      "detail": "branch=feat/journey-sitio-catarinense-stop changes=3"
+    },
     {
       "id": "repo_access_20261020T101359Z_agent-handoffs",
       "timestamp_utc": "2026-10-20T10:13:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/README.md",
       "detail": "path=README.md branch=main"
-    },
-    {
-      "id": "repo_access_20261014T160741Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T16:07:41Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "create_repo",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw",
-      "detail": "org=TrueSightDAO private=True"
     }
   ]
 }
