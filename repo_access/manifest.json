@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T23:43:22Z",
+  "updated_utc": "2026-10-20T23:44:37Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T234435Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T23:44:35Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=337 method=squash"
+    },
     {
       "id": "repo_access_20261020T234320Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-20T23:43:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1617",
       "detail": "branch=docs/black-king-ledger-routing-audit changes=3"
-    },
-    {
-      "id": "repo_access_20261014T193438Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T19:34:38Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/MANIFEST.md",
-      "detail": "path=MANIFEST.md branch=main"
     }
   ]
 }
