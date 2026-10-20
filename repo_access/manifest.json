@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T08:36:49Z",
+  "updated_utc": "2026-10-20T08:36:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T083652Z_farm-media-manifests",
+      "timestamp_utc": "2026-10-20T08:36:52Z",
+      "agent": "sophia",
+      "repo": "farm_media_manifests",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/galleries/sitio-catarinense-para.json",
+      "detail": "path=galleries/sitio-catarinense-para.json branch=main"
+    },
     {
       "id": "repo_access_20261020T083647Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-20T08:36:47Z",
@@ -2183,17 +2194,6 @@
     {
       "id": "repo_access_20261014T152515Z_notarizations",
       "timestamp_utc": "2026-10-14T15:25:15Z",
-      "agent": "sophia",
-      "repo": "notarizations",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/ENTITY_LEGAL_DOCS.md",
-      "detail": "path=ENTITY_LEGAL_DOCS.md branch=main"
-    },
-    {
-      "id": "repo_access_20261014T151433Z_notarizations",
-      "timestamp_utc": "2026-10-14T15:14:33Z",
       "agent": "sophia",
       "repo": "notarizations",
       "action": "upload_file_to_github",
