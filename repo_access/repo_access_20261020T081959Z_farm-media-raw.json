@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261020T081959Z_farm-media-raw",
+  "timestamp_utc": "2026-10-20T08:19:59Z",
+  "agent": "sophia",
+  "repo": "farm-media-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/farm-media-raw/blob/main/sitio-catarinense-para/photos/00000087-PHOTO-2026-10-20-04-40-19.jpg",
+  "detail": "path=sitio-catarinense-para/photos/00000087-PHOTO-2026-10-20-04-40-19.jpg branch=main"
+}
