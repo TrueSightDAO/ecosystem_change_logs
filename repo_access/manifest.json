@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T23:55:03Z",
+  "updated_utc": "2026-10-20T23:57:30Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T235728Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T23:57:28Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/339",
+      "detail": "branch=fix/sitio-partner-media-gallery changes=4"
+    },
     {
       "id": "repo_access_20261020T235501Z_tokenomics",
       "timestamp_utc": "2026-10-20T23:55:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1619 method=squash"
-    },
-    {
-      "id": "repo_access_20261014T201448Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T20:14:48Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1619",
-      "detail": "branch=docs/black-king-arrival-photo-delivery-in-progress changes=3"
     }
   ]
 }
