@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T21:13:44Z",
+  "updated_utc": "2026-10-20T21:15:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T211514Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-20T21:15:14Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1680",
+      "detail": "branch=docs/envoy-plan-pr2-done changes=1"
+    },
     {
       "id": "repo_access_20261020T211342Z_claude-telegram-monitor",
       "timestamp_utc": "2026-10-20T21:13:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/TrueTech%20Inc%20-%20Initial%20Filing%20(IRS%20CP-575%20EIN%2088-3411514).pdf",
       "detail": "path=originals/truetech-inc/TrueTech Inc - Initial Filing (IRS CP-575 EIN 88-3411514).pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T162613Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T16:26:13Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1615 method=squash"
     }
   ]
 }
