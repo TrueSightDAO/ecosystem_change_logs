@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T23:40:18Z",
+  "updated_utc": "2026-10-20T23:47:29Z",
   "entries": [
+    {
+      "id": "deploy_20261020T234726Z_agroverse-shop-prod",
+      "agent": "sophia",
+      "timestamp_utc": "20261020T234726Z",
+      "target_type": "prod-sync",
+      "target_id": "agroverse_shop_prod",
+      "action": "sync_beta_to_prod agroverse_shop_prod",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20261020-28",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_prod/commits/main",
+      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20261020T234015Z_autopilot",
       "agent": "sophia",
@@ -2587,19 +2600,6 @@
       "result": "success",
       "lease_id": "L-20260831-06",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_prod/commits/main",
-      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
-    },
-    {
-      "id": "deploy_20260831T201344Z_sunmint-prod",
-      "agent": "sophia",
-      "timestamp_utc": "20260831T201344Z",
-      "target_type": "prod-sync",
-      "target_id": "sunmint_prod",
-      "action": "sync_beta_to_prod sunmint_prod",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "L-20260831-06",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint_prod/commits/main",
       "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
     }
   ]
