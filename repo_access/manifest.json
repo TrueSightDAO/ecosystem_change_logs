@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T21:15:30Z",
+  "updated_utc": "2026-10-20T23:01:06Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T230105Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-20T23:01:05Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/536",
+      "detail": "branch=feat/email-watch-tiered-sends-and-calendar-invites changes=8"
+    },
     {
       "id": "repo_access_20261020T211529Z_agentic-ai-context",
       "timestamp_utc": "2026-10-20T21:15:29Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/US%20Customs%20and%20Border%20Protection%20(ACE%20exporter%20app).pdf",
       "detail": "path=originals/truetech-inc/US Customs and Border Protection (ACE exporter app).pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T193322Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T19:33:22Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/20220714%20-%20TrueTech%20Inc%20Corporate%20Bylaws.pdf",
-      "detail": "path=originals/truetech-inc/20220714 - TrueTech Inc Corporate Bylaws.pdf branch=main"
     }
   ]
 }
