@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T20:03:44Z",
+  "updated_utc": "2026-10-20T20:03:57Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T200355Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T20:03:55Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/cfr-anapu-partner-stop/partners/cfr-anapu-dorothy-stang/index.html",
+      "detail": "path=partners/cfr-anapu-dorothy-stang/index.html branch=feat/cfr-anapu-partner-stop"
+    },
     {
       "id": "repo_access_20261020T200342Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-20T20:03:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/TrueSight_DAO_LLC_Prospera_Operating_Agreement_v1.0.pdf",
       "detail": "path=originals/TrueSight_DAO_LLC_Prospera_Operating_Agreement_v1.0.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T160920Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T16:09:20Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/Procuracao_Publica_Zhiwen_Teh_to_Paloma_Pinheiro_Lecheta_20261013.pdf",
-      "detail": "path=originals/Procuracao_Publica_Zhiwen_Teh_to_Paloma_Pinheiro_Lecheta_20261013.pdf branch=main"
     }
   ]
 }
