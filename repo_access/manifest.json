@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T09:13:32Z",
+  "updated_utc": "2026-10-20T09:50:50Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T095048Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-20T09:50:48Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1676",
+      "detail": "branch=docs/business-model changes=1"
+    },
     {
       "id": "repo_access_20261020T091330Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-20T09:13:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1612",
       "detail": "branch=docs/entity-registry-followup changes=1"
-    },
-    {
-      "id": "repo_access_20261014T152820Z_notarizations",
-      "timestamp_utc": "2026-10-14T15:28:20Z",
-      "agent": "sophia",
-      "repo": "notarizations",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=3 method=squash"
     }
   ]
 }
