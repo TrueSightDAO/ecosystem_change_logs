@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261020T081454Z_sunmint",
+  "timestamp_utc": "2026-10-20T08:14:54Z",
+  "agent": "sophia",
+  "repo": "sunmint",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/farms/index.json",
+  "detail": "path=farms/index.json branch=main"
+}
