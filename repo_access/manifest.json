@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T23:34:11Z",
+  "updated_utc": "2026-10-20T23:43:22Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T234320Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T23:43:20Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/337",
+      "detail": "branch=fix/partner-nominatim-unguarded-json-parse changes=14"
+    },
     {
       "id": "repo_access_20261020T233409Z_truesight-autopilot",
       "timestamp_utc": "2026-10-20T23:34:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/MANIFEST.md",
       "detail": "path=MANIFEST.md branch=main"
-    },
-    {
-      "id": "repo_access_20261014T193427Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T19:34:27Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1616 method=squash"
     }
   ]
 }
