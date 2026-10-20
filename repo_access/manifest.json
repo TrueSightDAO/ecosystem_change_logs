@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T09:11:39Z",
+  "updated_utc": "2026-10-20T09:13:32Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T091330Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T09:13:30Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/main/farms/sitio-catarinense-para/media.json",
+      "detail": "path=farms/sitio-catarinense-para/media.json branch=main"
+    },
     {
       "id": "repo_access_20261020T091137Z_go-to-market",
       "timestamp_utc": "2026-10-20T09:11:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=3 method=squash"
-    },
-    {
-      "id": "repo_access_20261014T152803Z_notarizations",
-      "timestamp_utc": "2026-10-14T15:28:03Z",
-      "agent": "sophia",
-      "repo": "notarizations",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations/pull/3",
-      "detail": "branch=docs/entity-registry-crosslink changes=1"
     }
   ]
 }
