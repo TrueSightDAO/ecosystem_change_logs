@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T23:53:39Z",
+  "updated_utc": "2026-10-20T23:54:29Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T235427Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T23:54:27Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=338 method=squash"
+    },
     {
       "id": "repo_access_20261020T235337Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-20T23:53:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1618 method=squash"
-    },
-    {
-      "id": "repo_access_20261014T200827Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T20:08:27Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "branch=docs/entity-profiles-typo-fix changes=1"
     }
   ]
 }
