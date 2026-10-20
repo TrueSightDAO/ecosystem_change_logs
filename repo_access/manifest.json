@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T08:31:00Z",
+  "updated_utc": "2026-10-20T08:31:08Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T083106Z_sunmint",
+      "timestamp_utc": "2026-10-20T08:31:06Z",
+      "agent": "sophia",
+      "repo": "sunmint",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/farms/index.json",
+      "detail": "path=farms/index.json branch=main"
+    },
     {
       "id": "repo_access_20261020T083058Z_sunmint",
       "timestamp_utc": "2026-10-20T08:30:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1607 method=squash"
-    },
-    {
-      "id": "repo_access_20261014T020433Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T02:04:33Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1605 method=squash"
     }
   ]
 }
