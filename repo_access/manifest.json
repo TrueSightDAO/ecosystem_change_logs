@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T20:31:07Z",
+  "updated_utc": "2026-10-20T20:31:10Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T203108Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-20T20:31:08Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1677 method=squash"
+    },
     {
       "id": "repo_access_20261020T203105Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-20T20:31:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations/pull/5",
       "detail": "branch=fix/entity-legal-index-repoint changes=1"
-    },
-    {
-      "id": "repo_access_20261014T160953Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T16:09:53Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/MANIFEST.md",
-      "detail": "path=MANIFEST.md branch=main"
     }
   ]
 }
