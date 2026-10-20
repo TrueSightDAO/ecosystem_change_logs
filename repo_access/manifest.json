@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T08:01:06Z",
+  "updated_utc": "2026-10-20T08:25:29Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T082527Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T08:25:27Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/332",
+      "detail": "branch=feat/sitio-catarinense-farm-page changes=1"
+    },
     {
       "id": "repo_access_20261020T080104Z_agentic-ai-context",
       "timestamp_utc": "2026-10-20T08:01:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1603 method=squash"
-    },
-    {
-      "id": "repo_access_20261014T020102Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T02:01:02Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1602 method=squash"
     }
   ]
 }
