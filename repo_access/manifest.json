@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T20:31:10Z",
+  "updated_utc": "2026-10-20T20:33:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T203302Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T20:33:02Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/cfr-anapu-partner-stop/partner_locations.json",
+      "detail": "path=partner_locations.json branch=feat/cfr-anapu-partner-stop"
+    },
     {
       "id": "repo_access_20261020T203108Z_agentic-ai-context",
       "timestamp_utc": "2026-10-20T20:31:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1614",
       "detail": "branch=fix/drop-redundant-entity-registry changes=1"
-    },
-    {
-      "id": "repo_access_20261014T161259Z_notarizations",
-      "timestamp_utc": "2026-10-14T16:12:59Z",
-      "agent": "sophia",
-      "repo": "notarizations",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations/pull/5",
-      "detail": "branch=fix/entity-legal-index-repoint changes=1"
     }
   ]
 }
