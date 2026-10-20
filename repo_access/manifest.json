@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T23:01:06Z",
+  "updated_utc": "2026-10-20T23:01:15Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T230113Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-20T23:01:13Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=536 method=squash"
+    },
     {
       "id": "repo_access_20261020T230105Z_truesight-autopilot",
       "timestamp_utc": "2026-10-20T23:01:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/20230817%20-%20Gary%20CBP%205106%20registration%20number.pdf",
       "detail": "path=originals/truetech-inc/20230817 - Gary CBP 5106 registration number.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T193327Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T19:33:27Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/US%20Customs%20and%20Border%20Protection%20(ACE%20exporter%20app).pdf",
-      "detail": "path=originals/truetech-inc/US Customs and Border Protection (ACE exporter app).pdf branch=main"
     }
   ]
 }
