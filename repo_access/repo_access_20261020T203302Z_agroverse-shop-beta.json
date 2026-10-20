@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261020T203302Z_agroverse-shop-beta",
+  "timestamp_utc": "2026-10-20T20:33:02Z",
+  "agent": "sophia",
+  "repo": "agroverse_shop_beta",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/cfr-anapu-partner-stop/partner_locations.json",
+  "detail": "path=partner_locations.json branch=feat/cfr-anapu-partner-stop"
+}
