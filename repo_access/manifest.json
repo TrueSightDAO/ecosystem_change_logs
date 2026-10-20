@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T21:08:40Z",
+  "updated_utc": "2026-10-20T21:13:44Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T211342Z_claude-telegram-monitor",
+      "timestamp_utc": "2026-10-20T21:13:42Z",
+      "agent": "sophia",
+      "repo": "claude_telegram_monitor",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=5 method=squash"
+    },
     {
       "id": "repo_access_20261020T210838Z_tokenomics",
       "timestamp_utc": "2026-10-20T21:08:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1615 method=squash"
-    },
-    {
-      "id": "repo_access_20261014T162532Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T16:25:32Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1615",
-      "detail": "branch=docs/fix-tree-estimation-col-u changes=1"
     }
   ]
 }
