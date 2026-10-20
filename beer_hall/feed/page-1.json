@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-10-19T03:44:03Z",
+  "generated_at": "2026-10-20T03:54:02Z",
   "page": 1,
   "page_size": 10,
-  "total": 129,
+  "total": 130,
   "page_count": 13,
   "entries": [
+    {
+      "id": "beer-hall-2026-10-20T035402Z",
+      "posted_at_utc": "2026-10-20T03:54:02Z",
+      "slug": "sea-china-follow-up-discord-identity-fix",
+      "preview": "Automated daily digest of the DAO - **SEA/China Expansion Follow-Up Filed** — Gaps in Discord roster and email projections registered as open items; next steps for China market entry tracked. - **Discord Identity Bindin…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-10-20T035402Z_sea-china-follow-up-discord-identity-fix.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-10-20T035402Z_sea-china-follow-up-discord-identity-fix.json"
+    },
     {
       "id": "beer-hall-2026-10-19T034403Z",
       "posted_at_utc": "2026-10-19T03:44:03Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **SunMint** — Plot Explorer shell and supervision claim registered; production handoff delegated to Envoy. - **Partner Ops** — Fábrica Santa Clara page updated with official trade nam…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-09-20T035637Z_sunmint-explorer-and-santos-ops.md",
       "json_path": "beer_hall/entries/beer-hall_2026-09-20T035637Z_sunmint-explorer-and-santos-ops.json"
-    },
-    {
-      "id": "beer-hall-2026-09-19T033952Z",
-      "posted_at_utc": "2026-09-19T03:39:52Z",
-      "slug": "gas-security-and-black-king-declaration",
-      "preview": "Automated daily digest of the DAO - **Security** — Hardened GAS deployment pipeline: fail-closed on unverifiable pushes and added pre-push guards to prevent accidental deletion of remote-only files. - **Stability** — Re…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-09-19T033952Z_gas-security-and-black-king-declaration.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-09-19T033952Z_gas-security-and-black-king-declaration.json"
     }
   ]
 }
