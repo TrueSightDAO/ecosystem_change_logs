@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T23:58:17Z",
+  "updated_utc": "2026-10-20T23:58:28Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T235826Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-20T23:58:26Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/538",
+      "detail": "branch=feat/email-watch-multi-mailbox-query changes=2"
+    },
     {
       "id": "repo_access_20261020T235815Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-20T23:58:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-notice-of-incorporation-2026-05-11.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-notice-of-incorporation-2026-05-11.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201509Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:15:09Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-business-profile-2026-05-11.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-business-profile-2026-05-11.pdf branch=main"
     }
   ]
 }
