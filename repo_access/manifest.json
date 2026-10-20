@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T21:15:16Z",
+  "updated_utc": "2026-10-20T21:15:30Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T211529Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-20T21:15:29Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1680 method=squash"
+    },
     {
       "id": "repo_access_20261020T211514Z_agentic-ai-context",
       "timestamp_utc": "2026-10-20T21:15:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/20220714%20-%20TrueTech%20Inc%20Corporate%20Bylaws.pdf",
       "detail": "path=originals/truetech-inc/20220714 - TrueTech Inc Corporate Bylaws.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T193316Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T19:33:16Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/TrueTech%20Inc%20-%20Initial%20Filing%20(IRS%20CP-575%20EIN%2088-3411514).pdf",
-      "detail": "path=originals/truetech-inc/TrueTech Inc - Initial Filing (IRS CP-575 EIN 88-3411514).pdf branch=main"
     }
   ]
 }
