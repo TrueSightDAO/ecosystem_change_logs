@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T05:31:10Z",
+  "updated_utc": "2026-10-20T05:31:22Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T053120Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-20T05:31:20Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1670 method=squash"
+    },
     {
       "id": "repo_access_20261020T053109Z_agentic-ai-context",
       "timestamp_utc": "2026-10-20T05:31:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/build_tree_geojson.py",
       "detail": "path=scripts/build_tree_geojson.py branch=main"
-    },
-    {
-      "id": "repo_access_20261014T011754Z_sunmint",
-      "timestamp_utc": "2026-10-14T01:17:54Z",
-      "agent": "sophia",
-      "repo": "sunmint",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/build_plots_geojson.py",
-      "detail": "path=scripts/build_plots_geojson.py branch=main"
     }
   ]
 }
