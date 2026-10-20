@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T23:47:29Z",
+  "updated_utc": "2026-10-20T23:57:48Z",
   "entries": [
+    {
+      "id": "deploy_20261020T235744Z_1zqjgszvaxl2pb3e3yw289xy7ork4s5wv4uktxjy",
+      "agent": "sophia",
+      "timestamp_utc": "20261020T235744Z",
+      "target_type": "clasp",
+      "target_id": "1ZQjgSZvAXL2PB3e3YW289xY7Ork4S5wV4uKTXJyw83xQT4R0lh_hwNWn",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1ZQjgSZvAXL2PB3e3YW289xY7Ork4S5wV4uKTXJyw83xQT4R0lh_hwNWn --push --no-hooks",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20261020-28",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1ZQjgSZvAXL2PB3e3YW289xY7Ork4S5wV4uKTXJyw83xQT4R0lh_hwNWn",
+      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20261020T234726Z_agroverse-shop-prod",
       "agent": "sophia",
@@ -2580,19 +2593,6 @@
       "id": "deploy_20260831T203515Z_agroverse-shop-prod",
       "agent": "sophia",
       "timestamp_utc": "20260831T203515Z",
-      "target_type": "prod-sync",
-      "target_id": "agroverse_shop_prod",
-      "action": "sync_beta_to_prod agroverse_shop_prod",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "L-20260831-06",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_prod/commits/main",
-      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
-    },
-    {
-      "id": "deploy_20260831T202434Z_agroverse-shop-prod",
-      "agent": "sophia",
-      "timestamp_utc": "20260831T202434Z",
       "target_type": "prod-sync",
       "target_id": "agroverse_shop_prod",
       "action": "sync_beta_to_prod agroverse_shop_prod",
