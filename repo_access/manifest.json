@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T23:06:15Z",
+  "updated_utc": "2026-10-20T23:07:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T230700Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T23:07:00Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=336 method=squash"
+    },
     {
       "id": "repo_access_20261020T230613Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-20T23:06:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/duns_number.jpg",
       "detail": "path=originals/truetech-inc/duns_number.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261014T193350Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T19:33:50Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/truetech-inc/Self-employment%20payment%20receipt.pdf",
-      "detail": "path=originals/truetech-inc/Self-employment payment receipt.pdf branch=main"
     }
   ]
 }
