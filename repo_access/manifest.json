@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T09:11:28Z",
+  "updated_utc": "2026-10-20T09:11:39Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T091137Z_go-to-market",
+      "timestamp_utc": "2026-10-20T09:11:37Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=183 method=squash"
+    },
     {
       "id": "repo_access_20261020T091126Z_go-to-market",
       "timestamp_utc": "2026-10-20T09:11:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations/pull/3",
       "detail": "branch=docs/entity-registry-crosslink changes=1"
-    },
-    {
-      "id": "repo_access_20261014T152733Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T15:27:33Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/entity_registry.json",
-      "detail": "path=entity_registry.json branch=main"
     }
   ]
 }
