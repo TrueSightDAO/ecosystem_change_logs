@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-19T19:53:17Z",
+  "updated_utc": "2026-10-20T05:31:10Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T053109Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-20T05:31:09Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1670",
+      "detail": "branch=followups/qr-scan-target-vs-qr-encoded-and-attachment-routing changes=1"
+    },
     {
       "id": "repo_access_20261019T195315Z_agentic-ai-context",
       "timestamp_utc": "2026-10-19T19:53:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/scripts/build_plots_geojson.py",
       "detail": "path=scripts/build_plots_geojson.py branch=main"
-    },
-    {
-      "id": "repo_access_20261014T011749Z_sunmint",
-      "timestamp_utc": "2026-10-14T01:17:49Z",
-      "agent": "sophia",
-      "repo": "sunmint",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/tests/test_build_tree_geojson_plot_assoc.py",
-      "detail": "path=tests/test_build_tree_geojson_plot_assoc.py branch=main"
     }
   ]
 }
