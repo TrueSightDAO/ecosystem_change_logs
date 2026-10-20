@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T08:36:18Z",
+  "updated_utc": "2026-10-20T08:36:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261020T083621Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-20T08:36:21Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/fix/sitio-hero-people-first-and-gallery/assets/images/farms/sitio-catarinense-00000094.jpg",
+      "detail": "path=assets/images/farms/sitio-catarinense-00000094.jpg branch=fix/sitio-hero-people-first-and-gallery"
+    },
     {
       "id": "repo_access_20261020T083616Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-20T08:36:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261014131824_gary_teh_truesight_dao_llc_prospera_operating_agreement_final_v1.0.pdf",
       "detail": "path=20261014131824_gary_teh_truesight_dao_llc_prospera_operating_agreement_final_v1.0.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T131917Z_notarizations",
-      "timestamp_utc": "2026-10-14T13:19:17Z",
-      "agent": "sophia",
-      "repo": "notarizations",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/ENTITY_LEGAL_DOCS.md",
-      "detail": "path=ENTITY_LEGAL_DOCS.md branch=main"
     }
   ]
 }
