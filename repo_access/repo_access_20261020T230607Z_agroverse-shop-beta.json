@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261020T230607Z_agroverse-shop-beta",
+  "timestamp_utc": "2026-10-20T23:06:07Z",
+  "agent": "sophia",
+  "repo": "agroverse_shop_beta",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/cfr-media-gallery-and-crosslinks/partners/cfr-anapu-dorothy-stang/index.html",
+  "detail": "path=partners/cfr-anapu-dorothy-stang/index.html branch=feat/cfr-media-gallery-and-crosslinks"
+}
