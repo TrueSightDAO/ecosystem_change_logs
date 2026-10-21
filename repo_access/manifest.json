@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-21T00:54:20Z",
+  "updated_utc": "2026-10-21T00:57:08Z",
   "entries": [
+    {
+      "id": "repo_access_20261021T005706Z_tokenomics",
+      "timestamp_utc": "2026-10-21T00:57:06Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/591",
+      "detail": "branch=fix/monthly-anchor-port-asset-mgmt-api changes=1"
+    },
     {
       "id": "repo_access_20261021T005417Z_tokenomics",
       "timestamp_utc": "2026-10-21T00:54:17Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-first-directors-resolution-2026-05-11.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-first-directors-resolution-2026-05-11.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201545Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:15:45Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-share-certificate-2026-05-11.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-share-certificate-2026-05-11.pdf branch=main"
     }
   ]
 }
