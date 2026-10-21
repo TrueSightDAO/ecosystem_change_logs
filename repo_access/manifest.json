@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-21T04:47:10Z",
+  "updated_utc": "2026-10-21T07:05:07Z",
   "entries": [
+    {
+      "id": "repo_access_20261021T070505Z_github",
+      "timestamp_utc": "2026-10-21T07:05:05Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/20261021_elizabeth_wong_usd1000_equity_injection_agl16.jpg",
+      "detail": "path=assets/20261021_elizabeth_wong_usd1000_equity_injection_agl16.jpg branch=main"
+    },
     {
       "id": "repo_access_20261021T044708Z_agent-handoffs",
       "timestamp_utc": "2026-10-21T04:47:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-directors-and-secretaries-resignation-and-appointment-2026.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-directors-and-secretaries-resignation-and-appointment-2026.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201717Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:17:17Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-prima-engagement-letter-2026-08-16.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-prima-engagement-letter-2026-08-16.pdf branch=main"
     }
   ]
 }
