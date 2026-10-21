@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-20T23:58:28Z",
+  "updated_utc": "2026-10-21T00:01:18Z",
   "entries": [
+    {
+      "id": "repo_access_20261021T000116Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-21T00:01:16Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=538 method=squash"
+    },
     {
       "id": "repo_access_20261020T235826Z_truesight-autopilot",
       "timestamp_utc": "2026-10-20T23:58:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-incorporation-application-2026-05-11.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-incorporation-application-2026-05-11.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201514Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:15:14Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-notice-of-incorporation-2026-05-11.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-notice-of-incorporation-2026-05-11.pdf branch=main"
     }
   ]
 }
