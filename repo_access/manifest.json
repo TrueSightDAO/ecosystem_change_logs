@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-21T04:36:01Z",
+  "updated_utc": "2026-10-21T04:47:10Z",
   "entries": [
+    {
+      "id": "repo_access_20261021T044708Z_agent-handoffs",
+      "timestamp_utc": "2026-10-21T04:47:08Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261021T044706Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261021T044706Z.json branch=main"
+    },
     {
       "id": "repo_access_20261021T043559Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-21T04:35:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-prima-engagement-letter-2026-08-16.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-prima-engagement-letter-2026-08-16.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201713Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:17:13Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-company-profile-2026-08-25.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-acra-company-profile-2026-08-25.pdf branch=main"
     }
   ]
 }
