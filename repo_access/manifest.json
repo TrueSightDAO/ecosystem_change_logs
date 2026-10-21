@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-21T00:58:29Z",
+  "updated_utc": "2026-10-21T00:59:17Z",
   "entries": [
+    {
+      "id": "repo_access_20261021T005915Z_tokenomics",
+      "timestamp_utc": "2026-10-21T00:59:15Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=592 method=squash"
+    },
     {
       "id": "repo_access_20261021T005827Z_tokenomics",
       "timestamp_utc": "2026-10-21T00:58:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-register-of-nominee-directors-2026-05-11.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-register-of-nominee-directors-2026-05-11.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201555Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:15:55Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-register-of-registrable-controllers-2026-05-11.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-register-of-registrable-controllers-2026-05-11.pdf branch=main"
     }
   ]
 }
