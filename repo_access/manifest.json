@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-21T08:59:32Z",
+  "updated_utc": "2026-10-21T10:31:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261021T103119Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-21T10:31:19Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=541 method=squash"
+    },
     {
       "id": "repo_access_20261021T085931Z_github",
       "timestamp_utc": "2026-10-21T08:59:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-ocbc-bank-account-resolution-signed.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-ocbc-bank-account-resolution-signed.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201738Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:17:38Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-share-transfer-resolution-2026.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-share-transfer-resolution-2026.pdf branch=main"
     }
   ]
 }
