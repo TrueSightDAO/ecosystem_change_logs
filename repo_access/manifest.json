@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-21T03:26:22Z",
+  "updated_utc": "2026-10-21T04:20:18Z",
   "entries": [
+    {
+      "id": "repo_access_20261021T042016Z_agent-handoffs",
+      "timestamp_utc": "2026-10-21T04:20:16Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261021T042014Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261021T042014Z.json branch=main"
+    },
     {
       "id": "repo_access_20261021T032619Z_tokenomics",
       "timestamp_utc": "2026-10-21T03:26:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-consent-to-act-as-secretary-2026-05-08.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-consent-to-act-as-secretary-2026-05-08.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201644Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:16:44Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-consent-to-act-as-director-2026-05-08.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-consent-to-act-as-director-2026-05-08.pdf branch=main"
     }
   ]
 }
