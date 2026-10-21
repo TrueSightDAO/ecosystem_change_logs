@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261021T085931Z_github",
+  "timestamp_utc": "2026-10-21T08:59:31Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/20261021_sam_fruit_trading_sgd25_offering_fruits_receipt.jpg",
+  "detail": "path=assets/20261021_sam_fruit_trading_sgd25_offering_fruits_receipt.jpg branch=main"
+}
