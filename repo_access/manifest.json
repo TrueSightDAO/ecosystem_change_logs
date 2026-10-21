@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-21T04:29:59Z",
+  "updated_utc": "2026-10-21T04:30:03Z",
   "entries": [
+    {
+      "id": "repo_access_20261021T043001Z_agent-handoffs",
+      "timestamp_utc": "2026-10-21T04:30:01Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261021T042959Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261021T042959Z.json branch=main"
+    },
     {
       "id": "repo_access_20261021T042957Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-21T04:29:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-register-of-members-2026-08-24.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-register-of-members-2026-08-24.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201654Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:16:54Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-resignation-letter-2026-08-20.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-resignation-letter-2026-08-20.pdf branch=main"
     }
   ]
 }
