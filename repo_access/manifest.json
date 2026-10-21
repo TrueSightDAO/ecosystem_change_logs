@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-21T08:58:43Z",
+  "updated_utc": "2026-10-21T08:59:32Z",
   "entries": [
+    {
+      "id": "repo_access_20261021T085931Z_github",
+      "timestamp_utc": "2026-10-21T08:59:31Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/20261021_sam_fruit_trading_sgd25_offering_fruits_receipt.jpg",
+      "detail": "path=assets/20261021_sam_fruit_trading_sgd25_offering_fruits_receipt.jpg branch=main"
+    },
     {
       "id": "repo_access_20261021T085841Z_github",
       "timestamp_utc": "2026-10-21T08:58:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-share-transfer-resolution-2026.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-share-transfer-resolution-2026.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201732Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:17:32Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-share-transfer-resolution-2026-signed.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-share-transfer-resolution-2026-signed.pdf branch=main"
     }
   ]
 }
