@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-22T00:33:15Z",
+  "updated_utc": "2026-10-22T00:42:00Z",
   "entries": [
+    {
+      "id": "repo_access_20261022T004159Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-22T00:41:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1687 method=squash"
+    },
     {
       "id": "repo_access_20261022T003313Z_truesight-autopilot",
       "timestamp_utc": "2026-10-22T00:33:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-proof-of-address.jpg",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-proof-of-address.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201805Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:18:05Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-iras-digital-communication-notice-2026-10-12.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-iras-digital-communication-notice-2026-10-12.pdf branch=main"
     }
   ]
 }
