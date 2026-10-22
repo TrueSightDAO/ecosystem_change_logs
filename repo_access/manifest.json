@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-22T23:14:40Z",
+  "updated_utc": "2026-10-22T23:16:08Z",
   "entries": [
+    {
+      "id": "repo_access_20261022T231606Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-22T23:16:06Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1690",
+      "detail": "branch=docs/shop-conventions-10-beta-first-live-uat changes=1"
+    },
     {
       "id": "repo_access_20261022T231438Z_agentic-ai-context",
       "timestamp_utc": "2026-10-22T23:14:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/inventory_20261014_kirsten_handover_black_king_awb047.jpg",
       "detail": "path=assets/inventory_20261014_kirsten_handover_black_king_awb047.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261014T202703Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T20:27:03Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1622 method=squash"
     }
   ]
 }
