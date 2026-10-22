@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-22T04:41:40Z",
+  "updated_utc": "2026-10-22T04:54:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261022T045438Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-22T04:54:38Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/344",
+      "detail": "branch=fix/sitio-school-crosslinks-and-manifest-alias changes=2"
+    },
     {
       "id": "repo_access_20261022T044137Z_agentic-ai-context",
       "timestamp_utc": "2026-10-22T04:41:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1620 method=squash"
-    },
-    {
-      "id": "repo_access_20261014T202018Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T20:20:18Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1620",
-      "detail": "branch=docs/black-king-photo2-indoor-two-pallets changes=2"
     }
   ]
 }
