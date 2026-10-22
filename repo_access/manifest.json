@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-21T23:40:03Z",
+  "updated_utc": "2026-10-22T00:22:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261022T002245Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-22T00:22:45Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=541 method=squash"
+    },
     {
       "id": "repo_access_20261021T234001Z_truesight-autopilot",
       "timestamp_utc": "2026-10-21T23:40:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-prima-invoice-070S2026-2026-08-24.pdf",
       "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-prima-invoice-070S2026-2026-08-24.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261014T201754Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:17:54Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/bionpact-pte-ltd/bionpact-pte-ltd-iras-stamp-duty-share-transfer-2026-08-22.pdf",
-      "detail": "path=originals/bionpact-pte-ltd/bionpact-pte-ltd-iras-stamp-duty-share-transfer-2026-08-22.pdf branch=main"
     }
   ]
 }
