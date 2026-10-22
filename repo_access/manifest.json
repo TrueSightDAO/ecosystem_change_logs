@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-22T04:41:01Z",
+  "updated_utc": "2026-10-22T04:41:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261022T044137Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-22T04:41:37Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1688 method=squash"
+    },
     {
       "id": "repo_access_20261022T044058Z_agentic-ai-context",
       "timestamp_utc": "2026-10-22T04:40:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1620",
       "detail": "branch=docs/black-king-photo2-indoor-two-pallets changes=2"
-    },
-    {
-      "id": "repo_access_20261014T201846Z_notarizations-raw",
-      "timestamp_utc": "2026-10-14T20:18:46Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/MANIFEST.md",
-      "detail": "path=MANIFEST.md branch=main"
     }
   ]
 }
