@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-22T04:56:17Z",
+  "updated_utc": "2026-10-22T23:04:53Z",
   "entries": [
+    {
+      "id": "repo_access_20261022T230451Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-22T23:04:51Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/345",
+      "detail": "branch=docs/dorothy-stang-namesake-section changes=1"
+    },
     {
       "id": "repo_access_20261022T045615Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-22T04:56:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1621 method=squash"
-    },
-    {
-      "id": "repo_access_20261014T202503Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-14T20:25:03Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1621",
-      "detail": "branch=docs/black-king-arrival-confirmed-kirsten changes=2"
     }
   ]
 }
