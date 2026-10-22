@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-22T23:19:55Z",
+  "updated_utc": "2026-10-22T23:25:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261022T232552Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-22T23:25:52Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1692",
+      "detail": "branch=docs/operating-instructions-9a-static-site-v2 changes=1"
+    },
     {
       "id": "repo_access_20261022T231954Z_agentic-ai-context",
       "timestamp_utc": "2026-10-22T23:19:54Z",
@@ -2183,17 +2194,6 @@
     {
       "id": "repo_access_20261015T011234Z_agroverse-inventory",
       "timestamp_utc": "2026-10-15T01:12:34Z",
-      "agent": "sophia",
-      "repo": "agroverse-inventory",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/3c53976f-c027-4527-add3-2031a1587d7f.json",
-      "detail": "path=currency-compositions/3c53976f-c027-4527-add3-2031a1587d7f.json branch=main"
-    },
-    {
-      "id": "repo_access_20261015T010923Z_agroverse-inventory",
-      "timestamp_utc": "2026-10-15T01:09:23Z",
       "agent": "sophia",
       "repo": "agroverse-inventory",
       "action": "upload_file_to_github",
