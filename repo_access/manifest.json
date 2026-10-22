@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-22T23:16:08Z",
+  "updated_utc": "2026-10-22T23:19:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261022T231954Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-22T23:19:54Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1691",
+      "detail": "branch=docs/shop-conventions-10-all-sites-v2 changes=1"
+    },
     {
       "id": "repo_access_20261022T231606Z_agentic-ai-context",
       "timestamp_utc": "2026-10-22T23:16:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/3c53976f-c027-4527-add3-2031a1587d7f.json",
       "detail": "path=currency-compositions/3c53976f-c027-4527-add3-2031a1587d7f.json branch=main"
-    },
-    {
-      "id": "repo_access_20261014T210141Z_github",
-      "timestamp_utc": "2026-10-14T21:01:41Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/inventory_20261014_kirsten_handover_black_king_awb047.jpg",
-      "detail": "path=assets/inventory_20261014_kirsten_handover_black_king_awb047.jpg branch=main"
     }
   ]
 }
