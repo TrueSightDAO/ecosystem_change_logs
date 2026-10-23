@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-23T10:00:49Z",
+  "updated_utc": "2026-10-23T10:01:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261023T100109Z_bionpact-agentic-ai-context",
+      "timestamp_utc": "2026-10-23T10:01:09Z",
+      "agent": "sophia",
+      "repo": "bionpact_agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=4 method=squash"
+    },
     {
       "id": "repo_access_20261023T100047Z_bionpact-agentic-ai-context",
       "timestamp_utc": "2026-10-23T10:00:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1631 method=squash"
-    },
-    {
-      "id": "repo_access_20261015T031807Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T03:18:07Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1631",
-      "detail": "branch=docs/freight-plan-traps-and-payloads changes=5"
     }
   ]
 }
