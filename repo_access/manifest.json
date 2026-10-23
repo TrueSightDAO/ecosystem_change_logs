@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-22T23:51:29Z",
+  "updated_utc": "2026-10-23T02:55:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261023T025529Z_agroverse-freight-audit",
+      "timestamp_utc": "2026-10-23T02:55:29Z",
+      "agent": "sophia",
+      "repo": "agroverse-freight-audit",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse-freight-audit/pull/43",
+      "detail": "branch=feat/blackking-actuals-v2-bond-trueup changes=1"
+    },
     {
       "id": "repo_access_20261022T235128Z_agentic-ai-context",
       "timestamp_utc": "2026-10-22T23:51:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1629 method=squash"
-    },
-    {
-      "id": "repo_access_20261015T025931Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T02:59:31Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1629",
-      "detail": "branch=plan/freight-cost-amortization changes=1"
     }
   ]
 }
