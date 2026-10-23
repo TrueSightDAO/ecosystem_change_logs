@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-23T10:03:32Z",
+  "updated_utc": "2026-10-23T10:03:51Z",
   "entries": [
+    {
+      "id": "repo_access_20261023T100349Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-23T10:03:49Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/s9c-entity-and-evidence/OPERATING_INSTRUCTIONS.md",
+      "detail": "path=OPERATING_INSTRUCTIONS.md branch=docs/s9c-entity-and-evidence"
+    },
     {
       "id": "repo_access_20261023T100330Z_agentic-ai-context",
       "timestamp_utc": "2026-10-23T10:03:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1632 method=squash"
-    },
-    {
-      "id": "repo_access_20261015T032136Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T03:21:36Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1632",
-      "detail": "branch=docs/freight-plan-cash-waterfall changes=7"
     }
   ]
 }
