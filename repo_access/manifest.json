@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T09:40:10Z",
+  "updated_utc": "2026-10-24T12:54:10Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T125408Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-24T12:54:08Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/546",
+      "detail": "branch=security/remove-email-challenge-auth changes=2"
+    },
     {
       "id": "repo_access_20261024T094009Z_agentic-ai-context",
       "timestamp_utc": "2026-10-24T09:40:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1641 method=squash"
-    },
-    {
-      "id": "repo_access_20261015T045627Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:56:27Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1641",
-      "detail": "branch=plan/close-item-h-beneficiary-name changes=1"
     }
   ]
 }
