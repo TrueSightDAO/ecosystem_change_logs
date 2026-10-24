@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T00:17:21Z",
+  "updated_utc": "2026-10-24T00:17:30Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T001728Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-24T00:17:28Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/s9c-4c-append-only-absolute/OPERATING_INSTRUCTIONS.md",
+      "detail": "path=OPERATING_INSTRUCTIONS.md branch=docs/s9c-4c-append-only-absolute"
+    },
     {
       "id": "repo_access_20261024T001719Z_agentic-ai-context",
       "timestamp_utc": "2026-10-24T00:17:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1634 method=squash"
-    },
-    {
-      "id": "repo_access_20261015T040527Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:05:27Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1634",
-      "detail": "branch=docs/freight-plan-include-bank-fee-2 changes=9"
     }
   ]
 }
