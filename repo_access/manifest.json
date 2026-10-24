@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T12:54:10Z",
+  "updated_utc": "2026-10-24T12:57:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T125711Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-24T12:57:11Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1707",
+      "detail": "branch=security/file-vault-pentest-scope-question changes=1"
+    },
     {
       "id": "repo_access_20261024T125408Z_truesight-autopilot",
       "timestamp_utc": "2026-10-24T12:54:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1642",
       "detail": "branch=fix/agl15-two-bugs-partial-offset changes=1"
-    },
-    {
-      "id": "repo_access_20261015T045636Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:56:36Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1641 method=squash"
     }
   ]
 }
