@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T00:47:53Z",
+  "updated_utc": "2026-10-24T00:49:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T004917Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-24T00:49:17Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1701 method=squash"
+    },
     {
       "id": "repo_access_20261024T004751Z_agentic-ai-context",
       "timestamp_utc": "2026-10-24T00:47:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1636 method=squash"
-    },
-    {
-      "id": "repo_access_20261015T042749Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:27:49Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1636",
-      "detail": "branch=docs/freight-plan-fix-F-attribution-and-supersedes-pointer changes=3"
     }
   ]
 }
