@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T13:05:04Z",
+  "updated_utc": "2026-10-24T13:06:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T130602Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-24T13:06:02Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=546 method=squash"
+    },
     {
       "id": "repo_access_20261024T130502Z_truesight-autopilot",
       "timestamp_utc": "2026-10-24T13:05:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1643",
       "detail": "branch=plan/brazil-sf-freight-lane-sop-refresh changes=1"
-    },
-    {
-      "id": "repo_access_20261015T045949Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:59:49Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1642 method=squash"
     }
   ]
 }
