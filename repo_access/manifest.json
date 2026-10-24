@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T00:20:51Z",
+  "updated_utc": "2026-10-24T00:22:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T002159Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-24T00:21:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1700 method=squash"
+    },
     {
       "id": "repo_access_20261024T002049Z_agentic-ai-context",
       "timestamp_utc": "2026-10-24T00:20:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1635 method=squash"
-    },
-    {
-      "id": "repo_access_20261015T040755Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:07:55Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "branch=docs/freight-plan-fee-and-para-samples-2 changes=12"
     }
   ]
 }
