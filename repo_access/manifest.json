@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-23T10:08:09Z",
+  "updated_utc": "2026-10-24T00:13:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T001329Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-24T00:13:29Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1698",
+      "detail": "branch=docs/s9c-4c-reattribution-gate changes=3"
+    },
     {
       "id": "repo_access_20261023T100806Z_agentic-ai-context",
       "timestamp_utc": "2026-10-23T10:08:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "branch=docs/freight-plan-include-bank-fee changes=9"
-    },
-    {
-      "id": "repo_access_20261015T040206Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:02:06Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1633 method=squash"
     }
   ]
 }
