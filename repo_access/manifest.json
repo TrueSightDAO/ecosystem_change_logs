@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T02:30:26Z",
+  "updated_utc": "2026-10-24T02:34:56Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T023455Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-24T02:34:55Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1704",
+      "detail": "branch=docs/pricing-ssot-rev2 changes=1"
+    },
     {
       "id": "repo_access_20261024T023023Z_agent-handoffs",
       "timestamp_utc": "2026-10-24T02:30:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1639",
       "detail": "branch=fix/open-followups-agl15-r66-shell-and-expense-double-insert changes=2"
-    },
-    {
-      "id": "repo_access_20261015T044608Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:46:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1638",
-      "detail": "branch=fix/black-king-s3f-correct-agl15-state-and-agl13-usd changes=4"
     }
   ]
 }
