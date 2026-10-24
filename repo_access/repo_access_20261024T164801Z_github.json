@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261024T164801Z_github",
+  "timestamp_utc": "2026-10-24T16:48:01Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/20261024_raffles_hotel_singapore_wining_dining_agl16.jpg",
+  "detail": "path=assets/20261024_raffles_hotel_singapore_wining_dining_agl16.jpg branch=main"
+}
