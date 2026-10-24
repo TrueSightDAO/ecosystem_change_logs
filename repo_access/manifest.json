@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T01:10:47Z",
+  "updated_utc": "2026-10-24T01:14:44Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T011442Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-24T01:14:42Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1703",
+      "detail": "branch=docs/pricing-ssot changes=1"
+    },
     {
       "id": "repo_access_20261024T011045Z_agentic-ai-context",
       "timestamp_utc": "2026-10-24T01:10:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1637 method=squash"
-    },
-    {
-      "id": "repo_access_20261015T043622Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:36:22Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1637",
-      "detail": "branch=fix/open-followups-treasury-cache-negative-aum-addendum changes=1"
     }
   ]
 }
