@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T03:08:07Z",
+  "updated_utc": "2026-10-24T09:40:10Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T094009Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-24T09:40:09Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1706",
+      "detail": "branch=fix/santos-is-a-factory changes=1"
+    },
     {
       "id": "repo_access_20261024T030805Z_agent-handoffs",
       "timestamp_utc": "2026-10-24T03:08:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1641",
       "detail": "branch=plan/close-item-h-beneficiary-name changes=1"
-    },
-    {
-      "id": "repo_access_20261015T045523Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:55:23Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1640 method=squash"
     }
   ]
 }
