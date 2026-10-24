@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T00:22:01Z",
+  "updated_utc": "2026-10-24T00:47:53Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T004751Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-24T00:47:51Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1701",
+      "detail": "branch=docs/followups-scoring-outage-and-pr-queue-hygiene changes=1"
+    },
     {
       "id": "repo_access_20261024T002159Z_agentic-ai-context",
       "timestamp_utc": "2026-10-24T00:21:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1636",
       "detail": "branch=docs/freight-plan-fix-F-attribution-and-supersedes-pointer changes=3"
-    },
-    {
-      "id": "repo_access_20261015T041324Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:13:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1635 method=squash"
     }
   ]
 }
