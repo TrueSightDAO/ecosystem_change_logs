@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T03:02:58Z",
+  "updated_utc": "2026-10-24T03:08:07Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T030805Z_agent-handoffs",
+      "timestamp_utc": "2026-10-24T03:08:05Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261024T030803Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261024T030803Z.json branch=main"
+    },
     {
       "id": "repo_access_20261024T030256Z_agentic-ai-context",
       "timestamp_utc": "2026-10-24T03:02:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1640 method=squash"
-    },
-    {
-      "id": "repo_access_20261015T045513Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:55:13Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1640",
-      "detail": "branch=plan/freight-wire-fee-reconciliation changes=1"
     }
   ]
 }
