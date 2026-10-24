@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T01:14:44Z",
+  "updated_utc": "2026-10-24T02:30:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261024T023023Z_agent-handoffs",
+      "timestamp_utc": "2026-10-24T02:30:23Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261024T023021Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261024T023021Z.json branch=main"
+    },
     {
       "id": "repo_access_20261024T011442Z_agentic-ai-context",
       "timestamp_utc": "2026-10-24T01:14:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1638",
       "detail": "branch=fix/black-king-s3f-correct-agl15-state-and-agl13-usd changes=4"
-    },
-    {
-      "id": "repo_access_20261015T043633Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T04:36:33Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1637 method=squash"
     }
   ]
 }
