@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T08:28:22Z",
+  "updated_utc": "2026-10-25T08:45:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T084548Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-25T08:45:48Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/348",
+      "detail": "branch=fix/paulo-ceremonial-price-30usd changes=10"
+    },
     {
       "id": "repo_access_20261025T082820Z_lineage-assets",
       "timestamp_utc": "2026-10-25T08:28:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1651",
       "detail": "branch=plan/record-cde-rulings changes=5"
-    },
-    {
-      "id": "repo_access_20261015T060738Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T06:07:38Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1650",
-      "detail": "branch=followup/managed-ledger-transaction-cli-gap-refresh changes=1"
     }
   ]
 }
