@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T09:35:21Z",
+  "updated_utc": "2026-10-25T10:03:50Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T100348Z_github",
+      "timestamp_utc": "2026-10-25T10:03:48Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/bar_production_20261025100343_kirsten_ritschel_vivi_40_bars.png",
+      "detail": "path=assets/bar_production_20261025100343_kirsten_ritschel_vivi_40_bars.png branch=main"
+    },
     {
       "id": "repo_access_20261025T093520Z_agent-handoffs",
       "timestamp_utc": "2026-10-25T09:35:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/TrueSight_DAO_Liabilities_AGL16.pdf",
       "detail": "path=assets/TrueSight_DAO_Liabilities_AGL16.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261015T142310Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T14:23:10Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1643 method=squash"
     }
   ]
 }
