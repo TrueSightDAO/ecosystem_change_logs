@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T09:01:47Z",
+  "updated_utc": "2026-10-25T09:35:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T093520Z_agent-handoffs",
+      "timestamp_utc": "2026-10-25T09:35:20Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/bionpact_from_sophia_20261025T093518Z.json",
+      "detail": "path=handoffs/bionpact_from_sophia_20261025T093518Z.json branch=main"
+    },
     {
       "id": "repo_access_20261025T090145Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-25T09:01:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1643 method=squash"
-    },
-    {
-      "id": "repo_access_20261015T134649Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T13:46:49Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1652",
-      "detail": "branch=fix/e2-server-half-status changes=3"
     }
   ]
 }
