@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T23:17:54Z",
+  "updated_utc": "2026-10-25T23:30:38Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T233037Z_notarizations-raw",
+      "timestamp_utc": "2026-10-25T23:30:37Z",
+      "agent": "sophia",
+      "repo": "notarizations-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/20261021_LVSS_service_agreement_DRAFT-UNSIGNED_TKT13980.pdf",
+      "detail": "path=20261021_LVSS_service_agreement_DRAFT-UNSIGNED_TKT13980.pdf branch=main"
+    },
     {
       "id": "repo_access_20261025T231752Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-25T23:17:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1655",
       "detail": "branch=sop/cross-ledger-freight-settlement-phase8-r5-10 changes=3"
-    },
-    {
-      "id": "repo_access_20261015T214931Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T21:49:31Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1654",
-      "detail": "branch=sop/cross-ledger-freight-settlement-phase8 changes=3"
     }
   ]
 }
