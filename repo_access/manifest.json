@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T08:45:49Z",
+  "updated_utc": "2026-10-25T09:01:47Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T090145Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-25T09:01:45Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=348 method=squash"
+    },
     {
       "id": "repo_access_20261025T084548Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-25T08:45:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1652",
       "detail": "branch=fix/e2-server-half-status changes=3"
-    },
-    {
-      "id": "repo_access_20261015T130124Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T13:01:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1651",
-      "detail": "branch=plan/record-cde-rulings changes=5"
     }
   ]
 }
