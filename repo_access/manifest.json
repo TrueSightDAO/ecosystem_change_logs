@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T12:01:50Z",
+  "updated_utc": "2026-10-25T12:03:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T120319Z_tokenomics",
+      "timestamp_utc": "2026-10-25T12:03:19Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/597",
+      "detail": "branch=fix/gas-scoring-diagnostics-v2 changes=6"
+    },
     {
       "id": "repo_access_20261025T120148Z_farm-media-daemon",
       "timestamp_utc": "2026-10-25T12:01:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/blob/fix/webhook-timeout-and-text-numeric-guard/truesight_dao_client/server/sheets/base.py",
       "detail": "path=truesight_dao_client/server/sheets/base.py branch=fix/webhook-timeout-and-text-numeric-guard"
-    },
-    {
-      "id": "repo_access_20261015T210414Z_dao-protocol",
-      "timestamp_utc": "2026-10-15T21:04:14Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/blob/fix/webhook-timeout-and-text-numeric-guard/truesight_dao_client/server/config.py",
-      "detail": "path=truesight_dao_client/server/config.py branch=fix/webhook-timeout-and-text-numeric-guard"
     }
   ]
 }
