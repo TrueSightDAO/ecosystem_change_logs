@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T03:13:45Z",
+  "updated_utc": "2026-10-25T07:18:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T071812Z_agent-handoffs",
+      "timestamp_utc": "2026-10-25T07:18:12Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261025T071810Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261025T071810Z.json branch=main"
+    },
     {
       "id": "repo_access_20261025T031344Z_truesight-autopilot",
       "timestamp_utc": "2026-10-25T03:13:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/187",
       "detail": "branch=feat/managed-ledger-transaction-cli changes=2"
-    },
-    {
-      "id": "repo_access_20261015T051825Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T05:18:25Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1649",
-      "detail": "branch=fix/freight-plan-s2.1-agl13-cash-note changes=1"
     }
   ]
 }
