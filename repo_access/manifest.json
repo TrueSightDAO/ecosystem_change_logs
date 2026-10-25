@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T17:01:55Z",
+  "updated_utc": "2026-10-25T23:17:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T231752Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-25T23:17:52Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=351 method=squash"
+    },
     {
       "id": "repo_access_20261025T170154Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-25T17:01:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1654",
       "detail": "branch=sop/cross-ledger-freight-settlement-phase8 changes=3"
-    },
-    {
-      "id": "repo_access_20261015T213831Z_agent-handoffs",
-      "timestamp_utc": "2026-10-15T21:38:31Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261015T213830Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261015T213830Z.json branch=main"
     }
   ]
 }
