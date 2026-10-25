@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T03:01:41Z",
+  "updated_utc": "2026-10-25T03:13:45Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T031344Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-25T03:13:44Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=549 method=squash"
+    },
     {
       "id": "repo_access_20261025T030139Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-25T03:01:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1649",
       "detail": "branch=fix/freight-plan-s2.1-agl13-cash-note changes=1"
-    },
-    {
-      "id": "repo_access_20261015T051149Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T05:11:49Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/freight-plan/doc-hygiene-f-split-7.2/plans/FREIGHT_COST_AMORTIZATION_PLAN.md",
-      "detail": "path=plans/FREIGHT_COST_AMORTIZATION_PLAN.md branch=freight-plan/doc-hygiene-f-split-7.2"
     }
   ]
 }
