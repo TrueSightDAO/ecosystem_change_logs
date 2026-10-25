@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-24T13:06:04Z",
+  "updated_utc": "2026-10-25T00:22:50Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T002248Z_agent-handoffs",
+      "timestamp_utc": "2026-10-25T00:22:48Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/bionpact_from_sophia_20261025T002246Z.json",
+      "detail": "path=handoffs/bionpact_from_sophia_20261025T002246Z.json branch=main"
+    },
     {
       "id": "repo_access_20261024T130602Z_truesight-autopilot",
       "timestamp_utc": "2026-10-24T13:06:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1644",
       "detail": "branch=followup/managed-ledger-transaction-cli-gap changes=1"
-    },
-    {
-      "id": "repo_access_20261015T050256Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T05:02:56Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1643",
-      "detail": "branch=plan/brazil-sf-freight-lane-sop-refresh changes=1"
     }
   ]
 }
