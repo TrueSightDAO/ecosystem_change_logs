@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261025T121413Z_farm-media-daemon",
+  "timestamp_utc": "2026-10-25T12:14:13Z",
+  "agent": "sophia",
+  "repo": "farm-media-daemon",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=40 method=squash"
+}
