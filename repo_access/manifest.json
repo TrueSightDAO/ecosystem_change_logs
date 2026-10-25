@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T11:46:54Z",
+  "updated_utc": "2026-10-25T12:01:50Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T120148Z_farm-media-daemon",
+      "timestamp_utc": "2026-10-25T12:01:48Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=39 method=squash"
+    },
     {
       "id": "repo_access_20261025T114653Z_tokenomics",
       "timestamp_utc": "2026-10-25T11:46:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/blob/fix/webhook-timeout-and-text-numeric-guard/truesight_dao_client/server/config.py",
       "detail": "path=truesight_dao_client/server/config.py branch=fix/webhook-timeout-and-text-numeric-guard"
-    },
-    {
-      "id": "repo_access_20261015T210323Z_dao-protocol",
-      "timestamp_utc": "2026-10-15T21:03:23Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/dao_protocol/pull/188",
-      "detail": "branch=fix/webhook-timeout-and-text-numeric-guard changes=4"
     }
   ]
 }
