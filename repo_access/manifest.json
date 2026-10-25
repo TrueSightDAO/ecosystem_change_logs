@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T13:01:51Z",
+  "updated_utc": "2026-10-25T17:01:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T170154Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-25T17:01:54Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=350 method=squash"
+    },
     {
       "id": "repo_access_20261025T130149Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-25T13:01:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261015T213830Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20261015T213830Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20261015T213150Z_tokenomics",
-      "timestamp_utc": "2026-10-15T21:31:50Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/583",
-      "detail": "branch=holdings/is-dao-vehicle-flag changes=9"
     }
   ]
 }
