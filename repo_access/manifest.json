@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-25T10:18:16Z",
+  "updated_utc": "2026-10-25T11:45:39Z",
   "entries": [
+    {
+      "id": "repo_access_20261025T114537Z_farm-media-daemon",
+      "timestamp_utc": "2026-10-25T11:45:37Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/39",
+      "detail": "branch=fix/farm-media-stills-only-promotion changes=3"
+    },
     {
       "id": "repo_access_20261025T101814Z_tokenomics",
       "timestamp_utc": "2026-10-25T10:18:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/conventions/inter-ledger-holdings/conventions/INTER_LEDGER_HOLDINGS.md",
       "detail": "path=conventions/INTER_LEDGER_HOLDINGS.md branch=conventions/inter-ledger-holdings"
-    },
-    {
-      "id": "repo_access_20261015T203247Z_agent-handoffs",
-      "timestamp_utc": "2026-10-15T20:32:47Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261015T203245Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261015T203245Z.json branch=main"
     }
   ]
 }
