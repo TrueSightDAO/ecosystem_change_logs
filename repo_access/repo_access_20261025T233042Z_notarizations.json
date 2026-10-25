@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261025T233042Z_notarizations",
+  "timestamp_utc": "2026-10-25T23:30:42Z",
+  "agent": "sophia",
+  "repo": "notarizations",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261021_LVSS_brazil_entity_service_agreement.md",
+  "detail": "path=20261021_LVSS_brazil_entity_service_agreement.md branch=main"
+}
