@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T13:33:09Z",
+  "updated_utc": "2026-10-26T13:33:27Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T133326Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-26T13:33:26Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1725 method=squash"
+    },
     {
       "id": "repo_access_20261026T133308Z_agentic-ai-context",
       "timestamp_utc": "2026-10-26T13:33:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1665 method=squash"
-    },
-    {
-      "id": "repo_access_20261017T033023Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-17T03:30:23Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1665",
-      "detail": "branch=chore/track-dao-protocol-deploy-prereqs changes=1"
     }
   ]
 }
