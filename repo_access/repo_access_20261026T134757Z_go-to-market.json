@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261026T134757Z_go-to-market",
+  "timestamp_utc": "2026-10-26T13:47:57Z",
+  "agent": "sophia",
+  "repo": "go_to_market",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/191",
+  "detail": "branch=fix/fill-sweep-park-unfillable changes=7"
+}
