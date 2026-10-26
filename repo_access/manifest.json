@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T12:44:08Z",
+  "updated_utc": "2026-10-26T12:44:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T124417Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-26T12:44:17Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1722 method=squash"
+    },
     {
       "id": "repo_access_20261026T124406Z_agentic-ai-context",
       "timestamp_utc": "2026-10-26T12:44:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=585 method=squash"
-    },
-    {
-      "id": "repo_access_20261017T004046Z_tokenomics",
-      "timestamp_utc": "2026-10-17T00:40:46Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/585",
-      "detail": "branch=feat/triggers-convention-install-uninstall changes=2"
     }
   ]
 }
