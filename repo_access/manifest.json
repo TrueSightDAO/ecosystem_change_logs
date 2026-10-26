@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T12:58:25Z",
+  "updated_utc": "2026-10-26T12:58:36Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T125834Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-26T12:58:34Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1724 method=squash"
+    },
     {
       "id": "repo_access_20261026T125823Z_agentic-ai-context",
       "timestamp_utc": "2026-10-26T12:58:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=2 method=squash"
-    },
-    {
-      "id": "repo_access_20261017T022501Z_bionpact-agentic-ai-context",
-      "timestamp_utc": "2026-10-17T02:25:01Z",
-      "agent": "sophia",
-      "repo": "bionpact_agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/bionpact_agentic_ai_context/pull/3",
-      "detail": "branch=docs/bionpact-2055-ratification-memo changes=1"
     }
   ]
 }
