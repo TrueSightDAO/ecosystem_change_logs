@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T12:49:22Z",
+  "updated_utc": "2026-10-26T12:49:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T124947Z_go-to-market",
+      "timestamp_utc": "2026-10-26T12:49:47Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=187 method=squash"
+    },
     {
       "id": "repo_access_20261026T124920Z_go-to-market",
       "timestamp_utc": "2026-10-26T12:49:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1663 method=squash"
-    },
-    {
-      "id": "repo_access_20261017T010637Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-17T01:06:37Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1663",
-      "detail": "branch=followup/payout-scanner-drain-backlog changes=1"
     }
   ]
 }
