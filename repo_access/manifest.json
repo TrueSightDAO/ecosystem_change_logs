@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T12:49:49Z",
+  "updated_utc": "2026-10-26T12:54:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T125410Z_go-to-market",
+      "timestamp_utc": "2026-10-26T12:54:10Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/188",
+      "detail": "branch=fix/cache-read-outcome-sentinel changes=4"
+    },
     {
       "id": "repo_access_20261026T124947Z_go-to-market",
       "timestamp_utc": "2026-10-26T12:49:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1664",
       "detail": "branch=chore/track-vendored-watermark-reader changes=1"
-    },
-    {
-      "id": "repo_access_20261017T010647Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-17T01:06:47Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1663 method=squash"
     }
   ]
 }
