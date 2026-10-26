@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T13:38:37Z",
+  "updated_utc": "2026-10-26T13:47:59Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T134757Z_go-to-market",
+      "timestamp_utc": "2026-10-26T13:47:57Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/191",
+      "detail": "branch=fix/fill-sweep-park-unfillable changes=7"
+    },
     {
       "id": "repo_access_20261026T133835Z_go-to-market",
       "timestamp_utc": "2026-10-26T13:38:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1668 method=squash"
-    },
-    {
-      "id": "repo_access_20261019T195301Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-19T19:53:01Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1668",
-      "detail": "branch=followups/sea-expansion-discord-roster-gaps changes=1"
     }
   ]
 }
