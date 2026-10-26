@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T13:47:59Z",
+  "updated_utc": "2026-10-26T13:48:44Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T134842Z_go-to-market",
+      "timestamp_utc": "2026-10-26T13:48:42Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=191 method=squash"
+    },
     {
       "id": "repo_access_20261026T134757Z_go-to-market",
       "timestamp_utc": "2026-10-26T13:47:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1670",
       "detail": "branch=followups/qr-scan-target-vs-qr-encoded-and-attachment-routing changes=1"
-    },
-    {
-      "id": "repo_access_20261019T195315Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-19T19:53:15Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1668 method=squash"
     }
   ]
 }
