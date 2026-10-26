@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T12:30:18Z",
+  "updated_utc": "2026-10-26T12:30:53Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T123050Z_go-to-market",
+      "timestamp_utc": "2026-10-26T12:30:50Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=186 method=squash"
+    },
     {
       "id": "repo_access_20261026T123016Z_go-to-market",
       "timestamp_utc": "2026-10-26T12:30:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/bionpact_agentic_ai_context/blob/policy/bionpact-singapore-trade-and-data/BIONPACT_ENTITY.md",
       "detail": "path=BIONPACT_ENTITY.md branch=policy/bionpact-singapore-trade-and-data"
-    },
-    {
-      "id": "repo_access_20261016T232458Z_bionpact-agentic-ai-context",
-      "timestamp_utc": "2026-10-16T23:24:58Z",
-      "agent": "sophia",
-      "repo": "bionpact_agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/bionpact_agentic_ai_context/blob/policy/bionpact-singapore-trade-and-data/SINGAPORE_ENTITY_TRADE_DATA_POLICY.md",
-      "detail": "path=SINGAPORE_ENTITY_TRADE_DATA_POLICY.md branch=policy/bionpact-singapore-trade-and-data"
     }
   ]
 }
