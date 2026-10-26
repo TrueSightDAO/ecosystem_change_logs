@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T02:03:15Z",
+  "updated_utc": "2026-10-26T02:09:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T020900Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-26T02:09:00Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1715",
+      "detail": "branch=docs/contribution-ledger-pipeline changes=1"
+    },
     {
       "id": "repo_access_20261026T020313Z_agent-handoffs",
       "timestamp_utc": "2026-10-26T02:03:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1657",
       "detail": "branch=followup/cfr-anapu-ingest-gps changes=2"
-    },
-    {
-      "id": "repo_access_20261015T222634Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-15T22:26:34Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1656 method=squash"
     }
   ]
 }
