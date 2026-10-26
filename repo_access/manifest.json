@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T12:54:34Z",
+  "updated_utc": "2026-10-26T12:55:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T125538Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-26T12:55:38Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1723",
+      "detail": "branch=research/a1-resolved-no-pharmacopoeia-entry changes=2"
+    },
     {
       "id": "repo_access_20261026T125433Z_go-to-market",
       "timestamp_utc": "2026-10-26T12:54:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1664 method=squash"
-    },
-    {
-      "id": "repo_access_20261017T020149Z_dao-protocol",
-      "timestamp_utc": "2026-10-17T02:01:49Z",
-      "agent": "sophia",
-      "repo": "dao_protocol",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=189 method=squash"
     }
   ]
 }
