@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T16:07:18Z",
+  "updated_utc": "2026-10-26T16:07:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T160729Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-10-26T16:07:29Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=353 method=squash"
+    },
     {
       "id": "repo_access_20261026T160716Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-26T16:07:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1674",
       "detail": "branch=docs/followup-payout-pdf-dead-links changes=1"
-    },
-    {
-      "id": "repo_access_20261020T074842Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-20T07:48:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1672 method=squash"
     }
   ]
 }
