@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-26T13:33:27Z",
+  "updated_utc": "2026-10-26T13:38:37Z",
   "entries": [
+    {
+      "id": "repo_access_20261026T133835Z_go-to-market",
+      "timestamp_utc": "2026-10-26T13:38:35Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=190 method=squash"
+    },
     {
       "id": "repo_access_20261026T133326Z_agentic-ai-context",
       "timestamp_utc": "2026-10-26T13:33:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1668",
       "detail": "branch=followups/sea-expansion-discord-roster-gaps changes=1"
-    },
-    {
-      "id": "repo_access_20261017T033033Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-17T03:30:33Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1665 method=squash"
     }
   ]
 }
