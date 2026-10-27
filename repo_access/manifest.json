@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-27T05:53:35Z",
+  "updated_utc": "2026-10-27T06:07:00Z",
   "entries": [
+    {
+      "id": "repo_access_20261027T060658Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-27T06:06:58Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1731 method=squash"
+    },
     {
       "id": "repo_access_20261027T055333Z_agentic-ai-context",
       "timestamp_utc": "2026-10-27T05:53:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/fix/sitio-hero-people-first-and-gallery/assets/images/farms/sitio-catarinense-hero.jpg",
       "detail": "path=assets/images/farms/sitio-catarinense-hero.jpg branch=fix/sitio-hero-people-first-and-gallery"
-    },
-    {
-      "id": "repo_access_20261020T083554Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-20T08:35:54Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/333",
-      "detail": "branch=fix/sitio-hero-people-first-and-gallery changes=1"
     }
   ]
 }
