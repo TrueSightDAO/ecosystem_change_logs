@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-27T05:08:42Z",
+  "updated_utc": "2026-10-27T05:53:35Z",
   "entries": [
+    {
+      "id": "repo_access_20261027T055333Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-27T05:53:33Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1731",
+      "detail": "branch=docs/81pct-bar-production-accounting changes=2"
+    },
     {
       "id": "repo_access_20261027T050841Z_agentic-ai-context",
       "timestamp_utc": "2026-10-27T05:08:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/333",
       "detail": "branch=fix/sitio-hero-people-first-and-gallery changes=1"
-    },
-    {
-      "id": "repo_access_20261020T083332Z_sunmint",
-      "timestamp_utc": "2026-10-20T08:33:32Z",
-      "agent": "sophia",
-      "repo": "sunmint",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/plots/index.geojson",
-      "detail": "path=plots/index.geojson branch=main"
     }
   ]
 }
