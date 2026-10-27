@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261027T102427Z_github",
+  "timestamp_utc": "2026-10-27T10:24:27Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/inventory_movement_20261027_gary_teh_usd_161_50_cory_bradley.png",
+  "detail": "path=assets/inventory_movement_20261027_gary_teh_usd_161_50_cory_bradley.png branch=main"
+}
