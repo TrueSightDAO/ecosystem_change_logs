@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-27T05:06:59Z",
+  "updated_utc": "2026-10-27T05:08:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261027T050829Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-27T05:08:29Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1730",
+      "detail": "branch=docs/consumables-primitive-blocker changes=1"
+    },
     {
       "id": "repo_access_20261027T050657Z_agentic-ai-context",
       "timestamp_utc": "2026-10-27T05:06:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/farms/index.json",
       "detail": "path=farms/index.json branch=main"
-    },
-    {
-      "id": "repo_access_20261020T083058Z_sunmint",
-      "timestamp_utc": "2026-10-20T08:30:58Z",
-      "agent": "sophia",
-      "repo": "sunmint",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/plots/index.geojson",
-      "detail": "path=plots/index.geojson branch=main"
     }
   ]
 }
