@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261027T231847Z_lineage-assets",
+  "timestamp_utc": "2026-10-27T23:18:47Z",
+  "agent": "sophia",
+  "repo": "lineage-assets",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=35 method=squash"
+}
