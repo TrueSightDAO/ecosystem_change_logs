@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-27T09:08:39Z",
+  "updated_utc": "2026-10-27T09:12:48Z",
   "entries": [
+    {
+      "id": "deploy_20261027T091245Z_1orwgdgckts55owiyoysr-y4sde52t-eumrtdgae",
+      "agent": "sophia",
+      "timestamp_utc": "20261027T091245Z",
+      "target_type": "clasp",
+      "target_id": "1orWgdGckts55owiYOysR_y4sde52T_eUmrtDGAEkb4YV5DlUfJ0JZC5J",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1orWgdGckts55owiYOysR_y4sde52T_eUmrtDGAEkb4YV5DlUfJ0JZC5J --push --no-hooks",
+      "git_ref": "",
+      "result": "success",
+      "lease_id": "L-20261027-31",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1orWgdGckts55owiYOysR_y4sde52T_eUmrtDGAEkb4YV5DlUfJ0JZC5J",
+      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
+    },
     {
       "id": "deploy_20261027T090836Z_autopilot",
       "agent": "sophia",
@@ -2588,19 +2601,6 @@
       "lease_id": "L-20260901-09",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/a758b476dc3dc67ebbda67c94c35f55af89fb2cc",
       "notes": "autopilot restarted onto a758b476dc3dc67ebbda67c94c35f55af89fb2cc; marker processed on boot."
-    },
-    {
-      "id": "deploy_20260901T102623Z_1urbgqlnnqc6pv4-gmidh2sywwu62wtdsrv30xk9",
-      "agent": "sophia",
-      "timestamp_utc": "20260901T102623Z",
-      "target_type": "clasp",
-      "target_id": "1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
-      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v --push --no-hooks",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "L-20260901-09",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/tree/main/google_app_scripts/1UrBgqLnnQc6PV4-gMIDh2SYwWu62wTdSrV30xk9q_eVr2UdoxdzXN38v",
-      "notes": "gas_deploy_project autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
     }
   ]
 }
