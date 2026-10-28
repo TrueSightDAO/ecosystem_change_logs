@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T15:46:51Z",
+  "updated_utc": "2026-10-28T15:48:44Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T154842Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-28T15:48:42Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1747",
+      "detail": "branch=fix/followups-retract-affinity changes=5"
+    },
     {
       "id": "repo_access_20261028T154649Z_truesight-autopilot",
       "timestamp_utc": "2026-10-28T15:46:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=343 method=squash"
-    },
-    {
-      "id": "repo_access_20261021T043533Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-21T04:35:33Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/343",
-      "detail": "branch=feat/journey-image-guard changes=1"
     }
   ]
 }
