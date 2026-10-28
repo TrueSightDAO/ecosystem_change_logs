@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T06:07:27Z",
+  "updated_utc": "2026-10-28T06:07:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T060747Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-28T06:07:47Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=552 method=squash"
+    },
     {
       "id": "repo_access_20261028T060725Z_truesight-autopilot",
       "timestamp_utc": "2026-10-28T06:07:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/334",
       "detail": "branch=feat/journey-sitio-catarinense-stop changes=3"
-    },
-    {
-      "id": "repo_access_20261020T101359Z_agent-handoffs",
-      "timestamp_utc": "2026-10-20T10:13:59Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/bionpact_from_sophia_20261020T101357Z.json",
-      "detail": "path=handoffs/bionpact_from_sophia_20261020T101357Z.json branch=main"
     }
   ]
 }
