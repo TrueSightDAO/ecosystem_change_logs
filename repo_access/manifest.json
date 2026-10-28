@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T08:41:56Z",
+  "updated_utc": "2026-10-28T09:19:51Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T091950Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-28T09:19:50Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=556 method=squash"
+    },
     {
       "id": "repo_access_20261028T084154Z_truesight-autopilot",
       "timestamp_utc": "2026-10-28T08:41:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/cfr-anapu-partner-stop/partner_locations.json",
       "detail": "path=partner_locations.json branch=feat/cfr-anapu-partner-stop"
-    },
-    {
-      "id": "repo_access_20261020T203108Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-20T20:31:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1677 method=squash"
     }
   ]
 }
