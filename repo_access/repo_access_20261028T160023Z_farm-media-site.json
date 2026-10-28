@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261028T160023Z_farm-media-site",
+  "timestamp_utc": "2026-10-28T16:00:23Z",
+  "agent": "sophia",
+  "repo": "farm-media-site",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=3 method=squash"
+}
