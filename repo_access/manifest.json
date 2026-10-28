@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T06:34:49Z",
+  "updated_utc": "2026-10-28T06:40:05Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T064003Z_go-to-market",
+      "timestamp_utc": "2026-10-28T06:40:03Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=193 method=squash"
+    },
     {
       "id": "repo_access_20261028T063447Z_notarizations",
       "timestamp_utc": "2026-10-28T06:34:47Z",
@@ -2183,17 +2194,6 @@
     {
       "id": "repo_access_20261020T200601Z_agroverse-shop-beta",
       "timestamp_utc": "2026-10-20T20:06:01Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/cfr-anapu-partner-stop/partners/cfr-anapu-dorothy-stang/index.html",
-      "detail": "path=partners/cfr-anapu-dorothy-stang/index.html branch=feat/cfr-anapu-partner-stop"
-    },
-    {
-      "id": "repo_access_20261020T200355Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-20T20:03:55Z",
       "agent": "sophia",
       "repo": "agroverse_shop_beta",
       "action": "upload_file_to_github",
