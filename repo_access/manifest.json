@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T13:22:17Z",
+  "updated_utc": "2026-10-28T13:22:28Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T132226Z_tokenomics",
+      "timestamp_utc": "2026-10-28T13:22:26Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=602 method=squash"
+    },
     {
       "id": "repo_access_20261028T132215Z_tokenomics",
       "timestamp_utc": "2026-10-28T13:22:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1684 method=squash"
-    },
-    {
-      "id": "repo_access_20261020T233210Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-20T23:32:10Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1684",
-      "detail": "branch=docs/cross-linking-policy-and-crf-plan-destale changes=5"
     }
   ]
 }
