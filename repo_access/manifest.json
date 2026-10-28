@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T16:00:25Z",
+  "updated_utc": "2026-10-28T16:01:25Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T160123Z_farm-media-site",
+      "timestamp_utc": "2026-10-28T16:01:23Z",
+      "agent": "sophia",
+      "repo": "farm-media-site",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm-media-site/pull/4",
+      "detail": "branch=fix/media-overflow-containers changes=5"
+    },
     {
       "id": "repo_access_20261028T160023Z_farm-media-site",
       "timestamp_utc": "2026-10-28T16:00:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/20261021_sam_fruit_trading_sgd25_offering_fruits_receipt.jpg",
       "detail": "path=assets/20261021_sam_fruit_trading_sgd25_offering_fruits_receipt.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261021T085841Z_github",
-      "timestamp_utc": "2026-10-21T08:58:41Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/20261021_simplygo_mrt_topup_sgd20_receipt.jpg",
-      "detail": "path=assets/20261021_simplygo_mrt_topup_sgd20_receipt.jpg branch=main"
     }
   ]
 }
