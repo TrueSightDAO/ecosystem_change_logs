@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T14:59:30Z",
+  "updated_utc": "2026-10-28T14:59:33Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T145931Z_dapp-beta",
+      "timestamp_utc": "2026-10-28T14:59:31Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=154 method=squash"
+    },
     {
       "id": "repo_access_20261028T145928Z_truesight-autopilot",
       "timestamp_utc": "2026-10-28T14:59:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/591",
       "detail": "branch=fix/monthly-anchor-port-asset-mgmt-api changes=1"
-    },
-    {
-      "id": "repo_access_20261021T005417Z_tokenomics",
-      "timestamp_utc": "2026-10-21T00:54:17Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=590 method=squash"
     }
   ]
 }
