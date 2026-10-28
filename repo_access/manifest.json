@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T14:36:27Z",
+  "updated_utc": "2026-10-28T14:56:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T145602Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-28T14:56:02Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=565 method=squash"
+    },
     {
       "id": "repo_access_20261028T143625Z_dapp-beta",
       "timestamp_utc": "2026-10-28T14:36:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/340",
       "detail": "branch=feat/journey-stats-derived changes=1"
-    },
-    {
-      "id": "repo_access_20261021T001725Z_tokenomics",
-      "timestamp_utc": "2026-10-21T00:17:25Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/590",
-      "detail": "branch=fix/monthly-append-anchor-and-month-normalise changes=5"
     }
   ]
 }
