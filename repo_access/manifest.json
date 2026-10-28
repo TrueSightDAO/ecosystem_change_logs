@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T16:01:37Z",
+  "updated_utc": "2026-10-28T16:13:14Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T161312Z_farm-media-site",
+      "timestamp_utc": "2026-10-28T16:13:12Z",
+      "agent": "sophia",
+      "repo": "farm-media-site",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm-media-site/pull/5",
+      "detail": "branch=fix/remove-stale-lightbox-rule changes=1"
+    },
     {
       "id": "repo_access_20261028T160135Z_farm-media-site",
       "timestamp_utc": "2026-10-28T16:01:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=542 method=squash"
-    },
-    {
-      "id": "repo_access_20261021T103119Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-21T10:31:19Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=541 method=squash"
     }
   ]
 }
