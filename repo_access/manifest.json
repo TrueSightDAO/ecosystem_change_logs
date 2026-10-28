@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T12:09:20Z",
+  "updated_utc": "2026-10-28T12:09:38Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T120936Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-28T12:09:36Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=558 method=squash"
+    },
     {
       "id": "repo_access_20261028T120918Z_dapp-beta",
       "timestamp_utc": "2026-10-28T12:09:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/536",
       "detail": "branch=feat/email-watch-tiered-sends-and-calendar-invites changes=8"
-    },
-    {
-      "id": "repo_access_20261020T211529Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-20T21:15:29Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1680 method=squash"
     }
   ]
 }
