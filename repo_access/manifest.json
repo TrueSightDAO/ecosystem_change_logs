@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T14:02:53Z",
+  "updated_utc": "2026-10-28T14:15:50Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T141548Z_tokenomics",
+      "timestamp_utc": "2026-10-28T14:15:48Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/604",
+      "detail": "branch=fix/mlte-time-trigger-schedule changes=1"
+    },
     {
       "id": "repo_access_20261028T140251Z_truesight-me-beta",
       "timestamp_utc": "2026-10-28T14:02:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=538 method=squash"
-    },
-    {
-      "id": "repo_access_20261020T235826Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-20T23:58:26Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/538",
-      "detail": "branch=feat/email-watch-multi-mailbox-query changes=2"
     }
   ]
 }
