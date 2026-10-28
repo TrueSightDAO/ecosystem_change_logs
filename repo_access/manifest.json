@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T10:18:14Z",
+  "updated_utc": "2026-10-28T10:42:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T104229Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-28T10:42:29Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1738",
+      "detail": "branch=docs/followup-silent-turn-loss-on-deploy changes=1"
+    },
     {
       "id": "repo_access_20261028T101812Z_truesight-autopilot",
       "timestamp_utc": "2026-10-28T10:18:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=335 method=squash"
-    },
-    {
-      "id": "repo_access_20261020T203307Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-20T20:33:07Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/cfr-anapu-partner-stop/partners/index.html",
-      "detail": "path=partners/index.html branch=feat/cfr-anapu-partner-stop"
     }
   ]
 }
