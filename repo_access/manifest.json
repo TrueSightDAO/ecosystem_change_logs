@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T14:02:30Z",
+  "updated_utc": "2026-10-28T14:02:53Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T140251Z_truesight-me-beta",
+      "timestamp_utc": "2026-10-28T14:02:51Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=418 method=squash"
+    },
     {
       "id": "repo_access_20261028T140228Z_truesight-me-beta",
       "timestamp_utc": "2026-10-28T14:02:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/538",
       "detail": "branch=feat/email-watch-multi-mailbox-query changes=2"
-    },
-    {
-      "id": "repo_access_20261020T235815Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-20T23:58:15Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=339 method=squash"
     }
   ]
 }
