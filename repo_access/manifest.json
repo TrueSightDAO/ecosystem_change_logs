@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T12:55:33Z",
+  "updated_utc": "2026-10-28T13:18:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T131807Z_tokenomics",
+      "timestamp_utc": "2026-10-28T13:18:07Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=601 method=squash"
+    },
     {
       "id": "repo_access_20261028T125531Z_truesight-me-beta",
       "timestamp_utc": "2026-10-28T12:55:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=537 method=squash"
-    },
-    {
-      "id": "repo_access_20261020T232746Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-20T23:27:46Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/537",
-      "detail": "branch=feat/email-watch-tiered-sends-tests changes=3"
     }
   ]
 }
