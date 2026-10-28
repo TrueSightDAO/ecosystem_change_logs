@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T06:07:49Z",
+  "updated_utc": "2026-10-28T06:08:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T060818Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-28T06:08:18Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=553 method=squash"
+    },
     {
       "id": "repo_access_20261028T060747Z_truesight-autopilot",
       "timestamp_utc": "2026-10-28T06:07:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=334 method=squash"
-    },
-    {
-      "id": "repo_access_20261020T200039Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-20T20:00:39Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/334",
-      "detail": "branch=feat/journey-sitio-catarinense-stop changes=3"
     }
   ]
 }
