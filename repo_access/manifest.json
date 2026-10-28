@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T15:11:51Z",
+  "updated_utc": "2026-10-28T15:16:27Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T151626Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-28T15:16:26Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1746",
+      "detail": "branch=followup/pr2-requires-session-affinity changes=1"
+    },
     {
       "id": "repo_access_20261028T151149Z_truesight-autopilot",
       "timestamp_utc": "2026-10-28T15:11:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/594",
       "detail": "branch=feat/monthly-statistics-snapshot-cache changes=3"
-    },
-    {
-      "id": "repo_access_20261021T011413Z_tokenomics",
-      "timestamp_utc": "2026-10-21T01:14:13Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/593",
-      "detail": "branch=feat/monthly-statistics-cache changes=5"
     }
   ]
 }
