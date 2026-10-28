@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261028T155957Z_farm-media-site",
+  "timestamp_utc": "2026-10-28T15:59:57Z",
+  "agent": "sophia",
+  "repo": "farm-media-site",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/farm-media-site/pull/3",
+  "detail": "branch=fix/read-manifest-index-key changes=2"
+}
