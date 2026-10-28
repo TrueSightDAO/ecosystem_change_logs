@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T14:00:26Z",
+  "updated_utc": "2026-10-28T14:02:30Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T140228Z_truesight-me-beta",
+      "timestamp_utc": "2026-10-28T14:02:28Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/418",
+      "detail": "branch=fix/contracts-event-name-drift-vs-edgar-catalog changes=10"
+    },
     {
       "id": "repo_access_20261028T140024Z_truesight-me-beta",
       "timestamp_utc": "2026-10-28T14:00:24Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=339 method=squash"
-    },
-    {
-      "id": "repo_access_20261020T235728Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-20T23:57:28Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/339",
-      "detail": "branch=fix/sitio-partner-media-gallery changes=4"
     }
   ]
 }
