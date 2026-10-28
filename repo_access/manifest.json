@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T15:49:15Z",
+  "updated_utc": "2026-10-28T15:59:59Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T155957Z_farm-media-site",
+      "timestamp_utc": "2026-10-28T15:59:57Z",
+      "agent": "sophia",
+      "repo": "farm-media-site",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm-media-site/pull/3",
+      "detail": "branch=fix/read-manifest-index-key changes=2"
+    },
     {
       "id": "repo_access_20261028T154913Z_agentic-ai-context",
       "timestamp_utc": "2026-10-28T15:49:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/20261021_elizabeth_wong_usd1000_equity_injection_agl16.jpg",
       "detail": "path=assets/20261021_elizabeth_wong_usd1000_equity_injection_agl16.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261021T044708Z_agent-handoffs",
-      "timestamp_utc": "2026-10-21T04:47:08Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261021T044706Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261021T044706Z.json branch=main"
     }
   ]
 }
