@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T12:55:04Z",
+  "updated_utc": "2026-10-28T12:55:33Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T125531Z_truesight-me-beta",
+      "timestamp_utc": "2026-10-28T12:55:31Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/415",
+      "detail": "branch=docs/contracts-fix-sheet-locations-ci-mlte changes=2"
+    },
     {
       "id": "repo_access_20261028T125502Z_agentic-ai-context",
       "timestamp_utc": "2026-10-28T12:55:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/537",
       "detail": "branch=feat/email-watch-tiered-sends-tests changes=3"
-    },
-    {
-      "id": "repo_access_20261020T230700Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-20T23:07:00Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=336 method=squash"
     }
   ]
 }
