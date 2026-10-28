@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T10:42:42Z",
+  "updated_utc": "2026-10-28T11:48:57Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T114855Z_farm-media-site",
+      "timestamp_utc": "2026-10-28T11:48:55Z",
+      "agent": "sophia",
+      "repo": "farm-media-site",
+      "action": "create_repo",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm-media-site",
+      "detail": "org=TrueSightDAO private=False"
+    },
     {
       "id": "repo_access_20261028T104240Z_agentic-ai-context",
       "timestamp_utc": "2026-10-28T10:42:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/587",
       "detail": "branch=fix/offchain-date-cell-coercion changes=3"
-    },
-    {
-      "id": "repo_access_20261020T204707Z_tokenomics",
-      "timestamp_utc": "2026-10-20T20:47:07Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=586 method=squash"
     }
   ]
 }
