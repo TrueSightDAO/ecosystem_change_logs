@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T12:08:14Z",
+  "updated_utc": "2026-10-28T12:09:20Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T120918Z_dapp-beta",
+      "timestamp_utc": "2026-10-28T12:09:18Z",
+      "agent": "sophia",
+      "repo": "dapp_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=153 method=squash"
+    },
     {
       "id": "repo_access_20261028T120812Z_farm-media-site",
       "timestamp_utc": "2026-10-28T12:08:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1680 method=squash"
-    },
-    {
-      "id": "repo_access_20261020T211514Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-20T21:15:14Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1680",
-      "detail": "branch=docs/envoy-plan-pr2-done changes=1"
     }
   ]
 }
