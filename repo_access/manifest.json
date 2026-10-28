@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T13:41:59Z",
+  "updated_utc": "2026-10-28T13:47:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T134753Z_tokenomics",
+      "timestamp_utc": "2026-10-28T13:47:53Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/603",
+      "detail": "branch=feat/mlte-producer-telegram-to-sheet changes=2"
+    },
     {
       "id": "repo_access_20261028T134157Z_agentic-ai-context",
       "timestamp_utc": "2026-10-28T13:41:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=337 method=squash"
-    },
-    {
-      "id": "repo_access_20261020T234320Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-20T23:43:20Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/337",
-      "detail": "branch=fix/partner-nominatim-unguarded-json-parse changes=14"
     }
   ]
 }
