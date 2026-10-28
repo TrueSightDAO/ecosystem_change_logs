@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T06:34:43Z",
+  "updated_utc": "2026-10-28T06:34:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T063447Z_notarizations",
+      "timestamp_utc": "2026-10-28T06:34:47Z",
+      "agent": "sophia",
+      "repo": "notarizations",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261013_procuracao_publica_zhiwen_teh_REDACTED.pdf",
+      "detail": "path=20261013_procuracao_publica_zhiwen_teh_REDACTED.pdf branch=main"
+    },
     {
       "id": "repo_access_20261028T063442Z_notarizations-raw",
       "timestamp_utc": "2026-10-28T06:34:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/cfr-anapu-partner-stop/partners/cfr-anapu-dorothy-stang/index.html",
       "detail": "path=partners/cfr-anapu-dorothy-stang/index.html branch=feat/cfr-anapu-partner-stop"
-    },
-    {
-      "id": "repo_access_20261020T200342Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-20T20:03:42Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/335",
-      "detail": "branch=feat/cfr-anapu-partner-stop changes=4"
     }
   ]
 }
