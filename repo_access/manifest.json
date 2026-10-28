@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T12:27:14Z",
+  "updated_utc": "2026-10-28T12:37:17Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T123715Z_truesight-me-beta",
+      "timestamp_utc": "2026-10-28T12:37:15Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=414 method=squash"
+    },
     {
       "id": "repo_access_20261028T122712Z_dapp-beta",
       "timestamp_utc": "2026-10-28T12:27:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/feat/cfr-media-gallery-and-crosslinks/partners/cfr-anapu-dorothy-stang/index.html",
       "detail": "path=partners/cfr-anapu-dorothy-stang/index.html branch=feat/cfr-media-gallery-and-crosslinks"
-    },
-    {
-      "id": "repo_access_20261020T230600Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-20T23:06:00Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/336",
-      "detail": "branch=feat/cfr-media-gallery-and-crosslinks changes=2"
     }
   ]
 }
