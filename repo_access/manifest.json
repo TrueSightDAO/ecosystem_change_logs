@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-28T15:32:14Z",
+  "updated_utc": "2026-10-28T15:32:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261028T153232Z_farm-media-site",
+      "timestamp_utc": "2026-10-28T15:32:32Z",
+      "agent": "sophia",
+      "repo": "farm-media-site",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=2 method=squash"
+    },
     {
       "id": "repo_access_20261028T153212Z_farm-media-site",
       "timestamp_utc": "2026-10-28T15:32:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261021T042959Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20261021T042959Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20261021T042957Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-21T04:29:57Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/342",
-      "detail": "branch=fix/sitio-journey-card-image changes=1"
     }
   ]
 }
