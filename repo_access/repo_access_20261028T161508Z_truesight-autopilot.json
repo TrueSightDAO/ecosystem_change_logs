@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261028T161508Z_truesight-autopilot",
+  "timestamp_utc": "2026-10-28T16:15:08Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/571",
+  "detail": "branch=feat/shared-session-state-message-queues-cancel-flags changes=15"
+}
