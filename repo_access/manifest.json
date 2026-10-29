@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T04:45:02Z",
+  "updated_utc": "2026-10-29T04:51:00Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T045058Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-29T04:50:58Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1754",
+      "detail": "branch=docs/sophia-local-redis-deployment-and-protocol changes=5"
+    },
     {
       "id": "repo_access_20261029T044500Z_tokenomics",
       "timestamp_utc": "2026-10-29T04:45:00Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261024T023021Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20261024T023021Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20261024T011442Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-24T01:14:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1703",
-      "detail": "branch=docs/pricing-ssot changes=1"
     }
   ]
 }
