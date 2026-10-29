@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T00:25:30Z",
+  "updated_utc": "2026-10-29T01:18:06Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T011804Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-29T01:18:04Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/576",
+      "detail": "branch=fix/loop-alerts-discord-vault-token-and-claim-after-cap changes=3"
+    },
     {
       "id": "repo_access_20261029T002528Z_truesight-autopilot",
       "timestamp_utc": "2026-10-29T00:25:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=344 method=squash"
-    },
-    {
-      "id": "repo_access_20261022T045438Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-22T04:54:38Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/344",
-      "detail": "branch=fix/sitio-school-crosslinks-and-manifest-alias changes=2"
     }
   ]
 }
