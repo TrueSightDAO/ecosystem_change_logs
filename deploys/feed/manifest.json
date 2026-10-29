@@ -1,7 +1,20 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T05:48:17Z",
+  "updated_utc": "2026-10-29T05:56:09Z",
   "entries": [
+    {
+      "id": "deploy_20261029T055606Z_1duqffto0pj0lc4tpvnmmohnos1gvjgzqvxxbsed",
+      "agent": "sophia",
+      "timestamp_utc": "20261029T055606Z",
+      "target_type": "clasp",
+      "target_id": "1duQFfTO0Pj0lC4tPVNmMOhNOS1GvJgzqVxXbsEDu-eqt_64DwxvrOVyl",
+      "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1duQFfTO0Pj0lC4tPVNmMOhNOS1GvJgzqVxXbsEDu-eqt_64DwxvrOVyl --push --no-hooks",
+      "git_ref": "",
+      "result": "failure",
+      "lease_id": "L-20261029-34",
+      "evidence_url": "",
+      "notes": "exit=1 stderr="
+    },
     {
       "id": "deploy_20261029T054807Z_autopilot",
       "agent": "sophia",
@@ -2588,19 +2601,6 @@
       "lease_id": "L-20260902-09",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/commit/0dc1438fc4fbba36bff88549d4abb619cc015ae3",
       "notes": "autopilot restarted onto 0dc1438fc4fbba36bff88549d4abb619cc015ae3; marker processed on boot."
-    },
-    {
-      "id": "deploy_20260901T225253Z_sunmint-prod",
-      "agent": "sophia",
-      "timestamp_utc": "20260901T225253Z",
-      "target_type": "prod-sync",
-      "target_id": "sunmint_prod",
-      "action": "sync_beta_to_prod sunmint_prod",
-      "git_ref": "",
-      "result": "success",
-      "lease_id": "L-20260901-09",
-      "evidence_url": "https://github.com/TrueSightDAO/sunmint_prod/commits/main",
-      "notes": "sync_beta_to_prod autopilot tool (DEPLOY_PUSH_SOP Phase 2)"
     }
   ]
 }
