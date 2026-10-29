@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T09:34:13Z",
+  "updated_utc": "2026-10-29T09:34:22Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T093420Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-29T09:34:20Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1760 method=squash"
+    },
     {
       "id": "repo_access_20261029T093411Z_agentic-ai-context",
       "timestamp_utc": "2026-10-29T09:34:11Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/348",
       "detail": "branch=fix/paulo-ceremonial-price-30usd changes=10"
-    },
-    {
-      "id": "repo_access_20261025T082820Z_lineage-assets",
-      "timestamp_utc": "2026-10-25T08:28:20Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=34 method=squash"
     }
   ]
 }
