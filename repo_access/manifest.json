@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T02:39:35Z",
+  "updated_utc": "2026-10-29T02:40:51Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T024049Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-29T02:40:49Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/584",
+      "detail": "branch=fix/pin-workers-1-until-singleton-guard-exists changes=1"
+    },
     {
       "id": "repo_access_20261029T023933Z_truesight-autopilot",
       "timestamp_utc": "2026-10-29T02:39:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1696 method=squash"
-    },
-    {
-      "id": "repo_access_20261023T053020Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-23T05:30:20Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1696",
-      "detail": "branch=docs/s9b-money-adjacent-claims changes=1"
     }
   ]
 }
