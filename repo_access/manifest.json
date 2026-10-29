@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T02:49:27Z",
+  "updated_utc": "2026-10-29T02:59:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T025910Z_tokenomics",
+      "timestamp_utc": "2026-10-29T02:59:10Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/605",
+      "detail": "branch=fix/scoring-failure-visibility changes=4"
+    },
     {
       "id": "repo_access_20261029T024926Z_agentic-ai-context",
       "timestamp_utc": "2026-10-29T02:49:26Z",
@@ -2183,17 +2194,6 @@
     {
       "id": "repo_access_20261023T100739Z_agentic-ai-context",
       "timestamp_utc": "2026-10-23T10:07:39Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/docs/s9c-entity-and-evidence/OPERATING_INSTRUCTIONS.md",
-      "detail": "path=OPERATING_INSTRUCTIONS.md branch=docs/s9c-entity-and-evidence"
-    },
-    {
-      "id": "repo_access_20261023T100349Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-23T10:03:49Z",
       "agent": "sophia",
       "repo": "agentic_ai_context",
       "action": "upload_file_to_github",
