@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T04:56:20Z",
+  "updated_utc": "2026-10-29T05:04:25Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T050423Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-29T05:04:23Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/586",
+      "detail": "branch=fix/thread-goal-absolute-state-path changes=6"
+    },
     {
       "id": "repo_access_20261029T045619Z_agentic-ai-context",
       "timestamp_utc": "2026-10-29T04:56:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1706",
       "detail": "branch=fix/santos-is-a-factory changes=1"
-    },
-    {
-      "id": "repo_access_20261024T030805Z_agent-handoffs",
-      "timestamp_utc": "2026-10-24T03:08:05Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261024T030803Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261024T030803Z.json branch=main"
     }
   ]
 }
