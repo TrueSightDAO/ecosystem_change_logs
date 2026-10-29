@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T10:59:15.113Z",
+  "generated_at": "2026-10-29T10:59:14.551Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -23,11 +23,11 @@
       "ok": true,
       "tab": "Email Agent Follow Up",
       "sends_logged": {
-        "warmup": 1128,
+        "warmup": 1129,
         "follow_up": 71,
         "bulk": 0,
         "unknown": 2,
-        "total_rows": 1201
+        "total_rows": 1202
       },
       "distinct_recipients": {
         "warmup": 88,
@@ -40,33 +40,33 @@
       "touch_columns_resolved": true,
       "cohorts": {
         "AI: Warm up prospect": {
-          "stores": 125,
-          "sum_warmup_sends_au": 1056,
+          "stores": 117,
+          "sum_warmup_sends_au": 971,
           "sum_follow_up_sends_av": 4,
           "warmup_send_depth": {
-            "none": 64,
+            "none": 61,
             "once": 0,
-            "repeat": 61
+            "repeat": 56
           },
           "follow_up_send_depth": {
-            "none": 124,
+            "none": 116,
             "once": 0,
             "repeat": 1
           }
         },
         "Manager Follow-up": {
-          "stores": 35,
-          "sum_warmup_sends_au": 15,
-          "sum_follow_up_sends_av": 67,
+          "stores": 31,
+          "sum_warmup_sends_au": 25,
+          "sum_follow_up_sends_av": 59,
           "warmup_send_depth": {
-            "none": 29,
+            "none": 24,
             "once": 1,
-            "repeat": 5
+            "repeat": 6
           },
           "follow_up_send_depth": {
-            "none": 13,
-            "once": 5,
-            "repeat": 17
+            "none": 12,
+            "once": 4,
+            "repeat": 15
           }
         },
         "Bulk Info Requested": {
@@ -85,34 +85,34 @@
           }
         },
         "AI: Prospect replied": {
-          "stores": 2,
-          "sum_warmup_sends_au": 17,
+          "stores": 1,
+          "sum_warmup_sends_au": 8,
           "sum_follow_up_sends_av": 0,
           "warmup_send_depth": {
             "none": 0,
             "once": 0,
-            "repeat": 2
+            "repeat": 1
           },
           "follow_up_send_depth": {
-            "none": 2,
+            "none": 1,
             "once": 0,
             "repeat": 0
           }
         }
       },
       "follow_up_pipeline_combined": {
-        "stores": 37,
-        "sum_warmup_sends_au": 32,
-        "sum_follow_up_sends_av": 67,
+        "stores": 32,
+        "sum_warmup_sends_au": 33,
+        "sum_follow_up_sends_av": 59,
         "warmup_send_depth": {
-          "none": 29,
+          "none": 24,
           "once": 1,
           "repeat": 7
         },
         "follow_up_send_depth": {
-          "none": 15,
-          "once": 5,
-          "repeat": 17
+          "none": 13,
+          "once": 4,
+          "repeat": 15
         },
         "note": "Union of Hit List rows in statuses: Manager Follow-up, Bulk Info Requested, AI: Prospect replied"
       }
