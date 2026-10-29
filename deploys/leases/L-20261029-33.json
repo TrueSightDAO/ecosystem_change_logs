@@ -1,0 +1,10 @@
+{
+  "id": "L-20261029-33",
+  "agent": "sophia",
+  "target_type": "clasp",
+  "target_id": "1duQFfTO0Pj0lC4tPVNmMOhNOS1GvJgzqVxXbsEDu-eqt_64DwxvrOVyl",
+  "action": "python3 /opt/truesight_autopilot/context/tokenomics/scripts/deploy_gas_project.py 1duQFfTO0Pj0lC4tPVNmMOhNOS1GvJgzqVxXbsEDu-eqt_64DwxvrOVyl --push --no-hooks",
+  "started_utc": "2026-10-29T04:51:04Z",
+  "ttl_minutes": 30,
+  "status": "open"
+}
