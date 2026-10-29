@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T04:52:21Z",
+  "updated_utc": "2026-10-29T04:53:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T045311Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-29T04:53:11Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1756",
+      "detail": "branch=docs/sophia-local-redis-heading-revert changes=8"
+    },
     {
       "id": "repo_access_20261029T045219Z_agentic-ai-context",
       "timestamp_utc": "2026-10-29T04:52:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261024T030152Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20261024T030152Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20261024T023455Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-24T02:34:55Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1704",
-      "detail": "branch=docs/pricing-ssot-rev2 changes=1"
     }
   ]
 }
