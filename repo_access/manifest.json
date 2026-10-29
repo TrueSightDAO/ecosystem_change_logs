@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T04:51:00Z",
+  "updated_utc": "2026-10-29T04:52:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T045219Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-29T04:52:19Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1755",
+      "detail": "branch=docs/sophia-local-redis-heading-and-refs-fix changes=10"
+    },
     {
       "id": "repo_access_20261029T045058Z_agentic-ai-context",
       "timestamp_utc": "2026-10-29T04:50:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1704",
       "detail": "branch=docs/pricing-ssot-rev2 changes=1"
-    },
-    {
-      "id": "repo_access_20261024T023023Z_agent-handoffs",
-      "timestamp_utc": "2026-10-24T02:30:23Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261024T023021Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261024T023021Z.json branch=main"
     }
   ]
 }
