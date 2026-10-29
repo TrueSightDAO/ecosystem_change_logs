@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T01:44:21Z",
+  "updated_utc": "2026-10-29T01:55:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T015511Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-29T01:55:11Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/579",
+      "detail": "branch=fix/loop-alerts-envoy-discord-identity changes=2"
+    },
     {
       "id": "repo_access_20261029T014420Z_truesight-autopilot",
       "timestamp_utc": "2026-10-29T01:44:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1694",
       "detail": "branch=docs/operating-instructions-9a-static-site-v4 changes=1"
-    },
-    {
-      "id": "repo_access_20261022T233314Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-22T23:33:14Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1693",
-      "detail": "branch=docs/followup-prod-visual-gate-gap changes=1"
     }
   ]
 }
