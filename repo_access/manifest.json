@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T03:00:42Z",
+  "updated_utc": "2026-10-29T03:01:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T030124Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-29T03:01:24Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=543 method=squash"
+    },
     {
       "id": "repo_access_20261029T030040Z_tokenomics",
       "timestamp_utc": "2026-10-29T03:00:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1698",
       "detail": "branch=docs/s9c-4c-reattribution-gate changes=3"
-    },
-    {
-      "id": "repo_access_20261023T100806Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-23T10:08:06Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1697 method=squash"
     }
   ]
 }
