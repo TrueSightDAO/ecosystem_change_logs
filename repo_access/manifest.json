@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T00:16:28Z",
+  "updated_utc": "2026-10-29T00:25:30Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T002528Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-29T00:25:28Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=573 method=squash"
+    },
     {
       "id": "repo_access_20261029T001626Z_farm-media-site",
       "timestamp_utc": "2026-10-29T00:16:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/344",
       "detail": "branch=fix/sitio-school-crosslinks-and-manifest-alias changes=2"
-    },
-    {
-      "id": "repo_access_20261022T044137Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-22T04:41:37Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1688 method=squash"
     }
   ]
 }
