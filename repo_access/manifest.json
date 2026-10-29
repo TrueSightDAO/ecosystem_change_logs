@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T03:59:55Z",
+  "updated_utc": "2026-10-29T04:13:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T041332Z_tokenomics",
+      "timestamp_utc": "2026-10-29T04:13:32Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/608",
+      "detail": "branch=fix/agl8-webapp-anyone-anonymous changes=1"
+    },
     {
       "id": "repo_access_20261029T035953Z_agentic-ai-context",
       "timestamp_utc": "2026-10-29T03:59:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1700 method=squash"
-    },
-    {
-      "id": "repo_access_20261024T002049Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-24T00:20:49Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1700",
-      "detail": "branch=docs/s9c-5a-raw-string-trap changes=1"
     }
   ]
 }
