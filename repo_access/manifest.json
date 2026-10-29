@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T04:53:23Z",
+  "updated_utc": "2026-10-29T04:56:20Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T045619Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-29T04:56:19Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1757",
+      "detail": "branch=docs/throttle-fleet-wide-pr-c changes=4"
+    },
     {
       "id": "repo_access_20261029T045321Z_agentic-ai-context",
       "timestamp_utc": "2026-10-29T04:53:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261024T030803Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20261024T030803Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20261024T030256Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-24T03:02:56Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1705",
-      "detail": "branch=docs/rfq-intake-role-register changes=5"
     }
   ]
 }
