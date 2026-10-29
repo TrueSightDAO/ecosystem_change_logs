@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T02:39:26Z",
+  "updated_utc": "2026-10-29T02:39:35Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T023933Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-29T02:39:33Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=583 method=squash"
+    },
     {
       "id": "repo_access_20261029T023925Z_truesight-autopilot",
       "timestamp_utc": "2026-10-29T02:39:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1696",
       "detail": "branch=docs/s9b-money-adjacent-claims changes=1"
-    },
-    {
-      "id": "repo_access_20261023T025529Z_agroverse-freight-audit",
-      "timestamp_utc": "2026-10-23T02:55:29Z",
-      "agent": "sophia",
-      "repo": "agroverse-freight-audit",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse-freight-audit/pull/43",
-      "detail": "branch=feat/blackking-actuals-v2-bond-trueup changes=1"
     }
   ]
 }
