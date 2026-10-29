@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T08:54:42Z",
+  "updated_utc": "2026-10-29T09:34:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T093411Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-29T09:34:11Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1760",
+      "detail": "branch=handoff/oscar-2026-plot-media changes=2"
+    },
     {
       "id": "repo_access_20261029T085439Z_truesight-autopilot",
       "timestamp_utc": "2026-10-29T08:54:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=34 method=squash"
-    },
-    {
-      "id": "repo_access_20261025T071812Z_agent-handoffs",
-      "timestamp_utc": "2026-10-25T07:18:12Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261025T071810Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261025T071810Z.json branch=main"
     }
   ]
 }
