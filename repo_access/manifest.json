@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T01:18:06Z",
+  "updated_utc": "2026-10-29T01:18:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T011812Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-29T01:18:12Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=576 method=squash"
+    },
     {
       "id": "repo_access_20261029T011804Z_truesight-autopilot",
       "timestamp_utc": "2026-10-29T01:18:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/345",
       "detail": "branch=docs/dorothy-stang-namesake-section changes=1"
-    },
-    {
-      "id": "repo_access_20261022T045615Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-22T04:56:15Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=344 method=squash"
     }
   ]
 }
