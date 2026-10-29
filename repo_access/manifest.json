@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T02:37:34Z",
+  "updated_utc": "2026-10-29T02:39:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T023925Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-29T02:39:25Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/583",
+      "detail": "branch=fix/singleton-guard-multiworker changes=12"
+    },
     {
       "id": "repo_access_20261029T023732Z_agentic-ai-context",
       "timestamp_utc": "2026-10-29T02:37:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse-freight-audit/pull/43",
       "detail": "branch=feat/blackking-actuals-v2-bond-trueup changes=1"
-    },
-    {
-      "id": "repo_access_20261022T235128Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-22T23:51:28Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1693 method=squash"
     }
   ]
 }
