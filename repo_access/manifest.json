@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-29T05:04:25Z",
+  "updated_utc": "2026-10-29T05:04:33Z",
   "entries": [
+    {
+      "id": "repo_access_20261029T050431Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-29T05:04:31Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=586 method=squash"
+    },
     {
       "id": "repo_access_20261029T050423Z_truesight-autopilot",
       "timestamp_utc": "2026-10-29T05:04:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/546",
       "detail": "branch=security/remove-email-challenge-auth changes=2"
-    },
-    {
-      "id": "repo_access_20261024T094009Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-24T09:40:09Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1706",
-      "detail": "branch=fix/santos-is-a-factory changes=1"
     }
   ]
 }
