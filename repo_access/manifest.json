@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T15:40:49Z",
+  "updated_utc": "2026-10-30T16:51:32Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T165130Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T16:51:30Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1784 method=squash"
+    },
     {
       "id": "repo_access_20261030T154047Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T15:40:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=193 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T063447Z_notarizations",
-      "timestamp_utc": "2026-10-28T06:34:47Z",
-      "agent": "sophia",
-      "repo": "notarizations",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261013_procuracao_publica_zhiwen_teh_REDACTED.pdf",
-      "detail": "path=20261013_procuracao_publica_zhiwen_teh_REDACTED.pdf branch=main"
     }
   ]
 }
