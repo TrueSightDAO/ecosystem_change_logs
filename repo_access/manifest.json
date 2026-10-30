@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T09:25:14Z",
+  "updated_utc": "2026-10-30T09:33:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T093259Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-30T09:32:59Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=606 method=squash"
+    },
     {
       "id": "repo_access_20261030T092512Z_truesight-autopilot",
       "timestamp_utc": "2026-10-30T09:25:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1725 method=squash"
-    },
-    {
-      "id": "repo_access_20261026T133308Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-26T13:33:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1725",
-      "detail": "branch=docs/cacao-tcm-application changes=4"
     }
   ]
 }
