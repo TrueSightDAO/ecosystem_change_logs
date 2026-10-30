@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T13:08:32Z",
+  "updated_utc": "2026-10-30T13:08:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T130838Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T13:08:38Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1780 method=squash"
+    },
     {
       "id": "repo_access_20261030T130830Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T13:08:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/qrs/2024_20261027_2.json",
       "detail": "path=qrs/2024_20261027_2.json branch=main"
-    },
-    {
-      "id": "repo_access_20261027T230810Z_lineage-assets",
-      "timestamp_utc": "2026-10-27T23:08:10Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/blob/main/qrs/2024_20261027_1.json",
-      "detail": "path=qrs/2024_20261027_1.json branch=main"
     }
   ]
 }
