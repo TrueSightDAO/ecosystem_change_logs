@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261030T060607Z_lineage-assets",
+  "timestamp_utc": "2026-10-30T06:06:07Z",
+  "agent": "sophia",
+  "repo": "lineage-assets",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/36",
+  "detail": "branch=feat/reconcile-labels-manifest-to-pngs changes=2"
+}
