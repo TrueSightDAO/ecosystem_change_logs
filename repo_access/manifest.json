@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T03:00:13Z",
+  "updated_utc": "2026-10-30T03:00:22Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T030020Z_truesight-me-beta",
+      "timestamp_utc": "2026-10-30T03:00:20Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=419 method=squash"
+    },
     {
       "id": "repo_access_20261030T030011Z_truesight-me-beta",
       "timestamp_utc": "2026-10-30T03:00:11Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/597",
       "detail": "branch=fix/gas-scoring-diagnostics-v2 changes=6"
-    },
-    {
-      "id": "repo_access_20261025T120148Z_farm-media-daemon",
-      "timestamp_utc": "2026-10-25T12:01:48Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=39 method=squash"
     }
   ]
 }
