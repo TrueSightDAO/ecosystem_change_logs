@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T03:22:17Z",
+  "updated_utc": "2026-10-30T03:23:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T032323Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-30T03:23:23Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/598",
+      "detail": "branch=fix/deploy-preserve-local-work-v2 changes=1"
+    },
     {
       "id": "repo_access_20261030T032216Z_truesight-autopilot",
       "timestamp_utc": "2026-10-30T03:22:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=40 method=squash"
-    },
-    {
-      "id": "repo_access_20261025T120359Z_farm-media-manifests",
-      "timestamp_utc": "2026-10-25T12:03:59Z",
-      "agent": "sophia",
-      "repo": "farm_media_manifests",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=6 method=squash"
     }
   ]
 }
