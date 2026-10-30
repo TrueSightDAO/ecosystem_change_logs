@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T03:52:08Z",
+  "updated_utc": "2026-10-30T03:52:30Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T035228Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T03:52:28Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1763 method=squash"
+    },
     {
       "id": "repo_access_20261030T035206Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T03:52:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261021_LVSS_brazil_entity_service_agreement.md",
       "detail": "path=20261021_LVSS_brazil_entity_service_agreement.md branch=main"
-    },
-    {
-      "id": "repo_access_20261025T233037Z_notarizations-raw",
-      "timestamp_utc": "2026-10-25T23:30:37Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/20261021_LVSS_service_agreement_DRAFT-UNSIGNED_TKT13980.pdf",
-      "detail": "path=20261021_LVSS_service_agreement_DRAFT-UNSIGNED_TKT13980.pdf branch=main"
     }
   ]
 }
