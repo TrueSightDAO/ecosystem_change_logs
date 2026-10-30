@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T11:45:42Z",
+  "updated_utc": "2026-10-30T11:56:05Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T115603Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-30T11:56:03Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=616 method=squash"
+    },
     {
       "id": "repo_access_20261030T114541Z_truesight-autopilot",
       "timestamp_utc": "2026-10-30T11:45:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1733",
       "detail": "branch=docs/claim-retirement-contract changes=6"
-    },
-    {
-      "id": "repo_access_20261027T083313Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-27T08:33:13Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1732 method=squash"
     }
   ]
 }
