@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T08:32:46Z",
+  "updated_utc": "2026-10-30T08:33:57Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T083355Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T08:33:55Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1772",
+      "detail": "branch=docs/followups-gas-domain-scoped-wrappers-and-logging changes=1"
+    },
     {
       "id": "repo_access_20261030T083244Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T08:32:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1723",
       "detail": "branch=research/a1-resolved-no-pharmacopoeia-entry changes=2"
-    },
-    {
-      "id": "repo_access_20261026T125433Z_go-to-market",
-      "timestamp_utc": "2026-10-26T12:54:33Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=188 method=squash"
     }
   ]
 }
