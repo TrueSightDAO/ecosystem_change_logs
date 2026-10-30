@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T02:58:46Z",
+  "updated_utc": "2026-10-30T02:59:33Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T025931Z_sprint-site",
+      "timestamp_utc": "2026-10-30T02:59:31Z",
+      "agent": "sophia",
+      "repo": "sprint-site",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=10 method=squash"
+    },
     {
       "id": "repo_access_20261030T025844Z_sprint-site",
       "timestamp_utc": "2026-10-30T02:58:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/596",
       "detail": "branch=fix/gas-scoring-pipeline-diagnostics changes=6"
-    },
-    {
-      "id": "repo_access_20261025T114537Z_farm-media-daemon",
-      "timestamp_utc": "2026-10-25T11:45:37Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/39",
-      "detail": "branch=fix/farm-media-stills-only-promotion changes=3"
     }
   ]
 }
