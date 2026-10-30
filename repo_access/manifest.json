@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T02:58:43Z",
+  "updated_utc": "2026-10-30T02:58:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T025844Z_sprint-site",
+      "timestamp_utc": "2026-10-30T02:58:44Z",
+      "agent": "sophia",
+      "repo": "sprint-site",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sprint-site/pull/10",
+      "detail": "branch=feat/live-worker-panel changes=6"
+    },
     {
       "id": "repo_access_20261030T025841Z_tokenomics",
       "timestamp_utc": "2026-10-30T02:58:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/39",
       "detail": "branch=fix/farm-media-stills-only-promotion changes=3"
-    },
-    {
-      "id": "repo_access_20261025T101814Z_tokenomics",
-      "timestamp_utc": "2026-10-25T10:18:14Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=595 method=squash"
     }
   ]
 }
