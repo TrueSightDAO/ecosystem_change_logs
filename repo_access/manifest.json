@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T03:00:22Z",
+  "updated_utc": "2026-10-30T03:17:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T031753Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-30T03:17:53Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/596",
+      "detail": "branch=fix/trademark-do-not-chase-guard changes=4"
+    },
     {
       "id": "repo_access_20261030T030020Z_truesight-me-beta",
       "timestamp_utc": "2026-10-30T03:00:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=597 method=squash"
-    },
-    {
-      "id": "repo_access_20261025T120319Z_tokenomics",
-      "timestamp_utc": "2026-10-25T12:03:19Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/597",
-      "detail": "branch=fix/gas-scoring-diagnostics-v2 changes=6"
     }
   ]
 }
