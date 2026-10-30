@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T19:04:31Z",
+  "updated_utc": "2026-10-30T19:34:32Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T193430Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T19:34:30Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1785 method=squash"
+    },
     {
       "id": "repo_access_20261030T190430Z_lineage-assets",
       "timestamp_utc": "2026-10-30T19:04:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=555 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T083150Z_tokenomics",
-      "timestamp_utc": "2026-10-28T08:31:50Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/601",
-      "detail": "branch=fix/batch-qr-derive-is-cacao-from-col-b changes=3"
     }
   ]
 }
