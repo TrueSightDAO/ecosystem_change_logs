@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T11:09:36Z",
+  "updated_utc": "2026-10-30T11:20:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T112007Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T11:20:07Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1778",
+      "detail": "branch=docs/correct-raw-content-type-claim changes=2"
+    },
     {
       "id": "repo_access_20261030T110934Z_truesight-autopilot",
       "timestamp_utc": "2026-10-30T11:09:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1731 method=squash"
-    },
-    {
-      "id": "repo_access_20261027T055333Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-27T05:53:33Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1731",
-      "detail": "branch=docs/81pct-bar-production-accounting changes=2"
     }
   ]
 }
