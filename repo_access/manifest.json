@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T06:58:08Z",
+  "updated_utc": "2026-10-30T07:15:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T071511Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-30T07:15:11Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=604 method=squash"
+    },
     {
       "id": "repo_access_20261030T065806Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T06:58:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1719 method=squash"
-    },
-    {
-      "id": "repo_access_20261026T122917Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-26T12:29:17Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1719",
-      "detail": "branch=research/cacao-flavanols-evidence-review changes=3"
     }
   ]
 }
