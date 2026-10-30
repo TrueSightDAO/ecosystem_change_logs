@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T09:03:44Z",
+  "updated_utc": "2026-10-30T09:03:56Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T090354Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T09:03:54Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1773 method=squash"
+    },
     {
       "id": "repo_access_20261030T090342Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T09:03:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1724 method=squash"
-    },
-    {
-      "id": "repo_access_20261026T125823Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-26T12:58:23Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1724",
-      "detail": "branch=research/a2-resolved-no-cocoa-cadmium-limit changes=8"
     }
   ]
 }
