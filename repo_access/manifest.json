@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T08:03:21Z",
+  "updated_utc": "2026-10-30T08:04:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T080409Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T08:04:09Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1769 method=squash"
+    },
     {
       "id": "repo_access_20261030T080319Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T08:03:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1722",
       "detail": "branch=research/oscar-agl4-heavy-metal-results changes=1"
-    },
-    {
-      "id": "repo_access_20261026T124012Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-26T12:40:12Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1721 method=squash"
     }
   ]
 }
