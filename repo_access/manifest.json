@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T10:34:43Z",
+  "updated_utc": "2026-10-30T10:34:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T103452Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-30T10:34:52Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/614",
+      "detail": "branch=fix/live-progress-lint-parity-on-main changes=2"
+    },
     {
       "id": "repo_access_20261030T103442Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T10:34:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=354 method=squash"
-    },
-    {
-      "id": "repo_access_20261026T160729Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-26T16:07:29Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=353 method=squash"
     }
   ]
 }
