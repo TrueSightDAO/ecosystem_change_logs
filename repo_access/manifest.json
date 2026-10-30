@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T07:25:19Z",
+  "updated_utc": "2026-10-30T07:25:25Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T072523Z_tokenomics",
+      "timestamp_utc": "2026-10-30T07:25:23Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=612 method=squash"
+    },
     {
       "id": "repo_access_20261030T072517Z_truesight-autopilot",
       "timestamp_utc": "2026-10-30T07:25:17Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1720",
       "detail": "branch=research/oscar-farm-china-action-plan changes=1"
-    },
-    {
-      "id": "repo_access_20261026T123050Z_go-to-market",
-      "timestamp_utc": "2026-10-26T12:30:50Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=186 method=squash"
     }
   ]
 }
