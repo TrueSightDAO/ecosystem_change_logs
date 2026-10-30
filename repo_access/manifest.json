@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T12:07:44Z",
+  "updated_utc": "2026-10-30T12:09:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T120909Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T12:09:09Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1780",
+      "detail": "branch=docs/sitio-catarinense-state-v3 changes=3"
+    },
     {
       "id": "repo_access_20261030T120742Z_lineage-assets",
       "timestamp_utc": "2026-10-30T12:07:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/proofs/20261027_kirsten_2kg_oscar_nibs.png",
       "detail": "path=currency-compositions/proofs/20261027_kirsten_2kg_oscar_nibs.png branch=main"
-    },
-    {
-      "id": "repo_access_20261027T090702Z_tokenomics",
-      "timestamp_utc": "2026-10-27T09:07:02Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=599 method=squash"
     }
   ]
 }
