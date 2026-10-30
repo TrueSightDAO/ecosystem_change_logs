@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T12:09:11Z",
+  "updated_utc": "2026-10-30T12:09:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T120917Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T12:09:17Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1780 method=squash"
+    },
     {
       "id": "repo_access_20261030T120909Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T12:09:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/inventory_movement_20261027_gary_teh_usd_161_50_cory_bradley.png",
       "detail": "path=assets/inventory_movement_20261027_gary_teh_usd_161_50_cory_bradley.png branch=main"
-    },
-    {
-      "id": "repo_access_20261027T093648Z_agroverse-inventory",
-      "timestamp_utc": "2026-10-27T09:36:48Z",
-      "agent": "sophia",
-      "repo": "agroverse-inventory",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/proofs/20261027_kirsten_2kg_oscar_nibs.png",
-      "detail": "path=currency-compositions/proofs/20261027_kirsten_2kg_oscar_nibs.png branch=main"
     }
   ]
 }
