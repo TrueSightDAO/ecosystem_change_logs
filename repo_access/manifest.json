@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T06:15:04Z",
+  "updated_utc": "2026-10-30T06:16:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T061624Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T06:16:24Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1766 method=squash"
+    },
     {
       "id": "repo_access_20261030T061501Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T06:15:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=185 method=squash"
-    },
-    {
-      "id": "repo_access_20261026T121804Z_go-to-market",
-      "timestamp_utc": "2026-10-26T12:18:04Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/185",
-      "detail": "branch=fix/fill-sweep-no-fill-streak-breaker changes=6"
     }
   ]
 }
