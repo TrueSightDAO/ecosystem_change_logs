@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T09:09:06Z",
+  "updated_utc": "2026-10-30T09:09:17Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T090915Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T09:09:15Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1774 method=squash"
+    },
     {
       "id": "repo_access_20261030T090905Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T09:09:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=189 method=squash"
-    },
-    {
-      "id": "repo_access_20261026T130128Z_go-to-market",
-      "timestamp_utc": "2026-10-26T13:01:28Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/189",
-      "detail": "branch=feat/cache-preflight-guard changes=6"
     }
   ]
 }
