@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T14:00:38Z",
+  "updated_utc": "2026-10-30T14:09:45Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T140943Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T14:09:43Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1782",
+      "detail": "branch=docs/handoffs-regenerate-index-rule changes=1"
+    },
     {
       "id": "repo_access_20261030T140035Z_tokenomics",
       "timestamp_utc": "2026-10-30T14:00:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=551 method=squash"
-    },
-    {
-      "id": "repo_access_20261027T231847Z_lineage-assets",
-      "timestamp_utc": "2026-10-27T23:18:47Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=35 method=squash"
     }
   ]
 }
