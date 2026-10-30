@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T01:20:09Z",
+  "updated_utc": "2026-10-30T02:31:30Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T023128Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T02:31:28Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1762",
+      "detail": "branch=fix/business-model-linkage-and-framing changes=6"
+    },
     {
       "id": "repo_access_20261030T012007Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T01:20:07Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/nibs_consumption_20261025100513_kirsten_ritschel_vivi_2kg_confirmation.png",
       "detail": "path=assets/nibs_consumption_20261025100513_kirsten_ritschel_vivi_2kg_confirmation.png branch=main"
-    },
-    {
-      "id": "repo_access_20261025T100348Z_github",
-      "timestamp_utc": "2026-10-25T10:03:48Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/bar_production_20261025100343_kirsten_ritschel_vivi_40_bars.png",
-      "detail": "path=assets/bar_production_20261025100343_kirsten_ritschel_vivi_40_bars.png branch=main"
     }
   ]
 }
