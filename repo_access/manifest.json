@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T16:51:32Z",
+  "updated_utc": "2026-10-30T18:23:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T182338Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T18:23:38Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1785",
+      "detail": "branch=docs/file-1bhagzd-adminrestoreconfig-and-deploy-readiness changes=1"
+    },
     {
       "id": "repo_access_20261030T165130Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T16:51:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=554 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T064003Z_go-to-market",
-      "timestamp_utc": "2026-10-28T06:40:03Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=193 method=squash"
     }
   ]
 }
