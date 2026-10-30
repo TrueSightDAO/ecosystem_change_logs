@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T01:19:58Z",
+  "updated_utc": "2026-10-30T01:20:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T012007Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T01:20:07Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1761 method=squash"
+    },
     {
       "id": "repo_access_20261030T011956Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T01:19:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/bar_production_20261025100343_kirsten_ritschel_vivi_40_bars.png",
       "detail": "path=assets/bar_production_20261025100343_kirsten_ritschel_vivi_40_bars.png branch=main"
-    },
-    {
-      "id": "repo_access_20261025T093520Z_agent-handoffs",
-      "timestamp_utc": "2026-10-25T09:35:20Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/bionpact_from_sophia_20261025T093518Z.json",
-      "detail": "path=handoffs/bionpact_from_sophia_20261025T093518Z.json branch=main"
     }
   ]
 }
