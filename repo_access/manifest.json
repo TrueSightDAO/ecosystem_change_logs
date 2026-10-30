@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T10:52:13Z",
+  "updated_utc": "2026-10-30T10:54:38Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T105437Z_tokenomics",
+      "timestamp_utc": "2026-10-30T10:54:37Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=613 method=squash"
+    },
     {
       "id": "repo_access_20261030T105212Z_truesight-autopilot",
       "timestamp_utc": "2026-10-30T10:52:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1729 method=squash"
-    },
-    {
-      "id": "repo_access_20261027T044630Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-27T04:46:30Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1729",
-      "detail": "branch=docs/truesight-dao-financier-ruling changes=2"
     }
   ]
 }
