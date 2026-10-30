@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T08:04:11Z",
+  "updated_utc": "2026-10-30T08:09:10Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T080908Z_agent-handoffs",
+      "timestamp_utc": "2026-10-30T08:09:08Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261030T080906Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261030T080906Z.json branch=main"
+    },
     {
       "id": "repo_access_20261030T080409Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T08:04:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1722 method=squash"
-    },
-    {
-      "id": "repo_access_20261026T124406Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-26T12:44:06Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1722",
-      "detail": "branch=research/oscar-agl4-heavy-metal-results changes=1"
     }
   ]
 }
