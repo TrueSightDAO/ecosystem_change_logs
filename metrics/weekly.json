@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:59:14.551Z",
+  "generated_at": "2026-10-30T10:59:14.740Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -40,33 +40,33 @@
       "touch_columns_resolved": true,
       "cohorts": {
         "AI: Warm up prospect": {
-          "stores": 117,
-          "sum_warmup_sends_au": 971,
+          "stores": 114,
+          "sum_warmup_sends_au": 953,
           "sum_follow_up_sends_av": 4,
           "warmup_send_depth": {
-            "none": 61,
+            "none": 59,
             "once": 0,
-            "repeat": 56
+            "repeat": 55
           },
           "follow_up_send_depth": {
-            "none": 116,
+            "none": 113,
             "once": 0,
             "repeat": 1
           }
         },
         "Manager Follow-up": {
-          "stores": 31,
+          "stores": 29,
           "sum_warmup_sends_au": 25,
-          "sum_follow_up_sends_av": 59,
+          "sum_follow_up_sends_av": 55,
           "warmup_send_depth": {
-            "none": 24,
+            "none": 22,
             "once": 1,
             "repeat": 6
           },
           "follow_up_send_depth": {
-            "none": 12,
+            "none": 11,
             "once": 4,
-            "repeat": 15
+            "repeat": 14
           }
         },
         "Bulk Info Requested": {
@@ -101,18 +101,18 @@
         }
       },
       "follow_up_pipeline_combined": {
-        "stores": 32,
+        "stores": 30,
         "sum_warmup_sends_au": 33,
-        "sum_follow_up_sends_av": 59,
+        "sum_follow_up_sends_av": 55,
         "warmup_send_depth": {
-          "none": 24,
+          "none": 22,
           "once": 1,
           "repeat": 7
         },
         "follow_up_send_depth": {
-          "none": 13,
+          "none": 12,
           "once": 4,
-          "repeat": 15
+          "repeat": 14
         },
         "note": "Union of Hit List rows in statuses: Manager Follow-up, Bulk Info Requested, AI: Prospect replied"
       }
