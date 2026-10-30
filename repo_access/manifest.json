@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T10:54:38Z",
+  "updated_utc": "2026-10-30T11:07:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T110700Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-30T11:07:00Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/617",
+      "detail": "branch=feat/fix-media-content-type-script changes=1"
+    },
     {
       "id": "repo_access_20261030T105437Z_tokenomics",
       "timestamp_utc": "2026-10-30T10:54:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1730",
       "detail": "branch=docs/consumables-primitive-blocker changes=1"
-    },
-    {
-      "id": "repo_access_20261027T050657Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-27T05:06:57Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1729 method=squash"
     }
   ]
 }
