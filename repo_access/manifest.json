@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T06:05:45Z",
+  "updated_utc": "2026-10-30T06:06:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T060607Z_lineage-assets",
+      "timestamp_utc": "2026-10-30T06:06:07Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/36",
+      "detail": "branch=feat/reconcile-labels-manifest-to-pngs changes=2"
+    },
     {
       "id": "repo_access_20261030T060543Z_truesight-autopilot",
       "timestamp_utc": "2026-10-30T06:05:43Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1717 method=squash"
-    },
-    {
-      "id": "repo_access_20261026T045934Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-26T04:59:34Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1717",
-      "detail": "branch=docs/pipeline-stage2-liveness-caveat changes=5"
     }
   ]
 }
