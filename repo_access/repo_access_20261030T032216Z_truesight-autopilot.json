@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261030T032216Z_truesight-autopilot",
+  "timestamp_utc": "2026-10-30T03:22:16Z",
+  "agent": "sophia",
+  "repo": "truesight_autopilot",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/597",
+  "detail": "branch=fix/deploy-preserve-box-local-work changes=3"
+}
