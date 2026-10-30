@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T15:40:33Z",
+  "updated_utc": "2026-10-30T15:40:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T154047Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T15:40:47Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1784",
+      "detail": "branch=followup/silent-empty-manifest-fields changes=1"
+    },
     {
       "id": "repo_access_20261030T154032Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T15:40:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/notarizations/blob/main/20261013_procuracao_publica_zhiwen_teh_REDACTED.pdf",
       "detail": "path=20261013_procuracao_publica_zhiwen_teh_REDACTED.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261028T063442Z_notarizations-raw",
-      "timestamp_utc": "2026-10-28T06:34:42Z",
-      "agent": "sophia",
-      "repo": "notarizations-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/notarizations-raw/blob/main/originals/20261013_procuracao_publica_zhiwen_teh.pdf",
-      "detail": "path=originals/20261013_procuracao_publica_zhiwen_teh.pdf branch=main"
     }
   ]
 }
