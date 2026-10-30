@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T02:59:33Z",
+  "updated_utc": "2026-10-30T03:00:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T030011Z_truesight-me-beta",
+      "timestamp_utc": "2026-10-30T03:00:11Z",
+      "agent": "sophia",
+      "repo": "truesight_me_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/419",
+      "detail": "branch=fix/qr-label-placeholder-spacing changes=1"
+    },
     {
       "id": "repo_access_20261030T025931Z_sprint-site",
       "timestamp_utc": "2026-10-30T02:59:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=39 method=squash"
-    },
-    {
-      "id": "repo_access_20261025T114653Z_tokenomics",
-      "timestamp_utc": "2026-10-25T11:46:53Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/596",
-      "detail": "branch=fix/gas-scoring-pipeline-diagnostics changes=6"
     }
   ]
 }
