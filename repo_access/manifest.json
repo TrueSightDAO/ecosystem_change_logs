@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T08:34:08Z",
+  "updated_utc": "2026-10-30T09:03:44Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T090342Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T09:03:42Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1773",
+      "detail": "branch=docs/open-followups-mlte-and-close-guard changes=1"
+    },
     {
       "id": "repo_access_20261030T083406Z_agentic-ai-context",
       "timestamp_utc": "2026-10-30T08:34:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1724",
       "detail": "branch=research/a2-resolved-no-cocoa-cadmium-limit changes=8"
-    },
-    {
-      "id": "repo_access_20261026T125550Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-26T12:55:50Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1723 method=squash"
     }
   ]
 }
