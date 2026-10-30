@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-30T10:08:38Z",
+  "updated_utc": "2026-10-30T10:34:43Z",
   "entries": [
+    {
+      "id": "repo_access_20261030T103442Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-30T10:34:42Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1777",
+      "detail": "branch=followups/pk-tree-label-url-wrong-repo-v2 changes=1"
+    },
     {
       "id": "repo_access_20261030T100837Z_truesight-autopilot",
       "timestamp_utc": "2026-10-30T10:08:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=353 method=squash"
-    },
-    {
-      "id": "repo_access_20261026T160716Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-10-26T16:07:16Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/353",
-      "detail": "branch=fix/ep13-corrections-names-santos-vivi changes=5"
     }
   ]
 }
