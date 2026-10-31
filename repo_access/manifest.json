@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-31T04:31:45Z",
+  "updated_utc": "2026-10-31T04:34:43Z",
   "entries": [
+    {
+      "id": "repo_access_20261031T043441Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-31T04:34:41Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=621 method=squash"
+    },
     {
       "id": "repo_access_20261031T043143Z_truesight-autopilot",
       "timestamp_utc": "2026-10-31T04:31:43Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=151 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T121616Z_truesight-me-beta",
-      "timestamp_utc": "2026-10-28T12:16:16Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/414",
-      "detail": "branch=docs/contracts-add-mlte-fix-capital-injection changes=5"
     }
   ]
 }
