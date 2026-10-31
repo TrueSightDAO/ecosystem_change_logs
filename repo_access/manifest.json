@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-31T01:33:27Z",
+  "updated_utc": "2026-10-31T01:33:36Z",
   "entries": [
+    {
+      "id": "repo_access_20261031T013334Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-31T01:33:34Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=618 method=squash"
+    },
     {
       "id": "repo_access_20261031T013325Z_truesight-autopilot",
       "timestamp_utc": "2026-10-31T01:33:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm-media-site/pull/1",
       "detail": "branch=feat/media-browser-v1 changes=6"
-    },
-    {
-      "id": "repo_access_20261028T114855Z_farm-media-site",
-      "timestamp_utc": "2026-10-28T11:48:55Z",
-      "agent": "sophia",
-      "repo": "farm-media-site",
-      "action": "create_repo",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm-media-site",
-      "detail": "org=TrueSightDAO private=False"
     }
   ]
 }
