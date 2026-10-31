@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-31T08:17:30Z",
+  "updated_utc": "2026-10-31T11:38:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261031T113848Z_store-interaction-attachments",
+      "timestamp_utc": "2026-10-31T11:38:48Z",
+      "agent": "sophia",
+      "repo": "store_interaction_attachments",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/truetech-bionpact-agl16-invoice-20261031.pdf",
+      "detail": "path=invoices/truetech-bionpact-agl16-invoice-20261031.pdf branch=main"
+    },
     {
       "id": "repo_access_20261031T081729Z_truesight-autopilot",
       "timestamp_utc": "2026-10-31T08:17:29Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1742",
       "detail": "branch=plan/loop-daemon changes=1"
-    },
-    {
-      "id": "repo_access_20261028T124135Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-28T12:41:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1741",
-      "detail": "branch=plan/sophia-multi-process-worker-2 changes=1"
     }
   ]
 }
