@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-31T01:33:36Z",
+  "updated_utc": "2026-10-31T02:28:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261031T022832Z_agentic-ai-context",
+      "timestamp_utc": "2026-10-31T02:28:32Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1788",
+      "detail": "branch=fix/pending-backlog-measurement changes=1"
+    },
     {
       "id": "repo_access_20261031T013334Z_truesight-autopilot",
       "timestamp_utc": "2026-10-31T01:33:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/dapp_beta/pull/153",
       "detail": "branch=feat/winery-shop-type-all-pages changes=2"
-    },
-    {
-      "id": "repo_access_20261028T115001Z_farm-media-site",
-      "timestamp_utc": "2026-10-28T11:50:01Z",
-      "agent": "sophia",
-      "repo": "farm-media-site",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm-media-site/pull/1",
-      "detail": "branch=feat/media-browser-v1 changes=6"
     }
   ]
 }
