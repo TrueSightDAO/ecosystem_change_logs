@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-31T12:49:50Z",
+  "updated_utc": "2026-10-31T16:22:51Z",
   "entries": [
+    {
+      "id": "repo_access_20261031T162249Z_truesight-autopilot",
+      "timestamp_utc": "2026-10-31T16:22:49Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/623",
+      "detail": "branch=fix/interim-tool-progress-placeholders changes=2"
+    },
     {
       "id": "repo_access_20261031T124949Z_store-interaction-attachments",
       "timestamp_utc": "2026-10-31T12:49:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=602 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T132215Z_tokenomics",
-      "timestamp_utc": "2026-10-28T13:22:15Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/602",
-      "detail": "branch=fix/is-cacao-single-source-netloc changes=5"
     }
   ]
 }
