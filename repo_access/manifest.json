@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-31T11:56:35Z",
+  "updated_utc": "2026-10-31T12:00:23Z",
   "entries": [
+    {
+      "id": "repo_access_20261031T120021Z_store-interaction-attachments",
+      "timestamp_utc": "2026-10-31T12:00:21Z",
+      "agent": "sophia",
+      "repo": "store_interaction_attachments",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/truetech-bionpact-agl16-invoice-20261031-REV2.pdf",
+      "detail": "path=invoices/truetech-bionpact-agl16-invoice-20261031-REV2.pdf branch=main"
+    },
     {
       "id": "repo_access_20261031T115633Z_store-interaction-attachments",
       "timestamp_utc": "2026-10-31T11:56:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=601 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T125531Z_truesight-me-beta",
-      "timestamp_utc": "2026-10-28T12:55:31Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/415",
-      "detail": "branch=docs/contracts-fix-sheet-locations-ci-mlte changes=2"
     }
   ]
 }
