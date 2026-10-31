@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261031T124949Z_store-interaction-attachments",
+  "timestamp_utc": "2026-10-31T12:49:49Z",
+  "agent": "sophia",
+  "repo": "store_interaction_attachments",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/truetech-bionpact-agl16-invoice-20261031-REV3.pdf",
+  "detail": "path=invoices/truetech-bionpact-agl16-invoice-20261031-REV3.pdf branch=main"
+}
