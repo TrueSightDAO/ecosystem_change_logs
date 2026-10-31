@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-10-31T12:00:23Z",
+  "updated_utc": "2026-10-31T12:49:50Z",
   "entries": [
+    {
+      "id": "repo_access_20261031T124949Z_store-interaction-attachments",
+      "timestamp_utc": "2026-10-31T12:49:49Z",
+      "agent": "sophia",
+      "repo": "store_interaction_attachments",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/truetech-bionpact-agl16-invoice-20261031-REV3.pdf",
+      "detail": "path=invoices/truetech-bionpact-agl16-invoice-20261031-REV3.pdf branch=main"
+    },
     {
       "id": "repo_access_20261031T120021Z_store-interaction-attachments",
       "timestamp_utc": "2026-10-31T12:00:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/602",
       "detail": "branch=fix/is-cacao-single-source-netloc changes=5"
-    },
-    {
-      "id": "repo_access_20261028T131807Z_tokenomics",
-      "timestamp_utc": "2026-10-28T13:18:07Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=601 method=squash"
     }
   ]
 }
