@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-01T04:45:36Z",
+  "updated_utc": "2026-11-01T04:52:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261101T045232Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-01T04:52:32Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1789",
+      "detail": "branch=followup/ledger-invoice-generator changes=1"
+    },
     {
       "id": "repo_access_20261101T044534Z_store-interaction-attachments",
       "timestamp_utc": "2026-11-01T04:45:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/603",
       "detail": "branch=feat/mlte-producer-telegram-to-sheet changes=2"
-    },
-    {
-      "id": "repo_access_20261028T134157Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-28T13:41:57Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1743",
-      "detail": "branch=plans/mlte-event-completion changes=2"
     }
   ]
 }
