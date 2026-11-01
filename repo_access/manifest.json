@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-01T05:50:11Z",
+  "updated_utc": "2026-11-01T06:08:08Z",
   "entries": [
+    {
+      "id": "repo_access_20261101T060806Z_store-interaction-attachments",
+      "timestamp_utc": "2026-11-01T06:08:06Z",
+      "agent": "sophia",
+      "repo": "store_interaction_attachments",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/bionpact-statel-ine-digital-consultation-20261031.pdf",
+      "detail": "path=invoices/bionpact-statel-ine-digital-consultation-20261031.pdf branch=main"
+    },
     {
       "id": "repo_access_20261101T055009Z_store-interaction-attachments",
       "timestamp_utc": "2026-11-01T05:50:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=416 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T135106Z_truesight-me-beta",
-      "timestamp_utc": "2026-10-28T13:51:06Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/416",
-      "detail": "branch=fix/contracts-page-accurate-counts changes=9"
     }
   ]
 }
