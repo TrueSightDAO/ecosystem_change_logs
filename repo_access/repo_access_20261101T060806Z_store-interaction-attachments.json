@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261101T060806Z_store-interaction-attachments",
+  "timestamp_utc": "2026-11-01T06:08:06Z",
+  "agent": "sophia",
+  "repo": "store_interaction_attachments",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/bionpact-statel-ine-digital-consultation-20261031.pdf",
+  "detail": "path=invoices/bionpact-statel-ine-digital-consultation-20261031.pdf branch=main"
+}
