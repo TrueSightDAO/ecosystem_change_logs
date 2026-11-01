@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-01T04:52:34Z",
+  "updated_utc": "2026-11-01T04:52:45Z",
   "entries": [
+    {
+      "id": "repo_access_20261101T045243Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-01T04:52:43Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1789 method=squash"
+    },
     {
       "id": "repo_access_20261101T045232Z_agentic-ai-context",
       "timestamp_utc": "2026-11-01T04:52:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=603 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T134753Z_tokenomics",
-      "timestamp_utc": "2026-10-28T13:47:53Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/603",
-      "detail": "branch=feat/mlte-producer-telegram-to-sheet changes=2"
     }
   ]
 }
