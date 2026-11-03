@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-10-20T03:54:02Z",
+  "generated_at": "2026-11-03T05:46:14Z",
   "page": 1,
   "page_size": 10,
-  "total": 130,
-  "page_count": 13,
+  "total": 131,
+  "page_count": 14,
   "entries": [
+    {
+      "id": "beer-hall-2026-11-03T054614Z",
+      "posted_at_utc": "2026-11-03T05:46:14Z",
+      "slug": "mlte-pipeline-shipped-sales-webhook-fixed",
+      "preview": "Automated daily digest of the DAO - **Managed Ledger Transaction Event pipeline shipped** — New MLTE derivation engine handles injection, movement, and retirement rows; producer queues events from Telegram Chat Logs; ti…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-11-03T054614Z_mlte-pipeline-shipped-sales-webhook-fixed.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-11-03T054614Z_mlte-pipeline-shipped-sales-webhook-fixed.json"
+    },
     {
       "id": "beer-hall-2026-10-20T035402Z",
       "posted_at_utc": "2026-10-20T03:54:02Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Ledger Explorer** — Shipped to prod: deep links per transaction, infinite scroll, inline expand, and SunMint tree-planting cross-links. Fixed dead hamburger on ~17 pages and a site-…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-09-29T044723Z_ledger-explorer-shipped-payout-filter-prod-gate.md",
       "json_path": "beer_hall/entries/beer-hall_2026-09-29T044723Z_ledger-explorer-shipped-payout-filter-prod-gate.json"
-    },
-    {
-      "id": "beer-hall-2026-09-20T035637Z",
-      "posted_at_utc": "2026-09-20T03:56:37Z",
-      "slug": "sunmint-explorer-and-santos-ops",
-      "preview": "Automated daily digest of the DAO - **SunMint** — Plot Explorer shell and supervision claim registered; production handoff delegated to Envoy. - **Partner Ops** — Fábrica Santa Clara page updated with official trade nam…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-09-20T035637Z_sunmint-explorer-and-santos-ops.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-09-20T035637Z_sunmint-explorer-and-santos-ops.json"
     }
   ]
 }
