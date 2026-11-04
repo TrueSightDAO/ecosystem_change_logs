@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-04T14:38:27Z",
+  "updated_utc": "2026-11-04T14:38:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261104T143833Z_qr-batches-cache",
+      "timestamp_utc": "2026-11-04T14:38:33Z",
+      "agent": "sophia",
+      "repo": "qr-batches-cache",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/qr-batches-cache/blob/main/batches/20261104/oscar_s_farm_81pct_50g/qr_20261104_42_bars.zip",
+      "detail": "path=batches/20261104/oscar_s_farm_81pct_50g/qr_20261104_42_bars.zip branch=main"
+    },
     {
       "id": "repo_access_20261104T143825Z_qr-batches-cache",
       "timestamp_utc": "2026-11-04T14:38:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=417 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T135719Z_truesight-me-beta",
-      "timestamp_utc": "2026-10-28T13:57:19Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/417",
-      "detail": "branch=fix/contracts-svg-event-count-33 changes=1"
     }
   ]
 }
