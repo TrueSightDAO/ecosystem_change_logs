@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-01T06:08:08Z",
+  "updated_utc": "2026-11-04T14:38:27Z",
   "entries": [
+    {
+      "id": "repo_access_20261104T143825Z_qr-batches-cache",
+      "timestamp_utc": "2026-11-04T14:38:25Z",
+      "agent": "sophia",
+      "repo": "qr-batches-cache",
+      "action": "create_repo",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/qr-batches-cache",
+      "detail": "org=TrueSightDAO private=False"
+    },
     {
       "id": "repo_access_20261101T060806Z_store-interaction-attachments",
       "timestamp_utc": "2026-11-01T06:08:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/417",
       "detail": "branch=fix/contracts-svg-event-count-33 changes=1"
-    },
-    {
-      "id": "repo_access_20261028T135139Z_truesight-me-beta",
-      "timestamp_utc": "2026-10-28T13:51:39Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=416 method=squash"
     }
   ]
 }
