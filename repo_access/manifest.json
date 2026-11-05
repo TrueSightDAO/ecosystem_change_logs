@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-05T11:13:06Z",
+  "updated_utc": "2026-11-05T13:19:05Z",
   "entries": [
+    {
+      "id": "repo_access_20261105T131903Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-05T13:19:03Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/625",
+      "detail": "branch=fix/register-sophia-client-prod changes=2"
+    },
     {
       "id": "repo_access_20261105T111304Z_sophia-client-beta",
       "timestamp_utc": "2026-11-05T11:13:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=415 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T141548Z_tokenomics",
-      "timestamp_utc": "2026-10-28T14:15:48Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/604",
-      "detail": "branch=fix/mlte-time-trigger-schedule changes=1"
     }
   ]
 }
