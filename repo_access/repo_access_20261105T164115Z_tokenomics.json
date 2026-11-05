@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261105T164115Z_tokenomics",
+  "timestamp_utc": "2026-11-05T16:41:15Z",
+  "agent": "sophia",
+  "repo": "tokenomics",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261105_lvss_vista_flow_service_agreement_signed.pdf",
+  "detail": "path=receipts/2026/20261105_lvss_vista_flow_service_agreement_signed.pdf branch=main"
+}
