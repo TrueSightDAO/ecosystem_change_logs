@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261105T111304Z_sophia-client-beta",
+  "timestamp_utc": "2026-11-05T11:13:04Z",
+  "agent": "sophia",
+  "repo": "sophia_client_beta",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=4 method=squash"
+}
