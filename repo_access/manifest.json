@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-04T15:46:05Z",
+  "updated_utc": "2026-11-05T11:12:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261105T111253Z_sophia-client-beta",
+      "timestamp_utc": "2026-11-05T11:12:53Z",
+      "agent": "sophia",
+      "repo": "sophia_client_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sophia_client_beta/pull/4",
+      "detail": "branch=fix/mobile-drawer-layout changes=7"
+    },
     {
       "id": "repo_access_20261104T154602Z_sophia-client-beta",
       "timestamp_utc": "2026-11-04T15:46:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=418 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T140228Z_truesight-me-beta",
-      "timestamp_utc": "2026-10-28T14:02:28Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/418",
-      "detail": "branch=fix/contracts-event-name-drift-vs-edgar-catalog changes=10"
     }
   ]
 }
