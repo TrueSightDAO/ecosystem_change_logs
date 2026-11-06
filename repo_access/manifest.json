@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-05T21:20:21Z",
+  "updated_utc": "2026-11-06T09:46:14Z",
   "entries": [
+    {
+      "id": "repo_access_20261106T094612Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-11-06T09:46:12Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/blob/main/assets/images/products/cacao-mass-bar-500g-1.jpeg",
+      "detail": "path=assets/images/products/cacao-mass-bar-500g-1.jpeg branch=main"
+    },
     {
       "id": "repo_access_20261105T212019Z_agentic-ai-context",
       "timestamp_utc": "2026-11-05T21:20:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1745",
       "detail": "branch=plan/sidekiq-multiprocess-pr0-done changes=6"
-    },
-    {
-      "id": "repo_access_20261028T145931Z_dapp-beta",
-      "timestamp_utc": "2026-10-28T14:59:31Z",
-      "agent": "sophia",
-      "repo": "dapp_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=154 method=squash"
     }
   ]
 }
