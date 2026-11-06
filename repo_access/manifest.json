@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-06T11:31:38Z",
+  "updated_utc": "2026-11-06T12:17:25Z",
   "entries": [
+    {
+      "id": "repo_access_20261106T121723Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-11-06T12:17:23Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/359",
+      "detail": "branch=feat/oscar-farm-attribution-500g changes=4"
+    },
     {
       "id": "repo_access_20261106T113136Z_agroverse-shop-beta",
       "timestamp_utc": "2026-11-06T11:31:36Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=2 method=squash"
-    },
-    {
-      "id": "repo_access_20261028T153212Z_farm-media-site",
-      "timestamp_utc": "2026-10-28T15:32:12Z",
-      "agent": "sophia",
-      "repo": "farm-media-site",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm-media-site/pull/2",
-      "detail": "branch=feat/previews-index-stem-matching changes=5"
     }
   ]
 }
