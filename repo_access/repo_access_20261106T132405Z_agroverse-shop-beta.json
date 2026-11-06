@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261106T132405Z_agroverse-shop-beta",
+  "timestamp_utc": "2026-11-06T13:24:05Z",
+  "agent": "sophia",
+  "repo": "agroverse_shop_beta",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=360 method=squash"
+}
