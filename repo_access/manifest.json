@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T06:55:53Z",
+  "updated_utc": "2026-11-07T06:56:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T065630Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-11-07T06:56:30Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/365",
+      "detail": "branch=feat/past-harvests-demotion changes=2"
+    },
     {
       "id": "repo_access_20261107T065551Z_agentic-ai-context",
       "timestamp_utc": "2026-11-07T06:55:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1752 method=squash"
-    },
-    {
-      "id": "repo_access_20261029T035943Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-29T03:59:43Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1752",
-      "detail": "branch=docs/followups-event-media-gaps changes=1"
     }
   ]
 }
