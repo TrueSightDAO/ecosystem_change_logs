@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T12:12:44Z",
+  "updated_utc": "2026-11-07T13:01:42Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T130140Z_sentiment-importer",
+      "timestamp_utc": "2026-11-07T13:01:40Z",
+      "agent": "sophia",
+      "repo": "sentiment_importer",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1143 method=squash"
+    },
     {
       "id": "repo_access_20261107T121242Z_sentiment-importer",
       "timestamp_utc": "2026-11-07T12:12:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=590 method=squash"
-    },
-    {
-      "id": "repo_access_20261029T054043Z_tokenomics",
-      "timestamp_utc": "2026-10-29T05:40:43Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=609 method=squash"
     }
   ]
 }
