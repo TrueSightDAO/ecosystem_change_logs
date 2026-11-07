@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T11:02:54Z",
+  "updated_utc": "2026-11-07T11:18:00Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T111759Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-11-07T11:17:59Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=367 method=squash"
+    },
     {
       "id": "repo_access_20261107T110253Z_agentic-ai-context",
       "timestamp_utc": "2026-11-07T11:02:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1752 method=squash"
-    },
-    {
-      "id": "repo_access_20261029T045311Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-29T04:53:11Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1756",
-      "detail": "branch=docs/sophia-local-redis-heading-revert changes=8"
     }
   ]
 }
