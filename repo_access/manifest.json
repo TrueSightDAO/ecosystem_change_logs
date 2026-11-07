@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T03:25:21Z",
+  "updated_utc": "2026-11-07T03:25:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T032529Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-11-07T03:25:29Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=362 method=squash"
+    },
     {
       "id": "repo_access_20261107T032519Z_agroverse-shop-beta",
       "timestamp_utc": "2026-11-07T03:25:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm-media-site/pull/4",
       "detail": "branch=fix/media-overflow-containers changes=5"
-    },
-    {
-      "id": "repo_access_20261028T160023Z_farm-media-site",
-      "timestamp_utc": "2026-10-28T16:00:23Z",
-      "agent": "sophia",
-      "repo": "farm-media-site",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=3 method=squash"
     }
   ]
 }
