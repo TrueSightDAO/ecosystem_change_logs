@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261107T051036Z_takedown-quarantine-raw",
+  "timestamp_utc": "2026-11-07T05:10:36Z",
+  "agent": "sophia",
+  "repo": "takedown-quarantine-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/cases/2026-11-06_adam-bagni/remediation.md",
+  "detail": "path=cases/2026-11-06_adam-bagni/remediation.md branch=main"
+}
