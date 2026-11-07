@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T05:10:42Z",
+  "updated_utc": "2026-11-07T05:10:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T051054Z_takedown-quarantine-raw",
+      "timestamp_utc": "2026-11-07T05:10:54Z",
+      "agent": "sophia",
+      "repo": "takedown-quarantine-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/cases/2026-11-06_adam-bagni/CASE.md",
+      "detail": "path=cases/2026-11-06_adam-bagni/CASE.md branch=main"
+    },
     {
       "id": "repo_access_20261107T051040Z_takedown-quarantine-raw",
       "timestamp_utc": "2026-11-07T05:10:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/607",
       "detail": "branch=fix/agl8-lock-wait-below-exec-timeout changes=1"
-    },
-    {
-      "id": "repo_access_20261029T030124Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-29T03:01:24Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=543 method=squash"
     }
   ]
 }
