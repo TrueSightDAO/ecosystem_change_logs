@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T11:49:36Z",
+  "updated_utc": "2026-11-07T12:11:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T121122Z_sentiment-importer",
+      "timestamp_utc": "2026-11-07T12:11:22Z",
+      "agent": "sophia",
+      "repo": "sentiment_importer",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1140",
+      "detail": "branch=feature/sgx-support changes=7"
+    },
     {
       "id": "repo_access_20261107T114934Z_sentiment-importer",
       "timestamp_utc": "2026-11-07T11:49:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/588",
       "detail": "branch=feat/live-state-endpoint changes=4"
-    },
-    {
-      "id": "repo_access_20261029T050431Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-29T05:04:31Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=586 method=squash"
     }
   ]
 }
