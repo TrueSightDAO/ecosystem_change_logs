@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T05:05:54Z",
+  "updated_utc": "2026-11-07T05:05:59Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T050557Z_takedown-quarantine-raw",
+      "timestamp_utc": "2026-11-07T05:05:57Z",
+      "agent": "sophia",
+      "repo": "takedown-quarantine-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/cases/2026-11-06_adam-bagni/evidence/latest_page_4.json",
+      "detail": "path=cases/2026-11-06_adam-bagni/evidence/latest_page_4.json branch=main"
+    },
     {
       "id": "repo_access_20261107T050552Z_takedown-quarantine-raw",
       "timestamp_utc": "2026-11-07T05:05:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/584",
       "detail": "branch=fix/pin-workers-1-until-singleton-guard-exists changes=1"
-    },
-    {
-      "id": "repo_access_20261029T023933Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-29T02:39:33Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=583 method=squash"
     }
   ]
 }
