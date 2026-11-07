@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T05:04:00Z",
+  "updated_utc": "2026-11-07T05:04:05Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T050403Z_takedown-quarantine-raw",
+      "timestamp_utc": "2026-11-07T05:04:03Z",
+      "agent": "sophia",
+      "repo": "takedown-quarantine-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/RETENTION.md",
+      "detail": "path=RETENTION.md branch=main"
+    },
     {
       "id": "repo_access_20261107T050359Z_takedown-quarantine-raw",
       "timestamp_utc": "2026-11-07T05:03:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm-media-site/pull/6",
       "detail": "branch=fix/gps-sentinel-and-namespace-alias changes=4"
-    },
-    {
-      "id": "repo_access_20261029T001439Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-29T00:14:39Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "failure",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=573 method=squash"
     }
   ]
 }
