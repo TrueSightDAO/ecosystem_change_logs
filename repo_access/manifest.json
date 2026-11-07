@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T06:56:42Z",
+  "updated_utc": "2026-11-07T08:39:00Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T083858Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-11-07T08:38:58Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/366",
+      "detail": "branch=fix/past-harvests-dedupe-stock-labels changes=1"
+    },
     {
       "id": "repo_access_20261107T065640Z_agroverse-shop-beta",
       "timestamp_utc": "2026-11-07T06:56:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1753",
       "detail": "branch=recon/sophia-dispatch-option-a changes=3"
-    },
-    {
-      "id": "repo_access_20261029T041332Z_tokenomics",
-      "timestamp_utc": "2026-10-29T04:13:32Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/608",
-      "detail": "branch=fix/agl8-webapp-anyone-anonymous changes=1"
     }
   ]
 }
