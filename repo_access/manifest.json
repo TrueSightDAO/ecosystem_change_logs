@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T05:04:38Z",
+  "updated_utc": "2026-11-07T05:04:43Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T050441Z_takedown-quarantine-raw",
+      "timestamp_utc": "2026-11-07T05:04:41Z",
+      "agent": "sophia",
+      "repo": "takedown-quarantine-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/cases/2026-11-06_adam-bagni/evidence/1588969475_all.csv",
+      "detail": "path=cases/2026-11-06_adam-bagni/evidence/1588969475_all.csv branch=main"
+    },
     {
       "id": "repo_access_20261107T050436Z_takedown-quarantine-raw",
       "timestamp_utc": "2026-11-07T05:04:36Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=576 method=squash"
-    },
-    {
-      "id": "repo_access_20261029T011804Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-29T01:18:04Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/576",
-      "detail": "branch=fix/loop-alerts-discord-vault-token-and-claim-after-cap changes=3"
     }
   ]
 }
