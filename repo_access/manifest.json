@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T05:04:05Z",
+  "updated_utc": "2026-11-07T05:04:23Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T050421Z_takedown-quarantine-raw",
+      "timestamp_utc": "2026-11-07T05:04:21Z",
+      "agent": "sophia",
+      "repo": "takedown-quarantine-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/cases/2026-11-06_adam-bagni/CASE.md",
+      "detail": "path=cases/2026-11-06_adam-bagni/CASE.md branch=main"
+    },
     {
       "id": "repo_access_20261107T050403Z_takedown-quarantine-raw",
       "timestamp_utc": "2026-11-07T05:04:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=6 method=squash"
-    },
-    {
-      "id": "repo_access_20261029T001506Z_farm-media-site",
-      "timestamp_utc": "2026-10-29T00:15:06Z",
-      "agent": "sophia",
-      "repo": "farm-media-site",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm-media-site/pull/6",
-      "detail": "branch=fix/gps-sentinel-and-namespace-alias changes=4"
     }
   ]
 }
