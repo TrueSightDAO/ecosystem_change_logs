@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T05:06:32Z",
+  "updated_utc": "2026-11-07T05:06:50Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T050649Z_takedown-quarantine-raw",
+      "timestamp_utc": "2026-11-07T05:06:49Z",
+      "agent": "sophia",
+      "repo": "takedown-quarantine-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/cases/2026-11-06_adam-bagni/respond-to-requester.md",
+      "detail": "path=cases/2026-11-06_adam-bagni/respond-to-requester.md branch=main"
+    },
     {
       "id": "repo_access_20261107T050631Z_takedown-quarantine-raw",
       "timestamp_utc": "2026-11-07T05:06:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1751",
       "detail": "branch=docs/amend-multi-worker-live-status-resolved changes=2"
-    },
-    {
-      "id": "repo_access_20261029T024209Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-29T02:42:09Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1750",
-      "detail": "branch=docs/stale-context-index-false-empty-search changes=1"
     }
   ]
 }
