@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-07T05:10:55Z",
+  "updated_utc": "2026-11-07T06:55:42Z",
   "entries": [
+    {
+      "id": "repo_access_20261107T065540Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-07T06:55:40Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1796",
+      "detail": "branch=docs/cache-pii-takedown-followups changes=1"
+    },
     {
       "id": "repo_access_20261107T051054Z_takedown-quarantine-raw",
       "timestamp_utc": "2026-11-07T05:10:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=607 method=squash"
-    },
-    {
-      "id": "repo_access_20261029T031345Z_tokenomics",
-      "timestamp_utc": "2026-10-29T03:13:45Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/607",
-      "detail": "branch=fix/agl8-lock-wait-below-exec-timeout changes=1"
     }
   ]
 }
