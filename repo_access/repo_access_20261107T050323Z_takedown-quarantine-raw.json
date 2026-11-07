@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261107T050323Z_takedown-quarantine-raw",
+  "timestamp_utc": "2026-11-07T05:03:23Z",
+  "agent": "sophia",
+  "repo": "takedown-quarantine-raw",
+  "action": "create_repo",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw",
+  "detail": "org=TrueSightDAO private=True"
+}
