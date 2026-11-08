@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-08T10:12:49Z",
+  "updated_utc": "2026-11-08T11:27:10Z",
   "entries": [
+    {
+      "id": "repo_access_20261108T112708Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-08T11:27:08Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1803",
+      "detail": "branch=docs/lvss-agreement-executed-fiat-leg-confirmed changes=2"
+    },
     {
       "id": "repo_access_20261108T101247Z_agentic-ai-context",
       "timestamp_utc": "2026-11-08T10:12:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1764 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T050415Z_tokenomics",
-      "timestamp_utc": "2026-10-30T05:04:15Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=611 method=squash"
     }
   ]
 }
