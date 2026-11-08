@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261108T031224Z_tokenomics",
+  "timestamp_utc": "2026-11-08T03:12:24Z",
+  "agent": "sophia",
+  "repo": "tokenomics",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/feat/tree-digest-clean/google_app_scripts/1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF/tree_planting_digest.js",
+  "detail": "path=google_app_scripts/1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF/tree_planting_digest.js branch=feat/tree-digest-clean"
+}
