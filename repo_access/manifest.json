@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-08T15:00:17Z",
+  "updated_utc": "2026-11-08T18:32:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261108T183253Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-08T18:32:53Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1804",
+      "detail": "branch=followup/gps-drop-recurrence-20261107 changes=1"
+    },
     {
       "id": "repo_access_20261108T150014Z_tokenomics",
       "timestamp_utc": "2026-11-08T15:00:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/606",
       "detail": "branch=fix/live-progress-sim102 changes=1"
-    },
-    {
-      "id": "repo_access_20261030T060616Z_farm-media-site",
-      "timestamp_utc": "2026-10-30T06:06:16Z",
-      "agent": "sophia",
-      "repo": "farm-media-site",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=7 method=squash"
     }
   ]
 }
