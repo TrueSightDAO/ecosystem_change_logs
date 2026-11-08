@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-08T12:36:06Z",
+  "updated_utc": "2026-11-08T14:59:39Z",
   "entries": [
+    {
+      "id": "repo_access_20261108T145938Z_tokenomics",
+      "timestamp_utc": "2026-11-08T14:59:38Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/622",
+      "detail": "branch=test/tree-digest-gate changes=1"
+    },
     {
       "id": "repo_access_20261108T123605Z_tokenomics",
       "timestamp_utc": "2026-11-08T12:36:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/lineage-assets/pull/36",
       "detail": "branch=feat/reconcile-labels-manifest-to-pngs changes=2"
-    },
-    {
-      "id": "repo_access_20261030T060543Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-30T06:05:43Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/605",
-      "detail": "branch=fix/live-progress-lint changes=2"
     }
   ]
 }
