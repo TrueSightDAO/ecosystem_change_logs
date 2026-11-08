@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-08T06:30:29Z",
+  "updated_utc": "2026-11-08T06:30:37Z",
   "entries": [
+    {
+      "id": "repo_access_20261108T063035Z_tokenomics",
+      "timestamp_utc": "2026-11-08T06:30:35Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=620 method=squash"
+    },
     {
       "id": "repo_access_20261108T063027Z_tokenomics",
       "timestamp_utc": "2026-11-08T06:30:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1763",
       "detail": "branch=fix/retire-unsourced-carbon-price-figures changes=1"
-    },
-    {
-      "id": "repo_access_20261030T033725Z_truesight-me-beta",
-      "timestamp_utc": "2026-10-30T03:37:25Z",
-      "agent": "sophia",
-      "repo": "truesight_me_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=419 method=squash"
     }
   ]
 }
