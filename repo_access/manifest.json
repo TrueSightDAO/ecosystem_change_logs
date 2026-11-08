@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-08T07:40:24Z",
+  "updated_utc": "2026-11-08T10:12:39Z",
   "entries": [
+    {
+      "id": "repo_access_20261108T101238Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-08T10:12:38Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1802",
+      "detail": "branch=docs/lvss-tdg-terms-par-pinned changes=2"
+    },
     {
       "id": "repo_access_20261108T074022Z_tokenomics",
       "timestamp_utc": "2026-11-08T07:40:22Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=603 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T050338Z_tokenomics",
-      "timestamp_utc": "2026-10-30T05:03:38Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=610 method=squash"
     }
   ]
 }
