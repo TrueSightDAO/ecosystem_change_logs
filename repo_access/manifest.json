@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-08T05:29:19Z",
+  "updated_utc": "2026-11-08T06:03:59Z",
   "entries": [
+    {
+      "id": "repo_access_20261108T060357Z_tokenomics",
+      "timestamp_utc": "2026-11-08T06:03:57Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/619",
+      "detail": "branch=fix/cred-jsdoc-parse changes=1"
+    },
     {
       "id": "repo_access_20261108T052918Z_tokenomics",
       "timestamp_utc": "2026-11-08T05:29:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/598",
       "detail": "branch=fix/deploy-preserve-local-work-v2 changes=1"
-    },
-    {
-      "id": "repo_access_20261030T032216Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-30T03:22:16Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/597",
-      "detail": "branch=fix/deploy-preserve-box-local-work changes=3"
     }
   ]
 }
