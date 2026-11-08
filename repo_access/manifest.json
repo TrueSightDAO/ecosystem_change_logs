@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-08T03:14:44Z",
+  "updated_utc": "2026-11-08T04:19:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261108T041945Z_tokenomics",
+      "timestamp_utc": "2026-11-08T04:19:45Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/618",
+      "detail": "branch=fix/email-identity-mgmt-missing-credentials changes=2"
+    },
     {
       "id": "repo_access_20261108T031442Z_tokenomics",
       "timestamp_utc": "2026-11-08T03:14:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_me_beta/pull/419",
       "detail": "branch=fix/qr-label-placeholder-spacing changes=1"
-    },
-    {
-      "id": "repo_access_20261030T025931Z_sprint-site",
-      "timestamp_utc": "2026-10-30T02:59:31Z",
-      "agent": "sophia",
-      "repo": "sprint-site",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=10 method=squash"
     }
   ]
 }
