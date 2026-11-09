@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "beer-hall-2026-11-09T050754Z",
+  "channel": "beer_hall",
+  "posted_at_utc": "2026-11-09T05:07:54Z",
+  "slug": "past-harvests-merchant-feed-tree-digest",
+  "sheet_log": "OpenClaw Beer Hall updates",
+  "openclaw_message_id": "",
+  "links": [],
+  "pr_commit_links": [],
+  "notes": "Drafted automatically by .github/workflows/beer-hall-digest-daily.yml",
+  "markdown_file": "beer_hall/entries/beer-hall_2026-11-09T050754Z_past-harvests-merchant-feed-tree-digest.md",
+  "json_file": "beer_hall/entries/beer-hall_2026-11-09T050754Z_past-harvests-merchant-feed-tree-digest.json",
+  "message1_tldr": "Automated daily digest of the DAO\n\n- **Past Harvests section live on Agroverse shop** — sold-out lots demoted below active inventory; duplicate \"Out of stock\" badge removed, replaced with single \"Sold out\" label.\n- **Google Merchant Center feed compliance fixed** — annex products now parse correctly, availability reflects actual stock, GTIN compliance enforced, freshness guard + CI wired.\n- **Tree planting daily email digest shipped** — doGet router added to scanner; rows missing photo IDs surfaced instead of silently counted; regression suite added for digest gate.\n- **GAS QR onboarding template inlined, DocumentApp dependency dropped** — Credentials.js restored in TDG Email Identity Management project.\n- **2,500 TDG allocated, discharging LVSS Clause 3.1(b)** — completes the USD 2,500 payable-in-TDG leg of the LVSS Vista Flow service agreement.\n- **LVSS §542 ledger corrected** — agreement executed date fixed to 2026-10-27; USD 1,000 fiat payment confirmed; TDG terms and clause 3.3 finding documented.\n- **Open follow-ups filed** — tree-digest \"merged ≠ deployed\" status (#1805), GPS-drop recurrence + pseudo-tree blind spot (#1804), shipment page farm-keyed slug defect (#1800).\n- **Gary Teh + Lawrence Kwek: 5 h collaboration** — Lawrence Kwek (DAO member, Singapore) deep work session.\n- **Gary Teh: Blueprint (Yuan Yuan) follow-up** — Bryan Johnson's 'Don't Die' longevity brand outreach.\n- **Schwab Trader API registration verified** — read-only portfolio integration status confirmed by Gary Teh and Sophia Truesight.",
+  "message2_shipped": "Shipped\n\n- agroverse_shop: Past Harvests section — demote sold-out lots, single \"Sold out\" label (#365, #366) — https://github.com/TrueSightDAO/agroverse_shop/commit/62ae76b\n- agroverse_shop: Merchant Center feed — annex product parsing"
+}
