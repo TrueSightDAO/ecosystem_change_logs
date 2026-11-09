@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-09T05:25:09Z",
+  "updated_utc": "2026-11-09T05:25:35Z",
   "entries": [
+    {
+      "id": "repo_access_20261109T052533Z_sentiment-importer",
+      "timestamp_utc": "2026-11-09T05:25:33Z",
+      "agent": "sophia",
+      "repo": "sentiment_importer",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1147 method=squash"
+    },
     {
       "id": "repo_access_20261109T052508Z_sentiment-importer",
       "timestamp_utc": "2026-11-09T05:25:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1769 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T080319Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T08:03:19Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1769",
-      "detail": "branch=docs/envoy-instruction-close-ceremony changes=3"
     }
   ]
 }
