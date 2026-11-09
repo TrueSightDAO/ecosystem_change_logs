@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-09T03:02:48Z",
+  "updated_utc": "2026-11-09T04:13:18Z",
   "entries": [
+    {
+      "id": "repo_access_20261109T041317Z_sentiment-importer",
+      "timestamp_utc": "2026-11-09T04:13:17Z",
+      "agent": "sophia",
+      "repo": "sentiment_importer",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1146",
+      "detail": "branch=fix/sgx-do-not-invalidate-latest-closes changes=2"
+    },
     {
       "id": "repo_access_20261109T030247Z_sentiment-importer",
       "timestamp_utc": "2026-11-09T03:02:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=604 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T065806Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T06:58:06Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1767",
-      "detail": "branch=docs/loop-alert-fallback changes=3"
     }
   ]
 }
