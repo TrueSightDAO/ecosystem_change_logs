@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-09T04:13:33Z",
+  "updated_utc": "2026-11-09T04:20:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261109T042011Z_sophia-client-beta",
+      "timestamp_utc": "2026-11-09T04:20:11Z",
+      "agent": "sophia",
+      "repo": "sophia_client_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sophia_client_beta/pull/5",
+      "detail": "branch=feat/autolink-bare-urls changes=2"
+    },
     {
       "id": "repo_access_20261109T041331Z_sentiment-importer",
       "timestamp_utc": "2026-11-09T04:13:31Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=607 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T071523Z_lineage-assets",
-      "timestamp_utc": "2026-10-30T07:15:23Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=36 method=squash"
     }
   ]
 }
