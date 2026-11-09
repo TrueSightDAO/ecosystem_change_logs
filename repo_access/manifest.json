@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-09T06:37:48Z",
+  "updated_utc": "2026-11-09T06:38:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261109T063853Z_sophia-client-beta",
+      "timestamp_utc": "2026-11-09T06:38:53Z",
+      "agent": "sophia",
+      "repo": "sophia_client_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=6 method=squash"
+    },
     {
       "id": "repo_access_20261109T063747Z_sophia-client-beta",
       "timestamp_utc": "2026-11-09T06:37:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=603 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T082221Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T08:22:21Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1770",
-      "detail": "branch=followups/pk-tree-label-url-wrong-repo changes=1"
     }
   ]
 }
