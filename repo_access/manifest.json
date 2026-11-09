@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-09T06:45:50Z",
+  "updated_utc": "2026-11-09T06:52:53Z",
   "entries": [
+    {
+      "id": "repo_access_20261109T065252Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-09T06:52:52Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1810",
+      "detail": "branch=docs/pdf-sop-decision-aid-revision changes=5"
+    },
     {
       "id": "repo_access_20261109T064549Z_agentic-ai-context",
       "timestamp_utc": "2026-11-09T06:45:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1773",
       "detail": "branch=docs/open-followups-mlte-and-close-guard changes=1"
-    },
-    {
-      "id": "repo_access_20261030T083406Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T08:34:06Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1772 method=squash"
     }
   ]
 }
