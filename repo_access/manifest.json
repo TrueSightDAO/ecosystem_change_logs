@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-09T03:02:37Z",
+  "updated_utc": "2026-11-09T03:02:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261109T030247Z_sentiment-importer",
+      "timestamp_utc": "2026-11-09T03:02:47Z",
+      "agent": "sophia",
+      "repo": "sentiment_importer",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1145 method=squash"
+    },
     {
       "id": "repo_access_20261109T030235Z_sentiment-importer",
       "timestamp_utc": "2026-11-09T03:02:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1767",
       "detail": "branch=docs/loop-alert-fallback changes=3"
-    },
-    {
-      "id": "repo_access_20261030T061624Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T06:16:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1766 method=squash"
     }
   ]
 }
