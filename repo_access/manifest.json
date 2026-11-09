@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-09T09:22:01Z",
+  "updated_utc": "2026-11-09T09:22:06Z",
   "entries": [
+    {
+      "id": "repo_access_20261109T092204Z_truesight-autopilot-transcript",
+      "timestamp_utc": "2026-11-09T09:22:04Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot_transcript",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot_transcript/blob/main/sessions/2026-11-09/23455bd71940/attachments/03_hippie_list_page2_6e9323f9.jpg",
+      "detail": "path=sessions/2026-11-09/23455bd71940/attachments/03_hippie_list_page2_6e9323f9.jpg branch=main"
+    },
     {
       "id": "repo_access_20261109T092159Z_truesight-autopilot-transcript",
       "timestamp_utc": "2026-11-09T09:21:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=606 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T092512Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-30T09:25:12Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=611 method=squash"
     }
   ]
 }
