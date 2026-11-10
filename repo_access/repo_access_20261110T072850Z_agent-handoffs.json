@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261110T072850Z_agent-handoffs",
+  "timestamp_utc": "2026-11-10T07:28:50Z",
+  "agent": "sophia",
+  "repo": "agent_handoffs",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261110T072849Z.json",
+  "detail": "path=handoffs/envoy_from_sophia_20261110T072849Z.json branch=main"
+}
