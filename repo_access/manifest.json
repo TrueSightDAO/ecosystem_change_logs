@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-10T05:02:19Z",
+  "updated_utc": "2026-11-10T05:05:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261110T050518Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-10T05:05:18Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1813",
+      "detail": "branch=docs/email-style-convention changes=1"
+    },
     {
       "id": "repo_access_20261110T050217Z_go-to-market",
       "timestamp_utc": "2026-11-10T05:02:17Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1776 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T100634Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T10:06:34Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1776",
-      "detail": "branch=docs/media-pipeline-v3-goal-state changes=1"
     }
   ]
 }
