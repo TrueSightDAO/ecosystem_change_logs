@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-10T09:39:18Z",
+  "updated_utc": "2026-11-10T09:39:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261110T093946Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-10T09:39:46Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1819",
+      "detail": "branch=report/agl16-signed-invoice-2026-11-10 changes=1"
+    },
     {
       "id": "repo_access_20261110T093916Z_store-interaction-attachments",
       "timestamp_utc": "2026-11-10T09:39:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1784 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T154047Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T15:40:47Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1784",
-      "detail": "branch=followup/silent-empty-manifest-fields changes=1"
     }
   ]
 }
