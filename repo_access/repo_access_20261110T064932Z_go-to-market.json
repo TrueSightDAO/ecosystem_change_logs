@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261110T064932Z_go-to-market",
+  "timestamp_utc": "2026-11-10T06:49:32Z",
+  "agent": "sophia",
+  "repo": "go_to_market",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/go_to_market/blob/main/assets/images/newsletter/black-king-packing-header.jpg",
+  "detail": "path=assets/images/newsletter/black-king-packing-header.jpg branch=main"
+}
