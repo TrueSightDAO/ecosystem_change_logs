@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-10T06:49:39Z",
+  "updated_utc": "2026-11-10T06:50:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261110T065024Z_go-to-market",
+      "timestamp_utc": "2026-11-10T06:50:24Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/blob/main/assets/images/newsletter/black-king-warehouse-header.jpg",
+      "detail": "path=assets/images/newsletter/black-king-warehouse-header.jpg branch=main"
+    },
     {
       "id": "repo_access_20261110T064937Z_go-to-market",
       "timestamp_utc": "2026-11-10T06:49:37Z",
@@ -2187,17 +2198,6 @@
       "repo": "truesight_autopilot",
       "action": "merge_pr",
       "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=617 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T110708Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-30T11:07:08Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "failure",
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=617 method=squash"
