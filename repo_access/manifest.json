@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-10T06:57:14Z",
+  "updated_utc": "2026-11-10T07:04:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261110T070408Z_go-to-market",
+      "timestamp_utc": "2026-11-10T07:04:08Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=203 method=squash"
+    },
     {
       "id": "repo_access_20261110T065712Z_tokenomics",
       "timestamp_utc": "2026-11-10T06:57:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/614",
       "detail": "branch=fix/match-live-doget-branch-order changes=1"
-    },
-    {
-      "id": "repo_access_20261030T115603Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-30T11:56:03Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=616 method=squash"
     }
   ]
 }
