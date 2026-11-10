@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-10T07:36:05Z",
+  "updated_utc": "2026-11-10T07:38:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261110T073829Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-10T07:38:29Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1818",
+      "detail": "branch=docs/generated-media-sop-r2 changes=3"
+    },
     {
       "id": "repo_access_20261110T073603Z_tokenomics",
       "timestamp_utc": "2026-11-10T07:36:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1780 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T130830Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T13:08:30Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1781",
-      "detail": "branch=fix/sitio-catarinense-manifest-status changes=2"
     }
   ]
 }
