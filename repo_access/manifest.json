@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-10T07:19:07Z",
+  "updated_utc": "2026-11-10T07:28:52Z",
   "entries": [
+    {
+      "id": "repo_access_20261110T072850Z_agent-handoffs",
+      "timestamp_utc": "2026-11-10T07:28:50Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261110T072849Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261110T072849Z.json branch=main"
+    },
     {
       "id": "repo_access_20261110T071905Z_agentic-ai-context",
       "timestamp_utc": "2026-11-10T07:19:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1780 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T120909Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T12:09:09Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1780",
-      "detail": "branch=docs/sitio-catarinense-state-v3 changes=3"
     }
   ]
 }
