@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-10T05:19:19Z",
+  "updated_utc": "2026-11-10T05:19:29Z",
   "entries": [
+    {
+      "id": "repo_access_20261110T051928Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-10T05:19:28Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1814 method=squash"
+    },
     {
       "id": "repo_access_20261110T051917Z_agentic-ai-context",
       "timestamp_utc": "2026-11-10T05:19:17Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/614",
       "detail": "branch=fix/live-progress-lint-parity-on-main changes=2"
-    },
-    {
-      "id": "repo_access_20261030T103442Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T10:34:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1777",
-      "detail": "branch=followups/pk-tree-label-url-wrong-repo-v2 changes=1"
     }
   ]
 }
