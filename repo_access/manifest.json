@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-10T09:14:37Z",
+  "updated_utc": "2026-11-10T09:39:18Z",
   "entries": [
+    {
+      "id": "repo_access_20261110T093916Z_store-interaction-attachments",
+      "timestamp_utc": "2026-11-10T09:39:16Z",
+      "agent": "sophia",
+      "repo": "store_interaction_attachments",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/bionpact/AGL16/TrueTech_to_BionPact_AGL16_20261031_REV3_SIGNED.pdf",
+      "detail": "path=bionpact/AGL16/TrueTech_to_BionPact_AGL16_20261031_REV3_SIGNED.pdf branch=main"
+    },
     {
       "id": "repo_access_20261110T091435Z_truesight-autopilot",
       "timestamp_utc": "2026-11-10T09:14:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1784",
       "detail": "branch=followup/silent-empty-manifest-fields changes=1"
-    },
-    {
-      "id": "repo_access_20261030T154032Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T15:40:32Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1783 method=squash"
     }
   ]
 }
