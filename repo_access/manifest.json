@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-10T07:06:23Z",
+  "updated_utc": "2026-11-10T07:19:07Z",
   "entries": [
+    {
+      "id": "repo_access_20261110T071905Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-10T07:19:05Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1817",
+      "detail": "branch=docs/generated-media-sop changes=1"
+    },
     {
       "id": "repo_access_20261110T070621Z_agentic-ai-context",
       "timestamp_utc": "2026-11-10T07:06:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1780",
       "detail": "branch=docs/sitio-catarinense-state-v3 changes=3"
-    },
-    {
-      "id": "repo_access_20261030T120742Z_lineage-assets",
-      "timestamp_utc": "2026-10-30T12:07:42Z",
-      "agent": "sophia",
-      "repo": "lineage-assets",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=37 method=squash"
     }
   ]
 }
