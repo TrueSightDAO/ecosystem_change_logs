@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-11T08:05:20Z",
+  "updated_utc": "2026-11-11T08:05:25Z",
   "entries": [
+    {
+      "id": "repo_access_20261111T080523Z_agent-handoffs",
+      "timestamp_utc": "2026-11-11T08:05:23Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261111T080522Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261111T080522Z.json branch=main"
+    },
     {
       "id": "repo_access_20261111T080518Z_agentic-ai-context",
       "timestamp_utc": "2026-11-11T08:05:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=620 method=squash"
-    },
-    {
-      "id": "repo_access_20261031T031112Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-31T03:11:12Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/620",
-      "detail": "branch=fix/progress-edits-do-not-mark-resume changes=10"
     }
   ]
 }
