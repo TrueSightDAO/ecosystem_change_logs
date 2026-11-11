@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261111T095048Z_generated-media-raw",
+  "timestamp_utc": "2026-11-11T09:50:48Z",
+  "agent": "sophia",
+  "repo": "generated-media-raw",
+  "action": "merge_pr",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=2 method=squash"
+}
