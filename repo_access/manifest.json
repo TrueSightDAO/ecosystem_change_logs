@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-11T08:05:42Z",
+  "updated_utc": "2026-11-11T08:24:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261111T082425Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-11T08:24:25Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/backups/content_schedule_backup_20261111.json",
+      "detail": "path=backups/content_schedule_backup_20261111.json branch=main"
+    },
     {
       "id": "repo_access_20261111T080540Z_agentic-ai-context",
       "timestamp_utc": "2026-11-11T08:05:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/621",
       "detail": "branch=fix/deploy-installs-and-restarts-loop-units changes=5"
-    },
-    {
-      "id": "repo_access_20261031T033749Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-31T03:37:49Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1788 method=squash"
     }
   ]
 }
