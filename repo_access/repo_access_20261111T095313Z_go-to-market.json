@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261111T095313Z_go-to-market",
+  "timestamp_utc": "2026-11-11T09:53:13Z",
+  "agent": "sophia",
+  "repo": "go_to_market",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/206",
+  "detail": "branch=fix/instagram-status-validation-reapply changes=6"
+}
