@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-11T09:46:30Z",
+  "updated_utc": "2026-11-11T09:46:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261111T094646Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-11T09:46:46Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1828 method=squash"
+    },
     {
       "id": "repo_access_20261111T094628Z_agentic-ai-context",
       "timestamp_utc": "2026-11-11T09:46:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/qr-batches-cache",
       "detail": "org=TrueSightDAO private=False"
-    },
-    {
-      "id": "repo_access_20261101T060806Z_store-interaction-attachments",
-      "timestamp_utc": "2026-11-01T06:08:06Z",
-      "agent": "sophia",
-      "repo": "store_interaction_attachments",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/bionpact-statel-ine-digital-consultation-20261031.pdf",
-      "detail": "path=invoices/bionpact-statel-ine-digital-consultation-20261031.pdf branch=main"
     }
   ]
 }
