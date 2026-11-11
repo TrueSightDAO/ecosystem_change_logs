@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-11T05:34:34Z",
+  "updated_utc": "2026-11-11T05:34:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261111T053440Z_go-to-market",
+      "timestamp_utc": "2026-11-11T05:34:40Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/blob/feat/kling-v4-pilot-clip/generated/assets/bar81-kling4-i2v-4ed72c3d-labelled.mp4",
+      "detail": "path=generated/assets/bar81-kling4-i2v-4ed72c3d-labelled.mp4 branch=feat/kling-v4-pilot-clip"
+    },
     {
       "id": "repo_access_20261111T053432Z_go-to-market",
       "timestamp_utc": "2026-11-11T05:34:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1785 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T195705Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T19:57:05Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1786",
-      "detail": "branch=docs/loop-daemon-status-correction changes=14"
     }
   ]
 }
