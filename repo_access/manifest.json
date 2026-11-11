@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-11T08:58:13Z",
+  "updated_utc": "2026-11-11T09:07:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261111T090724Z_generated-media-raw",
+      "timestamp_utc": "2026-11-11T09:07:24Z",
+      "agent": "sophia",
+      "repo": "generated-media-raw",
+      "action": "create_repo",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/generated-media-raw",
+      "detail": "org=TrueSightDAO private=False"
+    },
     {
       "id": "repo_access_20261111T085812Z_agentic-ai-context",
       "timestamp_utc": "2026-11-11T08:58:12Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/truetech-bionpact-agl16-invoice-20261031-REV1.pdf",
       "detail": "path=invoices/truetech-bionpact-agl16-invoice-20261031-REV1.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261031T113848Z_store-interaction-attachments",
-      "timestamp_utc": "2026-10-31T11:38:48Z",
-      "agent": "sophia",
-      "repo": "store_interaction_attachments",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/truetech-bionpact-agl16-invoice-20261031.pdf",
-      "detail": "path=invoices/truetech-bionpact-agl16-invoice-20261031.pdf branch=main"
     }
   ]
 }
