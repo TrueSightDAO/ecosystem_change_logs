@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-11T09:23:18Z",
+  "updated_utc": "2026-11-11T09:29:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261111T092948Z_generated-media-raw",
+      "timestamp_utc": "2026-11-11T09:29:48Z",
+      "agent": "sophia",
+      "repo": "generated-media-raw",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/generated-media-raw/pull/1",
+      "detail": "branch=feat/agroverse-brand-film-v9-manifest changes=3"
+    },
     {
       "id": "repo_access_20261111T092316Z_agentic-ai-context",
       "timestamp_utc": "2026-11-11T09:23:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/truetech-bionpact-agl16-invoice-20261031-final.pdf",
       "detail": "path=invoices/truetech-bionpact-agl16-invoice-20261031-final.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261031T162610Z_truesight-autopilot",
-      "timestamp_utc": "2026-10-31T16:26:10Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=623 method=squash"
     }
   ]
 }
