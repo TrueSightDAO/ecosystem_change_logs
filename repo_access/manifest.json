@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-11T07:45:53Z",
+  "updated_utc": "2026-11-11T07:46:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261111T074629Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-11T07:46:29Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1820 method=squash"
+    },
     {
       "id": "repo_access_20261111T074552Z_agentic-ai-context",
       "timestamp_utc": "2026-11-11T07:45:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1787 method=squash"
-    },
-    {
-      "id": "repo_access_20261030T230054Z_agentic-ai-context",
-      "timestamp_utc": "2026-10-30T23:00:54Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1787",
-      "detail": "branch=fix/scored-chatlogs-false-stall-premise changes=1"
     }
   ]
 }
