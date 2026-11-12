@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T12:20:16Z",
+  "updated_utc": "2026-11-12T12:21:44Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T122142Z_github",
+      "timestamp_utc": "2026-11-12T12:21:42Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/pix_jussileide_accountant_20261112_r1000.jpg",
+      "detail": "path=assets/pix_jussileide_accountant_20261112_r1000.jpg branch=main"
+    },
     {
       "id": "repo_access_20261112T122015Z_agentic-ai-context",
       "timestamp_utc": "2026-11-12T12:20:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/357",
       "detail": "branch=feat/ceremonial-cacao-500g-ilheus-2024 changes=3"
-    },
-    {
-      "id": "repo_access_20261106T094757Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-06T09:47:57Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=356 method=squash"
     }
   ]
 }
