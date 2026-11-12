@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T12:26:29Z",
+  "updated_utc": "2026-11-12T12:26:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T122638Z_tokenomics",
+      "timestamp_utc": "2026-11-12T12:26:38Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261112_pix_1000BRL_jussileide_accountant_sep_oct_2026.jpg",
+      "detail": "path=receipts/2026/20261112_pix_1000BRL_jussileide_accountant_sep_oct_2026.jpg branch=main"
+    },
     {
       "id": "repo_access_20261112T122627Z_tokenomics",
       "timestamp_utc": "2026-11-12T12:26:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=360 method=squash"
-    },
-    {
-      "id": "repo_access_20261106T132354Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-06T13:23:54Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/360",
-      "detail": "branch=feat/agl10-grid-oscar-500g changes=1"
     }
   ]
 }
