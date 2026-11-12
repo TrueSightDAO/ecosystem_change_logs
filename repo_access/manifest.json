@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T13:10:42Z",
+  "updated_utc": "2026-11-12T13:10:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T131052Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-12T13:10:52Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1832 method=squash"
+    },
     {
       "id": "repo_access_20261112T131041Z_agentic-ai-context",
       "timestamp_utc": "2026-11-12T13:10:41Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=362 method=squash"
-    },
-    {
-      "id": "repo_access_20261107T032519Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-07T03:25:19Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/362",
-      "detail": "branch=feat/agl4-500g-card-and-tap-freight-label changes=2"
     }
   ]
 }
