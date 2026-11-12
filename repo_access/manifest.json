@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T03:05:41Z",
+  "updated_utc": "2026-11-12T03:05:52Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T030550Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-12T03:05:50Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1829 method=squash"
+    },
     {
       "id": "repo_access_20261112T030539Z_agentic-ai-context",
       "timestamp_utc": "2026-11-12T03:05:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=4 method=squash"
-    },
-    {
-      "id": "repo_access_20261105T111253Z_sophia-client-beta",
-      "timestamp_utc": "2026-11-05T11:12:53Z",
-      "agent": "sophia",
-      "repo": "sophia_client_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sophia_client_beta/pull/4",
-      "detail": "branch=fix/mobile-drawer-layout changes=7"
     }
   ]
 }
