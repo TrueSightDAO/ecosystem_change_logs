@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T12:24:34Z",
+  "updated_utc": "2026-11-12T12:24:39Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T122437Z_github",
+      "timestamp_utc": "2026-11-12T12:24:37Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261112122158_admin_sophia_d3eb84df4cfd4ed2b004f8ede66bc659.docx",
+      "detail": "path=assets/dao_inventory_expense_20261112122158_admin_sophia_d3eb84df4cfd4ed2b004f8ede66bc659.docx branch=main"
+    },
     {
       "id": "repo_access_20261112T122432Z_github",
       "timestamp_utc": "2026-11-12T12:24:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/359",
       "detail": "branch=feat/oscar-farm-attribution-500g changes=4"
-    },
-    {
-      "id": "repo_access_20261106T113136Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-06T11:31:36Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/358",
-      "detail": "branch=feat/agl10-500g-shipment-card changes=1"
     }
   ]
 }
