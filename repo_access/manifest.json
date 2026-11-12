@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T11:49:22Z",
+  "updated_utc": "2026-11-12T11:49:33Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T114931Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-12T11:49:31Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1830 method=squash"
+    },
     {
       "id": "repo_access_20261112T114920Z_agentic-ai-context",
       "timestamp_utc": "2026-11-12T11:49:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1794 method=squash"
-    },
-    {
-      "id": "repo_access_20261105T212007Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-05T21:20:07Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1794",
-      "detail": "branch=followups/attachment-path-mangling-and-submit-idempotency changes=1"
     }
   ]
 }
