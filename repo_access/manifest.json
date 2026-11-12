@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T04:16:05Z",
+  "updated_utc": "2026-11-12T10:19:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T101939Z_github",
+      "timestamp_utc": "2026-11-12T10:19:39Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/contribution_reports/dtc_tiktok_influencer_seeding_strategy_report.pdf",
+      "detail": "path=assets/contribution_reports/dtc_tiktok_influencer_seeding_strategy_report.pdf branch=main"
+    },
     {
       "id": "repo_access_20261112T041604Z_go-to-market",
       "timestamp_utc": "2026-11-12T04:16:04Z",
@@ -2187,17 +2198,6 @@
       "repo": "truesight_autopilot",
       "action": "merge_pr",
       "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=625 method=squash"
-    },
-    {
-      "id": "repo_access_20261105T131912Z_truesight-autopilot",
-      "timestamp_utc": "2026-11-05T13:19:12Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "failure",
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=625 method=squash"
