@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261112T122627Z_tokenomics",
+  "timestamp_utc": "2026-11-12T12:26:27Z",
+  "agent": "sophia",
+  "repo": "tokenomics",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261112_jussileide_accountant_recibo_2026-10_500BRL.docx",
+  "detail": "path=receipts/2026/20261112_jussileide_accountant_recibo_2026-10_500BRL.docx branch=main"
+}
