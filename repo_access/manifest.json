@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T12:26:40Z",
+  "updated_utc": "2026-11-12T12:26:45Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T122643Z_tokenomics",
+      "timestamp_utc": "2026-11-12T12:26:43Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261112_wise_usd378.05_to_brl2085.png",
+      "detail": "path=receipts/2026/20261112_wise_usd378.05_to_brl2085.png branch=main"
+    },
     {
       "id": "repo_access_20261112T122638Z_tokenomics",
       "timestamp_utc": "2026-11-12T12:26:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/361",
       "detail": "branch=fix/500g-correct-shipment-awl-ledger changes=6"
-    },
-    {
-      "id": "repo_access_20261106T132405Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-06T13:24:05Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=360 method=squash"
     }
   ]
 }
