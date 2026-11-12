@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T04:15:03Z",
+  "updated_utc": "2026-11-12T04:16:05Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T041604Z_go-to-market",
+      "timestamp_utc": "2026-11-12T04:16:04Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=207 method=squash"
+    },
     {
       "id": "repo_access_20261112T041501Z_go-to-market",
       "timestamp_utc": "2026-11-12T04:15:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=625 method=squash"
-    },
-    {
-      "id": "repo_access_20261105T131903Z_truesight-autopilot",
-      "timestamp_utc": "2026-11-05T13:19:03Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/625",
-      "detail": "branch=fix/register-sophia-client-prod changes=2"
     }
   ]
 }
