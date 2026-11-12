@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T13:13:54Z",
+  "updated_utc": "2026-11-12T13:14:18Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T131417Z_sunmint",
+      "timestamp_utc": "2026-11-12T13:14:17Z",
+      "agent": "sophia",
+      "repo": "sunmint",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sunmint/blob/main/trees/index.geojson",
+      "detail": "path=trees/index.geojson branch=main"
+    },
     {
       "id": "repo_access_20261112T131352Z_agentic-ai-context",
       "timestamp_utc": "2026-11-12T13:13:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/364",
       "detail": "branch=fix/inventory-missing-sku-reads-as-out-of-stock changes=3"
-    },
-    {
-      "id": "repo_access_20261107T035351Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-07T03:53:51Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=363 method=squash"
     }
   ]
 }
