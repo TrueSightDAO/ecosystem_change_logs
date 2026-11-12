@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T13:10:54Z",
+  "updated_utc": "2026-11-12T13:13:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T131339Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-12T13:13:39Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1833",
+      "detail": "branch=runbook/dual-bucket-double-booking changes=1"
+    },
     {
       "id": "repo_access_20261112T131052Z_agentic-ai-context",
       "timestamp_utc": "2026-11-12T13:10:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/363",
       "detail": "branch=fix/500g-product-metadata-agl4-tap changes=1"
-    },
-    {
-      "id": "repo_access_20261107T032529Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-07T03:25:29Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=362 method=squash"
     }
   ]
 }
