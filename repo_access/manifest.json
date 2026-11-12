@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-12T12:21:44Z",
+  "updated_utc": "2026-11-12T12:24:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261112T122432Z_github",
+      "timestamp_utc": "2026-11-12T12:24:32Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261112122150_admin_sophia_c78edd0859fd4c78880d0b2278500aca.docx",
+      "detail": "path=assets/dao_inventory_expense_20261112122150_admin_sophia_c78edd0859fd4c78880d0b2278500aca.docx branch=main"
+    },
     {
       "id": "repo_access_20261112T122142Z_github",
       "timestamp_utc": "2026-11-12T12:21:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/358",
       "detail": "branch=feat/agl10-500g-shipment-card changes=1"
-    },
-    {
-      "id": "repo_access_20261106T102552Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-06T10:25:52Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/357",
-      "detail": "branch=feat/ceremonial-cacao-500g-ilheus-2024 changes=3"
     }
   ]
 }
