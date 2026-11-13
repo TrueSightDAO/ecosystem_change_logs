@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-13T09:27:42Z",
+  "updated_utc": "2026-11-13T10:43:56Z",
   "entries": [
+    {
+      "id": "repo_access_20261113T104355Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-13T10:43:55Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1845",
+      "detail": "branch=file/oscar-century-claim-unsubstantiated changes=1"
+    },
     {
       "id": "repo_access_20261113T092740Z_agentic-ai-context",
       "timestamp_utc": "2026-11-13T09:27:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/cases/2026-11-06_adam-bagni/evidence/latest_page_5.json",
       "detail": "path=cases/2026-11-06_adam-bagni/evidence/latest_page_5.json branch=main"
-    },
-    {
-      "id": "repo_access_20261107T050557Z_takedown-quarantine-raw",
-      "timestamp_utc": "2026-11-07T05:05:57Z",
-      "agent": "sophia",
-      "repo": "takedown-quarantine-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/cases/2026-11-06_adam-bagni/evidence/latest_page_4.json",
-      "detail": "path=cases/2026-11-06_adam-bagni/evidence/latest_page_4.json branch=main"
     }
   ]
 }
