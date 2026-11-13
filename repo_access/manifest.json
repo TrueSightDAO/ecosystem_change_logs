@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-13T04:57:37Z",
+  "updated_utc": "2026-11-13T04:57:45Z",
   "entries": [
+    {
+      "id": "repo_access_20261113T045743Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-13T04:57:43Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/research/china-market-positioning-2026/reports/china_market_positioning_2026/Dongguan_Grocery_Market_JiaRong_and_Field_Guide.pdf",
+      "detail": "path=reports/china_market_positioning_2026/Dongguan_Grocery_Market_JiaRong_and_Field_Guide.pdf branch=research/china-market-positioning-2026"
+    },
     {
       "id": "repo_access_20261113T045735Z_agentic-ai-context",
       "timestamp_utc": "2026-11-13T04:57:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw",
       "detail": "org=TrueSightDAO private=True"
-    },
-    {
-      "id": "repo_access_20261107T044055Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-07T04:40:55Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=364 method=squash"
     }
   ]
 }
