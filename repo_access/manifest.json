@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-13T04:57:45Z",
+  "updated_utc": "2026-11-13T04:57:56Z",
   "entries": [
+    {
+      "id": "repo_access_20261113T045754Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-13T04:57:54Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1834 method=squash"
+    },
     {
       "id": "repo_access_20261113T045743Z_agentic-ai-context",
       "timestamp_utc": "2026-11-13T04:57:43Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/README.md",
       "detail": "path=README.md branch=main"
-    },
-    {
-      "id": "repo_access_20261107T050323Z_takedown-quarantine-raw",
-      "timestamp_utc": "2026-11-07T05:03:23Z",
-      "agent": "sophia",
-      "repo": "takedown-quarantine-raw",
-      "action": "create_repo",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw",
-      "detail": "org=TrueSightDAO private=True"
     }
   ]
 }
