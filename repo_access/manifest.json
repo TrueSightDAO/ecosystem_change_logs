@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-14T03:12:51Z",
+  "updated_utc": "2026-11-14T03:36:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261114T033559Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-14T03:35:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1848",
+      "detail": "branch=docs/followup-sugar-not-in-recipe changes=1"
+    },
     {
       "id": "repo_access_20261114T031249Z_github",
       "timestamp_utc": "2026-11-14T03:12:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1796",
       "detail": "branch=docs/cache-pii-takedown-followups changes=1"
-    },
-    {
-      "id": "repo_access_20261107T051054Z_takedown-quarantine-raw",
-      "timestamp_utc": "2026-11-07T05:10:54Z",
-      "agent": "sophia",
-      "repo": "takedown-quarantine-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/cases/2026-11-06_adam-bagni/CASE.md",
-      "detail": "path=cases/2026-11-06_adam-bagni/CASE.md branch=main"
     }
   ]
 }
