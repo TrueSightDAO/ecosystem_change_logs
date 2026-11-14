@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-14T05:32:05Z",
+  "updated_utc": "2026-11-14T08:55:31Z",
   "entries": [
+    {
+      "id": "repo_access_20261114T085530Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-14T08:55:30Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1854",
+      "detail": "branch=sop/block-sop-v1.2-ledger-reconcile changes=11"
+    },
     {
       "id": "repo_access_20261114T053204Z_agentic-ai-context",
       "timestamp_utc": "2026-11-14T05:32:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1798",
       "detail": "branch=docs/report-sop-answer-first changes=2"
-    },
-    {
-      "id": "repo_access_20261107T111759Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-07T11:17:59Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=367 method=squash"
     }
   ]
 }
