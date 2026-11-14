@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261114T031249Z_github",
+  "timestamp_utc": "2026-11-14T03:12:49Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/audits/edgar_event_coverage_audit.pdf",
+  "detail": "path=assets/audits/edgar_event_coverage_audit.pdf branch=main"
+}
