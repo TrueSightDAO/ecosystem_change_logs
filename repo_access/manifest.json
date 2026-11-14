@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-14T08:56:13Z",
+  "updated_utc": "2026-11-14T09:00:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261114T090009Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-14T09:00:09Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1855",
+      "detail": "branch=docs/block-per-kg-unit-convention changes=6"
+    },
     {
       "id": "repo_access_20261114T085611Z_agentic-ai-context",
       "timestamp_utc": "2026-11-14T08:56:11Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1139 method=squash"
-    },
-    {
-      "id": "repo_access_20261107T114105Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-07T11:41:05Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1798 method=squash"
     }
   ]
 }
