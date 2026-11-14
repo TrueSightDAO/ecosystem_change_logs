@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-14T10:02:44Z",
+  "updated_utc": "2026-11-14T10:16:52Z",
   "entries": [
+    {
+      "id": "repo_access_20261114T101651Z_agroverse-inventory",
+      "timestamp_utc": "2026-11-14T10:16:51Z",
+      "agent": "sophia",
+      "repo": "agroverse-inventory",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/044400fa-8c60-48a3-8474-9a79478625b3.json",
+      "detail": "path=currency-compositions/044400fa-8c60-48a3-8474-9a79478625b3.json branch=main"
+    },
     {
       "id": "repo_access_20261114T100242Z_agentic-ai-context",
       "timestamp_utc": "2026-11-14T10:02:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1142 method=squash"
-    },
-    {
-      "id": "repo_access_20261107T121220Z_sentiment-importer",
-      "timestamp_utc": "2026-11-07T12:12:20Z",
-      "agent": "sophia",
-      "repo": "sentiment_importer",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1142",
-      "detail": "branch=fix/sgx-ruby26-filter-map changes=3"
     }
   ]
 }
