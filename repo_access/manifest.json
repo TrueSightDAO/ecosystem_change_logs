@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-14T05:15:38Z",
+  "updated_utc": "2026-11-14T05:17:14Z",
   "entries": [
+    {
+      "id": "repo_access_20261114T051712Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-14T05:17:12Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1851 method=squash"
+    },
     {
       "id": "repo_access_20261114T051537Z_agentic-ai-context",
       "timestamp_utc": "2026-11-14T05:15:37Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1139",
       "detail": "branch=feat/schwab-oauth-link-flow changes=5"
-    },
-    {
-      "id": "repo_access_20261107T101135Z_sentiment-importer",
-      "timestamp_utc": "2026-11-07T10:11:35Z",
-      "agent": "sophia",
-      "repo": "sentiment_importer",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1138",
-      "detail": "branch=feat/schwab-read-only-adapter changes=6"
     }
   ]
 }
