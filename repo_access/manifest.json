@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-13T23:53:38Z",
+  "updated_utc": "2026-11-14T00:16:27Z",
   "entries": [
+    {
+      "id": "repo_access_20261114T001625Z_sophia-client-beta",
+      "timestamp_utc": "2026-11-14T00:16:25Z",
+      "agent": "sophia",
+      "repo": "sophia_client_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sophia_client_beta/pull/7",
+      "detail": "branch=feat/per-channel-attachments changes=10"
+    },
     {
       "id": "repo_access_20261113T235336Z_agroverse-shop-beta",
       "timestamp_utc": "2026-11-13T23:53:36Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/pull/1",
       "detail": "branch=fix/typo-drafting-notes changes=1"
-    },
-    {
-      "id": "repo_access_20261107T050649Z_takedown-quarantine-raw",
-      "timestamp_utc": "2026-11-07T05:06:49Z",
-      "agent": "sophia",
-      "repo": "takedown-quarantine-raw",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/takedown-quarantine-raw/blob/main/cases/2026-11-06_adam-bagni/respond-to-requester.md",
-      "detail": "path=cases/2026-11-06_adam-bagni/respond-to-requester.md branch=main"
     }
   ]
 }
