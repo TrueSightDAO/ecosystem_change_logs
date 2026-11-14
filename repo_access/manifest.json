@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-14T03:46:13Z",
+  "updated_utc": "2026-11-14T04:43:39Z",
   "entries": [
+    {
+      "id": "repo_access_20261114T044337Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-14T04:43:37Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1850",
+      "detail": "branch=fix/edgar-pipeline-frozen-followup changes=1"
+    },
     {
       "id": "repo_access_20261114T034611Z_agentic-ai-context",
       "timestamp_utc": "2026-11-14T03:46:11Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/366",
       "detail": "branch=fix/past-harvests-dedupe-stock-labels changes=1"
-    },
-    {
-      "id": "repo_access_20261107T065640Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-07T06:56:40Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=365 method=squash"
     }
   ]
 }
