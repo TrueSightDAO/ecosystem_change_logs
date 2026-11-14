@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-14T05:23:57Z",
+  "updated_utc": "2026-11-14T05:28:43Z",
   "entries": [
+    {
+      "id": "repo_access_20261114T052842Z_agroverse-inventory",
+      "timestamp_utc": "2026-11-14T05:28:42Z",
+      "agent": "sophia",
+      "repo": "agroverse-inventory",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/2abac3bb-ba5d-465b-aa73-55241b166d31.json",
+      "detail": "path=currency-compositions/2abac3bb-ba5d-465b-aa73-55241b166d31.json branch=main"
+    },
     {
       "id": "repo_access_20261114T052355Z_agentic-ai-context",
       "timestamp_utc": "2026-11-14T05:23:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1797",
       "detail": "branch=docs/stock-analysis-portfolio-sop changes=1"
-    },
-    {
-      "id": "repo_access_20261107T104509Z_sentiment-importer",
-      "timestamp_utc": "2026-11-07T10:45:09Z",
-      "agent": "sophia",
-      "repo": "sentiment_importer",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1138 method=squash"
     }
   ]
 }
