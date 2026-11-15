@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T11:59:16.813Z",
+  "generated_at": "2026-11-15T11:59:13.800Z",
   "source": {
     "workbook_id": "1eiqZr3LW-qEI6Hmy0Vrur_8flbRwxwA7jXVrbUnHbvc",
     "tab": "Pipeline Dashboard",
@@ -40,32 +40,32 @@
       "touch_columns_resolved": true,
       "cohorts": {
         "AI: Warm up prospect": {
-          "stores": 74,
-          "sum_warmup_sends_au": 587,
+          "stores": 71,
+          "sum_warmup_sends_au": 553,
           "sum_follow_up_sends_av": 4,
           "warmup_send_depth": {
-            "none": 40,
+            "none": 39,
             "once": 0,
-            "repeat": 34
+            "repeat": 32
           },
           "follow_up_send_depth": {
-            "none": 73,
+            "none": 70,
             "once": 0,
             "repeat": 1
           }
         },
         "Manager Follow-up": {
-          "stores": 27,
-          "sum_warmup_sends_au": 22,
-          "sum_follow_up_sends_av": 56,
+          "stores": 26,
+          "sum_warmup_sends_au": 20,
+          "sum_follow_up_sends_av": 55,
           "warmup_send_depth": {
             "none": 22,
             "once": 0,
-            "repeat": 5
+            "repeat": 4
           },
           "follow_up_send_depth": {
             "none": 9,
-            "once": 4,
+            "once": 3,
             "repeat": 14
           }
         },
@@ -101,17 +101,17 @@
         }
       },
       "follow_up_pipeline_combined": {
-        "stores": 27,
-        "sum_warmup_sends_au": 22,
-        "sum_follow_up_sends_av": 56,
+        "stores": 26,
+        "sum_warmup_sends_au": 20,
+        "sum_follow_up_sends_av": 55,
         "warmup_send_depth": {
           "none": 22,
           "once": 0,
-          "repeat": 5
+          "repeat": 4
         },
         "follow_up_send_depth": {
           "none": 9,
-          "once": 4,
+          "once": 3,
           "repeat": 14
         },
         "note": "Union of Hit List rows in statuses: Manager Follow-up, Bulk Info Requested, AI: Prospect replied"
