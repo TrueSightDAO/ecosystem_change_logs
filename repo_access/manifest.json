@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-17T02:09:41Z",
+  "updated_utc": "2026-11-17T02:43:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261117T024300Z_agent-handoffs",
+      "timestamp_utc": "2026-11-17T02:43:00Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261117T024258Z.json",
+      "detail": "path=handoffs/envoy_from_sophia_20261117T024258Z.json branch=main"
+    },
     {
       "id": "repo_access_20261117T020939Z_lineage-assets",
       "timestamp_utc": "2026-11-17T02:09:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1799",
       "detail": "branch=docs/schwab-plan-status-pr1-3-merged changes=4"
-    },
-    {
-      "id": "repo_access_20261107T132335Z_sentiment-importer",
-      "timestamp_utc": "2026-11-07T13:23:35Z",
-      "agent": "sophia",
-      "repo": "sentiment_importer",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1144",
-      "detail": "branch=feat/sgx-price-support changes=5"
     }
   ]
 }
