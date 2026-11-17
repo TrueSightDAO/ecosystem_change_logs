@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261117T120819Z_store-interaction-attachments",
+  "timestamp_utc": "2026-11-17T12:08:19Z",
+  "agent": "sophia",
+  "repo": "store_interaction_attachments",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/currency_conversion_receipts/20261117_usd_to_brazilian_reis_674-37_wise_rate.png",
+  "detail": "path=currency_conversion_receipts/20261117_usd_to_brazilian_reis_674-37_wise_rate.png branch=main"
+}
