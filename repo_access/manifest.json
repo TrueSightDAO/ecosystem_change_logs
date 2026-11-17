@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-17T09:17:42Z",
+  "updated_utc": "2026-11-17T09:29:00Z",
   "entries": [
+    {
+      "id": "repo_access_20261117T092858Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-17T09:28:58Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1864",
+      "detail": "branch=docs/retract-stage2-stall-timezone-artifact changes=10"
+    },
     {
       "id": "repo_access_20261117T091740Z_agentic-ai-context",
       "timestamp_utc": "2026-11-17T09:17:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=620 method=squash"
-    },
-    {
-      "id": "repo_access_20261108T063027Z_tokenomics",
-      "timestamp_utc": "2026-11-08T06:30:27Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/620",
-      "detail": "branch=fix/tree-digest-surface-unverifiable-rows changes=4"
     }
   ]
 }
