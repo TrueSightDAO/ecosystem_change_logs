@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261117T084318Z_go-to-market",
+  "timestamp_utc": "2026-11-17T08:43:18Z",
+  "agent": "sophia",
+  "repo": "go_to_market",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/209",
+  "detail": "branch=fix/publish-durable-row-20261117-reel changes=1"
+}
