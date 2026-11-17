@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-14T10:17:02Z",
+  "updated_utc": "2026-11-17T02:09:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261117T020939Z_lineage-assets",
+      "timestamp_utc": "2026-11-17T02:09:39Z",
+      "agent": "sophia",
+      "repo": "lineage-assets",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=39 method=squash"
+    },
     {
       "id": "repo_access_20261114T101700Z_agroverse-inventory",
       "timestamp_utc": "2026-11-14T10:17:00Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1144",
       "detail": "branch=feat/sgx-price-support changes=5"
-    },
-    {
-      "id": "repo_access_20261107T130140Z_sentiment-importer",
-      "timestamp_utc": "2026-11-07T13:01:40Z",
-      "agent": "sophia",
-      "repo": "sentiment_importer",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1143 method=squash"
     }
   ]
 }
