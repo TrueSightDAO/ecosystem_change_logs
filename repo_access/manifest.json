@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-17T04:34:56Z",
+  "updated_utc": "2026-11-17T04:58:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261117T045759Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-17T04:57:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1861",
+      "detail": "branch=fix/bfp-caption-safe-area-sop changes=5"
+    },
     {
       "id": "repo_access_20261117T043454Z_agentic-ai-context",
       "timestamp_utc": "2026-11-17T04:34:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/618",
       "detail": "branch=fix/email-identity-mgmt-missing-credentials changes=2"
-    },
-    {
-      "id": "repo_access_20261108T031442Z_tokenomics",
-      "timestamp_utc": "2026-11-08T03:14:42Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=617 method=squash"
     }
   ]
 }
