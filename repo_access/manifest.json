@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-17T03:53:57Z",
+  "updated_utc": "2026-11-17T03:54:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261117T035422Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-17T03:54:22Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1859",
+      "detail": "branch=docs/burned-in-text-sop-followup changes=1"
+    },
     {
       "id": "repo_access_20261117T035355Z_agentic-ai-context",
       "timestamp_utc": "2026-11-17T03:53:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/616",
       "detail": "branch=feat/daily-tree-planting-digest changes=2"
-    },
-    {
-      "id": "repo_access_20261108T005423Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-08T00:54:23Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1801",
-      "detail": "branch=docs/p27-answer-stale-cart-fixtures changes=1"
     }
   ]
 }
