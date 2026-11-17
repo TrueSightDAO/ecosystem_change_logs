@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-17T03:44:02Z",
+  "updated_utc": "2026-11-17T03:44:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261117T034411Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-17T03:44:11Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1857 method=squash"
+    },
     {
       "id": "repo_access_20261117T034400Z_agentic-ai-context",
       "timestamp_utc": "2026-11-17T03:44:00Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1800 method=squash"
-    },
-    {
-      "id": "repo_access_20261107T175642Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-07T17:56:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1800",
-      "detail": "branch=followup/shipment-gallery-slug-gap changes=1"
     }
   ]
 }
