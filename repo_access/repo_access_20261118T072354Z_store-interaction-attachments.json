@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261118T072354Z_store-interaction-attachments",
+  "timestamp_utc": "2026-11-18T07:23:54Z",
+  "agent": "sophia",
+  "repo": "store_interaction_attachments",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/expenses/20261118_matheus_reis_simples_nacional_das_674_37_brl.pdf",
+  "detail": "path=expenses/20261118_matheus_reis_simples_nacional_das_674_37_brl.pdf branch=main"
+}
