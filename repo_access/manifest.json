@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-18T07:23:51Z",
+  "updated_utc": "2026-11-18T07:23:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261118T072354Z_store-interaction-attachments",
+      "timestamp_utc": "2026-11-18T07:23:54Z",
+      "agent": "sophia",
+      "repo": "store_interaction_attachments",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/expenses/20261118_matheus_reis_simples_nacional_das_674_37_brl.pdf",
+      "detail": "path=expenses/20261118_matheus_reis_simples_nacional_das_674_37_brl.pdf branch=main"
+    },
     {
       "id": "repo_access_20261118T072349Z_store-interaction-attachments",
       "timestamp_utc": "2026-11-18T07:23:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=617 method=squash"
-    },
-    {
-      "id": "repo_access_20261108T113409Z_tokenomics",
-      "timestamp_utc": "2026-11-08T11:34:09Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/feat/tree-digest-clean/google_app_scripts/1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF/tree_planting_digest.js",
-      "detail": "path=google_app_scripts/1Jp8qNIBCZaRTlmOmbJoJmYnSFyXtQkUHP2Qv5uqKZpt0Ugo-e25nhASF/tree_planting_digest.js branch=feat/tree-digest-clean"
     }
   ]
 }
