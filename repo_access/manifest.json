@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-18T09:49:34Z",
+  "updated_utc": "2026-11-18T09:54:13Z",
   "entries": [
+    {
+      "id": "repo_access_20261118T095412Z_github",
+      "timestamp_utc": "2026-11-18T09:54:12Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/audits/truesight_sdg_alignment_audit.pdf",
+      "detail": "path=assets/audits/truesight_sdg_alignment_audit.pdf branch=main"
+    },
     {
       "id": "repo_access_20261118T094932Z_agentic-ai-context",
       "timestamp_utc": "2026-11-18T09:49:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1145",
       "detail": "branch=fix/sgx-digit-leading-tickers-compare changes=1"
-    },
-    {
-      "id": "repo_access_20261108T183319Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-08T18:33:19Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1804 method=squash"
     }
   ]
 }
