@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-19T09:16:29Z",
+  "updated_utc": "2026-11-19T09:16:33Z",
   "entries": [
+    {
+      "id": "repo_access_20261119T091632Z_agroverse-inventory",
+      "timestamp_utc": "2026-11-19T09:16:32Z",
+      "agent": "sophia",
+      "repo": "agroverse-inventory",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/tax-amendments/awb-047-3175-3223/coopercabruca-butter-kg.json",
+      "detail": "path=currency-compositions/tax-amendments/awb-047-3175-3223/coopercabruca-butter-kg.json branch=main"
+    },
     {
       "id": "repo_access_20261119T091627Z_agroverse-inventory",
       "timestamp_utc": "2026-11-19T09:16:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=6 method=squash"
-    },
-    {
-      "id": "repo_access_20261109T063747Z_sophia-client-beta",
-      "timestamp_utc": "2026-11-09T06:37:47Z",
-      "agent": "sophia",
-      "repo": "sophia_client_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sophia_client_beta/pull/6",
-      "detail": "branch=feat/attachment-previews changes=7"
     }
   ]
 }
