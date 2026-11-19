@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-19T09:16:23Z",
+  "updated_utc": "2026-11-19T09:16:29Z",
   "entries": [
+    {
+      "id": "repo_access_20261119T091627Z_agroverse-inventory",
+      "timestamp_utc": "2026-11-19T09:16:27Z",
+      "agent": "sophia",
+      "repo": "agroverse-inventory",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/tax-amendments/awb-047-3175-3223/ceremonial-pouch-200g-agl8.json",
+      "detail": "path=currency-compositions/tax-amendments/awb-047-3175-3223/ceremonial-pouch-200g-agl8.json branch=main"
+    },
     {
       "id": "repo_access_20261119T091621Z_agroverse-inventory",
       "timestamp_utc": "2026-11-19T09:16:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sophia_client_beta/pull/6",
       "detail": "branch=feat/attachment-previews changes=7"
-    },
-    {
-      "id": "repo_access_20261109T054647Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-09T05:46:47Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1807 method=squash"
     }
   ]
 }
