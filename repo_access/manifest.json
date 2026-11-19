@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-19T07:51:46Z",
+  "updated_utc": "2026-11-19T07:51:58Z",
   "entries": [
+    {
+      "id": "repo_access_20261119T075156Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-19T07:51:56Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1870 method=squash"
+    },
     {
       "id": "repo_access_20261119T075145Z_agentic-ai-context",
       "timestamp_utc": "2026-11-19T07:51:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sophia_client_beta/pull/5",
       "detail": "branch=feat/autolink-bare-urls changes=2"
-    },
-    {
-      "id": "repo_access_20261109T041331Z_sentiment-importer",
-      "timestamp_utc": "2026-11-09T04:13:31Z",
-      "agent": "sophia",
-      "repo": "sentiment_importer",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1146 method=squash"
     }
   ]
 }
