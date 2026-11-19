@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-19T09:16:18Z",
+  "updated_utc": "2026-11-19T09:16:23Z",
   "entries": [
+    {
+      "id": "repo_access_20261119T091621Z_agroverse-inventory",
+      "timestamp_utc": "2026-11-19T09:16:21Z",
+      "agent": "sophia",
+      "repo": "agroverse-inventory",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/tax-amendments/awb-047-3175-3223/cacao-tea-santos-agl13.json",
+      "detail": "path=currency-compositions/tax-amendments/awb-047-3175-3223/cacao-tea-santos-agl13.json branch=main"
+    },
     {
       "id": "repo_access_20261119T091617Z_agroverse-inventory",
       "timestamp_utc": "2026-11-19T09:16:17Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1807 method=squash"
-    },
-    {
-      "id": "repo_access_20261109T054637Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-09T05:46:37Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1807",
-      "detail": "branch=docs/tree-digest-deploy-topology changes=1"
     }
   ]
 }
