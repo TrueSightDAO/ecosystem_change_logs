@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-19T07:51:58Z",
+  "updated_utc": "2026-11-19T08:18:42Z",
   "entries": [
+    {
+      "id": "repo_access_20261119T081840Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-19T08:18:40Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/contributions/evidence/2026-11-19_nathan_sku_evidence_CORRECTED.pdf",
+      "detail": "path=contributions/evidence/2026-11-19_nathan_sku_evidence_CORRECTED.pdf branch=main"
+    },
     {
       "id": "repo_access_20261119T075156Z_agentic-ai-context",
       "timestamp_utc": "2026-11-19T07:51:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=5 method=squash"
-    },
-    {
-      "id": "repo_access_20261109T042011Z_sophia-client-beta",
-      "timestamp_utc": "2026-11-09T04:20:11Z",
-      "agent": "sophia",
-      "repo": "sophia_client_beta",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sophia_client_beta/pull/5",
-      "detail": "branch=feat/autolink-bare-urls changes=2"
     }
   ]
 }
