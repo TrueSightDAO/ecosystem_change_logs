@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-19T08:18:42Z",
+  "updated_utc": "2026-11-19T09:15:58Z",
   "entries": [
+    {
+      "id": "repo_access_20261119T091556Z_agroverse-inventory",
+      "timestamp_utc": "2026-11-19T09:15:56Z",
+      "agent": "sophia",
+      "repo": "agroverse-inventory",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/tax-amendments/awb-047-3175-3223/8-ounce-pouch-ilheus.json",
+      "detail": "path=currency-compositions/tax-amendments/awb-047-3175-3223/8-ounce-pouch-ilheus.json branch=main"
+    },
     {
       "id": "repo_access_20261119T081840Z_agentic-ai-context",
       "timestamp_utc": "2026-11-19T08:18:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1805",
       "detail": "branch=docs/tree-digest-deploy-status changes=3"
-    },
-    {
-      "id": "repo_access_20261109T042027Z_sophia-client-beta",
-      "timestamp_utc": "2026-11-09T04:20:27Z",
-      "agent": "sophia",
-      "repo": "sophia_client_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=5 method=squash"
     }
   ]
 }
