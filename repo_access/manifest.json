@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-18T17:14:55Z",
+  "updated_utc": "2026-11-19T07:51:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261119T075145Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-19T07:51:45Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1870",
+      "detail": "branch=docs/ui-ux-review-sop changes=1"
+    },
     {
       "id": "repo_access_20261118T171453Z_agentic-ai-context",
       "timestamp_utc": "2026-11-18T17:14:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1146 method=squash"
-    },
-    {
-      "id": "repo_access_20261109T041317Z_sentiment-importer",
-      "timestamp_utc": "2026-11-09T04:13:17Z",
-      "agent": "sophia",
-      "repo": "sentiment_importer",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sentiment_importer/pull/1146",
-      "detail": "branch=fix/sgx-do-not-invalidate-latest-closes changes=2"
     }
   ]
 }
