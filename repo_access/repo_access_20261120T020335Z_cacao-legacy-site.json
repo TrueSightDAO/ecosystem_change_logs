@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261120T020335Z_cacao-legacy-site",
+  "timestamp_utc": "2026-11-20T02:03:35Z",
+  "agent": "sophia",
+  "repo": "cacao-legacy-site",
+  "action": "create_repo",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/cacao-legacy-site",
+  "detail": "org=TrueSightDAO private=True"
+}
