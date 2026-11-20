@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261120T020328Z_epix-apollo-site",
+  "timestamp_utc": "2026-11-20T02:03:28Z",
+  "agent": "sophia",
+  "repo": "epix-apollo-site",
+  "action": "create_repo",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/epix-apollo-site",
+  "detail": "org=TrueSightDAO private=True"
+}
