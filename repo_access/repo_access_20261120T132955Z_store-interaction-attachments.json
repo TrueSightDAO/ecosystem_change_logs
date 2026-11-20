@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261120T132955Z_store-interaction-attachments",
+  "timestamp_utc": "2026-11-20T13:29:55Z",
+  "agent": "sophia",
+  "repo": "store_interaction_attachments",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/asset_receipts/2026-11-20_liz_elizabeth_wong_rmb1000_china_travel.png",
+  "detail": "path=asset_receipts/2026-11-20_liz_elizabeth_wong_rmb1000_china_travel.png branch=main"
+}
