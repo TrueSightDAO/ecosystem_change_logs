@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-19T09:16:33Z",
+  "updated_utc": "2026-11-20T00:13:51Z",
   "entries": [
+    {
+      "id": "repo_access_20261120T001349Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-20T00:13:49Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/contributions/evidence/2026-11-20_china_distribution_evidence.pdf",
+      "detail": "path=contributions/evidence/2026-11-20_china_distribution_evidence.pdf branch=main"
+    },
     {
       "id": "repo_access_20261119T091632Z_agroverse-inventory",
       "timestamp_utc": "2026-11-19T09:16:32Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1808",
       "detail": "branch=docs/staged-rollout-sop changes=1"
-    },
-    {
-      "id": "repo_access_20261109T063853Z_sophia-client-beta",
-      "timestamp_utc": "2026-11-09T06:38:53Z",
-      "agent": "sophia",
-      "repo": "sophia_client_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=6 method=squash"
     }
   ]
 }
