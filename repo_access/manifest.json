@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-20T00:13:51Z",
+  "updated_utc": "2026-11-20T02:03:22Z",
   "entries": [
+    {
+      "id": "repo_access_20261120T020321Z_go-iamnotai-site",
+      "timestamp_utc": "2026-11-20T02:03:21Z",
+      "agent": "sophia",
+      "repo": "go-iamnotai-site",
+      "action": "create_repo",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/go-iamnotai-site",
+      "detail": "org=TrueSightDAO private=True"
+    },
     {
       "id": "repo_access_20261120T001349Z_agentic-ai-context",
       "timestamp_utc": "2026-11-20T00:13:49Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1809",
       "detail": "branch=docs/staged-rollout-sop-followup changes=1"
-    },
-    {
-      "id": "repo_access_20261109T064512Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-09T06:45:12Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1808",
-      "detail": "branch=docs/staged-rollout-sop changes=1"
     }
   ]
 }
