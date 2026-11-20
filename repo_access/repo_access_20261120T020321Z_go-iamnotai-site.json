@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261120T020321Z_go-iamnotai-site",
+  "timestamp_utc": "2026-11-20T02:03:21Z",
+  "agent": "sophia",
+  "repo": "go-iamnotai-site",
+  "action": "create_repo",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/go-iamnotai-site",
+  "detail": "org=TrueSightDAO private=True"
+}
