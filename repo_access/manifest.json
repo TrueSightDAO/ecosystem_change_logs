@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-20T02:03:30Z",
+  "updated_utc": "2026-11-20T02:03:36Z",
   "entries": [
+    {
+      "id": "repo_access_20261120T020335Z_cacao-legacy-site",
+      "timestamp_utc": "2026-11-20T02:03:35Z",
+      "agent": "sophia",
+      "repo": "cacao-legacy-site",
+      "action": "create_repo",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/cacao-legacy-site",
+      "detail": "org=TrueSightDAO private=True"
+    },
     {
       "id": "repo_access_20261120T020328Z_epix-apollo-site",
       "timestamp_utc": "2026-11-20T02:03:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1810",
       "detail": "branch=docs/pdf-sop-decision-aid-revision changes=5"
-    },
-    {
-      "id": "repo_access_20261109T064549Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-09T06:45:49Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1809 method=squash"
     }
   ]
 }
