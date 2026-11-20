@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-20T02:03:22Z",
+  "updated_utc": "2026-11-20T02:03:30Z",
   "entries": [
+    {
+      "id": "repo_access_20261120T020328Z_epix-apollo-site",
+      "timestamp_utc": "2026-11-20T02:03:28Z",
+      "agent": "sophia",
+      "repo": "epix-apollo-site",
+      "action": "create_repo",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/epix-apollo-site",
+      "detail": "org=TrueSightDAO private=True"
+    },
     {
       "id": "repo_access_20261120T020321Z_go-iamnotai-site",
       "timestamp_utc": "2026-11-20T02:03:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1809 method=squash"
-    },
-    {
-      "id": "repo_access_20261109T064536Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-09T06:45:36Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1809",
-      "detail": "branch=docs/staged-rollout-sop-followup changes=1"
     }
   ]
 }
