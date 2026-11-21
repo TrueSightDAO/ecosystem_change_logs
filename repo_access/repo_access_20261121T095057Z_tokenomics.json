@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261121T095057Z_tokenomics",
+  "timestamp_utc": "2026-11-21T09:50:57Z",
+  "agent": "sophia",
+  "repo": "tokenomics",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/628",
+  "detail": "branch=chore/deprecated-tdg-wallet-balance-trigger-still-live changes=2"
+}
