@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-20T13:29:56Z",
+  "updated_utc": "2026-11-21T09:50:59Z",
   "entries": [
+    {
+      "id": "repo_access_20261121T095057Z_tokenomics",
+      "timestamp_utc": "2026-11-21T09:50:57Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/628",
+      "detail": "branch=chore/deprecated-tdg-wallet-balance-trigger-still-live changes=2"
+    },
     {
       "id": "repo_access_20261120T132955Z_store-interaction-attachments",
       "timestamp_utc": "2026-11-20T13:29:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1808 method=squash"
-    },
-    {
-      "id": "repo_access_20261109T065303Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-09T06:53:03Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1810 method=squash"
     }
   ]
 }
