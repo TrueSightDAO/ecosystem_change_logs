@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-23T04:12:18Z",
+  "updated_utc": "2026-11-23T04:12:25Z",
   "entries": [
+    {
+      "id": "repo_access_20261123T041223Z_store-interaction-attachments",
+      "timestamp_utc": "2026-11-23T04:12:23Z",
+      "agent": "sophia",
+      "repo": "store_interaction_attachments",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/asset_receipts/anthropic/anthropic_receipt_2893-9096-8721_2026-11-22_20.00.pdf",
+      "detail": "path=asset_receipts/anthropic/anthropic_receipt_2893-9096-8721_2026-11-22_20.00.pdf branch=main"
+    },
     {
       "id": "repo_access_20261123T041216Z_agentic-ai-context",
       "timestamp_utc": "2026-11-23T04:12:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261109_lvss_tdg_2500_submission_proof.pdf",
       "detail": "path=receipts/2026/20261109_lvss_tdg_2500_submission_proof.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261109T092204Z_truesight-autopilot-transcript",
-      "timestamp_utc": "2026-11-09T09:22:04Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot_transcript",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot_transcript/blob/main/sessions/2026-11-09/23455bd71940/attachments/03_hippie_list_page2_6e9323f9.jpg",
-      "detail": "path=sessions/2026-11-09/23455bd71940/attachments/03_hippie_list_page2_6e9323f9.jpg branch=main"
     }
   ]
 }
