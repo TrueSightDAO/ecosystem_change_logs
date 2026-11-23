@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-21T09:51:11Z",
+  "updated_utc": "2026-11-23T04:12:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261123T041159Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-23T04:11:59Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1873",
+      "detail": "branch=sop/copy-bound-to-cut-and-gemini-qc-gate changes=3"
+    },
     {
       "id": "repo_access_20261121T095109Z_tokenomics",
       "timestamp_utc": "2026-11-21T09:51:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot_transcript/blob/main/sessions/2026-11-09/23455bd71940/attachments/02_hippie_list_page1_89377dc0.jpg",
       "detail": "path=sessions/2026-11-09/23455bd71940/attachments/02_hippie_list_page1_89377dc0.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261109T092154Z_truesight-autopilot-transcript",
-      "timestamp_utc": "2026-11-09T09:21:54Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot_transcript",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot_transcript/blob/main/sessions/2026-11-09/23455bd71940/attachments/01_instagram_content_whiteboard_5c54f7a1.jpg",
-      "detail": "path=sessions/2026-11-09/23455bd71940/attachments/01_instagram_content_whiteboard_5c54f7a1.jpg branch=main"
     }
   ]
 }
