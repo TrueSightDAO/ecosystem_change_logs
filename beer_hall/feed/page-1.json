@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-11-09T05:07:54Z",
+  "generated_at": "2026-11-23T06:18:30Z",
   "page": 1,
   "page_size": 10,
-  "total": 134,
+  "total": 135,
   "page_count": 14,
   "entries": [
+    {
+      "id": "beer-hall-2026-11-23T061830Z",
+      "posted_at_utc": "2026-11-23T06:18:30Z",
+      "slug": "awb-provenance-tdg-scorer-fix-china-entry",
+      "preview": "Automated daily digest of the DAO - **AWB 047-3175-3223 tax-amendment provenance wired for 8 product lines** — Cacao Mass Bar 500g, Ceremonial Pouch 200g AGL8, Cacao Nibs (Santos AGL13 + KG Ilheus), Cacao Tea Santos AGL…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-11-23T061830Z_awb-provenance-tdg-scorer-fix-china-entry.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-11-23T061830Z_awb-provenance-tdg-scorer-fix-china-entry.json"
+    },
     {
       "id": "beer-hall-2026-11-09T050754Z",
       "posted_at_utc": "2026-11-09T05:07:54Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **Wire Transfer to 5 Continent Logistics** — Invoice #1026-08 paid for Brazil→SF cacao consignment; disputed lines clarified with Graziela (export-customs scope, FDA AMS $100 filing, …",
       "markdown_path": "beer_hall/entries/beer-hall_2026-10-13T055606Z_black-king-landed-cost-wire-sent.md",
       "json_path": "beer_hall/entries/beer-hall_2026-10-13T055606Z_black-king-landed-cost-wire-sent.json"
-    },
-    {
-      "id": "beer-hall-2026-10-11T043733Z",
-      "posted_at_utc": "2026-10-11T04:37:33Z",
-      "slug": "usda-released-gateway-fix-warehouse-codified",
-      "preview": "Automated daily digest of the DAO - **USDA Released Shipment** — No inspection required, no surcharge; Graziela now answering invoice questions. - **AWB Weight Clarified** — AWB document confirms 349,000 kg, refuting Gr…",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-10-11T043733Z_usda-released-gateway-fix-warehouse-codified.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-10-11T043733Z_usda-released-gateway-fix-warehouse-codified.json"
     }
   ]
 }
