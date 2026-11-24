@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261124T234219Z_sprint-site",
+  "timestamp_utc": "2026-11-24T23:42:19Z",
+  "agent": "sophia",
+  "repo": "sprint-site",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/sprint-site/blob/gh-pages/index.html",
+  "detail": "path=index.html branch=gh-pages"
+}
