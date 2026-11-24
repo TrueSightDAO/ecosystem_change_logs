@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T23:44:01Z",
+  "updated_utc": "2026-11-24T23:44:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T234420Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-24T23:44:20Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1893",
+      "detail": "branch=feat/software-api-cost-registry-deepseek changes=1"
+    },
     {
       "id": "repo_access_20261124T234359Z_truesight-autopilot",
       "timestamp_utc": "2026-11-24T23:43:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1823 method=squash"
-    },
-    {
-      "id": "repo_access_20261111T082441Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-11T08:24:41Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1823",
-      "detail": "branch=docs/brand-film-sops-music-and-production changes=2"
     }
   ]
 }
