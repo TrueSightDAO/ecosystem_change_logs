@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T23:34:22Z",
+  "updated_utc": "2026-11-24T23:38:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T233800Z_sprint-site",
+      "timestamp_utc": "2026-11-24T23:38:00Z",
+      "agent": "sophia",
+      "repo": "sprint-site",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sprint-site/pull/12",
+      "detail": "branch=retire/redirect-to-jira-kan changes=2"
+    },
     {
       "id": "repo_access_20261124T233421Z_agentic-ai-context",
       "timestamp_utc": "2026-11-24T23:34:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1822",
       "detail": "branch=docs/cms-asset-capacity-and-defects changes=2"
-    },
-    {
-      "id": "repo_access_20261111T075203Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-11T07:52:03Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1821 method=squash"
     }
   ]
 }
