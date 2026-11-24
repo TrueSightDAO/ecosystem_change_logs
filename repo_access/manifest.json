@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T06:47:00Z",
+  "updated_utc": "2026-11-24T09:39:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T093909Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-11-24T09:39:09Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agroverse_shop_beta/pull/370",
+      "detail": "branch=feat/mission-25000-hectares changes=3"
+    },
     {
       "id": "repo_access_20261124T064658Z_agentic-ai-context",
       "timestamp_utc": "2026-11-24T06:46:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/go_to_market/blob/main/assets/images/newsletter/la-do-sitio-farm.jpg",
       "detail": "path=assets/images/newsletter/la-do-sitio-farm.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261110T064932Z_go-to-market",
-      "timestamp_utc": "2026-11-10T06:49:32Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/blob/main/assets/images/newsletter/black-king-packing-header.jpg",
-      "detail": "path=assets/images/newsletter/black-king-packing-header.jpg branch=main"
     }
   ]
 }
