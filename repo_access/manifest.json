@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T21:39:21Z",
+  "updated_utc": "2026-11-24T21:49:36Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T214934Z_store-interaction-attachments",
+      "timestamp_utc": "2026-11-24T21:49:34Z",
+      "agent": "sophia",
+      "repo": "store_interaction_attachments",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/contributions/2026-11-21_amcham_winter_ball_guangzhou.jpg",
+      "detail": "path=contributions/2026-11-21_amcham_winter_ball_guangzhou.jpg branch=main"
+    },
     {
       "id": "repo_access_20261124T213919Z_agentic-ai-context",
       "timestamp_utc": "2026-11-24T21:39:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1818 method=squash"
-    },
-    {
-      "id": "repo_access_20261110T073829Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-10T07:38:29Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1818",
-      "detail": "branch=docs/generated-media-sop-r2 changes=3"
     }
   ]
 }
