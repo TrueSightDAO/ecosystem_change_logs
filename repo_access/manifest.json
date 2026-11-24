@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T21:49:36Z",
+  "updated_utc": "2026-11-24T21:49:44Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T214942Z_store-interaction-attachments",
+      "timestamp_utc": "2026-11-24T21:49:42Z",
+      "agent": "sophia",
+      "repo": "store_interaction_attachments",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/contributions/2026-11-22_rusmin_followup_guangzhou.jpg",
+      "detail": "path=contributions/2026-11-22_rusmin_followup_guangzhou.jpg branch=main"
+    },
     {
       "id": "repo_access_20261124T214934Z_store-interaction-attachments",
       "timestamp_utc": "2026-11-24T21:49:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/204",
       "detail": "branch=pilot/bar-81-motion-20261119 changes=3"
-    },
-    {
-      "id": "repo_access_20261110T073842Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-10T07:38:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1818 method=squash"
     }
   ]
 }
