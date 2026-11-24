@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T23:44:21Z",
+  "updated_utc": "2026-11-24T23:44:32Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T234430Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-24T23:44:30Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1893 method=squash"
+    },
     {
       "id": "repo_access_20261124T234420Z_agentic-ai-context",
       "timestamp_utc": "2026-11-24T23:44:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1824",
       "detail": "branch=docs/sop-mandatory-brand-endcard changes=3"
-    },
-    {
-      "id": "repo_access_20261111T082454Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-11T08:24:54Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1823 method=squash"
     }
   ]
 }
