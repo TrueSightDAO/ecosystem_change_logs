@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T06:46:50Z",
+  "updated_utc": "2026-11-24T06:47:00Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T064658Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-24T06:46:58Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1878 method=squash"
+    },
     {
       "id": "repo_access_20261124T064648Z_agentic-ai-context",
       "timestamp_utc": "2026-11-24T06:46:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/go_to_market/blob/main/assets/images/newsletter/black-king-packing-header.jpg",
       "detail": "path=assets/images/newsletter/black-king-packing-header.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261110T063907Z_go-to-market",
-      "timestamp_utc": "2026-11-10T06:39:07Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=202 method=squash"
     }
   ]
 }
