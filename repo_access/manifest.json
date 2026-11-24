@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T23:44:32Z",
+  "updated_utc": "2026-11-24T23:50:25Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T235024Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-24T23:50:24Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1894",
+      "detail": "branch=fix/rusmin-directive-drop-governor-term changes=8"
+    },
     {
       "id": "repo_access_20261124T234430Z_agentic-ai-context",
       "timestamp_utc": "2026-11-24T23:44:30Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1824 method=squash"
-    },
-    {
-      "id": "repo_access_20261111T085801Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-11T08:58:01Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1824",
-      "detail": "branch=docs/sop-mandatory-brand-endcard changes=3"
     }
   ]
 }
