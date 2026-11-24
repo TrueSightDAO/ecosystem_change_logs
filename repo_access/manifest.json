@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T23:42:16Z",
+  "updated_utc": "2026-11-24T23:42:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T234219Z_sprint-site",
+      "timestamp_utc": "2026-11-24T23:42:19Z",
+      "agent": "sophia",
+      "repo": "sprint-site",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/sprint-site/blob/gh-pages/index.html",
+      "detail": "path=index.html branch=gh-pages"
+    },
     {
       "id": "repo_access_20261124T234214Z_sprint-site",
       "timestamp_utc": "2026-11-24T23:42:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1822 method=squash"
-    },
-    {
-      "id": "repo_access_20261111T080523Z_agent-handoffs",
-      "timestamp_utc": "2026-11-11T08:05:23Z",
-      "agent": "sophia",
-      "repo": "agent_handoffs",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261111T080522Z.json",
-      "detail": "path=handoffs/envoy_from_sophia_20261111T080522Z.json branch=main"
     }
   ]
 }
