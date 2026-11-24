@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T23:14:54Z",
+  "updated_utc": "2026-11-24T23:15:03Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T231501Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-24T23:15:01Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1887",
+      "detail": "branch=feat/rusmin-site-inspection-directives changes=1"
+    },
     {
       "id": "repo_access_20261124T231452Z_truesight-autopilot",
       "timestamp_utc": "2026-11-24T23:14:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1819 method=squash"
-    },
-    {
-      "id": "repo_access_20261110T093946Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-10T09:39:46Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1819",
-      "detail": "branch=report/agl16-signed-invoice-2026-11-10 changes=1"
     }
   ]
 }
