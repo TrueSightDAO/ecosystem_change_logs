@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T23:38:02Z",
+  "updated_utc": "2026-11-24T23:42:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T234214Z_sprint-site",
+      "timestamp_utc": "2026-11-24T23:42:14Z",
+      "agent": "sophia",
+      "repo": "sprint-site",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=12 method=squash"
+    },
     {
       "id": "repo_access_20261124T233800Z_sprint-site",
       "timestamp_utc": "2026-11-24T23:38:00Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/envoy_from_sophia_20261111T080522Z.json",
       "detail": "path=handoffs/envoy_from_sophia_20261111T080522Z.json branch=main"
-    },
-    {
-      "id": "repo_access_20261111T080518Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-11T08:05:18Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1822",
-      "detail": "branch=docs/cms-asset-capacity-and-defects changes=2"
     }
   ]
 }
