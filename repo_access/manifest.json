@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T23:43:36Z",
+  "updated_utc": "2026-11-24T23:44:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T234359Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-24T23:43:59Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=630 method=squash"
+    },
     {
       "id": "repo_access_20261124T234334Z_store-interaction-attachments",
       "timestamp_utc": "2026-11-24T23:43:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1823",
       "detail": "branch=docs/brand-film-sops-music-and-production changes=2"
-    },
-    {
-      "id": "repo_access_20261111T082425Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-11T08:24:25Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/backups/content_schedule_backup_20261111.json",
-      "detail": "path=backups/content_schedule_backup_20261111.json branch=main"
     }
   ]
 }
