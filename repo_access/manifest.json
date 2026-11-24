@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T09:39:11Z",
+  "updated_utc": "2026-11-24T09:39:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261124T093922Z_agroverse-shop-beta",
+      "timestamp_utc": "2026-11-24T09:39:22Z",
+      "agent": "sophia",
+      "repo": "agroverse_shop_beta",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=370 method=squash"
+    },
     {
       "id": "repo_access_20261124T093909Z_agroverse-shop-beta",
       "timestamp_utc": "2026-11-24T09:39:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/go_to_market/blob/main/assets/images/newsletter/black-king-warehouse-header.jpg",
       "detail": "path=assets/images/newsletter/black-king-warehouse-header.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261110T064937Z_go-to-market",
-      "timestamp_utc": "2026-11-10T06:49:37Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/blob/main/assets/images/newsletter/la-do-sitio-farm.jpg",
-      "detail": "path=assets/images/newsletter/la-do-sitio-farm.jpg branch=main"
     }
   ]
 }
