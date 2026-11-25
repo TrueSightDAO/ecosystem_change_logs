@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T13:52:21Z",
+  "updated_utc": "2026-11-25T13:55:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T135514Z_farm-media-daemon",
+      "timestamp_utc": "2026-11-25T13:55:14Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/41",
+      "detail": "branch=fix/manifest-transcription-mapping changes=3"
+    },
     {
       "id": "repo_access_20261125T135219Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T13:52:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1840",
       "detail": "branch=research/china-errata-v2 changes=1"
-    },
-    {
-      "id": "repo_access_20261113T084745Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-13T08:47:45Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1839 method=squash"
     }
   ]
 }
