@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:31:49Z",
+  "updated_utc": "2026-11-25T00:36:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T003624Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T00:36:24Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1902",
+      "detail": "branch=followup/liz-governor-role-confirmed changes=1"
+    },
     {
       "id": "repo_access_20261125T003147Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T00:31:47Z",
@@ -2183,17 +2194,6 @@
     {
       "id": "repo_access_20261112T102131Z_github",
       "timestamp_utc": "2026-11-12T10:21:31Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/contribution_reports/dtc_tiktok_influencer_seeding_strategy_report.pdf",
-      "detail": "path=assets/contribution_reports/dtc_tiktok_influencer_seeding_strategy_report.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261112T101939Z_github",
-      "timestamp_utc": "2026-11-12T10:19:39Z",
       "agent": "sophia",
       "repo": ".github",
       "action": "upload_file_to_github",
