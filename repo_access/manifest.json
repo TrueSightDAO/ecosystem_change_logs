@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T07:11:54Z",
+  "updated_utc": "2026-11-25T07:12:15Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T071213Z_tokenomics",
+      "timestamp_utc": "2026-11-25T07:12:13Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=631 method=squash"
+    },
     {
       "id": "repo_access_20261125T071153Z_tokenomics",
       "timestamp_utc": "2026-11-25T07:11:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261112_wise_usd378.05_to_brl2085.png",
       "detail": "path=receipts/2026/20261112_wise_usd378.05_to_brl2085.png branch=main"
-    },
-    {
-      "id": "repo_access_20261112T122638Z_tokenomics",
-      "timestamp_utc": "2026-11-12T12:26:38Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261112_pix_1000BRL_jussileide_accountant_sep_oct_2026.jpg",
-      "detail": "path=receipts/2026/20261112_pix_1000BRL_jussileide_accountant_sep_oct_2026.jpg branch=main"
     }
   ]
 }
