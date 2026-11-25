@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T14:55:54Z",
+  "updated_utc": "2026-11-25T15:23:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T152323Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T15:23:23Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1914",
+      "detail": "branch=docs/intraturn-unit4-soak-evidence changes=2"
+    },
     {
       "id": "repo_access_20261125T145552Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T14:55:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sophia_client_beta/pull/7",
       "detail": "branch=feat/per-channel-attachments changes=10"
-    },
-    {
-      "id": "repo_access_20261113T235336Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-13T23:53:36Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=369 method=squash"
     }
   ]
 }
