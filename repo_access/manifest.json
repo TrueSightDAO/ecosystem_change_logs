@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T13:13:27Z",
+  "updated_utc": "2026-11-25T13:21:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T132146Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T13:21:46Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1909",
+      "detail": "branch=docs/black-king-restore-resume-marker changes=2"
+    },
     {
       "id": "repo_access_20261125T131325Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T13:13:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1835 method=squash"
-    },
-    {
-      "id": "repo_access_20261113T052335Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-13T05:23:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1836",
-      "detail": "branch=sop/register-pdf-sop-in-index changes=2"
     }
   ]
 }
