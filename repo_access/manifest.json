@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:36:26Z",
+  "updated_utc": "2026-11-25T00:36:37Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T003635Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T00:36:35Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1902 method=squash"
+    },
     {
       "id": "repo_access_20261125T003624Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T00:36:24Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1830",
       "detail": "branch=docs/brazil-monthly-accountant-runbook changes=1"
-    },
-    {
-      "id": "repo_access_20261112T102131Z_github",
-      "timestamp_utc": "2026-11-12T10:21:31Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/contribution_reports/dtc_tiktok_influencer_seeding_strategy_report.pdf",
-      "detail": "path=assets/contribution_reports/dtc_tiktok_influencer_seeding_strategy_report.pdf branch=main"
     }
   ]
 }
