@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T16:28:07Z",
+  "updated_utc": "2026-11-25T16:53:56Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T165354Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-25T16:53:54Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=645 method=squash"
+    },
     {
       "id": "repo_access_20261125T162805Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T16:28:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1851 method=squash"
-    },
-    {
-      "id": "repo_access_20261114T051537Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-14T05:15:37Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1851",
-      "detail": "branch=ledger/equity-asset-imbalance-is-net-profit changes=1"
     }
   ]
 }
