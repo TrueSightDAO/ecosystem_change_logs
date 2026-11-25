@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T17:54:54Z",
+  "updated_utc": "2026-11-25T17:55:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T175522Z_go-to-market",
+      "timestamp_utc": "2026-11-25T17:55:22Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/211",
+      "detail": "branch=content/cacau-na-veia-reel-20261125 changes=1"
+    },
     {
       "id": "repo_access_20261125T175452Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T17:54:52Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1855",
       "detail": "branch=docs/block-per-kg-unit-convention changes=6"
-    },
-    {
-      "id": "repo_access_20261114T085611Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-14T08:56:11Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1854 method=squash"
     }
   ]
 }
