@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:03:57Z",
+  "updated_utc": "2026-11-25T00:04:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T000400Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T00:04:00Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1898",
+      "detail": "branch=fix/jira-sophia-identity-and-backfill-truth changes=3"
+    },
     {
       "id": "repo_access_20261125T000355Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T00:03:55Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1827",
       "detail": "branch=docs/map-generated-videos-and-youtube-indexing changes=2"
-    },
-    {
-      "id": "repo_access_20261111T092958Z_generated-media-raw",
-      "timestamp_utc": "2026-11-11T09:29:58Z",
-      "agent": "sophia",
-      "repo": "generated-media-raw",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1 method=squash"
     }
   ]
 }
