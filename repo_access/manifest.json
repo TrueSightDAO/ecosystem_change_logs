@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T11:20:48Z",
+  "updated_utc": "2026-11-25T12:21:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T122139Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T12:21:39Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1907",
+      "detail": "branch=docs/black-king-audit-corrections changes=2"
+    },
     {
       "id": "repo_access_20261125T112046Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T11:20:46Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1833 method=squash"
-    },
-    {
-      "id": "repo_access_20261112T131339Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-12T13:13:39Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1833",
-      "detail": "branch=runbook/dual-bucket-double-booking changes=1"
     }
   ]
 }
