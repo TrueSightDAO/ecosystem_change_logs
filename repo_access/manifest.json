@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T16:53:56Z",
+  "updated_utc": "2026-11-25T17:25:09Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T172507Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T17:25:07Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1921",
+      "detail": "branch=docs/jira-stale-pr-evidence-loop changes=1"
+    },
     {
       "id": "repo_access_20261125T165354Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T16:53:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1852",
       "detail": "branch=sop/chocolate-block-production changes=1"
-    },
-    {
-      "id": "repo_access_20261114T051712Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-14T05:17:12Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1851 method=squash"
     }
   ]
 }
