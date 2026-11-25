@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T18:16:41Z",
+  "updated_utc": "2026-11-25T18:17:01Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T181659Z_go-to-market",
+      "timestamp_utc": "2026-11-25T18:16:59Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=212 method=squash"
+    },
     {
       "id": "repo_access_20261125T181640Z_go-to-market",
       "timestamp_utc": "2026-11-25T18:16:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1856 method=squash"
-    },
-    {
-      "id": "repo_access_20261114T100232Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-14T10:02:32Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1856",
-      "detail": "branch=docs/block-asserted-pct-corner-case changes=6"
     }
   ]
 }
