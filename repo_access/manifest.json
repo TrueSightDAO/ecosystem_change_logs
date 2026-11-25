@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T12:51:19Z",
+  "updated_utc": "2026-11-25T12:51:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T125132Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T12:51:32Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1908 method=squash"
+    },
     {
       "id": "repo_access_20261125T125117Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T12:51:17Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1834 method=squash"
-    },
-    {
-      "id": "repo_access_20261113T045743Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-13T04:57:43Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/research/china-market-positioning-2026/reports/china_market_positioning_2026/Dongguan_Grocery_Market_JiaRong_and_Field_Guide.pdf",
-      "detail": "path=reports/china_market_positioning_2026/Dongguan_Grocery_Market_JiaRong_and_Field_Guide.pdf branch=research/china-market-positioning-2026"
     }
   ]
 }
