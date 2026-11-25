@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T15:24:52Z",
+  "updated_utc": "2026-11-25T15:26:06Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T152604Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T15:26:04Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1916 method=squash"
+    },
     {
       "id": "repo_access_20261125T152450Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T15:24:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1848 method=squash"
-    },
-    {
-      "id": "repo_access_20261114T033559Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-14T03:35:59Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1848",
-      "detail": "branch=docs/followup-sugar-not-in-recipe changes=1"
     }
   ]
 }
