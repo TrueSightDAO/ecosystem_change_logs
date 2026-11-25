@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261125T172507Z_agentic-ai-context",
+  "timestamp_utc": "2026-11-25T17:25:07Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1921",
+  "detail": "branch=docs/jira-stale-pr-evidence-loop changes=1"
+}
