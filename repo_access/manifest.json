@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T13:37:13Z",
+  "updated_utc": "2026-11-25T13:51:32Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T135130Z_farm-media-manifests",
+      "timestamp_utc": "2026-11-25T13:51:30Z",
+      "agent": "sophia",
+      "repo": "farm_media_manifests",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/crf-anapu-para.json",
+      "detail": "path=crf-anapu-para.json branch=main"
+    },
     {
       "id": "repo_access_20261125T133711Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T13:37:11Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1838",
       "detail": "branch=research/china-sku-positioning-mccann changes=1"
-    },
-    {
-      "id": "repo_access_20261113T083308Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-13T08:33:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1837 method=squash"
     }
   ]
 }
