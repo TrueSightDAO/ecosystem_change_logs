@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T07:04:12Z",
+  "updated_utc": "2026-11-25T07:11:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T071153Z_tokenomics",
+      "timestamp_utc": "2026-11-25T07:11:53Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/631",
+      "detail": "branch=docs/schema-jira-id-accountid-format changes=1"
+    },
     {
       "id": "repo_access_20261125T070410Z_tokenomics",
       "timestamp_utc": "2026-11-25T07:04:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261112_pix_1000BRL_jussileide_accountant_sep_oct_2026.jpg",
       "detail": "path=receipts/2026/20261112_pix_1000BRL_jussileide_accountant_sep_oct_2026.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261112T122627Z_tokenomics",
-      "timestamp_utc": "2026-11-12T12:26:27Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261112_jussileide_accountant_recibo_2026-10_500BRL.docx",
-      "detail": "path=receipts/2026/20261112_jussileide_accountant_recibo_2026-10_500BRL.docx branch=main"
     }
   ]
 }
