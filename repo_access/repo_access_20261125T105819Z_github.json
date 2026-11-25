@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261125T105819Z_github",
+  "timestamp_utc": "2026-11-25T10:58:19Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/attachments/2026-11-25_cacao_drink_mug_evaluation.pdf",
+  "detail": "path=attachments/2026-11-25_cacao_drink_mug_evaluation.pdf branch=main"
+}
