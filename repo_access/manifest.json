@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T07:14:58Z",
+  "updated_utc": "2026-11-25T10:58:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T105819Z_github",
+      "timestamp_utc": "2026-11-25T10:58:19Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/attachments/2026-11-25_cacao_drink_mug_evaluation.pdf",
+      "detail": "path=attachments/2026-11-25_cacao_drink_mug_evaluation.pdf branch=main"
+    },
     {
       "id": "repo_access_20261125T071456Z_tokenomics",
       "timestamp_utc": "2026-11-25T07:14:56Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1832",
       "detail": "branch=followup/contribution-prior-art-check changes=1"
-    },
-    {
-      "id": "repo_access_20261112T122652Z_tokenomics",
-      "timestamp_utc": "2026-11-12T12:26:52Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261112_pix_1085BRL_217trees_jhordan.jpg",
-      "detail": "path=receipts/2026/20261112_pix_1085BRL_217trees_jhordan.jpg branch=main"
     }
   ]
 }
