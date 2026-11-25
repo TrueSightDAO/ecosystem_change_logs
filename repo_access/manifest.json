@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:04:12Z",
+  "updated_utc": "2026-11-25T00:06:17Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T000615Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T00:06:15Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1899",
+      "detail": "branch=fix/rusmin-directive-drop-last-truesight-url changes=1"
+    },
     {
       "id": "repo_access_20261125T000411Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T00:04:11Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1828 method=squash"
-    },
-    {
-      "id": "repo_access_20261111T094628Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-11T09:46:28Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1828",
-      "detail": "branch=fix/writer-hazard-and-snapshot-caveat changes=4"
     }
   ]
 }
