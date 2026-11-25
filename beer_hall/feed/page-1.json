@@ -1,12 +1,20 @@
 {
   "schema_version": 1,
   "channel": "beer_hall",
-  "generated_at": "2026-11-23T06:18:30Z",
+  "generated_at": "2026-11-25T07:29:17Z",
   "page": 1,
   "page_size": 10,
-  "total": 135,
+  "total": 136,
   "page_count": 14,
   "entries": [
+    {
+      "id": "beer-hall-2026-11-25T072917Z",
+      "posted_at_utc": "2026-11-25T07:29:17Z",
+      "slug": "rusmin-directive-aff-speaker-profile-mission-target",
+      "preview": "*Automated daily digest of the DAO* - **Rusmin Indonesia site inspection directive shipped through v5** — Brazil benchmark column filled, lab section anchored to CIC benchmark, all internal-only language and TrueSight i…",
+      "markdown_path": "beer_hall/entries/beer-hall_2026-11-25T072917Z_rusmin-directive-aff-speaker-profile-mission-target.md",
+      "json_path": "beer_hall/entries/beer-hall_2026-11-25T072917Z_rusmin-directive-aff-speaker-profile-mission-target.json"
+    },
     {
       "id": "beer-hall-2026-11-23T061830Z",
       "posted_at_utc": "2026-11-23T06:18:30Z",
@@ -78,14 +86,6 @@
       "preview": "Automated daily digest of the DAO - **CFR Anapu PIX Payout Schedule Shipped** — 86 trees, R$430 total, clickable per-tree links in PDF; all 86/86 links verified resolving. - **Cross-Ledger Freight Settlement SOP (§5.16)…",
       "markdown_path": "beer_hall/entries/beer-hall_2026-10-16T033651Z_cfr-payout-live-settlement-sop-merged.md",
       "json_path": "beer_hall/entries/beer-hall_2026-10-16T033651Z_cfr-payout-live-settlement-sop-merged.json"
-    },
-    {
-      "id": "beer-hall-2026-10-13T055606Z",
-      "posted_at_utc": "2026-10-13T05:56:06Z",
-      "slug": "black-king-landed-cost-wire-sent",
-      "preview": "Automated daily digest of the DAO - **Wire Transfer to 5 Continent Logistics** — Invoice #1026-08 paid for Brazil→SF cacao consignment; disputed lines clarified with Graziela (export-customs scope, FDA AMS $100 filing, …",
-      "markdown_path": "beer_hall/entries/beer-hall_2026-10-13T055606Z_black-king-landed-cost-wire-sent.md",
-      "json_path": "beer_hall/entries/beer-hall_2026-10-13T055606Z_black-king-landed-cost-wire-sent.json"
     }
   ]
 }
