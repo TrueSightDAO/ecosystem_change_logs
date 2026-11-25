@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:06:28Z",
+  "updated_utc": "2026-11-25T00:07:52Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T000750Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-25T00:07:50Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=631 method=squash"
+    },
     {
       "id": "repo_access_20261125T000626Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T00:06:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=2 method=squash"
-    },
-    {
-      "id": "repo_access_20261111T095038Z_generated-media-raw",
-      "timestamp_utc": "2026-11-11T09:50:38Z",
-      "agent": "sophia",
-      "repo": "generated-media-raw",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/generated-media-raw/pull/2",
-      "detail": "branch=docs/v9-keep-farmer-beat-decision changes=3"
     }
   ]
 }
