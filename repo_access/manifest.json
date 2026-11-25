@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T18:28:48Z",
+  "updated_utc": "2026-11-25T18:30:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T183047Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T18:30:47Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1925 method=squash"
+    },
     {
       "id": "repo_access_20261125T182847Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T18:28:47Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=39 method=squash"
-    },
-    {
-      "id": "repo_access_20261114T101700Z_agroverse-inventory",
-      "timestamp_utc": "2026-11-14T10:17:00Z",
-      "agent": "sophia",
-      "repo": "agroverse-inventory",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/3c07a202-99b4-459f-a4db-fc63c9fa87cf.json",
-      "detail": "path=currency-compositions/3c07a202-99b4-459f-a4db-fc63c9fa87cf.json branch=main"
     }
   ]
 }
