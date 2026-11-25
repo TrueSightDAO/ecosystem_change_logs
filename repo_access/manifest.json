@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T12:42:03Z",
+  "updated_utc": "2026-11-25T12:51:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T125117Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T12:51:17Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1908",
+      "detail": "branch=fix/pod-runbook-logo-fields changes=10"
+    },
     {
       "id": "repo_access_20261125T124201Z_farm-media-manifests",
       "timestamp_utc": "2026-11-25T12:42:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/research/china-market-positioning-2026/reports/china_market_positioning_2026/Dongguan_Grocery_Market_JiaRong_and_Field_Guide.pdf",
       "detail": "path=reports/china_market_positioning_2026/Dongguan_Grocery_Market_JiaRong_and_Field_Guide.pdf branch=research/china-market-positioning-2026"
-    },
-    {
-      "id": "repo_access_20261113T045735Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-13T04:57:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1834",
-      "detail": "branch=research/china-market-positioning-2026 changes=1"
     }
   ]
 }
