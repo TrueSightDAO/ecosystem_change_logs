@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:38:11Z",
+  "updated_utc": "2026-11-25T00:44:07Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T004405Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-25T00:44:05Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=633 method=squash"
+    },
     {
       "id": "repo_access_20261125T003808Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T00:38:08Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/pix_217trees_jhordan_20261112.jpg",
       "detail": "path=assets/pix_217trees_jhordan_20261112.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261112T121345Z_github",
-      "timestamp_utc": "2026-11-12T12:13:45Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/wise_usd_to_brazilian_reis_20261112.png",
-      "detail": "path=assets/wise_usd_to_brazilian_reis_20261112.png branch=main"
     }
   ]
 }
