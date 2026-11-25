@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T03:57:16Z",
+  "updated_utc": "2026-11-25T05:52:36Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T055235Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-25T05:52:35Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/636",
+      "detail": "branch=feat/reel-factory-derived-captions changes=2"
+    },
     {
       "id": "repo_access_20261125T035714Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T03:57:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261112122158_admin_sophia_d3eb84df4cfd4ed2b004f8ede66bc659.docx",
       "detail": "path=assets/dao_inventory_expense_20261112122158_admin_sophia_d3eb84df4cfd4ed2b004f8ede66bc659.docx branch=main"
-    },
-    {
-      "id": "repo_access_20261112T122432Z_github",
-      "timestamp_utc": "2026-11-12T12:24:32Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/dao_inventory_expense_20261112122150_admin_sophia_c78edd0859fd4c78880d0b2278500aca.docx",
-      "detail": "path=assets/dao_inventory_expense_20261112122150_admin_sophia_c78edd0859fd4c78880d0b2278500aca.docx branch=main"
     }
   ]
 }
