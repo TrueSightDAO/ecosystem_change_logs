@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T17:25:20Z",
+  "updated_utc": "2026-11-25T17:42:55Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T174253Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-25T17:42:53Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=648 method=squash"
+    },
     {
       "id": "repo_access_20261125T172518Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T17:25:18Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1853",
       "detail": "branch=sop/chocolate-block-production-v11 changes=1"
-    },
-    {
-      "id": "repo_access_20261114T052842Z_agroverse-inventory",
-      "timestamp_utc": "2026-11-14T05:28:42Z",
-      "agent": "sophia",
-      "repo": "agroverse-inventory",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/2abac3bb-ba5d-465b-aa73-55241b166d31.json",
-      "detail": "path=currency-compositions/2abac3bb-ba5d-465b-aa73-55241b166d31.json branch=main"
     }
   ]
 }
