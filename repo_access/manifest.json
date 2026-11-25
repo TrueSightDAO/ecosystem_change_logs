@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T15:33:37Z",
+  "updated_utc": "2026-11-25T16:25:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T162509Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T16:25:09Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1918 method=squash"
+    },
     {
       "id": "repo_access_20261125T153335Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T15:33:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1850",
       "detail": "branch=fix/edgar-pipeline-frozen-followup changes=1"
-    },
-    {
-      "id": "repo_access_20261114T034611Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-14T03:46:11Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1849 method=squash"
     }
   ]
 }
