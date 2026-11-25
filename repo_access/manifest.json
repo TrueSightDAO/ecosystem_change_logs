@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-24T23:58:08Z",
+  "updated_utc": "2026-11-25T00:03:57Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T000355Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T00:03:55Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1897",
+      "detail": "branch=fix/rusmin-directive-externalise changes=22"
+    },
     {
       "id": "repo_access_20261124T235806Z_agentic-ai-context",
       "timestamp_utc": "2026-11-24T23:58:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1 method=squash"
-    },
-    {
-      "id": "repo_access_20261111T092948Z_generated-media-raw",
-      "timestamp_utc": "2026-11-11T09:29:48Z",
-      "agent": "sophia",
-      "repo": "generated-media-raw",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/generated-media-raw/pull/1",
-      "detail": "branch=feat/agroverse-brand-film-v9-manifest changes=3"
     }
   ]
 }
