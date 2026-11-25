@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T17:42:55Z",
+  "updated_utc": "2026-11-25T17:52:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T175225Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T17:52:25Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1923",
+      "detail": "branch=docs/formalize-post-text-term changes=2"
+    },
     {
       "id": "repo_access_20261125T174253Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T17:42:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1853 method=squash"
-    },
-    {
-      "id": "repo_access_20261114T053150Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-14T05:31:50Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1853",
-      "detail": "branch=sop/chocolate-block-production-v11 changes=1"
     }
   ]
 }
