@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:36:37Z",
+  "updated_utc": "2026-11-25T00:37:58Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T003757Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T00:37:57Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1903",
+      "detail": "branch=docs/sop-offline-owner-convention changes=1"
+    },
     {
       "id": "repo_access_20261125T003635Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T00:36:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1830 method=squash"
-    },
-    {
-      "id": "repo_access_20261112T114920Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-12T11:49:20Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1830",
-      "detail": "branch=docs/brazil-monthly-accountant-runbook changes=1"
     }
   ]
 }
