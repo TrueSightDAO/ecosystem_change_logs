@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T15:24:41Z",
+  "updated_utc": "2026-11-25T15:24:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T152444Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-25T15:24:44Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=646 method=squash"
+    },
     {
       "id": "repo_access_20261125T152439Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T15:24:39Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/audits/edgar_event_coverage_audit.pdf",
       "detail": "path=assets/audits/edgar_event_coverage_audit.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261114T023809Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-14T02:38:09Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1847 method=squash"
     }
   ]
 }
