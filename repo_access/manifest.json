@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:10:55Z",
+  "updated_utc": "2026-11-25T00:12:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T001244Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T00:12:44Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1900 method=squash"
+    },
     {
       "id": "repo_access_20261125T001053Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T00:10:53Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1829 method=squash"
-    },
-    {
-      "id": "repo_access_20261112T030539Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-12T03:05:39Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1829",
-      "detail": "branch=followups/retail-repeat-purchase-fact-table-gap changes=1"
     }
   ]
 }
