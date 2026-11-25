@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T18:17:01Z",
+  "updated_utc": "2026-11-25T18:26:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T182610Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T18:26:10Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1924",
+      "detail": "branch=docs/black-king-freight-dispute-preserved changes=2"
+    },
     {
       "id": "repo_access_20261125T181659Z_go-to-market",
       "timestamp_utc": "2026-11-25T18:16:59Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/044400fa-8c60-48a3-8474-9a79478625b3.json",
       "detail": "path=currency-compositions/044400fa-8c60-48a3-8474-9a79478625b3.json branch=main"
-    },
-    {
-      "id": "repo_access_20261114T100242Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-14T10:02:42Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1856 method=squash"
     }
   ]
 }
