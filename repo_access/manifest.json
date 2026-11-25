@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:37:58Z",
+  "updated_utc": "2026-11-25T00:38:11Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T003808Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T00:38:08Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1903 method=squash"
+    },
     {
       "id": "repo_access_20261125T003757Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T00:37:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/wise_usd_to_brazilian_reis_20261112.png",
       "detail": "path=assets/wise_usd_to_brazilian_reis_20261112.png branch=main"
-    },
-    {
-      "id": "repo_access_20261112T114931Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-12T11:49:31Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1830 method=squash"
     }
   ]
 }
