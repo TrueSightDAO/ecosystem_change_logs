@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T11:20:36Z",
+  "updated_utc": "2026-11-25T11:20:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T112046Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T11:20:46Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1906 method=squash"
+    },
     {
       "id": "repo_access_20261125T112034Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T11:20:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1833",
       "detail": "branch=runbook/dual-bucket-double-booking changes=1"
-    },
-    {
-      "id": "repo_access_20261112T131052Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-12T13:10:52Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1832 method=squash"
     }
   ]
 }
