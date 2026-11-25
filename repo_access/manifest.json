@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T19:29:53Z",
+  "updated_utc": "2026-11-25T19:33:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T193320Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T19:33:20Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1930 method=squash"
+    },
     {
       "id": "repo_access_20261125T192951Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T19:29:51Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1859",
       "detail": "branch=docs/burned-in-text-sop-followup changes=1"
-    },
-    {
-      "id": "repo_access_20261117T035355Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-17T03:53:55Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1858",
-      "detail": "branch=docs/burned-in-text-sop changes=2"
     }
   ]
 }
