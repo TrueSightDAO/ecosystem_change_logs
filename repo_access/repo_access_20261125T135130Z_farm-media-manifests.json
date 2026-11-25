@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261125T135130Z_farm-media-manifests",
+  "timestamp_utc": "2026-11-25T13:51:30Z",
+  "agent": "sophia",
+  "repo": "farm_media_manifests",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/crf-anapu-para.json",
+  "detail": "path=crf-anapu-para.json branch=main"
+}
