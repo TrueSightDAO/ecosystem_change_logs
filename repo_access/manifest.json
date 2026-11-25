@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T07:12:15Z",
+  "updated_utc": "2026-11-25T07:14:58Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T071456Z_tokenomics",
+      "timestamp_utc": "2026-11-25T07:14:56Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/632",
+      "detail": "branch=docs/schema-jira-id-accountid-v2 changes=1"
+    },
     {
       "id": "repo_access_20261125T071213Z_tokenomics",
       "timestamp_utc": "2026-11-25T07:12:13Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261112_pix_1085BRL_217trees_jhordan.jpg",
       "detail": "path=receipts/2026/20261112_pix_1085BRL_217trees_jhordan.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261112T122643Z_tokenomics",
-      "timestamp_utc": "2026-11-12T12:26:43Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/blob/main/receipts/2026/20261112_wise_usd378.05_to_brl2085.png",
-      "detail": "path=receipts/2026/20261112_wise_usd378.05_to_brl2085.png branch=main"
     }
   ]
 }
