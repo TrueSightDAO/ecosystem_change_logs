@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:07:52Z",
+  "updated_utc": "2026-11-25T00:08:58Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T000857Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-25T00:08:57Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/632",
+      "detail": "branch=feat/jira-loop-supervisor changes=3"
+    },
     {
       "id": "repo_access_20261125T000750Z_truesight-autopilot",
       "timestamp_utc": "2026-11-25T00:07:50Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/206",
       "detail": "branch=fix/instagram-status-validation-reapply changes=6"
-    },
-    {
-      "id": "repo_access_20261111T095048Z_generated-media-raw",
-      "timestamp_utc": "2026-11-11T09:50:48Z",
-      "agent": "sophia",
-      "repo": "generated-media-raw",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=2 method=squash"
     }
   ]
 }
