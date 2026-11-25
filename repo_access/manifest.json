@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:50:25Z",
+  "updated_utc": "2026-11-25T00:53:06Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T005305Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-25T00:53:05Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=634 method=squash"
+    },
     {
       "id": "repo_access_20261125T005024Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T00:50:24Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/pix_jussileide_accountant_20261112_r1000.jpg",
       "detail": "path=assets/pix_jussileide_accountant_20261112_r1000.jpg branch=main"
-    },
-    {
-      "id": "repo_access_20261112T122015Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-12T12:20:15Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1831 method=squash"
     }
   ]
 }
