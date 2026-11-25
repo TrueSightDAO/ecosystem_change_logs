@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T00:21:11Z",
+  "updated_utc": "2026-11-25T00:31:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T003147Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-25T00:31:47Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=632 method=squash"
+    },
     {
       "id": "repo_access_20261125T002109Z_agentic-ai-context",
       "timestamp_utc": "2026-11-25T00:21:09Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/contribution_reports/dtc_tiktok_influencer_seeding_strategy_report.pdf",
       "detail": "path=assets/contribution_reports/dtc_tiktok_influencer_seeding_strategy_report.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261112T041604Z_go-to-market",
-      "timestamp_utc": "2026-11-12T04:16:04Z",
-      "agent": "sophia",
-      "repo": "go_to_market",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=207 method=squash"
     }
   ]
 }
