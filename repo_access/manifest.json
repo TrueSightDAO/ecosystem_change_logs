@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-25T10:58:21Z",
+  "updated_utc": "2026-11-25T11:20:36Z",
   "entries": [
+    {
+      "id": "repo_access_20261125T112034Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-25T11:20:34Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1906",
+      "detail": "branch=docs/black-king-booking-state-audit changes=3"
+    },
     {
       "id": "repo_access_20261125T105819Z_github",
       "timestamp_utc": "2026-11-25T10:58:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1832 method=squash"
-    },
-    {
-      "id": "repo_access_20261112T131041Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-12T13:10:41Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1832",
-      "detail": "branch=followup/contribution-prior-art-check changes=1"
     }
   ]
 }
