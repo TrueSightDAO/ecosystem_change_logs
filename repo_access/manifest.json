@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T09:43:07Z",
+  "updated_utc": "2026-11-26T11:48:54Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T114852Z_generated-media-raw",
+      "timestamp_utc": "2026-11-26T11:48:52Z",
+      "agent": "sophia",
+      "repo": "generated-media-raw",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/generated-media-raw/blob/main/frame_captures/chocolate-process-agroverse-v5-frame0.jpg",
+      "detail": "path=frame_captures/chocolate-process-agroverse-v5-frame0.jpg branch=main"
+    },
     {
       "id": "repo_access_20261126T094305Z_github",
       "timestamp_utc": "2026-11-26T09:43:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/tax-amendments/awb-047-3175-3223/8-ounce-pouch-ilheus.json",
       "detail": "path=currency-compositions/tax-amendments/awb-047-3175-3223/8-ounce-pouch-ilheus.json branch=main"
-    },
-    {
-      "id": "repo_access_20261119T081840Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-19T08:18:40Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/contributions/evidence/2026-11-19_nathan_sku_evidence_CORRECTED.pdf",
-      "detail": "path=contributions/evidence/2026-11-19_nathan_sku_evidence_CORRECTED.pdf branch=main"
     }
   ]
 }
