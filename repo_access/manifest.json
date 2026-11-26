@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T09:38:29Z",
+  "updated_utc": "2026-11-26T09:43:07Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T094305Z_github",
+      "timestamp_utc": "2026-11-26T09:43:05Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/2026-11-26_liz_gtm_alignment_call_42min_whatsapp.png",
+      "detail": "path=assets/2026-11-26_liz_gtm_alignment_call_42min_whatsapp.png branch=main"
+    },
     {
       "id": "repo_access_20261126T093827Z_truesight-autopilot",
       "timestamp_utc": "2026-11-26T09:38:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/contributions/evidence/2026-11-19_nathan_sku_evidence_CORRECTED.pdf",
       "detail": "path=contributions/evidence/2026-11-19_nathan_sku_evidence_CORRECTED.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261119T075156Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-19T07:51:56Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1870 method=squash"
     }
   ]
 }
