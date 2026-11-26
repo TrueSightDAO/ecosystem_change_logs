@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T01:34:00Z",
+  "updated_utc": "2026-11-26T02:34:46Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T023445Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-26T02:34:45Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1941",
+      "detail": "branch=docs/reel-frame-scan-sop changes=1"
+    },
     {
       "id": "repo_access_20261126T013358Z_agentic-ai-context",
       "timestamp_utc": "2026-11-26T01:33:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1867 method=squash"
-    },
-    {
-      "id": "repo_access_20261118T092835Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-18T09:28:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1867",
-      "detail": "branch=docs/openfollowups-sales-money-convention changes=1"
     }
   ]
 }
