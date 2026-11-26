@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261126T005923Z_github",
+  "timestamp_utc": "2026-11-26T00:59:23Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/2026-11-26_cristiano_cacao_serving_ratio_2nibs_4oatmilk_4water.png",
+  "detail": "path=assets/2026-11-26_cristiano_cacao_serving_ratio_2nibs_4oatmilk_4water.png branch=main"
+}
