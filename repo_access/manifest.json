@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T00:59:16Z",
+  "updated_utc": "2026-11-26T00:59:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T005923Z_github",
+      "timestamp_utc": "2026-11-26T00:59:23Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/2026-11-26_cristiano_cacao_serving_ratio_2nibs_4oatmilk_4water.png",
+      "detail": "path=assets/2026-11-26_cristiano_cacao_serving_ratio_2nibs_4oatmilk_4water.png branch=main"
+    },
     {
       "id": "repo_access_20261126T005914Z_github",
       "timestamp_utc": "2026-11-26T00:59:14Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=627 method=squash"
-    },
-    {
-      "id": "repo_access_20261117T123817Z_tokenomics",
-      "timestamp_utc": "2026-11-17T12:38:17Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/627",
-      "detail": "branch=fix/telegram-chatlog-scoring-silent-drop changes=6"
     }
   ]
 }
