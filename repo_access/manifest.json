@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T11:50:22Z",
+  "updated_utc": "2026-11-26T12:01:17Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T120115Z_go-to-market",
+      "timestamp_utc": "2026-11-26T12:01:15Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=213 method=squash"
+    },
     {
       "id": "repo_access_20261126T115020Z_generated-media-raw",
       "timestamp_utc": "2026-11-26T11:50:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/tax-amendments/awb-047-3175-3223/cacao-nibs-santos-agl13.json",
       "detail": "path=currency-compositions/tax-amendments/awb-047-3175-3223/cacao-nibs-santos-agl13.json branch=main"
-    },
-    {
-      "id": "repo_access_20261119T091611Z_agroverse-inventory",
-      "timestamp_utc": "2026-11-19T09:16:11Z",
-      "agent": "sophia",
-      "repo": "agroverse-inventory",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/tax-amendments/awb-047-3175-3223/cacao-nibs-kg-ilheus.json",
-      "detail": "path=currency-compositions/tax-amendments/awb-047-3175-3223/cacao-nibs-kg-ilheus.json branch=main"
     }
   ]
 }
