@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261126T115005Z_generated-media-raw",
+  "timestamp_utc": "2026-11-26T11:50:05Z",
+  "agent": "sophia",
+  "repo": "generated-media-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/generated-media-raw/blob/main/generated_video_manifests/chocolate-process-agroverse-v5.json",
+  "detail": "path=generated_video_manifests/chocolate-process-agroverse-v5.json branch=main"
+}
