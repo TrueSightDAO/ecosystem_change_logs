@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T01:00:07Z",
+  "updated_utc": "2026-11-26T01:33:49Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T013347Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-26T01:33:47Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1940",
+      "detail": "branch=docs/jira-sop-blocked-on-human changes=1"
+    },
     {
       "id": "repo_access_20261126T010005Z_agentic-ai-context",
       "timestamp_utc": "2026-11-26T01:00:05Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/expenses/20261118_matheus_reis_simples_nacional_das_674_37_brl.pdf",
       "detail": "path=expenses/20261118_matheus_reis_simples_nacional_das_674_37_brl.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261118T072349Z_store-interaction-attachments",
-      "timestamp_utc": "2026-11-18T07:23:49Z",
-      "agent": "sophia",
-      "repo": "store_interaction_attachments",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/expenses/20261118_matheus_reis_simples_nacional_das_674_37_brl_pix.png",
-      "detail": "path=expenses/20261118_matheus_reis_simples_nacional_das_674_37_brl_pix.png branch=main"
     }
   ]
 }
