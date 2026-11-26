@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T00:59:24Z",
+  "updated_utc": "2026-11-26T00:59:56Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T005954Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-26T00:59:54Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1938",
+      "detail": "branch=docs/cacao-serving-ratios changes=1"
+    },
     {
       "id": "repo_access_20261126T005923Z_github",
       "timestamp_utc": "2026-11-26T00:59:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/contributions/evidence/2026-11-18_nathan_printing_sku_evidence.pdf",
       "detail": "path=contributions/evidence/2026-11-18_nathan_printing_sku_evidence.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261117T123855Z_tokenomics",
-      "timestamp_utc": "2026-11-17T12:38:55Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=627 method=squash"
     }
   ]
 }
