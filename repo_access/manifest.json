@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T00:33:16Z",
+  "updated_utc": "2026-11-26T00:39:41Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T003939Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-26T00:39:39Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1937 method=squash"
+    },
     {
       "id": "repo_access_20261126T003315Z_agentic-ai-context",
       "timestamp_utc": "2026-11-26T00:33:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/currency_conversion_receipts/20261117_usd_to_brazilian_reis_674-37_wise_pix_confirmation.png",
       "detail": "path=currency_conversion_receipts/20261117_usd_to_brazilian_reis_674-37_wise_pix_confirmation.png branch=main"
-    },
-    {
-      "id": "repo_access_20261117T120819Z_store-interaction-attachments",
-      "timestamp_utc": "2026-11-17T12:08:19Z",
-      "agent": "sophia",
-      "repo": "store_interaction_attachments",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/currency_conversion_receipts/20261117_usd_to_brazilian_reis_674-37_wise_rate.png",
-      "detail": "path=currency_conversion_receipts/20261117_usd_to_brazilian_reis_674-37_wise_rate.png branch=main"
     }
   ]
 }
