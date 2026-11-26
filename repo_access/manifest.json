@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T00:31:26Z",
+  "updated_utc": "2026-11-26T00:32:58Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T003256Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-26T00:32:56Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1936",
+      "detail": "branch=docs/link-pr-remotelink-shipped changes=1"
+    },
     {
       "id": "repo_access_20261126T003125Z_truesight-autopilot",
       "timestamp_utc": "2026-11-26T00:31:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1864",
       "detail": "branch=docs/retract-stage2-stall-timezone-artifact changes=10"
-    },
-    {
-      "id": "repo_access_20261117T091740Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-17T09:17:40Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1863 method=squash"
     }
   ]
 }
