@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261126T115020Z_generated-media-raw",
+  "timestamp_utc": "2026-11-26T11:50:20Z",
+  "agent": "sophia",
+  "repo": "generated-media-raw",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/generated-media-raw/blob/main/index.json",
+  "detail": "path=index.json branch=main"
+}
