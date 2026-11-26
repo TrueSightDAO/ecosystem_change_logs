@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T00:59:56Z",
+  "updated_utc": "2026-11-26T01:00:07Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T010005Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-26T01:00:05Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1938 method=squash"
+    },
     {
       "id": "repo_access_20261126T005954Z_agentic-ai-context",
       "timestamp_utc": "2026-11-26T00:59:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/expenses/20261118_matheus_reis_simples_nacional_das_674_37_brl_pix.png",
       "detail": "path=expenses/20261118_matheus_reis_simples_nacional_das_674_37_brl_pix.png branch=main"
-    },
-    {
-      "id": "repo_access_20261118T062002Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-18T06:20:02Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/contributions/evidence/2026-11-18_nathan_printing_sku_evidence.pdf",
-      "detail": "path=contributions/evidence/2026-11-18_nathan_printing_sku_evidence.pdf branch=main"
     }
   ]
 }
