@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-26T07:37:28Z",
+  "updated_utc": "2026-11-26T07:50:44Z",
   "entries": [
+    {
+      "id": "repo_access_20261126T075043Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-26T07:50:43Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=655 method=squash"
+    },
     {
       "id": "repo_access_20261126T073726Z_truesight-autopilot",
       "timestamp_utc": "2026-11-26T07:37:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1869",
       "detail": "branch=sop/standardize-front-frame-logo changes=1"
-    },
-    {
-      "id": "repo_access_20261118T095412Z_github",
-      "timestamp_utc": "2026-11-18T09:54:12Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/audits/truesight_sdg_alignment_audit.pdf",
-      "detail": "path=assets/audits/truesight_sdg_alignment_audit.pdf branch=main"
     }
   ]
 }
