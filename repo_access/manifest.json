@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T08:14:25Z",
+  "updated_utc": "2026-11-27T09:24:44Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T092442Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T09:24:42Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1947 method=squash"
+    },
     {
       "id": "repo_access_20261127T081423Z_agentic-ai-context",
       "timestamp_utc": "2026-11-27T08:14:23Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1879",
       "detail": "branch=docs/instagram-caption-sop changes=1"
-    },
-    {
-      "id": "repo_access_20261124T093922Z_agroverse-shop-beta",
-      "timestamp_utc": "2026-11-24T09:39:22Z",
-      "agent": "sophia",
-      "repo": "agroverse_shop_beta",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=370 method=squash"
     }
   ]
 }
