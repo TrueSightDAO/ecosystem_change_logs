@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261127T120205Z_tokenomics",
+  "timestamp_utc": "2026-11-27T12:02:05Z",
+  "agent": "sophia",
+  "repo": "tokenomics",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/639",
+  "detail": "branch=fix/normalize-agroverse-url-col-g changes=2"
+}
