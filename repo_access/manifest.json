@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T22:41:04Z",
+  "updated_utc": "2026-11-27T22:41:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T224115Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T22:41:15Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=673 method=squash"
+    },
     {
       "id": "repo_access_20261127T224102Z_tokenomics",
       "timestamp_utc": "2026-11-27T22:41:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1894 method=squash"
-    },
-    {
-      "id": "repo_access_20261124T235024Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T23:50:24Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1894",
-      "detail": "branch=fix/rusmin-directive-drop-governor-term changes=8"
     }
   ]
 }
