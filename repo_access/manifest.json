@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T11:28:08Z",
+  "updated_utc": "2026-11-27T11:42:39Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T114238Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T11:42:38Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1948",
+      "detail": "branch=followups/qr-scan-zxingcpp-and-oscar-batch-reconcile changes=1"
+    },
     {
       "id": "repo_access_20261127T112806Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T11:28:06Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/627",
       "detail": "branch=fix/pdf-footer-org-optional changes=7"
-    },
-    {
-      "id": "repo_access_20261124T103547Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T10:35:47Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1879 method=squash"
     }
   ]
 }
