@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T22:28:21Z",
+  "updated_utc": "2026-11-27T22:33:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T223338Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T22:33:38Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=673 method=squash"
+    },
     {
       "id": "repo_access_20261127T222819Z_tokenomics",
       "timestamp_utc": "2026-11-27T22:28:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sprint-site/blob/gh-pages/index.html",
       "detail": "path=index.html branch=gh-pages"
-    },
-    {
-      "id": "repo_access_20261124T234214Z_sprint-site",
-      "timestamp_utc": "2026-11-24T23:42:14Z",
-      "agent": "sophia",
-      "repo": "sprint-site",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=12 method=squash"
     }
   ]
 }
