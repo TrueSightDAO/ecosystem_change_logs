@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T04:14:26Z",
+  "updated_utc": "2026-11-27T05:14:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T051402Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T05:14:02Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=662 method=squash"
+    },
     {
       "id": "repo_access_20261127T041425Z_tokenomics",
       "timestamp_utc": "2026-11-27T04:14:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1876",
       "detail": "branch=feat/rock-salt-commodity-line-followup changes=1"
-    },
-    {
-      "id": "repo_access_20261123T041331Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-23T04:13:31Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1874 method=squash"
     }
   ]
 }
