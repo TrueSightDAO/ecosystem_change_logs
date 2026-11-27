@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T22:54:26Z",
+  "updated_utc": "2026-11-27T22:56:40Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T225638Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T22:56:38Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1955",
+      "detail": "branch=docs/tiktok-kan114-115-verified-20261128 changes=3"
+    },
     {
       "id": "repo_access_20261127T225424Z_agentic-ai-context",
       "timestamp_utc": "2026-11-27T22:54:24Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1898",
       "detail": "branch=fix/jira-sophia-identity-and-backfill-truth changes=3"
-    },
-    {
-      "id": "repo_access_20261125T000355Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-25T00:03:55Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1897",
-      "detail": "branch=fix/rusmin-directive-externalise changes=22"
     }
   ]
 }
