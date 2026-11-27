@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T12:26:22Z",
+  "updated_utc": "2026-11-27T12:27:07Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T122706Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T12:27:06Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=666 method=squash"
+    },
     {
       "id": "repo_access_20261127T122620Z_agentic-ai-context",
       "timestamp_utc": "2026-11-27T12:26:20Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1884 method=squash"
-    },
-    {
-      "id": "repo_access_20261124T215109Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T21:51:09Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1884",
-      "detail": "branch=docs/rusmin-indonesia-outreach-record changes=1"
     }
   ]
 }
