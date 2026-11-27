@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261127T015849Z_tokenomics",
+  "timestamp_utc": "2026-11-27T01:58:49Z",
+  "agent": "sophia",
+  "repo": "tokenomics",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/633",
+  "detail": "branch=fix/qr-sales-optional-field-regex-and-ledger-url-gate changes=6"
+}
