@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T15:09:46Z",
+  "updated_utc": "2026-11-27T17:45:10Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T174508Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T17:45:08Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=669 method=squash"
+    },
     {
       "id": "repo_access_20261127T150944Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T15:09:44Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1887 method=squash"
-    },
-    {
-      "id": "repo_access_20261124T231501Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T23:15:01Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1887",
-      "detail": "branch=feat/rusmin-site-inspection-directives changes=1"
     }
   ]
 }
