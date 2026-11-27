@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T03:10:20Z",
+  "updated_utc": "2026-11-27T04:12:26Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T041224Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T04:12:24Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1944 method=squash"
+    },
     {
       "id": "repo_access_20261127T031019Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T03:10:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/asset_receipts/anthropic/MANIFEST_anthropic_receipts_2026.csv",
       "detail": "path=asset_receipts/anthropic/MANIFEST_anthropic_receipts_2026.csv branch=main"
-    },
-    {
-      "id": "repo_access_20261123T041223Z_store-interaction-attachments",
-      "timestamp_utc": "2026-11-23T04:12:23Z",
-      "agent": "sophia",
-      "repo": "store_interaction_attachments",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/asset_receipts/anthropic/anthropic_receipt_2893-9096-8721_2026-11-22_20.00.pdf",
-      "detail": "path=asset_receipts/anthropic/anthropic_receipt_2893-9096-8721_2026-11-22_20.00.pdf branch=main"
     }
   ]
 }
