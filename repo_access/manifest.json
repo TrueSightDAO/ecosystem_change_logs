@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T21:53:28Z",
+  "updated_utc": "2026-11-27T21:53:38Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T215337Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T21:53:37Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1952 method=squash"
+    },
     {
       "id": "repo_access_20261127T215326Z_agentic-ai-context",
       "timestamp_utc": "2026-11-27T21:53:26Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1892",
       "detail": "branch=docs/jira-sop-provisioning-recipe changes=4"
-    },
-    {
-      "id": "repo_access_20261124T233137Z_f5-site",
-      "timestamp_utc": "2026-11-24T23:31:37Z",
-      "agent": "sophia",
-      "repo": "f5-site",
-      "action": "create_repo",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/f5-site",
-      "detail": "org=TrueSightDAO private=True"
     }
   ]
 }
