@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T22:53:03Z",
+  "updated_utc": "2026-11-27T22:54:15Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T225414Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T22:54:14Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1954",
+      "detail": "branch=docs/tiktok-manual-first-experiment changes=1"
+    },
     {
       "id": "repo_access_20261127T225301Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T22:53:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1896 method=squash"
-    },
-    {
-      "id": "repo_access_20261124T235756Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T23:57:56Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1896",
-      "detail": "branch=fix/rusmin-directive-drop-truesight-branding changes=4"
     }
   ]
 }
