@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T22:58:56Z",
+  "updated_utc": "2026-11-27T22:59:06Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T225904Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T22:59:04Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1956 method=squash"
+    },
     {
       "id": "repo_access_20261127T225854Z_agentic-ai-context",
       "timestamp_utc": "2026-11-27T22:58:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1899",
       "detail": "branch=fix/rusmin-directive-drop-last-truesight-url changes=1"
-    },
-    {
-      "id": "repo_access_20261125T000411Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-25T00:04:11Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1898 method=squash"
     }
   ]
 }
