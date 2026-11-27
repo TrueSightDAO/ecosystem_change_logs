@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T21:52:59Z",
+  "updated_utc": "2026-11-27T21:53:28Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T215326Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T21:53:26Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1953",
+      "detail": "branch=docs/retire-pr-e-false-premise-2 changes=1"
+    },
     {
       "id": "repo_access_20261127T215257Z_agentic-ai-context",
       "timestamp_utc": "2026-11-27T21:52:57Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/f5-site",
       "detail": "org=TrueSightDAO private=True"
-    },
-    {
-      "id": "repo_access_20261124T233100Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T23:31:00Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1891 method=squash"
     }
   ]
 }
