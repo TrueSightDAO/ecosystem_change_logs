@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T22:59:06Z",
+  "updated_utc": "2026-11-27T23:01:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T230111Z_go-to-market",
+      "timestamp_utc": "2026-11-27T23:01:11Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/214",
+      "detail": "branch=fix/kan120-disable-destructive-sheet-wipe changes=1"
+    },
     {
       "id": "repo_access_20261127T225904Z_agentic-ai-context",
       "timestamp_utc": "2026-11-27T22:59:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1899 method=squash"
-    },
-    {
-      "id": "repo_access_20261125T000615Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-25T00:06:15Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1899",
-      "detail": "branch=fix/rusmin-directive-drop-last-truesight-url changes=1"
     }
   ]
 }
