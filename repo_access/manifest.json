@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T21:12:35Z",
+  "updated_utc": "2026-11-27T21:45:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T214519Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T21:45:19Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1951",
+      "detail": "branch=docs/prove-the-probe-rule changes=1"
+    },
     {
       "id": "repo_access_20261127T211233Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T21:12:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1889 method=squash"
-    },
-    {
-      "id": "repo_access_20261124T232811Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T23:28:11Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1889",
-      "detail": "branch=feat/rusmin-brazil-benchmark-column changes=3"
     }
   ]
 }
