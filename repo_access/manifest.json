@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T12:28:26Z",
+  "updated_utc": "2026-11-27T12:28:37Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T122835Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T12:28:35Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1950 method=squash"
+    },
     {
       "id": "repo_access_20261127T122824Z_agentic-ai-context",
       "timestamp_utc": "2026-11-27T12:28:24Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=628 method=squash"
-    },
-    {
-      "id": "repo_access_20261124T224910Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T22:49:10Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1885",
-      "detail": "branch=fix/loi-work-record-close-sent-items changes=3"
     }
   ]
 }
