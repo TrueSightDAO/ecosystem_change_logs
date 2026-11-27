@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T21:45:21Z",
+  "updated_utc": "2026-11-27T21:46:02Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T214601Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-27T21:46:01Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1951 method=squash"
+    },
     {
       "id": "repo_access_20261127T214519Z_agentic-ai-context",
       "timestamp_utc": "2026-11-27T21:45:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1890",
       "detail": "branch=docs/jira-board-canonical-convention changes=3"
-    },
-    {
-      "id": "repo_access_20261124T232821Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T23:28:21Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1889 method=squash"
     }
   ]
 }
