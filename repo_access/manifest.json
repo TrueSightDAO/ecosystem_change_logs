@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T12:28:37Z",
+  "updated_utc": "2026-11-27T12:32:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T123210Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T12:32:10Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=667 method=squash"
+    },
     {
       "id": "repo_access_20261127T122835Z_agentic-ai-context",
       "timestamp_utc": "2026-11-27T12:28:35Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1886",
       "detail": "branch=docs/jira-workflow-sop changes=2"
-    },
-    {
-      "id": "repo_access_20261124T225404Z_truesight-autopilot",
-      "timestamp_utc": "2026-11-24T22:54:04Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=628 method=squash"
     }
   ]
 }
