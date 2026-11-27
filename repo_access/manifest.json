@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T22:33:40Z",
+  "updated_utc": "2026-11-27T22:38:17Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T223816Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T22:38:16Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=673 method=squash"
+    },
     {
       "id": "repo_access_20261127T223338Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T22:33:38Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/asset_receipts/2026-11-24_deepseek_api_credits_usd21.20_paypal_VFN458TBKS9EU.pdf",
       "detail": "path=asset_receipts/2026-11-24_deepseek_api_credits_usd21.20_paypal_VFN458TBKS9EU.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261124T234219Z_sprint-site",
-      "timestamp_utc": "2026-11-24T23:42:19Z",
-      "agent": "sophia",
-      "repo": "sprint-site",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/sprint-site/blob/gh-pages/index.html",
-      "detail": "path=index.html branch=gh-pages"
     }
   ]
 }
