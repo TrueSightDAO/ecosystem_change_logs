@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T01:18:16Z",
+  "updated_utc": "2026-11-27T01:39:12Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T013910Z_agent-handoffs",
+      "timestamp_utc": "2026-11-27T01:39:10Z",
+      "agent": "sophia",
+      "repo": "agent_handoffs",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agent_handoffs/blob/main/handoffs/bionpact_from_sophia_20261127T013908Z.json",
+      "detail": "path=handoffs/bionpact_from_sophia_20261127T013908Z.json branch=main"
+    },
     {
       "id": "repo_access_20261127T011815Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T01:18:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/contributions/evidence/2026-11-20_china_distribution_evidence.pdf",
       "detail": "path=contributions/evidence/2026-11-20_china_distribution_evidence.pdf branch=main"
-    },
-    {
-      "id": "repo_access_20261119T091632Z_agroverse-inventory",
-      "timestamp_utc": "2026-11-19T09:16:32Z",
-      "agent": "sophia",
-      "repo": "agroverse-inventory",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agroverse-inventory/blob/main/currency-compositions/tax-amendments/awb-047-3175-3223/coopercabruca-butter-kg.json",
-      "detail": "path=currency-compositions/tax-amendments/awb-047-3175-3223/coopercabruca-butter-kg.json branch=main"
     }
   ]
 }
