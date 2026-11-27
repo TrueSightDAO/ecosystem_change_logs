@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T01:39:12Z",
+  "updated_utc": "2026-11-27T01:52:25Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T015223Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T01:52:23Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/659",
+      "detail": "branch=feat/verify-dao-submission-landed changes=2"
+    },
     {
       "id": "repo_access_20261127T013910Z_agent-handoffs",
       "timestamp_utc": "2026-11-27T01:39:10Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/go-iamnotai-site",
       "detail": "org=TrueSightDAO private=True"
-    },
-    {
-      "id": "repo_access_20261120T001349Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-20T00:13:49Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/blob/main/contributions/evidence/2026-11-20_china_distribution_evidence.pdf",
-      "detail": "path=contributions/evidence/2026-11-20_china_distribution_evidence.pdf branch=main"
     }
   ]
 }
