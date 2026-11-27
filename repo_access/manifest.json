@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T01:52:33Z",
+  "updated_utc": "2026-11-27T01:54:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T015403Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T01:54:03Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=660 method=squash"
+    },
     {
       "id": "repo_access_20261127T015231Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T01:52:31Z",
@@ -2189,17 +2200,6 @@
       "result": "success",
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/cacao-legacy-site",
-      "detail": "org=TrueSightDAO private=True"
-    },
-    {
-      "id": "repo_access_20261120T020328Z_epix-apollo-site",
-      "timestamp_utc": "2026-11-20T02:03:28Z",
-      "agent": "sophia",
-      "repo": "epix-apollo-site",
-      "action": "create_repo",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/epix-apollo-site",
       "detail": "org=TrueSightDAO private=True"
     }
   ]
