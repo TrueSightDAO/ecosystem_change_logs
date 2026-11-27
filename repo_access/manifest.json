@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T22:38:17Z",
+  "updated_utc": "2026-11-27T22:39:23Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T223921Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T22:39:21Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=673 method=squash"
+    },
     {
       "id": "repo_access_20261127T223816Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T22:38:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=630 method=squash"
-    },
-    {
-      "id": "repo_access_20261124T234334Z_store-interaction-attachments",
-      "timestamp_utc": "2026-11-24T23:43:34Z",
-      "agent": "sophia",
-      "repo": "store_interaction_attachments",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/asset_receipts/2026-11-24_deepseek_api_credits_usd21.20_paypal_VFN458TBKS9EU.pdf",
-      "detail": "path=asset_receipts/2026-11-24_deepseek_api_credits_usd21.20_paypal_VFN458TBKS9EU.pdf branch=main"
     }
   ]
 }
