@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T01:59:03Z",
+  "updated_utc": "2026-11-27T02:00:24Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T020023Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T02:00:23Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=661 method=squash"
+    },
     {
       "id": "repo_access_20261127T015901Z_tokenomics",
       "timestamp_utc": "2026-11-27T01:59:01Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1873 method=squash"
-    },
-    {
-      "id": "repo_access_20261123T041159Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-23T04:11:59Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1873",
-      "detail": "branch=sop/copy-bound-to-cut-and-gemini-qc-gate changes=3"
     }
   ]
 }
