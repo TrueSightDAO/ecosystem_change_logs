@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T22:40:18Z",
+  "updated_utc": "2026-11-27T22:41:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T224102Z_tokenomics",
+      "timestamp_utc": "2026-11-27T22:41:02Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/642",
+      "detail": "branch=fix/agl4-tokenized-proxy-shadowing changes=2"
+    },
     {
       "id": "repo_access_20261127T224016Z_tokenomics",
       "timestamp_utc": "2026-11-27T22:40:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1894",
       "detail": "branch=fix/rusmin-directive-drop-governor-term changes=8"
-    },
-    {
-      "id": "repo_access_20261124T234430Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T23:44:30Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1893 method=squash"
     }
   ]
 }
