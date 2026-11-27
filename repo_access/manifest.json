@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T23:01:12Z",
+  "updated_utc": "2026-11-27T23:01:22Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T230121Z_go-to-market",
+      "timestamp_utc": "2026-11-27T23:01:21Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=214 method=squash"
+    },
     {
       "id": "repo_access_20261127T230111Z_go-to-market",
       "timestamp_utc": "2026-11-27T23:01:11Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=631 method=squash"
-    },
-    {
-      "id": "repo_access_20261125T000626Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-25T00:06:26Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1899 method=squash"
     }
   ]
 }
