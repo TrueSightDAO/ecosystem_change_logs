@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T12:02:18Z",
+  "updated_utc": "2026-11-27T12:05:04Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T120501Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T12:05:01Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/665",
+      "detail": "branch=docs/qr-photo-individual-movement changes=3"
+    },
     {
       "id": "repo_access_20261127T120216Z_tokenomics",
       "timestamp_utc": "2026-11-27T12:02:16Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1883",
       "detail": "branch=docs/bionpact-loi-indonesia-work-record changes=1"
-    },
-    {
-      "id": "repo_access_20261124T114525Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T11:45:25Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1882 method=squash"
     }
   ]
 }
