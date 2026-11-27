@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T11:52:49Z",
+  "updated_utc": "2026-11-27T11:56:59Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T115658Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T11:56:58Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/664",
+      "detail": "branch=feat/bionpact-site-repos-config changes=3"
+    },
     {
       "id": "repo_access_20261127T115248Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T11:52:48Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1881",
       "detail": "branch=docs/intro-overlay-standard-fix changes=2"
-    },
-    {
-      "id": "repo_access_20261124T105405Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T10:54:05Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1880",
-      "detail": "branch=docs/intro-overlay-standard changes=2"
     }
   ]
 }
