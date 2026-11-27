@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T11:56:59Z",
+  "updated_utc": "2026-11-27T12:00:48Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T120045Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-27T12:00:45Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=664 method=squash"
+    },
     {
       "id": "repo_access_20261127T115658Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T11:56:58Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1881 method=squash"
-    },
-    {
-      "id": "repo_access_20261124T105457Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T10:54:57Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1881",
-      "detail": "branch=docs/intro-overlay-standard-fix changes=2"
     }
   ]
 }
