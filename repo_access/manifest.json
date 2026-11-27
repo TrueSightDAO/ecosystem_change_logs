@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T22:15:44Z",
+  "updated_utc": "2026-11-27T22:26:32Z",
   "entries": [
+    {
+      "id": "repo_access_20261127T222630Z_tokenomics",
+      "timestamp_utc": "2026-11-27T22:26:30Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/640",
+      "detail": "branch=fix/qr-ledger-column-guard changes=6"
+    },
     {
       "id": "repo_access_20261127T221542Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T22:15:42Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/sprint-site/pull/12",
       "detail": "branch=retire/redirect-to-jira-kan changes=2"
-    },
-    {
-      "id": "repo_access_20261124T233421Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-24T23:34:21Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1890 method=squash"
     }
   ]
 }
