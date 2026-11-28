@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261128T013922Z_agentic-ai-context",
+  "timestamp_utc": "2026-11-28T01:39:22Z",
+  "agent": "sophia",
+  "repo": "agentic_ai_context",
+  "action": "merge_pr",
+  "result": "failure",
+  "mode": "default-allow",
+  "evidence_url": "",
+  "detail": "pr=1957 method=squash"
+}
