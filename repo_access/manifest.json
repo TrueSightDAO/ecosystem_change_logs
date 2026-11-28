@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T00:07:30Z",
+  "updated_utc": "2026-11-28T00:27:38Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T002736Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-28T00:27:36Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=678 method=squash"
+    },
     {
       "id": "repo_access_20261128T000729Z_go-to-market",
       "timestamp_utc": "2026-11-28T00:07:29Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=632 method=squash"
-    },
-    {
-      "id": "repo_access_20261125T001244Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-25T00:12:44Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1900 method=squash"
     }
   ]
 }
