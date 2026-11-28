@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261128T000719Z_go-to-market",
+  "timestamp_utc": "2026-11-28T00:07:19Z",
+  "agent": "sophia",
+  "repo": "go_to_market",
+  "action": "git_push_changes",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/215",
+  "detail": "branch=docs/kan120-mark-sync-scripts-deprecated changes=4"
+}
