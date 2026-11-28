@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T03:43:17Z",
+  "updated_utc": "2026-11-28T04:52:43Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T045242Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-28T04:52:42Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1960",
+      "detail": "branch=docs/kan113-listing-copy-draft changes=1"
+    },
     {
       "id": "repo_access_20261128T034315Z_agentic-ai-context",
       "timestamp_utc": "2026-11-28T03:43:15Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=633 method=squash"
-    },
-    {
-      "id": "repo_access_20261125T003808Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-25T00:38:08Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1903 method=squash"
     }
   ]
 }
