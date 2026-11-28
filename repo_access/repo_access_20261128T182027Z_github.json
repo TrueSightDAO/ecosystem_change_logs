@@ -1,0 +1,11 @@
+{
+  "id": "repo_access_20261128T182027Z_github",
+  "timestamp_utc": "2026-11-28T18:20:27Z",
+  "agent": "sophia",
+  "repo": ".github",
+  "action": "upload_file_to_github",
+  "result": "success",
+  "mode": "default-allow",
+  "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/2026-11-26_rodney_white_label_chocolate_call_59min.png",
+  "detail": "path=assets/2026-11-26_rodney_white_label_chocolate_call_59min.png branch=main"
+}
