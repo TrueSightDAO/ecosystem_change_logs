@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T02:50:42Z",
+  "updated_utc": "2026-11-28T03:43:06Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T034304Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-28T03:43:04Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1959",
+      "detail": "branch=docs/kan113-listing-policy-and-sku-price-bug changes=2"
+    },
     {
       "id": "repo_access_20261128T025040Z_agentic-ai-context",
       "timestamp_utc": "2026-11-28T02:50:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1903",
       "detail": "branch=docs/sop-offline-owner-convention changes=1"
-    },
-    {
-      "id": "repo_access_20261125T003635Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-25T00:36:35Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1902 method=squash"
     }
   ]
 }
