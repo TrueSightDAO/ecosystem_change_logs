@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T09:04:29Z",
+  "updated_utc": "2026-11-28T09:11:08Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T091106Z_tokenomics",
+      "timestamp_utc": "2026-11-28T09:11:06Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/646",
+      "detail": "branch=fix/non-agl4-processing-rollback changes=3"
+    },
     {
       "id": "repo_access_20261128T090428Z_tokenomics",
       "timestamp_utc": "2026-11-28T09:04:28Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/631",
       "detail": "branch=docs/schema-jira-id-accountid-format changes=1"
-    },
-    {
-      "id": "repo_access_20261125T070410Z_tokenomics",
-      "timestamp_utc": "2026-11-25T07:04:10Z",
-      "agent": "sophia",
-      "repo": "tokenomics",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=630 method=squash"
     }
   ]
 }
