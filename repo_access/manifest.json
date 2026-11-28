@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-27T23:01:36Z",
+  "updated_utc": "2026-11-28T00:07:21Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T000719Z_go-to-market",
+      "timestamp_utc": "2026-11-28T00:07:19Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/215",
+      "detail": "branch=docs/kan120-mark-sync-scripts-deprecated changes=4"
+    },
     {
       "id": "repo_access_20261127T230134Z_truesight-autopilot",
       "timestamp_utc": "2026-11-27T23:01:34Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1913 method=squash"
-    },
-    {
-      "id": "repo_access_20261125T000857Z_truesight-autopilot",
-      "timestamp_utc": "2026-11-25T00:08:57Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/632",
-      "detail": "branch=feat/jira-loop-supervisor changes=3"
     }
   ]
 }
