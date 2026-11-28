@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T18:20:29Z",
+  "updated_utc": "2026-11-28T18:39:47Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T183945Z_github",
+      "timestamp_utc": "2026-11-28T18:39:45Z",
+      "agent": "sophia",
+      "repo": ".github",
+      "action": "upload_file_to_github",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/assets/2026-11-28_contribution_record_rodney_Edgar_20261128183432_3970.pdf",
+      "detail": "path=assets/2026-11-28_contribution_record_rodney_Edgar_20261128183432_3970.pdf branch=main"
+    },
     {
       "id": "repo_access_20261128T182027Z_github",
       "timestamp_utc": "2026-11-28T18:20:27Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=645 method=squash"
-    },
-    {
-      "id": "repo_access_20261125T145543Z_truesight-autopilot",
-      "timestamp_utc": "2026-11-25T14:55:43Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/645",
-      "detail": "branch=fix/jira-pr-evidence-from-comments changes=2"
     }
   ]
 }
