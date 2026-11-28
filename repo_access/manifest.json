@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T09:38:22Z",
+  "updated_utc": "2026-11-28T09:40:43Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T094042Z_tokenomics",
+      "timestamp_utc": "2026-11-28T09:40:42Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=647 method=squash"
+    },
     {
       "id": "repo_access_20261128T093821Z_truesight-autopilot",
       "timestamp_utc": "2026-11-28T09:38:21Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1908",
       "detail": "branch=fix/pod-runbook-logo-fields changes=10"
-    },
-    {
-      "id": "repo_access_20261125T124201Z_farm-media-manifests",
-      "timestamp_utc": "2026-11-25T12:42:01Z",
-      "agent": "sophia",
-      "repo": "farm_media_manifests",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/crf-anapu-para.json",
-      "detail": "path=crf-anapu-para.json branch=main"
     }
   ]
 }
