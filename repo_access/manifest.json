@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T02:31:47Z",
+  "updated_utc": "2026-11-28T02:31:58Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T023156Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-28T02:31:56Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1958 method=squash"
+    },
     {
       "id": "repo_access_20261128T023145Z_agentic-ai-context",
       "timestamp_utc": "2026-11-28T02:31:45Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1902",
       "detail": "branch=followup/liz-governor-role-confirmed changes=1"
-    },
-    {
-      "id": "repo_access_20261125T003147Z_truesight-autopilot",
-      "timestamp_utc": "2026-11-25T00:31:47Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=632 method=squash"
     }
   ]
 }
