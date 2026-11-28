@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T18:40:04Z",
+  "updated_utc": "2026-11-28T18:45:03Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T184501Z_farm-media-daemon",
+      "timestamp_utc": "2026-11-28T18:45:01Z",
+      "agent": "sophia",
+      "repo": "farm-media-daemon",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=44 method=squash"
+    },
     {
       "id": "repo_access_20261128T184002Z_go-to-market",
       "timestamp_utc": "2026-11-28T18:40:02Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=646 method=squash"
-    },
-    {
-      "id": "repo_access_20261125T152323Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-25T15:23:23Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1914",
-      "detail": "branch=docs/intraturn-unit4-soak-evidence changes=2"
     }
   ]
 }
