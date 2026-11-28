@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T17:03:45Z",
+  "updated_utc": "2026-11-28T17:38:17Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T173815Z_go-to-market",
+      "timestamp_utc": "2026-11-28T17:38:15Z",
+      "agent": "sophia",
+      "repo": "go_to_market",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/go_to_market/pull/218",
+      "detail": "branch=chore/kan120-delete-content-sync changes=16"
+    },
     {
       "id": "repo_access_20261128T170343Z_truesight-autopilot",
       "timestamp_utc": "2026-11-28T17:03:43Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=1913 method=squash"
-    },
-    {
-      "id": "repo_access_20261125T143241Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-25T14:32:41Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1913",
-      "detail": "branch=docs/open-followups-unversioned-farm-media-daemon changes=1"
     }
   ]
 }
