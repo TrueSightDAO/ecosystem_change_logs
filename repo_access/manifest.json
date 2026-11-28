@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T10:47:20Z",
+  "updated_utc": "2026-11-28T11:07:34Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T110732Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-28T11:07:32Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1965",
+      "detail": "branch=docs/kan113-estate-oscar changes=2"
+    },
     {
       "id": "repo_access_20261128T104719Z_truesight-autopilot",
       "timestamp_utc": "2026-11-28T10:47:19Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/crf-anapu-para.json",
       "detail": "path=crf-anapu-para.json branch=main"
-    },
-    {
-      "id": "repo_access_20261125T133711Z_truesight-autopilot",
-      "timestamp_utc": "2026-11-25T13:37:11Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=639 method=squash"
     }
   ]
 }
