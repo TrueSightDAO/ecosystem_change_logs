@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T11:09:05Z",
+  "updated_utc": "2026-11-28T12:18:19Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T121817Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-28T12:18:17Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1963 method=squash"
+    },
     {
       "id": "repo_access_20261128T110904Z_truesight-autopilot",
       "timestamp_utc": "2026-11-28T11:09:04Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1910",
       "detail": "branch=docs/gotde-pod-api-report-bilingual changes=2"
-    },
-    {
-      "id": "repo_access_20261125T135135Z_farm-media-manifests",
-      "timestamp_utc": "2026-11-25T13:51:35Z",
-      "agent": "sophia",
-      "repo": "farm_media_manifests",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm_media_manifests/blob/main/fazenda-sao-jorge-bahia.json",
-      "detail": "path=fazenda-sao-jorge-bahia.json branch=main"
     }
   ]
 }
