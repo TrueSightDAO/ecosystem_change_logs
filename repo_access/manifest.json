@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T14:30:56Z",
+  "updated_utc": "2026-11-28T14:34:43Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T143441Z_truesight-autopilot",
+      "timestamp_utc": "2026-11-28T14:34:41Z",
+      "agent": "sophia",
+      "repo": "truesight_autopilot",
+      "action": "merge_pr",
+      "result": "failure",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=687 method=squash"
+    },
     {
       "id": "repo_access_20261128T143054Z_agentic-ai-context",
       "timestamp_utc": "2026-11-28T14:30:54Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=41 method=squash"
-    },
-    {
-      "id": "repo_access_20261125T135514Z_farm-media-daemon",
-      "timestamp_utc": "2026-11-25T13:55:14Z",
-      "agent": "sophia",
-      "repo": "farm-media-daemon",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/farm-media-daemon/pull/41",
-      "detail": "branch=fix/manifest-transcription-mapping changes=3"
     }
   ]
 }
