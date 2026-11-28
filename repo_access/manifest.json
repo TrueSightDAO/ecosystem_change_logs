@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T09:14:05Z",
+  "updated_utc": "2026-11-28T09:14:16Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T091414Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-28T09:14:14Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "merge_pr",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "",
+      "detail": "pr=1961 method=squash"
+    },
     {
       "id": "repo_access_20261128T091403Z_agentic-ai-context",
       "timestamp_utc": "2026-11-28T09:14:03Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1906",
       "detail": "branch=docs/black-king-booking-state-audit changes=3"
-    },
-    {
-      "id": "repo_access_20261125T105819Z_github",
-      "timestamp_utc": "2026-11-25T10:58:19Z",
-      "agent": "sophia",
-      "repo": ".github",
-      "action": "upload_file_to_github",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/.github/blob/main/attachments/2026-11-25_cacao_drink_mug_evaluation.pdf",
-      "detail": "path=attachments/2026-11-25_cacao_drink_mug_evaluation.pdf branch=main"
     }
   ]
 }
