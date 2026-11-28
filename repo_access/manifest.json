@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T09:18:42Z",
+  "updated_utc": "2026-11-28T09:26:35Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T092633Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-28T09:26:33Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1962",
+      "detail": "branch=followups/qr-bundle-ocr-deploy-audit changes=1"
+    },
     {
       "id": "repo_access_20261128T091840Z_tokenomics",
       "timestamp_utc": "2026-11-28T09:18:40Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1907",
       "detail": "branch=docs/black-king-audit-corrections changes=2"
-    },
-    {
-      "id": "repo_access_20261125T112046Z_agentic-ai-context",
-      "timestamp_utc": "2026-11-25T11:20:46Z",
-      "agent": "sophia",
-      "repo": "agentic_ai_context",
-      "action": "merge_pr",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "",
-      "detail": "pr=1906 method=squash"
     }
   ]
 }
