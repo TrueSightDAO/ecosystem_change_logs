@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T10:37:27Z",
+  "updated_utc": "2026-11-28T10:38:03Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T103801Z_agentic-ai-context",
+      "timestamp_utc": "2026-11-28T10:38:01Z",
+      "agent": "sophia",
+      "repo": "agentic_ai_context",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/agentic_ai_context/pull/1963",
+      "detail": "branch=docs/kan113-single-sku-and-gtin-route changes=7"
+    },
     {
       "id": "repo_access_20261128T103725Z_truesight-autopilot",
       "timestamp_utc": "2026-11-28T10:37:25Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "",
       "detail": "pr=640 method=squash"
-    },
-    {
-      "id": "repo_access_20261125T131317Z_truesight-autopilot",
-      "timestamp_utc": "2026-11-25T13:13:17Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/640",
-      "detail": "branch=fix/jira-pr-evidence-dev-status changes=3"
     }
   ]
 }
