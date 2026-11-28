@@ -1,7 +1,18 @@
 {
   "total": 201,
-  "updated_utc": "2026-11-28T09:02:35Z",
+  "updated_utc": "2026-11-28T09:04:18Z",
   "entries": [
+    {
+      "id": "repo_access_20261128T090416Z_tokenomics",
+      "timestamp_utc": "2026-11-28T09:04:16Z",
+      "agent": "sophia",
+      "repo": "tokenomics",
+      "action": "git_push_changes",
+      "result": "success",
+      "mode": "default-allow",
+      "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/645",
+      "detail": "branch=fix/qr-booked-guard-requires-amount changes=1"
+    },
     {
       "id": "repo_access_20261128T090233Z_tokenomics",
       "timestamp_utc": "2026-11-28T09:02:33Z",
@@ -2190,17 +2201,6 @@
       "mode": "default-allow",
       "evidence_url": "https://github.com/TrueSightDAO/tokenomics/pull/630",
       "detail": "branch=docs/schema-contributors-jira-id changes=3"
-    },
-    {
-      "id": "repo_access_20261125T055235Z_truesight-autopilot",
-      "timestamp_utc": "2026-11-25T05:52:35Z",
-      "agent": "sophia",
-      "repo": "truesight_autopilot",
-      "action": "git_push_changes",
-      "result": "success",
-      "mode": "default-allow",
-      "evidence_url": "https://github.com/TrueSightDAO/truesight_autopilot/pull/636",
-      "detail": "branch=feat/reel-factory-derived-captions changes=2"
     }
   ]
 }
